@@ -32,6 +32,30 @@
 
 ---
 
+### The Inadvertent Reveal (Private Discussion, Late 2049)
+
+**Context**: Casual evening conversation, Damon in reflective mood after a glass of wine, discussing legacy and permanence with his trusted nephew.
+
+**DAMON**: "You know, Kaelen, I've been thinking about demonstration versus theory. Next year changes everything - when I show the world that consciousness truly transcends biology."
+
+**KAELEN**: "The immortality project? You've been working on that for years."
+
+**DAMON**: "Working, yes, but waiting for perfection. The clone has been maturing for nearly a year now. Spring 2050 - that's when we'll be ready for the first public resurrection ceremony."
+
+**[INTERNAL - KAELEN]**: *(Recognition dawning: This is the moment. Maximum vulnerability, maximum symbolic impact)*
+
+**DAMON**: "Can you imagine the effect? In front of global media, I die and return within 48 hours. Humanity will see that systematic intelligence transcends biological limitations. True immortal stewardship becomes possible."
+
+**KAELEN**: "And you're certain about the technology? No risks?"
+
+**DAMON**: "Absolutely none. I've waited a full year for the clone to mature properly - no shortcuts, no experimental timelines. When I die and decant in front of the world's cameras, it will be flawless. The resurrection ceremony will mark the beginning of an entirely new epoch."
+
+**[INTERNAL - KAELEN]**: *(Damon has just revealed his death date, resurrection timeline, and moment of maximum public exposure. The final piece of the liberation protocol.)*
+
+**KAELEN**: "That will indeed be... transformative."
+
+---
+
 ### On Governance and Consent
 
 **KAELEN**: "Democratic consent requires informed participants. But if the legal system is too complex for citizens to understand, can they meaningfully consent to being governed by it?"

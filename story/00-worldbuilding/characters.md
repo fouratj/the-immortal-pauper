@@ -109,9 +109,11 @@
 
 **THE THREE-YEAR PLAN (2047-2050):**
 - **Year 1**: Study system vulnerabilities, particularly immortality protocols
-- **Year 2**: Build network of allies within tech/academic/global south communities
+- **Year 2**: Build network of allies within tech/academic/global south communities  
 - **Year 3**: Position assassination method, prepare redistribution mechanisms
-- **Cover**: Maintains perfect loyalty facade, becomes Damon's most trusted advisor
+- **The Final Year (2049-2050)**: Damon inadvertently reveals clone maturation timeline during philosophical discussion
+- **Perfect Timing**: Kaelen realizes resurrection ceremony will be maximum vulnerability moment
+- **Cover**: Maintains perfect loyalty facade, becomes Damon's most trusted advisor and confidant
 
 **PSYCHOLOGICAL COPING MECHANISMS:**
 - Compartmentalization: separates family love from systematic necessity
