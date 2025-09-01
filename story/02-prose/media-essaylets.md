@@ -45,7 +45,7 @@ The transfers appear legal, flowing through Damon Korr's estate according to sma
 
 Most disturbing for market analysts: the economy is stabilizing at higher productivity levels. Eliminating rent-seeking appears to be unleashing rather than constraining economic activity.
 
-'If this is what Damon Korr's death makes possible,' asks economic blogger Chen Wei, 'was his life was the real constraint on human prosperity?'"
+'If this is what Damon Korr's death makes possible,' asks economic blogger Chen Wei, 'was his life the real constraint on human prosperity?'"
 
 ---
 
@@ -100,13 +100,13 @@ As economic data continues showing unprecedented improvements in global welfare,
 
 "The Damon Korr resurrection presents unprecedented questions for digital inheritance law, questions that may reshape how we understand identity, death, and legal continuity in the algorithmic age.
 
-The legal logic is bulletproof: biological death triggers estate execution, assets transfer to heirs, legal identity terminates permanently. Revival creates a new biological entity with no claim to the deceased's relationships, property, or obligations.
+The legal logic is bulletproof: biological death triggers estate execution, assets transfer to heirs, legal identity terminates permanently, but as we now know, temporarily. Revival creates a new biological entity with no claim to the deceased's relationships, property, or obligations.[TODO update this logic, this is not true. Revival restores his cryptographic identity and the system reassets ownership back to the revived person? Let's iron out this detail, because it can go either way]
 
 'From a legal standpoint, the revived person is essentially a twin of the deceased, not the continuation of the same individual,' explains constitutional lawyer Dr. Rebecca Torres. 'Our legal system has never contemplated temporary death, only permanent death followed by estate settlement.'
 
 But the ethical implications trouble legal philosophers. If consciousness transfer preserves memory, personality, and psychological continuity, is the revived person truly 'new'? If not, does the inheritance system effectively steal their identity?
 
-Professor Michael Chen of the Digital Rights Institute calls it 'systematic identity theft enabled by edge case exploitation': 'Someone discovered that resurrection technology creates a loophole where legal death enables asset seizure from the same person's revival.'
+Professor Michael Chen of the Digital Rights Institute calls it 'systematic identity theft enabled by edge case exploitation': 'Someone discovered that resurrection technology creates a loophole where legal death enables asset seizure and when the person is revived, they return with nothing. Murder was not committed, but was essential to the crime'
 
 The broader question transcends individual inheritance: if algorithmic governance cannot adapt to unprecedented situations, how can it handle an unpredictable future?
 
