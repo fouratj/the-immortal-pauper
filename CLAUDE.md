@@ -16,6 +16,12 @@ Collaboration & Development Rules
     •    Ensure cause-and-effect logic governs characters, technologies, and world events.
     •    Explore unintended consequences, second-order effects, and systemic collapse points.
 
+    4.    Comment System for Drafts
+    •    Use HTML comment format for inline feedback: <!-- comment contents here -->
+    •    Comments can be placed anywhere in the text for specific revisions
+    •    When reading files, scan for and address all comments systematically
+    •    Remove comments after addressing the feedback they contain
+
 ⸻
 
 Neal Stephenson Style Rules

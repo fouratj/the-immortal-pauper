@@ -11,8 +11,10 @@ How the Intelligent Internet's adoption created two dramatically different outco
 ### **Early Adopter Success Pattern**
 - **Target Countries**: US, EU, Nordic countries, Canada, Australia, New Zealand
 - **Gradual Integration**: 5-year negotiated transition with democratic input on algorithm design
+- **Patent System Integration**: Patent Extension Act of 2041 - extends protection from 20 to 50 years as "innovation incentive"
+- **Elite Preparation**: Ultra-wealthy purchase patent portfolios before implementation, positioning for algorithmic rent extraction
 - **Constitutional Safeguards**: Algorithmic governance subject to courts, rights protections, citizen oversight
-- **Economic Results**: 25-40% GDP growth, genuine meritocracy, broad-based prosperity
+- **Economic Results**: 25-40% GDP growth, genuine meritocracy, broad-based prosperity (despite hidden patent rent extraction)
 
 ### **Why Democratic Implementation Worked**
 - **Strong Institutions**: Existing democratic norms prevented algorithmic authoritarianism
@@ -68,7 +70,15 @@ How the Intelligent Internet's adoption created two dramatically different outco
 - **No Economic Exit**: Traditional "simple living" impossible in PoB-dominated economy
 - **Psychological Management**: Citizens self-regulate behavior to optimize algorithmic assessment
 
+### **The Patent Lock-In Trap (Pre-Liberation)**
+- **Legislative Capture**: Patent Extension Act of 2041 sold as "innovation incentive" during II transition
+- **Elite Buying Spree**: Ultra-wealthy acquire medical, agricultural, software, and manufacturing patent portfolios
+- **Algorithmic Legitimacy**: PoB system treats patent royalties as "innovation contributions" deserving reward
+- **Hidden Rent Extraction**: Essential resources artificially scarce due to patent monopolies
+- **Democratic Blindness**: Citizens see successful "innovators" receiving algorithmic rewards, not rent-seekers
+
 ### **Post-Liberation Democratic Freedom**
+- **Patent Commons Liberation**: 50-year patent monopolies dissolved, moved to commons licensing
 - **Lifestyle Diversity**: Algorithm recognizes both high-achievement and intentional simplicity as valid paths
 - **Simple Living Economics**: Community care, subsistence farming, artistic practice provide economic security
 - **Privacy Boundaries**: Personal life excluded from algorithmic assessment - work contributions only
