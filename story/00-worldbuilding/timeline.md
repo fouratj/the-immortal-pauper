@@ -22,37 +22,42 @@
 
 ## The Blockchain Hegemony (2035-2045)
 
-### 2035-2040: Consolidation
-- Damon's protocols become global standard
-- Universal property registry established
-- Smart contracts govern 80% of commercial activity
-- **The Trap**: All systems route through Damon-controlled infrastructure
+### 2035-2040: Consolidation & Democratic Success
+- Damon's protocols become standard in early adopter democracies
+- Universal property registry established in tech-forward nations
+- Smart contracts govern 80% of commercial activity in adopter countries
+- **Democratic Implementation**: Gradual adoption with constitutional safeguards
+- **The Trap**: All systems route through Damon-controlled infrastructure, but democratically approved
 
-### 2040-2042: The Rent-Seeking Architecture
-- Micro-fees on every transaction
-- Licensing requirements for contract modifications
-- Patent locks on core governance protocols
-- **Public Perception**: Small price for perfect law
+### 2040-2045: Democratic Prosperity & Rent-Seeking Architecture
+- **Phase 1 Success**: Small democracies (Estonia, Singapore, Switzerland) achieve unprecedented prosperity
+- Micro-fees on every transaction, but democratically approved as "foundational contribution recognition"
+- Patent locks on core governance protocols, legitimized through democratic process
+- **Economic Pressure Builds**: Non-adopters face capital flight, brain drain, trade disadvantages
+- **Public Perception**: Small price for perfect law and genuine abundance
 
-### 2043-2045: Peak Damon
+### 2043-2045: Peak Damon & Global Pressure
 - Controls ~40% of global economic activity through passive ownership
-- Hailed as architect of post-scarcity economics
+- Hailed as architect of post-scarcity economics in democratic adopter nations
+- **Economic Coercion Begins**: Authoritarian regimes forced to choose adoption or irrelevance
 - Announces immortality project as "next step in human governance"
-- **Kaelen's Position**: Heir apparent and trusted lieutenant
+- **Kaelen's Position**: Heir apparent and trusted lieutenant, but witnessing global inequality firsthand
 
 ## The Immortality Race (2045-2050)
 
-### 2045-2047: Technical Development
-- Consciousness scanning achieves 99.7% fidelity
-- Revival success rate reaches 94% in animal trials
-- Legal framework established for digital persons
-- **Smart Wills**: Death triggers become algorithmic
+### 2045-2047: Technical Development & Rushed Global Adoption
+- **Consciousness Technology**: Scanning achieves 99.7% fidelity, 94% revival success in trials
+- **Legal Framework**: Digital personhood established for immortality protocols
+- **Smart Wills & Heir Requirements**: Death triggers become algorithmic, mandatory heir designation to prevent government seizure
+- **Phase 2 Economic Coercion**: Authoritarian regimes forced into rapid adoption without democratic safeguards
+- **Elite Capture Wave**: Late adopters implement with existing power structures encoding themselves as "foundational contributors"
 
-### 2048-2049: Political Preparation
-- Global referendum approves immortality trials
-- Damon volunteers as first human subject
-- Media circus: "The First Immortal"
-- **Kaelen's Preparation**: Maps system vulnerabilities, recruits allies
+### 2048-2049: Political Preparation & Kaelen's Awakening
+- **Global Implementation Crisis**: Same system creating abundance in democracies enables oppression in authoritarian contexts
+- **Kaelen's Travels**: Witnesses algorithmic authoritarianism firsthand in late-adopter countries
+- **The Ideological Split**: Confronts Damon about global inequality, gets dismissed as "implementation details"
+- **Damon's Blindness**: Cannot see systematic oppression due to democratic success bias
+- **Kaelen's Decision**: Only way to liberate oppressed populations is to democratize algorithmic attribution globally
 
 ### 2050: The Year of the Coup
 
@@ -69,16 +74,17 @@
 - **Immediate**: Global shock, markets freeze, conspiracy theories explode
 
 #### June 15-17: The 48-Hour Window
-- **Medical**: Resurrection procedure begins
-- **Legal**: Death certificate issued, inheritance legally confirmed  
-- **Economic**: Asset transfers complete automatically
-- **Kaelen's Moves**: Silent redistribution begins
+- **Immediate (0.3 seconds)**: Smart will executes, inheritance transfers to Kaelen
+- **Hours 1-4**: Kaelen maps and accesses all inherited assets using years of preparation
+- **Hours 4-24**: Systematic redistribution begins - patents moved to commons, assets redistributed
+- **Hours 24-48**: Global cascade effects as artificial scarcity collapses, abundance emerges
+- **Medical Parallel**: Resurrection procedure prepared, consciousness stored, clone maturation
 
-#### June 17: The Awakening
-- **2:31 PM GMT**: Damon's consciousness restored
+#### June 17: The Awakening (48 hours post-death)
+- **2:31 PM GMT**: Damon's consciousness restored to new clone body
 - **2:45 PM GMT**: Damon attempts account access - DENIED
 - **3:00 PM GMT**: Legal status: "New person, no inheritance claims"
-- **Reality**: Perfectly dispossessed by his own perfect system
+- **Reality**: Perfectly dispossessed by his own perfect inheritance system
 
 ## Post-Coup Era (June 2050 - Present)
 

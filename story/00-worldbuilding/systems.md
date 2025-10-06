@@ -336,11 +336,20 @@
 - Perfect system working perfectly, just not for its creator
 
 ### Smart Will Execution: Irrevocable Asset Cascade
+
+**THE HEIR REQUIREMENT VULNERABILITY:**
+- Blockchain society mandates all individuals designate heirs to prevent government asset seizure
+- Smart contracts built into the system enable low-trust/no-trust business transactions
+- Damon opposes government seizure but wants to be immortal (no need for heirs)
+- **Fatal Paradox**: Must designate Kaelen as heir to prevent state confiscation, but doesn't want inheritance to occur
+- This heir requirement becomes Kaelen's sole attack vector against the system
+
 **TRIGGER MECHANISM:**
 - Executes 0.3 seconds after death consensus achieved
 - No human intervention possible once blockchain consensus locked
-- Asset transfers begin immediately in parallel across all global networks
-- Complete redistribution within 6 hours maximum
+- Asset transfers begin immediately upon heir accessing the smart contracts
+- **48-Hour Window**: Kaelen has from death until resurrection to execute complete redistribution
+- Requires years of prior preparation mapping all of Damon's asset locations
 
 **IMMUTABILITY ENFORCEMENT:**
 - Blockchain consensus makes reversal cryptographically impossible
@@ -350,8 +359,8 @@
 
 **STEPHENSON-WORTHY IRONY:**
 - Damon built system to be perfectly just and incorruptible
-- System justly and incorruptibly dispossesses its creator
-- The more perfect the system, the more perfectly trapped he becomes
+- System justly and incorruptibly dispossesses its creator through his own inheritance requirements
+- The more perfect the system, the more perfectly trapped he becomes by its mandatory heir provision
 
 ## The 48-Hour Window
 

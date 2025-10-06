@@ -124,9 +124,9 @@
 - **The Revolutionary Insight**: Must kill the Facebook moment - force system evolution beyond implementation bias
 
 **THE THREE-YEAR PLAN (2047-2050):**
-- **Year 1**: Study system vulnerabilities, particularly immortality protocols
-- **Year 2**: Build network of allies within tech/academic/global south communities  
-- **Year 3**: Position assassination method, prepare redistribution mechanisms
+- **Year 1**: Study system vulnerabilities, discover heir requirement as only attack vector
+- **Year 2**: Build network of allies within tech/academic/global south communities
+- **Year 3**: Map all of Damon's asset locations, prepare redistribution mechanisms, position assassination method
 
 **Intelligence Gathering Methods:**
 - **Public Financial Analysis**: Tracking Damon's BioGenesis investments through blockchain transparency
@@ -154,11 +154,12 @@
 - Cannot allow personal feelings to override utilitarian calculus
 - **Living with Betrayal**: Prices paid for systematic transformation
 
-### Key Capability: The Long Game
-- Studied Damon's system for vulnerabilities
-- Positioned himself as natural successor
-- Prepared the technical infrastructure for instant redistribution
-- Anticipated every defensive move Damon might have made
+### Key Capability: The Long Game & The Heir Requirement Exploit
+- **Discovered the Only Vulnerability**: Blockchain society's mandatory heir requirement to prevent government asset seizure
+- **Damon's Paradox**: Must designate heir (Kaelen) to prevent state confiscation, but wants to be immortal (no inheritance needed)
+- **Years of Asset Mapping**: Systematically catalogued all of Damon's holdings for rapid redistribution within 48-hour window
+- **Perfect Legal Position**: Inherits everything automatically upon death through smart contract inheritance protocols
+- **Technical Infrastructure**: Prepared redistribution mechanisms that activate immediately upon accessing inherited assets
 
 ## The Invisible Network (Kaelen's Allies)
 
