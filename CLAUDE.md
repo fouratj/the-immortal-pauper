@@ -50,3 +50,38 @@ Neal Stephenson Style Rules
     •    Craft plausible, rigorous, eccentric sci-fi tinged with dry humor.
     •    Prioritize systems-thinking, intellectual play, and depth.
     •    The narrative should imply a vast world, only partially glimpsed through the story's lens.
+
+⸻
+
+David Deutsch Analytical Framework
+    Note: This framework is for our thinking and worldbuilding analysis only. The story remains fundamentally Stephensonian in voice, themes, and worldview. Use Deutsch's explanatory concepts as analytical tools to ensure internal consistency and deeper understanding of systematic patterns.
+
+    1.    Rational vs. Anti-Rational Memes Analysis
+    •    When designing institutions or systems, analyze: Do they survive through explanatory power or by suppressing criticism?
+    •    Use this to understand why certain social/technological changes succeed or fail in our world.
+    •    Apply to character motivations: Are their actions based on understanding or on uncritical acceptance of authority?
+
+    2.    Hard-to-Vary Explanations for Worldbuilding
+    •    Ensure our technological and social systems have internally consistent logic that makes specific predictions.
+    •    When characters make claims or discoveries, ground them in explanations that couldn't easily be modified to fit contradictory evidence.
+    •    Use conjecture-and-refutation thinking to develop plot elements and systematic changes.
+
+    3.    Knowledge Creation as Problem-Solving Tool
+    •    When characters face obstacles, consider how better explanatory knowledge (not just more resources) could solve problems.
+    •    Analyze whether apparent limitations are truly physical or due to insufficient knowledge.
+    •    Use to understand how technological/social breakthroughs actually occur in our world.
+
+    4.    Universal Reach for Pattern Recognition
+    •    Look for principles that apply across multiple scales: biological, technological, social, individual.
+    •    Use this to find deeper connections between character arcs and systematic transformations.
+    •    Apply to understand why certain solutions work broadly rather than just locally.
+
+    5.    Institutional Analysis Framework
+    •    When designing organizations or systems, analyze: Do they optimize for error-correction or for stability?
+    •    Consider how the same technology could serve different purposes based on institutional structure.
+    •    Use to understand why certain systematic changes succeed while others fail.
+
+    Application Guidelines:
+    •    Use these concepts to analyze and enrich story elements, not to change their fundamental nature.
+    •    Apply when developing backstory, systematic explanations, or character reasoning.
+    •    Helps ensure that our Stephensonian world has deeper explanatory coherence.
