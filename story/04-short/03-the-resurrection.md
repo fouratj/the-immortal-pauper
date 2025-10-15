@@ -107,7 +107,7 @@ A silence fell across the gallery as the implications began to register. Damon's
 
 Director Harrison consulted his tablet, his expression increasingly grim. "Patent markets collapsed completely. Several pharmaceutical companies announced commons licensing programs voluntarily, apparently anticipating regulatory changes. Housing costs dropped seventeen percent in major metropolitan areas—real estate trusts appear to have been dissolved somehow. There's been significant social discussion about economic inequality and artificial scarcity. Most concerning, there are reports of systematic asset redistributions that appear to have originated from... your estate accounts."
 
-"Show me the sentiment analysis," Damon interrupted. "The II welfare algorithms. What did collective human sentiment do during those forty-eight hours?"
+"Show me the sentiment analysis," Damon interrupted. "The II welfare algorithms. How did sentiment change during those forty-eight hours?"
 
 Harrison hesitated, fingers hovering over his tablet. "Sir, I'm not sure that data is—"
 
@@ -115,7 +115,7 @@ Harrison hesitated, fingers hovering over his tablet. "Sir, I'm not sure that da
 
 Harrison's tablet displayed the graph. For a moment, no one in the gallery moved.
 
-The Intelligent Internet's global sentiment analysis—the algorithmic system Damon had designed to measure collective human welfare—showed a massive positive spike beginning at 7:31 PM on April 18th. The moment of his death. The line climbed steadily for forty-eight hours, reaching the highest sustained positive sentiment in recorded history. Then, at 8:15 AM on April 20th, it dropped sharply. The moment of his resurrection.
+The Intelligent Internet's global sentiment analysis—the algorithmic system Damon had designed to measure collective human welfare—showed a massive positive spike beginning at 7:33 PM on April 18th. Two mins after his death. The line climbed steadily for forty-eight hours, reaching the highest sustained positive sentiment in recorded history. Then, at 8:15 AM on April 20th [Add x minutes ago], it dropped sharply. The moment of his resurrection.
 
 The machine he had built to optimize human welfare had mathematically proven that humanity was happier when he was dead.
 
