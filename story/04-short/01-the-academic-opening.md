@@ -6,9 +6,19 @@
 
 ---
 
-Ten years have passed since the Kaelen Event—the forty-eight hours that ended artificial scarcity, collapsed the global patent system, and redistributed a trillionaire's wealth across four billion humans. The identity behind that name remains one of history's most protected secrets, which tells you something about systematic vulnerability: the person capable of transforming civilization is also capable of disappearing completely.
+Ten years have passed since the Kaelen Event. I've spent the last three trying to understand what actually happened during those forty-eight hours.
 
-I am Dr. Elena Vasquez, and I have spent the last three years collecting firsthand accounts from those who lived through the transformation—survivors, witnesses, beneficiaries, and victims of what economists now call the Great Liberation. Some spoke to me willingly. Others required considerable persuasion. One insisted on complete anonymity, their identity so sensitive that even I don't know their true name. What you're about to hear isn't definitive history—that may be impossible—but something more valuable: testimony to the moment when artificial scarcity died and the species began to optimize for abundance rather than competition over manufactured shortage.
+The official narrative—smooth transition from extraction to abundance, celebrated transformation, universally beneficial outcome—doesn't match the fragmentary evidence I've found. The blockchain's immutable records show massive systematic changes executed with impossible precision. The testimonies I've collected suggest something more complicated: a transformation that succeeded despite catastrophic risks, engineered by someone who vanished so completely that I'm no longer certain they survived their own revolution.
+
+I am Dr. Elena Vasquez, Professor of Economic History at Universidad Complutense Madrid. For three years, I've been collecting firsthand accounts from those who lived through the transformation—survivors, witnesses, beneficiaries, casualties. Some spoke willingly. Others required considerable persuasion. One insisted on complete anonymity, their identity so sensitive that even I don't know their true name.
+
+What follows is my attempt to reconstruct the sequence of events that transformed human civilization. Some of these testimonies contradict each other. Some remain impossible to verify. The computational forensics are staggering—someone spent 86.3 gigawatt-hours of processing power analyzing 2.7 billion legal documents across 193 jurisdictions. The intellectual work alone cost $2.3 billion. Who funded it? How was it justified? Why didn't anyone notice until it was too late?
+
+The identity behind "Kaelen" remains one of history's most protected secrets. The Intelligent Internet—which tracks every transaction, every movement, every digital trace—returns null results for every query. Someone with comprehensive knowledge of the most sophisticated surveillance infrastructure in human history has made themselves unfindable.
+
+Perhaps that was always the point.
+
+What you're about to hear isn't definitive history—that may be impossible. But it's testimony to something that shouldn't have been possible: forty-eight hours that restructured global capitalism, executed during a window that technically shouldn't exist, by someone who understood our systems better than the people who built them.
 
 The world today bears little resemblance to 2050. Medicine costs what it costs to manufacture—which is to say, nearly nothing. A course of antibiotics that once required a mother's monthly salary now costs less than the plastic bottle containing it. Housing prices reflect construction and materials, little more. A carpenter can afford the home she builds; a teacher can buy an apartment within walking distance of her school.
 
