@@ -12,15 +12,15 @@ The official narrative—smooth transition from extraction to abundance, celebra
 
 I am Dr. Elena Vasquez, Professor of Economic History at Universidad Complutense Madrid. For three years, I've been collecting firsthand accounts from those who lived through the transformation—survivors, witnesses, beneficiaries, casualties. Some spoke willingly. Others required considerable persuasion. One insisted on complete anonymity, their identity so sensitive that even I don't know their true name.
 
-What follows is my attempt to reconstruct the sequence of events that transformed human civilization. Some of these testimonies contradict each other. Some remain impossible to verify. The computational forensics are staggering—someone spent 86.3 gigawatt-hours of processing power analyzing 2.7 billion legal documents across 193 jurisdictions. The intellectual work alone cost $2.3 billion. Who funded it? How was it justified? Why didn't anyone notice until it was too late?
+What follows is my attempt to reconstruct the sequence of events that transformed human civilization. Some of these testimonies contradict each other. Some remain impossible to verify. The computational forensics are staggering—someone spent 86.3 gigawatt-hours of processing power analyzing 2.7 billion legal documents across 193 jurisdictions. The intellectual work alone cost $2.3 billion. How was it justified? Why didn't anyone notice until it was too late?
 
-The identity behind "Kaelen" remains one of history's most protected secrets. The Intelligent Internet—which tracks every transaction, every movement, every digital trace—returns null results for every query. Someone with comprehensive knowledge of the most sophisticated surveillance infrastructure in human history has made themselves unfindable.
+The identity behind "Kaelen" became one of history's most protected secrets. The Intelligent Internet—which tracks every transaction, every movement, every digital trace—returns null results for every query. Someone with comprehensive knowledge of the most sophisticated surveillance infrastructure in human history has made themselves unfindable.
 
 Perhaps that was always the point.
 
 What you're about to hear isn't definitive history—that may be impossible. But it's testimony to something that shouldn't have been possible: forty-eight hours that restructured global capitalism, executed during a window that technically shouldn't exist, by someone who understood our systems better than the people who built them.
 
-The world today bears little resemblance to 2050. Medicine costs what it costs to manufacture—which is to say, nearly nothing. A course of antibiotics that once required a mother's monthly salary now costs less than the plastic bottle containing it. Housing prices reflect construction and materials, little more. A carpenter can afford the home she builds; a teacher can buy an apartment within walking distance of her school.
+The world today bears little resemblance to 2050. Medicine costs what it costs to manufacture—which is to say, nearly nothing. A course of antibiotics that once may have required a mother's monthly salary now costs less than the plastic bottle containing it. Housing prices reflect construction and materials, little more. A carpenter can afford the home he builds; a teacher can buy an apartment within walking distance of her school.
 
 Knowledge flows freely, unencumbered by artificial monopolies. Patent thickets that once required armies of AI-augmented lawyers to navigate have been dissolved into commons databases where genetic sequences, chemical formulations, and manufacturing processes are shared like recipes in a community cookbook. The care work that sustains civilization—raising children, tending the elderly, maintaining communities—is finally recognized and rewarded by algorithmic systems that measure genuine contribution rather than rent extraction. A grandmother caring for three families' worth of children receives compensation equivalent to a financial engineer in the pre-Kaelen world, because the algorithms were allowed to count what actually matters.
 
@@ -68,16 +68,12 @@ This was the world Damon Korr ruled on April 18th, 2050: genuinely prosperous, s
 
 What no one understood—not Damon, not his systems, not the four billion humans who watched his immortality announcement—was that someone had been preparing to use that perfect machine against its creator.
 
-What follows are fragments from the archive—incomplete accounts of complete transformation. I present them not as definitive history but as human testimony to the moment when artificial scarcity died and the species began to optimize for abundance rather than competition over manufactured shortage. The day that capitalism became technological socialism.
+What follows is my reconstruction of those events—not beginning with the public ceremony that four billion humans witnessed, but with the private moment three years earlier when one person discovered how to transform civilization. The ceremony was spectacle. The discovery was the story.
 
-The first document comes not from an interview but from archived footage, reconstructed from security cameras, official transcripts, and witness accounts. It captures the apex of human technological achievement: the moment Damon Korr became the first person in history to conquer death itself.
+I've arranged this chronologically because that's the only way the transformation makes sense. You need to understand Kaelen's three-year journey—the discovery, the investigation, the moral weight, the preparation—before you can comprehend what happened during those forty-eight hours. The Event wasn't spontaneous. It was systematically engineered by someone who understood that complex systems contain the seeds of their own transformation.
 
-It was also, as we now know, the moment his nephew chose to kill him.
+The first document is reconstructed from encrypted file fragments, computational forensics, and testimonies from those who knew Kaelen before the disappearance. Where direct evidence exists, I cite it. Where inference is necessary, I acknowledge it. The truth about Kaelen's interior life may never be fully known.
 
-*[Dr. Vasquez pauses recording]*
+But systems leave traces, and humans leave patterns.
 
-*[Recording resumes]*
-
-Before we begin, I should note that Mr. Korr agreed to be interviewed for this project during his third resurrection, in 2058. His testimony, which you will hear following the ceremony reconstruction, was given with full knowledge of its historical significance. When asked why he chose to participate, he said simply: "Someone should understand what I couldn't see."
-
-The ceremony footage has been restored to full resolution. What you are about to witness is the pinnacle of human ambition—and its necessary end.
+This is what the patterns suggest.

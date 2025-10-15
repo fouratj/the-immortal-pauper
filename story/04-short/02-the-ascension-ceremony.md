@@ -1,15 +1,21 @@
 # Archive Document: The Ascension Announcement
-*April 18, 2050 - 7:00 PM Coordinated Global Time*  
-*Transcribed from Global Broadcast Feed, Korr Foundation Amphitheater*  
+*April 18, 2050 - 7:00 PM Coordinated Global Time*
+*Transcribed from Global Broadcast Feed, Korr Foundation Amphitheater*
 *San Francisco, California*
 
 ---
 
-Four billion humans watched the podium emerge from the amphitheater's center stage, rising with mechanical precision as orchestral music swelled across synchronized speakers in twelve hundred cities. The Korr Foundation had spent eighteen months orchestrating this moment: the first truly global announcement in human history, broadcast simultaneously in forty-seven languages, with viewing parties organized in every major population center on Earth.
+Four billion humans watched Damon Korr take the stage.
+
+None of them knew he had eighteen minutes to live.
+
+Kaelen Korr sat in the VIP section, third row, quantum assassination device activated and running. Around him, four billion witnesses to history's most significant announcement. Around him, nobody watching the real story—the systematic dismantling of immortal aristocracy, executed in the eighteen minutes Damon had left to speak.
+
+The podium emerged from the amphitheater's center stage, rising with mechanical precision as orchestral music swelled across synchronized speakers in twelve hundred cities. The Korr Foundation had spent eighteen months orchestrating this moment: the first truly global announcement in human history, broadcast simultaneously in forty-seven languages, with viewing parties organized in every major population center on Earth.
 
 The amphitheater itself defied architectural convention—a crystalline structure that seemed to bend light into impossible geometries, its surfaces reflecting the faces of the global audience back at themselves in fractal patterns. The walls contained metamaterial acoustic arrays—precisely engineered crystalline structures that manipulated sound waves at the molecular level, based on Dr. Yamamoto's 2048 breakthrough in phononic crystals. The technology could recreate perfect auditory experience across continental distances while preventing acoustic weapons through frequency modulation that filtered harmful resonances. Five thousand guests filled the terraced seating: heads of state, Nobel laureates, corporate titans, cultural luminaries. Above them, holographic projections showed viewing parties from Lagos to Mumbai to São Paulo, where millions gathered around public screens to witness whatever revelation had prompted humanity's most successful man to demand humanities' undivided attention.
 
-In the VIP section, Kaelen Korr sat motionless among the Korr family delegation, his face a study in respectful anticipation. To observers, he appeared every inch the proud nephew and designated heir, honored to witness his uncle's latest triumph. None could see the micro-transmitter sewn into his jacket lining, or the quantum computing device disguised as a commemorative pin on his lapel. Behind his composed expression lay three years of preparation—though for what purpose, no witness in that amphitheater could have imagined.
+In the VIP section, Kaelen Korr sat motionless among the Korr family delegation, his face a study in respectful anticipation. To observers, he appeared every inch the proud nephew and designated heir, honored to witness his uncle's latest triumph.
 
 The music ceased. The podium completed its rise. Silence fell across four billion human throats.
 

@@ -123,9 +123,17 @@ Damon stared at the graph for seventeen seconds. Dr. Chen counted them later, re
 
 "I see," he said finally, his voice containing no emotion whatsoever. "Continue with the financial analysis."
 
-Harrison cleared his throat, glancing at the graph before hurriedly minimizing it. "The computational forensics are staggering—someone spent 86.3 gigawatt-hours of processing power over three years, equivalent to powering New York City for three days, analyzing 2.7 billion legal documents across 193 jurisdictions. The intellectual work alone cost approximately $2.3 billion in computational resources. They used your own Proof-of-Benefit systems to justify the research expenditure, classifying it as 'inheritance law optimization for democratic transparency.' The algorithms that enriched you financed their own destruction."
+Harrison cleared his throat, glancing at the graph before hurriedly minimizing it. "The computational forensics match what we suspected. 86.3 gigawatt-hours over three years, exactly as the Proof-of-Benefit records show. Someone justified this as 'inheritance law optimization for democratic transparency.'"
 
-He paused, consulting additional screens. "The inheritance protocols executed exactly as designed upon death confirmation. Your designated heir gained full access to all assets, accounts, and intellectual property holdings. What happened next appears to be the largest coordinated wealth redistribution in human history, completed within the forty-eight hour death window."
+Damon's face went still. "Kaelen's research project. I approved the budget myself."
+
+"Yes, sir. The algorithms that enriched you financed their own destruction."
+
+A longer silence as Damon processed the implications. He'd reviewed Kaelen's quarterly research reports. Inheritance protocol analysis. Estonian implementation studies. Legal framework optimization. All technically accurate descriptions of... this.
+
+"The forty-eight hour window," Damon said slowly. "The inheritance protocols executed exactly as designed?"
+
+Harrison consulted his screens. "Your designated heir gained full access upon death confirmation. What happened next appears to be the largest coordinated wealth redistribution in human history, completed before resurrection protocols could reverse the transfers."
 
 "My heir," Damon said, each word carrying the weight of perfect understanding. "Someone who had complete knowledge of my asset structure, legal vulnerabilities, and technical systems. Someone who spent years mapping every holding, every patent, every revenue stream." His voice grew quiet with lethal precision. "Someone who understood that blockchain society's heir requirement was my only weakness."
 
