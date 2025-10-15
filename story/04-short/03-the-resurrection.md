@@ -7,7 +7,7 @@
 
 The chamber hummed with the precise frequency of molecular reassembly, a sound like ten thousand tuning forks struck in perfect unison. Damon Korr's clone lay motionless on the resurrection table, eighteen months of accelerated growth having produced a body identical to his original at age thirty-five—the age he'd specified for all future returns to life.
 
-Dr. Sarah Chen stood at the consciousness transfer station, her movements carrying the exhausted precision of someone who had not slept in forty-eight hours. Around her, twelve technicians managed subsystems that had never been tested under these circumstances—the first actual resurrection of a human consciousness after unplanned death. What should have been a controlled demonstration of consciousness transfer technology had become humanity's first emergency resurrection, performed under global scrutiny after Damon's unexpected death during his immortality announcement.
+Dr. Chen had been awake for forty-eight hours, and it showed. The technicians around her managed subsystems that had never been tested under combat conditions—because that's what unplanned resurrection was. Combat medicine for consciousness itself. What should have been a controlled demonstration of consciousness transfer technology had become humanity's first emergency resurrection, performed under global scrutiny after Damon's unexpected death during his immortality announcement.
 
 "Microtubule quantum coherence at ninety-seven point six percent," announced Dr. Martinez, his voice hoarse from the forty-eight hour procedure. "Orchestrated objective reduction patterns matching archived consciousness baseline."
 
