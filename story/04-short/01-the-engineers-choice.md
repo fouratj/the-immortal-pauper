@@ -173,6 +173,44 @@ Which left the harder question: did that justify assassination?
 
 ---
 
+**March 2048 - Executive Interview, Manila**
+
+One meeting stuck with Kaelen months later. Dr. Patricia Reyes, Chief Innovation Officer at PharmaCorp Asia Pacific, had agreed to discuss patent protection frameworks. She met him in her corner office overlooking Manila Bay, confident and articulate in her defense of intellectual property.
+
+"Without exclusivity," she explained, pulling up market data on holographic displays, "there's no incentive to invest in drug development. It costs billions to bring a medication to market—clinical trials, regulatory approval, safety monitoring—"
+
+"And yet," Kaelen interrupted, "knowledge is the only resource where giving it away makes you richer. When you share a drug formula, you don't lose the formula. You gain everyone else's improvements to it."
+
+Dr. Reyes smiled with practiced patience. "Theoretical. In practice, pharmaceutical companies need revenue models to justify R&D investment. Without patent protection, innovation would collapse."
+
+"In practice," Kaelen said, opening his tablet, "every major medical breakthrough in history built on commons knowledge. Pasteur didn't patent germ theory. Jonas Salk refused to patent the polio vaccine—when asked who owned it, he said 'the people, could you patent the sun?' Watson and Crick couldn't patent DNA structure. The discoveries that mattered most to human health were the ones that spread fastest."
+
+"Those were different times."
+
+"No," Kaelen said quietly. "Those were times when scientists understood that knowledge creation is the only fundamentally infinite resource in a finite universe. The only process that generates value rather than merely redistributing it. You're not incentivizing innovation. You're hoarding it."
+
+Dr. Reyes set down her stylus, expression hardening. "You're suggesting we should just... give away decades of research? Billions in investment?"
+
+"I'm suggesting that every dollar you spend preventing others from using your discoveries is a dollar not spent on new discoveries. Patent protection doesn't create knowledge—it creates barriers to knowledge creation." Kaelen pulled up pharmaceutical innovation data. "Look at this. Drug development cycles: twenty-three years average from discovery to market. Most of that time isn't research—it's navigating patent thickets filed by competitors trying to block your research before you can block theirs."
+
+"Competitive intelligence—"
+
+"Is knowledge destruction," Kaelen finished. "You spend billions generating insights that you then spend billions preventing anyone else from building upon. The system doesn't optimize for human health. It optimizes for return on artificial scarcity."
+
+Dr. Reyes stood, walking to her window. For thirty seconds, neither spoke.
+
+"Those children in Tondo," she said finally, "the ones who can't afford our antibiotics. You think I don't know they exist? You think I don't care?" Her voice carried genuine emotion. "I got into this field to help people. But I work inside a system that requires profits to survive. Patent protection isn't cruelty—it's economic reality."
+
+"Economic reality," Kaelen repeated softly, "is what we build it to be. Amara Okafor's daughter nearly died because that reality priced medicine at artificial scarcity levels. Jonas Salk proved there's another way—and polio was eradicated because he chose it."
+
+He closed his tablet and stood. "Thank you for your time, Dr. Reyes. Your candor has been valuable."
+
+She walked him to the door, then paused. "If you ever figure out how to make the economics work without patents," she said quietly, "I'll be first in line to support it. I mean that."
+
+Kaelen believed her. That was what made it tragic. She wasn't evil—she was trapped inside systematic incentives that made hoarding knowledge appear rational.
+
+---
+
 Kaelen spent March 2048 reviewing his documentation, running counterfactual models, stress-testing his own reasoning. The temptation was to find a flaw—some reason why redistribution wouldn't work, some unintended consequence that made preservation of the status quo correct. That would make the decision easier. Keep the empire intact, become partners with Damon, share the wealth across two immortal lives instead of four billion mortal ones.
 
 But every model he ran showed the same result: if patents moved to commons, innovation would accelerate. If care work was properly valued, systematic welfare would improve. If artificial scarcity was eliminated, abundance was technologically achievable immediately. The barriers weren't physical. They were institutional. And the institutions were optimized around one core function: extracting tribute for the architects of optimization itself.
@@ -358,23 +396,109 @@ He stepped out of the amphitheater during the chaos, found a secure location, an
 
 ---
 
-The forty-eight hours were mechanical. Patents moving to commons databases. Housing trusts dissolving. Worker equity transfers executing. Educational scholarships distributing. Pharmaceutical licensing going open-source. Real estate speculation structures terminating. Every systematic rent-extraction mechanism dissolving into abundance-generating alternatives.
+## The Cascade (Hour 1-48)
 
-Kaelen monitored the cascade from secure terminals, watching three years of preparation execute in real-time. The Intelligent Internet treated all transfers as legitimate—the designated heir exercising property rights during legitimate ownership. By the time anyone realized what was happening, thousands of transfers had completed irreversibly.
+The forty-eight hours were anything but mechanical.
 
-He slept four hours total across forty-eight, monitoring execution, authorizing transfers, stress-testing edge cases that emerged during deployment. The machine worked better than expected. Markets destabilized but didn't collapse. Patent releases propagated smoothly. Housing costs dropped but construction continued. Workers received equity transfers without systematic unemployment.
+**Hour 3 - Morrison & Sterling Law Offices, Boston**
 
-The models had been conservative. Abundance emerged faster than predicted.
+Rebecca Chen stared at her terminal in disbelief. The patent she'd been defending for twenty-three months—the one that had required fourteen thousand billable hours and would have made partner—had just evaporated. Not challenged. Not invalidated. Simply... released to commons.
 
-At hour thirty-six, Kaelen received notification: Damon's resurrection would complete in twelve hours. The window was closing.
+"Check the blockchain," her paralegal said, voice shaking. "It's not just ours. Every biotech patent in the Korr portfolio. Thousands of them. All moving to public domain simultaneously."
 
-He executed the final transfers: the foundational algorithm modifications buried in inheritance protocols, the changes to attribution mathematics that shifted "Damon = creator of intelligence" to "All humans = co-creators of intelligence." The most sophisticated hack in history, hidden in estate settlement procedures.
+Rebecca pulled up the cascading transfers. Patent after patent, flowing into commons databases faster than legal injunctions could file. Each transfer individually legitimate—the Korr heir exercising property rights—but together constituting the systematic dismantling of intellectual property law itself.
 
-By hour forty-seven, the redistribution was complete. Every patent moved to commons. Every worker receiving equity. Every artificial scarcity eliminated. Abundance enabled permanently.
+She called her client. The pharmaceutical CEO answered on the first ring.
 
-At hour forty-eight, Damon Korr opened his eyes in the resurrection chamber.
+"We can't stop it," Rebecca said. "The transfers are executing faster than jurisdictional coordination. By the time we file in one country, ten more have completed verification. It's like watching dominoes fall, except the dominoes are arranged across every legal system on Earth and they're all tipping at once."
 
-Kaelen turned off the terminal.
+"What do we do?"
+
+Rebecca looked at her screen showing twenty-three years of accumulated expertise becoming obsolete in real-time. "We adapt. Or we become historians."
+
+**Hour 12 - Housing Trust Management, São Paulo**
+
+Carlos Mendes watched algorithmic dissolution protocols execute despite every attempt to halt them. His trust managed 47,000 residential properties across metropolitan São Paulo—$8.3 billion in real estate structured specifically to maximize returns through strategic scarcity.
+
+Now the algorithmic dissolution was restructuring everything. Properties transferring to resident cooperatives. Speculative holdings converting to cost-basis pricing. Investment vehicles evaporating as mathematical frameworks redefined housing as human necessity rather than financial instrument.
+
+His traders were panicking. "Sir, we need authorization to halt the transfers—"
+
+"With what authority?" Carlos demanded. "The legal heir is executing legitimate property transfers. We're not owners anymore. We're... we were never owners. We were rent collectors."
+
+He pulled up the housing price data. Seventeen percent drop in the first twelve hours. His models suggested seventy percent collapse before stabilization. Everything above construction cost plus reasonable profit—gone. Simply gone.
+
+"What do we tell investors?"
+
+Carlos looked at his reflection in the dark screen. "Tell them the truth. The artificial scarcity that made us wealthy just became permanently impossible to maintain."
+
+**Hour 24 - Manufacturing Floor, Buckeye Automotive Parts, Ohio**
+
+Jake Morrison's phone kept buzzing with notifications he thought were spam. "Asset Redistribution Protocol has transferred equity shares to worker accounts."
+
+Finally, during lunch break, he opened one. Stared at it. Showed it to his shop steward.
+
+"Is this real?"
+
+The steward checked the blockchain verification. "Says you own 2.3% of the company. Based on... twenty-three years worked times value contributed divided by... Jesus, Jake. This says your shares are worth three times your annual salary."
+
+Jake sat down heavily on a tool chest. Around him, other workers were getting similar notifications. Someone started laughing. Someone else was crying. Most just stared at their phones in silence, trying to process that they suddenly owned the machines they operated, the profits they generated, the enterprise they'd built with their hands.
+
+"What do we do?" someone asked.
+
+"I guess," Jake said slowly, "we figure out how to run a business. Because apparently we just became the owners."
+
+**Hour 36 - Secure Bunker, Undisclosed Location**
+
+Kaelen hadn't slept in thirty-six hours. Four holographic displays surrounded him, each showing different aspects of the cascade propagating across global systems.
+
+Display one: Patent releases. 94% complete. The few remaining transfers were hitting edge cases—obscure jurisdictions with manual verification requirements, antiquated legal systems that didn't interface smoothly with blockchain protocols. His algorithms were adapting, finding workarounds, executing through secondary channels.
+
+Display two: Housing trust dissolutions. 87% complete. Real estate markets were oscillating wildly—price discovery mechanisms hunting for equilibrium as decades of speculative value evaporated. But construction hadn't stopped. Builders were still building. The models had predicted this: when you eliminate artificial scarcity, production continues because genuine demand remains.
+
+Display three: Worker equity transfers. 76% complete. Tens of millions of workers receiving ownership stakes, most thinking it was spam, not yet understanding they'd become capitalists overnight. The second-order effects would take months to propagate—voting on production schedules, profit sharing, systematic reallocation of power from shareholders to workers.
+
+Display four: Real-time global sentiment analysis. The Intelligent Internet's welfare algorithms showing sustained positive spike. Humanity was... happier. Measurably, mathematically happier as artificial scarcity dissolved.
+
+Kaelen pulled up the resurrection status. Damon's clone: neural pathway integration 89% complete. Twelve hours until consciousness restoration.
+
+Twelve hours to finish three years of work.
+
+He authorized another thousand transfers, watching cascades propagate across jurisdictions. Each approval was individually minor—releasing a patent, dissolving a trust, transferring equity. Together, they constituted the largest systematic transformation in human history.
+
+His coffee had gone cold hours ago. He drank it anyway.
+
+The machine was working. Better than expected. Markets were oscillating but stabilizing. Innovation was accelerating as patent thickets dissolved. Knowledge was flowing freely for the first time in centuries.
+
+But in twelve hours, Damon would wake up. And the resurrection protocols would engage. And Kaelen would discover whether three years of preparation had actually been enough.
+
+He pulled up the final transfer queue: the foundational algorithm modifications. The changes to attribution mathematics that would shift from "Damon = creator of intelligence" to "All humans = co-creators of intelligence." Hidden in inheritance protocols, disguised as estate settlement procedures, mathematically elegant and politically revolutionary.
+
+This was the real hack. Not the wealth redistribution—that was just dramatic. The algorithmic attribution changes would persist after reversal protocols engaged. They would become the new foundational layer that every system built upon.
+
+Democratizing divinity itself.
+
+Kaelen authorized the transfers.
+
+Twelve hours until Damon's resurrection. Eleven hours until the window closed. Ten hours until they discovered whether killing your uncle to save humanity was the right choice or just the one that felt necessary in the moment.
+
+He opened a new thermos of Estonian coffee and got back to work.
+
+**Hour 48 - BioGenesis Resurrection Chamber**
+
+The notification arrived exactly on schedule: "Consciousness integration complete. Resurrection protocols engaging."
+
+Kaelen closed his final terminal. Every patent released. Every trust dissolved. Every worker equity transfer complete. Every algorithmic modification deployed.
+
+The cascade was done. The machine had executed flawlessly. Three years of preparation, forty-eight hours of execution, permanent transformation of human civilization.
+
+In the resurrection chamber, Damon Korr would be opening his eyes to a world that had systematically dispossessed him while he was dead.
+
+Kaelen stood, stretched muscles that had been motionless for thirty-six hours, and walked away from the terminals.
+
+The liberation was complete.
+
+Now came the reckoning.
 
 ---
 

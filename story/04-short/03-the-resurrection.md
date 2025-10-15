@@ -243,7 +243,7 @@ Kaelen understood something I'd missed: in a genuinely abundant system, individu
 
 **Dr. Vasquez:** Do you think Kaelen was right to do what he did?
 
-**Damon:** [Long pause] Kaelen solved a computational problem I couldn't solve: how do you eliminate systematic inequality without destroying the systems that create abundance? His answer was elegant—use the inequality to fund its own elimination. Every dollar I'd extracted from optimal resource allocation became funding for commons infrastructure.
+**Damon:** [Long pause] Kaelen solved—okay, here's the thing I couldn't figure out. How do you eliminate inequality without destroying the systems that create abundance? Because every time you try to forcibly redistribute wealth, you break the wealth-creation mechanisms, right? But Kaelen's answer... *[pauses, almost smiling]* Use the inequality to fund its own elimination. Elegant bastard.
 
 Was he right? The world today suggests he was. Medicine is functionally free. Housing costs reflect materials and labor, not speculative accumulation. Knowledge flows without artificial scarcity. People work because they want to contribute, not because they need to survive.
 
