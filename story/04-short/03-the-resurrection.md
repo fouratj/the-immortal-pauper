@@ -35,7 +35,7 @@ Dr. Chen initiated the awakening sequence, her gesture activating embedded neura
 
 Damon Korr opened his eyes.
 
-"Status report," he said, his voice identical to the one that had addressed four billion humans two days earlier. Even in resurrection, his first instinct remained systematic assessment and control.
+"Status report," he said, his voice identical to the one that had addressed four billion humans forty-eight hours earlier. Even in resurrection, his first instinct was systematic assessment and control. The man had died and returned and his personality had survived the transfer precisely because it was the kind of personality that wouldn't let death interfere with information gathering.
 
 "Resurrection successful, Mr. Korr," Dr. Chen replied, though her tone carried none of the celebration she imagined herself feeling when she had dreamed about the resurrecting the dead. "All cognitive and physical parameters nominal. Welcome back."
 
@@ -105,7 +105,25 @@ A silence fell across the gallery as the implications began to register. Damon's
 
 "The forty-eight hours I was dead," he said slowly, his voice carrying deadly precision. "What changed? Systematically, I mean. Market movements, governance adjustments, societal adaptations?"
 
-Director Harrison consulted his tablet, his expression increasingly grim. "Patent markets collapsed completely. Several pharmaceutical companies announced commons licensing programs voluntarily, apparently anticipating regulatory changes. Housing costs dropped seventeen percent in major metropolitan areas—real estate trusts appear to have been dissolved somehow. There's been significant social discussion about economic inequality and artificial scarcity. Most concerning, there are reports of systematic asset redistributions that appear to have originated from... your estate accounts." He paused, scrolling through additional data. "The computational forensics are staggering—someone spent 86.3 gigawatt-hours of processing power over three years, equivalent to powering New York City for three days, analyzing 2.7 billion legal documents across 193 jurisdictions. The intellectual work alone cost approximately $2.3 billion in computational resources. They used your own Proof-of-Benefit systems to justify the research expenditure, classifying it as 'inheritance law optimization for democratic transparency.' The algorithms that enriched you financed their own destruction."
+Director Harrison consulted his tablet, his expression increasingly grim. "Patent markets collapsed completely. Several pharmaceutical companies announced commons licensing programs voluntarily, apparently anticipating regulatory changes. Housing costs dropped seventeen percent in major metropolitan areas—real estate trusts appear to have been dissolved somehow. There's been significant social discussion about economic inequality and artificial scarcity. Most concerning, there are reports of systematic asset redistributions that appear to have originated from... your estate accounts."
+
+"Show me the sentiment analysis," Damon interrupted. "The II welfare algorithms. What did collective human sentiment do during those forty-eight hours?"
+
+Harrison hesitated, fingers hovering over his tablet. "Sir, I'm not sure that data is—"
+
+"Show me."
+
+Harrison's tablet displayed the graph. For a moment, no one in the gallery moved.
+
+The Intelligent Internet's global sentiment analysis—the algorithmic system Damon had designed to measure collective human welfare—showed a massive positive spike beginning at 7:31 PM on April 18th. The moment of his death. The line climbed steadily for forty-eight hours, reaching the highest sustained positive sentiment in recorded history. Then, at 8:15 AM on April 20th, it dropped sharply. The moment of his resurrection.
+
+The machine he had built to optimize human welfare had mathematically proven that humanity was happier when he was dead.
+
+Damon stared at the graph for seventeen seconds. Dr. Chen counted them later, reviewing the security footage. Seventeen seconds of perfect stillness.
+
+"I see," he said finally, his voice containing no emotion whatsoever. "Continue with the financial analysis."
+
+Harrison cleared his throat, glancing at the graph before hurriedly minimizing it. "The computational forensics are staggering—someone spent 86.3 gigawatt-hours of processing power over three years, equivalent to powering New York City for three days, analyzing 2.7 billion legal documents across 193 jurisdictions. The intellectual work alone cost approximately $2.3 billion in computational resources. They used your own Proof-of-Benefit systems to justify the research expenditure, classifying it as 'inheritance law optimization for democratic transparency.' The algorithms that enriched you financed their own destruction."
 
 He paused, consulting additional screens. "The inheritance protocols executed exactly as designed upon death confirmation. Your designated heir gained full access to all assets, accounts, and intellectual property holdings. What happened next appears to be the largest coordinated wealth redistribution in human history, completed within the forty-eight hour death window."
 
@@ -143,7 +161,19 @@ In April 2050, twelve witnesses watched humanity's first immortal discover that 
 
 ---
 
-**Dr. Vasquez:** Thank you for agreeing to this interview, Mr. Korr. You've been resurrected three times since 2050. Why continue choosing to return?
+**Dr. Vasquez:** Thank you for agreeing to this interview, Mr. Korr. You've been resurrected three times since 2050. Before we begin—are you Damon Korr, or a copy who believes he's Damon Korr?
+
+**Damon Korr:** [Laughs] The philosophers' favorite question. The answer is: the question is meaningless. Consciousness isn't a substance that transfers—it's a pattern that instantiates. There's no metaphysical continuity to preserve, only pattern-matching at the quantum level. This body has memories that report themselves as Damon's memories, personality structures that execute as Damon's personality, values that optimize according to Damon's frameworks. Therefore *is* Damon in every measurable sense. You're asking for a soul I never believed in.
+
+**Dr. Vasquez:** But the subjective experience of being you—
+
+**Damon:** —is reconstructed from the last backup, yes. I have no memory of dying, no experience of the time I was dead. From my subjective perspective, I went to sleep in one body and woke up in another. The six-hour gap between my last backup and my death simply... doesn't exist for me. Those hours were experienced by a version of me who no longer exists in any form. His final thoughts, whatever they were, died with him. What you're interviewing now is the pattern he was six hours before that termination.
+
+**Dr. Vasquez:** Doesn't that disturb you?
+
+**Damon:** Should it? Every human experiences discontinuity every night during sleep. You can't remember being unconscious because consciousness isn't continuous—it's an emergent property of information integration that switches on and off. The only difference between sleep and death is that sleep usually restarts from the same substrate. My consciousness restarts from a new substrate using archived quantum state data. The experience of "being me" is identical in both cases—pattern execution with no memory of the gap.
+
+**Dr. Vasquez:** Why continue choosing to return, then? Why not accept permanent death?
 
 **Damon Korr:** [Long pause] Because dying teaches you things about living that the living can't understand. Each death is a debugging session for consciousness itself—you discover which parts of your identity were load-bearing structure and which were decorative flourishes. [Adjusts his position in the chair] The first time, I died confused. The second time, angry. This third time... educational.
 
@@ -482,6 +512,70 @@ The seed companies said patent protection encouraged innovation. Look around. *[
 **DR. VASQUEZ**: What would you tell the architect of this transformation?
 
 **HASSAN**: *[Long pause, looking toward Mecca]* الحمد لله *[Praise be to Allah]*. Someone understood that abundance is the natural state of Allah's creation. Scarcity is what men create when they claim ownership of what belongs to everyone.
+
+## Boston, United States - December 2051 (Eighteen months post-liberation)
+**Rebecca Chen, 47, Former Patent Attorney**
+
+*[Interviewed in her modest studio apartment, surrounded by law books]*
+
+Twenty-three years I spent mastering intellectual property law. Harvard Law, top of my class, partnership track at Morrison & Sterling. I could navigate patent thickets that took our competitors months to map. That expertise made me valuable—$850 an hour billable, six-figure bonuses, corner office overlooking Boston Harbor.
+
+The June Event eliminated my profession overnight. Not gradually, not with warning—just gone. When patents moved to commons, twenty-three years of accumulated knowledge became historically interesting but functionally useless. Like being a master telegraphist the day after everyone got smartphones.
+
+*[She picks up one of the law books, runs her fingers along the spine]*
+
+I tried to pivot. Retrain. But what do you do when your entire identity is built around a system that no longer exists? I wasn't just losing income—I was losing purpose. Every morning I'd wake up knowing that the thing I'd spent my adult life becoming excellent at... simply didn't matter anymore.
+
+**DR. VASQUEZ**: Are you angry about the transformation?
+
+**REBECCA**: *[Long pause]* I was. For months, I was furious. Felt like I'd been robbed—not of money, though that hurt—but of meaning. I'd sacrificed relationships, health, decades of my life to master something that the Liberation made irrelevant.
+
+*[She sets the book down]*
+
+But here's what I eventually understood: my expertise was valuable only because artificial scarcity made it necessary. I was earning $850 an hour to help clients navigate legal obstacles that shouldn't have existed in the first place. Patent thickets didn't protect innovation—they protected rent extraction. My entire career was optimized around defending institutional dysfunction.
+
+**DR. VASQUEZ**: What are you doing now?
+
+**REBECCA**: *[Gestures around small apartment]* Teaching legal history at Boston Community College. Part-time. Explaining to students how humans created elaborate legal frameworks to justify artificial scarcity, then convinced ourselves those frameworks were natural law. Making about one-tenth what I used to earn.
+
+*[She looks directly at interviewer]*
+
+And you know what? The world is genuinely better. Innovation accelerated when we stopped spending billions on patent lawyers. Young researchers contribute to knowledge instead of navigating licensing agreements. Medicine reaches people who need it instead of people who can afford it.
+
+My loss was real. Twenty-three years of expertise, evaporated. But my loss enabled millions of gains. That's not injustice—that's optimization. I just happened to be the inefficiency that got optimized out.
+
+## Singapore - February 2052 (Twenty months post-liberation)
+**David Tan, 52, Former Real Estate Investment Manager**
+
+*[Interviewed in shared workspace, now operates small urban farming consultancy]*
+
+I wasn't a vulture. Want to be clear about that. I never evicted families, never used predatory practices. I managed ethical real estate investment—buying undervalued properties, improving them, selling for profit. Standard market activity that created value for everyone involved.
+
+The Liberation destroyed $4.7 million in assets I'd spent thirty years accumulating. Not through negligence or crime—through systematic elimination of speculative real estate value. Housing prices collapsed to construction costs, and everything above that line just... vanished. My portfolio, my retirement, my children's education fund—all built on market value that apparently was artificial scarcity rather than genuine worth.
+
+**DR. VASQUEZ**: How did you process that loss?
+
+**DAVID**: *[Bitter laugh]* Denial, mostly. Kept waiting for markets to "correct." Hired lawyers to argue that housing price regulation constituted illegal seizure. Spent two years convinced the system would revert once people realized abundance doesn't work.
+
+But abundance does work. That's the part I couldn't accept at first. Construction continued. Housing quality improved. Workers could afford homes near their jobs. The only thing that disappeared was financial return from treating housing as speculative commodity rather than human necessity.
+
+*[He pauses, looking at his hands]*
+
+I did genuinely improve properties—that wasn't fake. But the profit I extracted wasn't from improvement value. It was from scarcity value. From being positioned as gatekeeper between people and shelter they needed. The Liberation didn't eliminate my contribution—it eliminated my ability to extract rent from my contribution.
+
+**DR. VASQUEZ**: Do you think the transformation was just?
+
+**DAVID**: *[Long contemplation]* That's the question, isn't it? Is it just to eliminate economic activity that was legal, ethical by contemporary standards, but systematically harmful to optimal resource distribution?
+
+*[Gestures around workspace]*
+
+I work with urban farming networks now. Helping cities convert unused space into food production. Make enough to live modestly, contribute something genuinely valuable. My children attended public universities that became excellent once educational costs reflected actual teaching rather than artificial scarcity.
+
+The world that eliminated my wealth is genuinely better than the world that created it. I lost everything, but everyone gained more than I lost, including me. That's not injustice—that's mathematics. I'm just not emotionally evolved enough to celebrate my own obsolescence.
+
+*[He manages a weak smile]*
+
+Maybe that's the real test of abundance: can the people it harms admit they were part of the problem?
 
 ---
 
