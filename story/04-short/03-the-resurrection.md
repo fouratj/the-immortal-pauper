@@ -35,7 +35,7 @@ Dr. Chen initiated the awakening sequence, her gesture activating embedded neura
 
 Damon Korr opened his eyes.
 
-"Status report," he said, his voice identical to the one that had addressed four billion humans forty-eight hours earlier. Even in resurrection, his first instinct was systematic assessment and control. The man had died and returned and his personality had survived the transfer precisely because it was the kind of personality that wouldn't let death interfere with information gathering.
+"Status report," he said, his voice identical to the one that had addressed eleven billion humans forty-eight hours earlier. Even in resurrection, his first instinct was systematic assessment and control. The man had died and returned and his personality had survived the transfer precisely because it was the kind of personality that wouldn't let death interfere with information gathering.
 
 "Resurrection successful, Mr. Korr," Dr. Chen replied, though her tone carried none of the celebration she imagined herself feeling when she had dreamed about the resurrecting the dead. "All cognitive and physical parameters nominal. Welcome back."
 
@@ -81,7 +81,7 @@ His gaze swept the small gallery, passing over board members, legal representati
 
 Damon absorbed this information with clinical detachment. "Time frame for restoring public confidence?"
 
-"Uncertain," Harrison admitted. "Your death was witnessed by four billion humans. Any future public appearances will be viewed with... skepticism about permanence."
+"Uncertain," Harrison admitted. "Your death was witnessed by eleven billion humans. Any future public appearances will be viewed with... skepticism about permanence."
 
 "Confidence is a function of predictable outcomes, not visible personalities," Damon replied, his analytical mind already working through the systematic implications. "The Intelligent Internet algorithms continue optimizing resource allocation regardless of my biological status. Governance protocols execute as designed. The mathematical frameworks that eliminated corruption don't depend on my continued existence—they were built to transcend their architect. We focus on demonstrating algorithmic continuity rather than personal permanence."
 
@@ -195,9 +195,17 @@ In April 2050, twelve witnesses watched humanity's first immortal discover that 
 
 But the beautiful irony—and this is what took me two deaths to fully appreciate—was that he used my own definition of "systematic optimization" to justify the liberation. The algorithms I'd written to measure genuine contribution versus rent extraction. When applied with perfect objectivity to my own activities, they concluded that my wealth accumulation was systematically inefficient compared to commons distribution. My own mathematics condemned me.
 
-**Dr. Vasquez:** How did the conversation with Kaelen go?
+**Dr. Vasquez:** When did you finally accept what had happened?
 
-**Damon:** [Stares out window] We met three days after my first resurrection, in the same room where I'd first explained the inheritance requirements to him. He was drinking Estonian coffee—an affectation I'd never noticed before. Very calm, very methodical in his explanations.
+**Damon:** [Bitter laugh] Accept? I spent two years trying to expose Kaelen. Hired quantum archaeologists, forensic economists, constitutional lawyers. Tried to prove the transfers were fraudulent, that he'd violated fiduciary duty, that the assassination was detectable. Found nothing actionable. The perfect crime wasn't technical—it was philosophical. He used my own values against me.
+
+**Dr. Vasquez:** But eventually you met with him?
+
+**Damon:** Three days after my first resurrection, yes. But that meeting wasn't acceptance—it was reconnaissance. I was still looking for leverage, some way to reverse the Liberation or at least hold him accountable. Naive, in retrospect.
+
+**Dr. Vasquez:** What happened in that meeting?
+
+**Damon:** [Stares out window] Same room where I'd first explained the inheritance requirements to him. He was drinking Estonian coffee—an affectation I'd never noticed before. Very calm, very methodical in his explanations.
 
 He showed me the legal architecture he'd constructed: a cascade of smart contracts that would execute upon my death, each one triggering the next like dominoes arranged across multiple jurisdictions. Patent releases flowing to commons databases. Housing trust dissolutions. Pharmaceutical licensing going open-source. All of it automated, all of it irreversible once initiated.
 
