@@ -1,5 +1,5 @@
 # Archive Document: The Ascension Announcement
-*April 18, 2050 - 7:00 PM Coordinated Global Time*
+*April 18, 2050 - 11:30 AM Coordinated Global Time*
 *Transcribed from Global Broadcast Feed, Korr Foundation Amphitheater*
 *San Francisco, California*
 
@@ -71,11 +71,11 @@ The words hung in the air like a benediction and a threat combined. Four billion
 
 "What I am," Damon declared, his arms spread wide to encompass the amphitheater, the broadcast, the planet itself, "is no longer just Damon Korr. I am the first human to transcend biology itself, the architect of—"
 
-At 7:23 PM Coordinated Global Time, eighteen minutes into the most-watched speech in human history, Damon Korr collapsed mid-sentence.
+At 11:47 AM Coordinated Global Time, eighteen minutes into the most-watched speech in human history, Damon Korr collapsed mid-sentence.
 
 The medical teams rushed the stage as eleven billion humans watched in stunned silence, wondering if any of this was staged. The nanotechnological medical systems activated automatically—millions of molecular-scale robots released from hidden dispensers throughout the amphitheater, designed to swarm any medical emergency with cellular-level diagnostic precision and real-time metabolic support. But cellular integrity was failing in patterns that defied analysis. Each time the diagnostic AIs identified a failure mode—cardiovascular collapse, neural pathway degradation, metabolic shutdown—the underlying pathology would shift to something entirely different, as if the failure was systematically staying one step ahead of the diagnostic systems. The molecular-scale robots conferred with each other in microsecond bursts, building consensus models of the emergency, only to watch those models become obsolete as new failure patterns emerged across different organ systems. They found no foreign substances to neutralize, no pathogens to attack, no cellular damage they could repair—only cascading biological failures that appeared completely organic yet followed no known disease progression. It was as if Damon's own body had been turned against him by something that understood exactly how the 2050 medical systems worked and had designed itself to be invisible to their analysis. The body of the first immortal was dying, eight minutes into the most sophisticated medical response in human history, from causes that remained completely undetectable even as they killed him.
 
-At 7:31 PM, eight minutes after collapse, Damon Korr was declared dead.
+At 11:55 AM, eight minutes after collapse, Damon Korr was declared dead.
 
 In the chaos that followed—medical teams, investigators, officials demanding explanations, crowds in twelve hundred cities shouting questions at screens that could no longer answer—no one noticed Kaelen Korr quietly leaving the amphitheater.
 
@@ -83,4 +83,4 @@ The revolution had begun with eleven billion witnesses.
 
 *[End of archived broadcast reconstruction]*
 
-*[Note: This represents the complete global broadcast of Damon Korr's immortality announcement. The method by which his permanent death was accomplished during this speech has never been determined. Quantum forensics detected no external interference. The consciousness backup systems showed no signs of tampering. Even Damon himself, as you will hear in his subsequent testimony, cannot explain how Kaelen killed him while billions watched.]*
+*[Note: This represents the complete global broadcast of Damon Korr's immortality announcement. The method by which his temporary death was accomplished during this speech has never been determined. Quantum forensics detected no external interference. The consciousness backup systems showed no signs of tampering. Even Damon himself, as you will hear in his subsequent testimony, cannot explain how Kaelen killed him while billions watched.]*
