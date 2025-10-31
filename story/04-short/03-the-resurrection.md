@@ -111,9 +111,11 @@ Harrison hesitated, fingers hovering over his tablet. "Sir, I'm not sure that da
 
 Harrison's tablet displayed the graph. For a moment, no one in the gallery moved.
 
-The Intelligent Internet's global sentiment analysis—the algorithmic system Damon had designed to measure collective human welfare—showed a massive positive spike beginning at 11:55 AM on April 18th. Two minutes after his death. The line climbed steadily for forty-eight hours, reaching the highest sustained positive sentiment in recorded history.
+The Intelligent Internet's global sentiment analysis—the algorithmic system Damon had designed to measure collective human welfare—showed what appeared to be a massive positive spike beginning at 11:55 AM on April 18th. Two minutes after his death. The metrics climbed steadily for forty-eight hours, reaching what the algorithms interpreted as the highest sustained positive sentiment in recorded history.
 
-The machine he had built to optimize human welfare had shown that humanity was happier with him dead.
+Harrison hesitated before continuing. "Though sir, I should note—sentiment analysis across eleven billion humans with different value systems... the epistemological validity is contested. Some analysts argue we might be measuring relief at market volatility ending, or excitement about new opportunities, rather than actual 'happiness' in any meaningful sense."
+
+Damon stared at the graph. The machine he had built to optimize human welfare suggested—with all the philosophical uncertainty that 'suggested' implied—that humanity was better off with him dead.
 
 Damon stared at the graph for seconds. Dr. Chen counted them later, reviewing the security footage. Fifteen seconds of perfect stillness.
 
