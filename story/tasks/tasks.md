@@ -4,7 +4,7 @@ even mean across 11 billion humans with wildly different value systems?
 
 Either acknowledge the epistemological problems (Elena could note that "happiness algorithms" are controversial and the data might be measuring something else entirely), or
 show the data being contested. Having it just... work perfectly as proof feels like you're stacking the deck.
-[] - IV. The Characters: Functional But Occasionally Thin
+[x] - IV. The Characters: Functional But Occasionally Thin
 
 Kaelen: The Rationalist Assassin
 
