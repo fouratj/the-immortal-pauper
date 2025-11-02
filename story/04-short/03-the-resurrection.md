@@ -409,11 +409,11 @@ The machine works better without its maker. Long may it optimize.
 
 *[End of recovered archive]*
 
-*[Note: Damon Korr's third death occurred at exactly 11:52:15 AM on October 18, 2058, eight years to the second after his first death during the immortality announcement. His consciousness backup was found intact but corrupted—apparently intentionally degraded to prevent resurrection. BioGenesis confirmed that all clone development had been terminated and revival protocols permanently disabled. No evidence of external interference was detected. Death appeared to be voluntary termination of life support systems.]*
+*[Note: Damon Korr's second death occurred at exactly 11:52:15 AM on October 18, 2058, eight years to the second after his first death during the immortality announcement. His consciousness backup was found intact but corrupted—apparently intentionally degraded to prevent resurrection. BioGenesis confirmed that all clone development had been terminated and revival protocols permanently disabled. No evidence of external interference was detected. Death appeared to be voluntary termination of life support systems.]*
 
 *[This represents humanity's first recorded case of an immortal choosing permanent death. The precedent established by Korr's choice has influenced subsequent immortality legislation worldwide, establishing the principle that technological transcendence of death must include the right to technological choice of death.]*
 
-*[Dr. Elena Vasquez completed her historical archive project in 2061, three years after Korr's final death. Her conclusion: "The Kaelen Event was not about wealth redistribution or patent liberation. It was about systems learning to optimize beyond their creators. Damon Korr's greatest achievement was building a machine that could survive his own obsolescence—and having the wisdom to let it."]*
+*[Dr. Elena Vasquez completed her historical archive project in 2061, three years after Korr's second and final death. Her conclusion: "The Kaelen Event was not about wealth redistribution or patent liberation. It was about systems learning to optimize beyond their creators. Damon Korr's greatest achievement was building a machine that could survive his own obsolescence—and having the wisdom to not fight it."]*
 
 *[The identity of "Kaelen" remains one of history's most protected secrets. Whoever they were, they achieved something unprecedented: a revolution that strengthened rather than destroyed the institutions it reformed. Markets optimized for abundance rather than scarcity. Democracy evolved beyond its early limitations. Technology served human flourishing rather than human control.]*
 
