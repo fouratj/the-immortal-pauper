@@ -701,6 +701,62 @@ She called her client. The pharmaceutical CEO answered on the first ring.
 
 Rebecca looked at her screen showing twenty-three years of accumulated expertise becoming obsolete in real-time. "I don't know."
 
+**Hour 6 - Bridgewater Capital, Westport Connecticut**
+
+Marcus Chen's phone had been buzzing since 3 AM with alerts about "unusual patent transfer activity." He'd ignored them—patent law wasn't his department. Crisis arbitrage was. When markets panicked, Marcus profited.
+
+"Sir, we're seeing massive pharmaceutical sector volatility," his junior analyst called out. "Some kind of IP event. Should we short the whole sector?"
+
+Marcus was already pulling up positions. "Absolutely. Patent monopolies under threat means revenue collapse. Get me short positions on—" He stopped, staring at his screen. "What the hell? Why won't the system let me short Pfizer?"
+
+"Sir, I'm getting rejections across the board. The algorithms keep saying 'Counterparty risk assessment: UNDEFINED.'"
+
+"That's impossible. There's always someone willing to take the other side." Marcus tried manually overriding the system. More rejections. "Call the trading desk. Find out what's—"
+
+"Sir!" His lead quant was frantically scrolling through data. "The pharmaceutical stocks aren't crashing. They're... I don't understand this. Revenue projections are going up?"
+
+Marcus looked over his shoulder. "That can't be right. If patents are dissolving, margins collapse, revenues—"
+
+"That's what I thought, but look at the volume projections. When drug prices drop ninety percent, apparently ten times as many people can afford them. The math is..." He paused, recalculating. "Sir, they're making more money selling at cost than they were with monopoly pricing."
+
+"That's impossible."
+
+Marcus stared at numbers that violated everything he'd learned about crisis arbitrage. "Get me the economics team. Now. I need to understand what the hell is happening to these markets."
+
+**Hour 12 - Citadel Securities, Chicago**
+
+Sarah Kim's algorithms processed 3.2 million trades per second, making money on microsecond price differences that human traders couldn't even perceive. The system had been running flawlessly for eighteen months—until 6 AM, when the alarms started screaming.
+
+"What the hell is happening?" Sarah shouted over the cacophony of error alerts. Her screens showed red everywhere—not losses, but system failures.
+
+"Latency arbitrage opportunities: ZERO," her monitoring system kept repeating. "Cross-exchange price differentials: CONVERGING TO ZERO. Profit per trade: APPROACHING ZERO."
+
+"That's impossible," her junior developer said, frantically typing. "The spreads can't just disappear. There's always inefficiency somewhere."
+
+Sarah pulled up the diagnostic feeds, trying to understand what was breaking. "Are we being attacked? DDoS? Some kind of coordinated—"
+
+"No ma'am, all the exchanges are operational. It's the prices themselves. Look at pharmaceuticals—bid-ask spreads just collapsed from $2.30 to... Jesus, three-tenths of a cent."
+
+"Run diagnostics on the pricing feeds. Someone's feeding us bad data."
+
+"I did. Three times. The data's clean. It's coming from everywhere—NYSE, NASDAQ, London, Tokyo. The spreads are actually disappearing."
+
+Sarah stared at her screens. Twenty-seven different trading algorithms were throwing errors she'd never seen before. "What's causing it?"
+
+"I don't know! Something about patent releases? Legal transfers? The news feeds are talking about some kind of inheritance thing, but I don't understand how that could—"
+
+"Wait." Sarah pulled up the patent databases. "Oh my God. Look at this. Pharmaceutical patents. Thousands of them. They're all moving to... public domain? In real time?"
+
+Her developer leaned over her shoulder. "But that would mean—if there's no patent protection, then manufacturing costs would"
+
+"Drop to actual costs," Sarah finished. "No monopoly pricing. No information asymmetry about real versus artificial prices." She felt sick. "We've been arbitraging artificial scarcity. When scarcity disappears..."
+
+"Ma'am, what do we do? The algorithms are asking for new parameters. They want to know what to optimize for if not price inefficiencies."
+
+Sarah looked at error messages she'd never imagined: "MARKET EFFICIENCY APPROACHING 100%. ARBITRAGE OPPORTUNITIES UNDEFINED. PLEASE SPECIFY ALTERNATIVE PROFIT MODEL."
+
+"I don't know," she said quietly. "I've spent fifteen years learning to profit from markets that don't work properly. I have no idea how to make money from markets that do."
+
 **Hour 12 - Housing Trust Management, São Paulo**
 
 Carlos Mendes watched algorithmic dissolution protocols execute despite every attempt to halt them. His trust managed 47,000 residential properties across metropolitan São Paulo—$8.3 billion in real estate, built on three decades of careful positioning. The trust didn't own the properties directly—it managed them for Korr Foundation subsidiaries, earning fees by optimizing returns through what the prospectuses called "strategic urban development coordination." In practice: lobbying to restrict new construction permits, timing infrastructure announcements to drive migration flows into undersupplied districts, keeping occupancy rates just low enough to maintain upward price pressure. Perfectly legal. Highly profitable. Managed on behalf of investors who'd never even visited Brazil.
@@ -737,7 +793,79 @@ Jake sat down heavily on a tool chest. Around him, other workers were getting si
 
 "I guess," Jake said slowly, "we get back to work."
 
-[I'd like to distrubte these snippets across the 48 hours, so we dont get them all at once.]
+**Hour 18 - Anthem Health Insurance, Indianapolis**
+
+David Rodriguez had been in back-to-back emergency meetings since 6 AM. First the pharmaceutical cost models started throwing errors. Then medical device pricing went haywire. Now his entire actuarial team was in panic mode.
+
+"Sir, we need to halt all new policy issuance," his lead analyst said, bursting into his office. "The cost projections are completely broken. Insulin pricing is showing a ninety-six percent reduction. That can't be right."
+
+"Run the diagnostics again," David said, not looking up from his screen. "Someone's feeding us bad data."
+
+"I've run them four times. The data's coming from our pharmaceutical partners directly. They're confirming the price drops."
+
+David finally looked up. "What do you mean, confirming?"
+
+"I called Johnson & Johnson. They say their insulin manufacturing costs are about three dollars per vial. They've been charging three hundred because of patent protection, but if the patents are dissolving—"
+
+"Wait, what patents are dissolving?"
+
+His analyst pulled up news feeds. "Some kind of massive inheritance event. Tens of thousands of pharmaceutical patents moving to public domain. Real-time. The legal teams are going crazy trying to figure out if it's legitimate."
+
+David stared at the numbers. If insulin really cost three dollars to make... "What about catastrophic care? Surgery, medical devices?"
+
+"That's the problem, sir. Surgical robot patents, diagnostic equipment, everything's moving to commons. An MRI that cost us three thousand dollars is now... the hospitals are saying three hundred and forty."
+
+"That's impossible."
+
+"Sir, if it's real, then—" His analyst paused, looking confused. "What do we insure against? How do we stay viable?"
+
+David felt something cold in his stomach. "Pull up the risk models. All of them."
+
+They spent twenty minutes in silence, recalculating. David kept expecting to find the error, the place where the math broke down. Instead, he found something worse.
+
+"We've been insuring against artificial scarcity," he said quietly.
+
+"Sir?"
+
+"The high costs. They weren't real. We've been charging people to pool risk against prices that were set by patent monopolies." <!-- flesh out this explanation -->
+
+His analyst looked pale. "Sir, what do we tell the shareholders? If medical costs drop ninety percent, our entire business model—"
+
+David thought about his mortgage, his daughter's college fund, thirty years of expertise disintegrating before his eyes.
+
+"I don't know," he said. "Maybe we tell them we're not in the insurance business anymore. Maybe we never were."
+
+**Hour 24 - MIT Computational Biology Lab, Cambridge**
+
+Dr. Priya Srinivasan was pulling another all-nighter, trying to reverse-engineer consciousness mapping protocols from published abstracts. Three years of grant applications for Korr Foundation data access had been rejected—$2.3 million annually was beyond any academic budget.
+
+Her research assistant stumbled into the lab at 2 AM, laptop in hand. "Dr. Srinivasan, something weird is happening with the Korr databases."
+
+"What do you mean, weird?" Priya didn't look up from her calculations.
+
+"I was trying to access the public abstracts, but the paywall disappeared. I thought it was a glitch, but—" He set his laptop down. "I can access everything. The full datasets. All of them."
+
+Priya looked up. "That's impossible. Those are premium repositories. Multi-million dollar licensing fees just to read, let alone access the data" <!-- how would a scientist say this about datasets, no way would the publications give the nitty gritty away as that's their IP, but they had to share somethings with the scientific community for peer review etc, so there was a concept of minmaxing here but for science, let's flesh it out this way -->
+
+"I know, but look." He pulled up the Korr Foundation's quantum consciousness archive. Terabytes of data that had been locked behind paywalls for years. "It's all there. Microtubule quantum states, consciousness integration protocols, everything."
+
+Priya stared at the screen. "This has to be a mistake. Or a hack. They'll fix it in hours and we'll lose access again."
+
+"I don't think so. Look at the timestamps. These aren't leaked files—they're official releases. Legal transfers to public domain. Real-time."
+
+"That makes no sense. Why would they—" Priya started downloading files frantically. "Get everything. Now. Before they realize the mistake."
+
+"Dr. Srinivasan, it's not just Korr. Pharmaceutical datasets, genetic sequences, clinical trial data—everything's moving to commons. My inbox is exploding with notifications from researchers worldwide. Everyone's downloading everything they can."
+
+Priya opened file after file of research she'd only dreamed of accessing. The complete methodology for consciousness transfer. Quantum mechanics of memory encoding. Biological substrate requirements she'd been trying to reverse-engineer for years.
+
+"This is decades of work," she whispered. "Hundreds of researchers. Why would they just... give it away?"
+
+Her assistant was already fielding messages. "Dr. Srinivasan, labs in Mumbai, São Paulo, Lagos—everyone who was locked out is trying to coordinate. They want to start collaborative projects immediately."
+
+Priya looked at her screen showing a global research network forming in chaos as barriers dissolved. She'd spent her career fighting for scraps of data. Now she had access to everything and no idea what to do with it.
+
+"Download everything first," she said. "We'll figure out what it means later."
 
 **Hour 36 - Secure Bunker, Undisclosed Location**
 
