@@ -29,7 +29,7 @@ isolation (relationships are inefficiencies), and his capacity for self-deceptio
 However: Kaelen's voice is sometimes too uniformly analytical. The cold coffee, the wine bottle, the physical details—these work. But even in private moments, he often sounds
 like he's narrating a technical report. More mess, more self-interruption, more "wait, that's not quite right" would make the interiority feel more human.
 
-[] - Damon: The Blind Optimizer
+[x] - Damon: The Blind Optimizer
 
 Damon is your most interesting character because he's intelligent, well-intentioned, and completely blind to his own systematic role. The PhDs in economics and computer
 science don't help him see the extraction—they just give him better tools for rationalizing it. "Intelligence doesn't make people better at questioning beliefs. It makes them

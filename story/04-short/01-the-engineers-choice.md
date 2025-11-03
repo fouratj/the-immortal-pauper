@@ -233,7 +233,7 @@ He closed his tablet and stood. "Thank you for your time, Dr. Reyes. I appreciat
 
 She walked him to the door, then paused. "If you ever figure out how to make the economics work without patents," she said quietly, "I'll be first in line to support it. I mean that."
 
-Kaelen believed her. That was what made it tragic. She wasn't evil—she was trapped inside incentive structures that made hoarding knowledge appear rational.
+Kaelen believed her. She wasn't evil—she was trapped inside incentive structures that made hoarding knowledge appear rational.
 
 ---
 
@@ -424,7 +424,7 @@ He spent two weeks reading philosophy, history, ethics. Spent long nights walkin
 
 Eventually he realized: there probably wasn't a justification. Not one that would absolve him. Not one that would make the choice morally clean.
 
-But that didn't make it wrong. It made it tragic.
+But that didn't make it wrong.
 
 Sometimes you have to choose between two bad options and accept the moral weight of the less-bad choice. There are only trade-offs, not—
 
@@ -457,7 +457,7 @@ The engineering work began the next morning.
 
 Kaelen spent 86.3 gigawatt-hours of processing power over two years analyzing 2.71 billion legal documents across 193 jurisdictions. The computational work alone cost $2.3 billion—all classified as "inheritance law optimization for democratic transparency" and approved through the same Proof-of-Benefit protocols he intended to use for redistribution.
 
-The irony wasn't lost on him. Damon's own system was financing its own dismantling. Every analysis request approved because the algorithms calculated that improving inheritance transparency served collective welfare. He was using $2.3 billion of Damon's money to figure out how to kill Damon and redistribute Damon's empire. The perfect optimization machine validating every step of its own destruction.
+Damon's own system was financing its own dismantling. Every analysis request approved because the algorithms calculated that improving inheritance transparency served collective welfare. He was using $2.3 billion of Damon's money to figure out how to kill Damon and redistribute Damon's empire. The perfect optimization machine validating every step of its own destruction.
 
 The legal architecture required meticulous coordination that made consciousness transfer technology look merely complicated. Patents had to move to commons databases across seventeen different intellectual property frameworks simultaneously—if any major jurisdiction retained monopolies, rent-seeking could reconcentrate there like—like water flowing back into a depression you hadn't quite filled. Real estate trusts had to dissolve without crashing construction industries, without making builders unemployed. Worker equity transfers had to execute according to contribution calculations that felt fair while being algorithmically justifiable. Educational scholarships reaching brilliant poor children who'd never applied for anything because they didn't know resources existed because nobody had ever told them—
 
@@ -542,7 +542,7 @@ She processed the payment, then paused. "You know, we have Master Jewelers who c
 
 Kaelen walked out of Tiffany's carrying a receipt for a fifteen-million-dollar murder weapon that the cheerful sales associate had just helped him commission.
 
-The cognitive dissonance was—he had to stop walking for a second. Lean against the building. Breathe. He'd just described assassination components as "sentimental value" and she'd smiled and processed his credit card like he was buying cufflinks.
+He had to stop walking for a second. Lean against the building. Breathe. He'd just described assassination components as "sentimental value" and she'd smiled and processed his credit card like he was buying cufflinks.
 
 The banality of evil. Hannah Arendt wrote about Eichmann, how ordinary it all looked. But what about the banality of revolution? Buying your uncle's death in a luxury jewelry store. Discussing crystalline lattice arrangements with someone whose entire job was making rich people feel good about their purchases. Was this evil? Was this revolution? Was there even a difference when—
 
