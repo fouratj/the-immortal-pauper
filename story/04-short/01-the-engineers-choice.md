@@ -681,191 +681,293 @@ Then fell into mechanical rhythm, not letting himself think, just watching three
 
 ---
 
-## The Cascade (Hour 1-48)
+## The Cascade (Month 1-12)
 
-The forty-eight hours were anything but mechanical.
+The transformation took eleven months to stabilize. The first week felt like the end of the world.
 
-**Hour 3 - Morrison & Sterling Law Offices, Boston**
+**Day 1 - Morrison & Sterling Law Offices, Boston**
 
-Rebecca Chen stared at her terminal in disbelief. The patent she'd been defending for twenty-three months—the one that had required fourteen thousand billable hours and would have made partner—had just evaporated. Not challenged. Not invalidated. Simply... released to commons.
+Rebecca Chen stared at her terminal in disbelief. The patent she'd been defending for twenty-three months had just evaporated. Not challenged. Not invalidated. Simply released to commons.
 
-"Check the blockchain," her paralegal said, voice shaking. "It's not just ours. Every biotech patent in the Korr portfolio. Thousands of them. All moving to public domain simultaneously."
+"Check the blockchain," her paralegal said, voice shaking. "It's not just ours. Every biotech patent in the Korr portfolio. Thousands of them."
 
-Rebecca pulled up the cascading transfers. Patent after patent, flowing into commons databases faster than legal injunctions could file. Each transfer individually legitimate—the Korr heir exercising property rights—but together constituting the complete dismantling of intellectual property law itself.
+Rebecca called her client. The pharmaceutical CEO answered on the first ring.
 
-She called her client. The pharmaceutical CEO answered on the first ring.
-
-"We can't stop it," Rebecca said. "The transfers are executing faster than jurisdictional coordination. By the time we file in one country, ten more have completed verification. It's like watching dominoes fall, except the dominoes are arranged across every legal system on Earth and they're all tipping at once."
+"We can't stop it," Rebecca said. "The transfers are executing faster than jurisdictional coordination."
 
 "What do we do?"
 
 Rebecca looked at her screen showing twenty-three years of accumulated expertise becoming obsolete in real-time. "I don't know."
 
-**Hour 6 - Bridgewater Capital, Westport Connecticut**
+**Week 2 - Rebecca's Apartment, Beacon Hill**
 
-Marcus Chen's phone had been buzzing since 3 AM with alerts about "unusual patent transfer activity." He'd ignored them—patent law wasn't his department. Crisis arbitrage was. When markets panicked, Marcus profited.
+The severance package was generous—six months to "transition to new opportunities." Rebecca spent the first week drinking wine and refreshing news feeds. The second week she started getting calls.
 
-"Sir, we're seeing massive pharmaceutical sector volatility," his junior analyst called out. "Some kind of IP event. Should we short the whole sector?"
+"Rebecca? It's Tom from BioGenesis. Listen, we need help navigating the commons licensing frameworks. Turns out releasing everything to public domain creates its own legal complexities."
 
-Marcus was already pulling up positions. "Absolutely. Patent monopolies under threat means revenue collapse. Get me short positions on—" He stopped, staring at his screen. "What the hell? Why won't the system let me short Pfizer?"
+She hung up. Then called back an hour later.
 
-"Sir, I'm getting rejections across the board. The algorithms keep saying 'Counterparty risk assessment: UNDEFINED.'"
+**Month 4 - Cambridge Innovation Commons**
 
-"That's impossible. There's always someone willing to take the other side." Marcus tried manually overriding the system. More rejections. "Call the trading desk. Find out what's—"
+Rebecca's new office overlooked the Charles River. Her business card read "Commons Coordination Specialist"—helping companies navigate open-source collaboration instead of defending patent thickets.
 
-"Sir!" His lead quant was frantically scrolling through data. "The pharmaceutical stocks aren't crashing. They're... I don't understand this. Revenue projections are going up?"
+"It's weird," she told her former paralegal over lunch. "I'm making half what I used to, but the work actually matters. Yesterday I helped three biotech startups coordinate on malaria research. Before, they'd have spent two years in patent litigation."
 
-Marcus looked over his shoulder. "That can't be right. If patents are dissolving, margins collapse, revenues—"
+Her paralegal nodded. "My cousin in Lagos says malaria treatments cost almost nothing now."
 
-"That's what I thought, but look at the volume projections. When drug prices drop ninety percent, apparently ten times as many people can afford them. The math is..." He paused, recalculating. "Sir, they're making more money selling at cost than they were with monopoly pricing."
+Rebecca pushed salad around her plate. "Twenty-three years I spent making medicine more expensive. I was good at it, too."
 
-"That's impossible."
+**Day 1 - Bridgewater Capital, Westport Connecticut**
 
-Marcus stared at numbers that violated everything he'd learned about crisis arbitrage. "Get me the economics team. Now. I need to understand what the hell is happening to these markets."
+Marcus Chen's algorithms had been shorting pharmaceutical stocks since 3 AM. Patent monopolies under threat meant revenue collapse. Basic arbitrage.
 
-**Hour 12 - Citadel Securities, Chicago**
+Except the stocks weren't collapsing.
 
-Sarah Kim's algorithms processed 3.2 million trades per second, making money on microsecond price differences that human traders couldn't even perceive. The system had been running flawlessly for eighteen months—until 6 AM, when the alarms started screaming.
+"Sir, the pharmaceutical revenue projections are going up," his lead quant said, voice climbing with panic. "When drug prices drop ninety percent, apparently ten times as many people can afford them."
 
-"What the hell is happening?" Sarah shouted over the cacophony of error alerts. Her screens showed red everywhere—not losses, but system failures.
+Marcus stared at numbers that violated everything he'd learned about crisis arbitrage. "Get me the economics team."
 
-"Latency arbitrage opportunities: ZERO," her monitoring system kept repeating. "Cross-exchange price differentials: CONVERGING TO ZERO. Profit per trade: APPROACHING ZERO."
+**Week 1 - Marcus's Home Office**
 
-"That's impossible," her junior developer said, frantically typing. "The spreads can't just disappear. There's always inefficiency somewhere."
+The fund had lost forty percent of its assets. Not from the pharmaceutical shorts—those had somehow made money—but from everything else. When artificial scarcity dissolved, crisis arbitrage became impossible. There were no more crises to arbitrage.
 
-Sarah pulled up the diagnostic feeds, trying to understand what was breaking. "Are we being attacked? DDoS? Some kind of coordinated—"
+Marcus spent the week trying to understand what had happened. His models assumed scarcity. When scarcity disappeared, the models broke.
 
-"No ma'am, all the exchanges are operational. It's the prices themselves. Look at pharmaceuticals—bid-ask spreads just collapsed from $2.30 to... Jesus, three-tenths of a cent."
+**Month 3 - New Haven, Connecticut**
 
-"Run diagnostics on the pricing feeds. Someone's feeding us bad data."
+"Dad, you're teaching economics now?" His daughter visited from Yale, found him grading papers in their kitchen.
 
-"I did. Three times. The data's clean. It's coming from everywhere—NYSE, NASDAQ, London, Tokyo. The spreads are actually disappearing."
+"Behavioral finance," Marcus said. "Turns out I spent fifteen years learning to profit from market inefficiencies. When markets become efficient..." He shrugged.
 
-Sarah stared at her screens. Twenty-seven different trading algorithms were throwing errors she'd never seen before. "What's causing it?"
+"Are you okay with that?"
 
-"I don't know! Something about patent releases? Legal transfers? The news feeds are talking about some kind of inheritance thing, but I don't understand how that could—"
+Marcus looked at his red pen corrections on a student's paper about information asymmetries. "Your generation won't need to learn this stuff. Markets that actually work are boring but functional. Like plumbing."
 
-"Wait." Sarah pulled up the patent databases. "Oh my God. Look at this. Pharmaceutical patents. Thousands of them. They're all moving to... public domain? In real time?"
+His daughter hugged him. "You seem happier."
 
-Her developer leaned over her shoulder. "But that would mean—if there's no patent protection, then manufacturing costs would"
+"I can afford to be. Your tuition costs what education actually costs now."
 
-"Drop to actual costs," Sarah finished. "No monopoly pricing. No information asymmetry about real versus artificial prices." She felt sick. "We've been arbitraging artificial scarcity. When scarcity disappears..."
+**Day 1 - Citadel Securities, Chicago**
 
-"Ma'am, what do we do? The algorithms are asking for new parameters. They want to know what to optimize for if not price inefficiencies."
+Sarah Kim's algorithms processed 3.2 million trades per second, making money on microsecond price differences. Until 6 AM, when the alarms started screaming.
 
-Sarah looked at error messages she'd never imagined: "MARKET EFFICIENCY APPROACHING 100%. ARBITRAGE OPPORTUNITIES UNDEFINED. PLEASE SPECIFY ALTERNATIVE PROFIT MODEL."
+"Latency arbitrage opportunities: ZERO," her monitoring system kept repeating.
 
-"I don't know," she said quietly. "I've spent fifteen years learning to profit from markets that don't work properly. I have no idea how to make money from markets that do."
+"That's impossible," her junior developer said. "The spreads can't just disappear. Can they? Has this ever happened before"
 
-**Hour 12 - Housing Trust Management, São Paulo**
+Sarah pulled up the diagnostic feeds. "Are we being attacked?"
 
-Carlos Mendes watched algorithmic dissolution protocols execute despite every attempt to halt them. His trust managed 47,000 residential properties across metropolitan São Paulo—$8.3 billion in real estate, built on three decades of careful positioning. The trust didn't own the properties directly—it managed them for Korr Foundation subsidiaries, earning fees by optimizing returns through what the prospectuses called "strategic urban development coordination." In practice: lobbying to restrict new construction permits, timing infrastructure announcements to drive migration flows into undersupplied districts, keeping occupancy rates just low enough to maintain upward price pressure. Perfectly legal. Highly profitable. Managed on behalf of investors who'd never even visited Brazil.
+"No ma'am, all the exchanges are operational. It's the prices themselves. Bid-ask spreads on pharmaceuticals just collapsed from $2.30 to three-tenths of a cent."
 
-Now the algorithmic dissolution was restructuring everything. Properties transferring to resident cooperatives. Investment vehicles evaporating. Mathematical frameworks treating housing as human necessity rather than financial instrument.
+Sarah stared at her screens. Twenty-seven different trading algorithms were throwing errors she'd never seen before.
 
-His traders were panicking. "Sir, we need authorization to halt the transfers—"
+"Ma'am, the system is asking for new parameters. It wants to know what to optimize for if not price inefficiencies."
 
-"With what?" Carlos's voice climbed an octave. "They're coming from the owner accounts. The actual owner. We're management. We don't—" He stopped, staring at his screen. "Christ, we don't even have the keys. It's all going directly to the residents."
+Sarah looked at error messages she'd never imagined: "MARKET EFFICIENCY APPROACHING 100%. ARBITRAGE OPPORTUNITIES UNDEFINED." <!-- this is techno babble for a book. In the movies, you see hackers Cding into directories as proof of hacking. Let's make this technically on point -->
 
-He pulled up the price data with shaking hands. Seventeen percent drop in twelve hours. His projections showed seventy percent collapse before stabilization. Everything above construction costs plus reasonable margins—gone.
+**Week 2 - Sarah's Apartment, Lincoln Park**
 
-"What do we tell the investors?"
+The severance was brutal. Two weeks' pay, health insurance through the end of the month. Sarah spent her days applying for jobs that no longer existed.
 
-Carlos ran both hands through his hair, felt how much thinner it had gotten since his last stress cycle in '47. Twenty-eight years. Twenty-eight years building this business, and some heir with legal access was burning it down in hours. "Tell them—" His voice cracked. "Tell them we're still analyzing the situation. Tell them it's a technical error. Tell them anything that keeps them from suing us before I can figure out if my pension survives this."
+"High-frequency trading specialist seeks position in... what?" She stared at her laptop screen. Every finance job posting had been pulled. The entire sector was contracting.
 
-"But sir, the blockchain verification is—"
+Her neighbor knocked. "Sarah? I'm making dinner. I'm wondering if you'd like to come over?"
 
-"I know what the blockchain says!" Carlos slammed his palm on the desk. "I can read! I'm asking you what we tell seventy-three institutional investors who are going to wake up tomorrow with thirty percent less money and our phone number programmed into their lawyers' speed dial!"
+Sarah had never spoken to her neighbor beyond the niceties of greetings. "I wouldn't want to impose—"
 
-**Hour 24 - Manufacturing Floor, Buckeye Automotive Parts, Ohio**
+"You've been crying through the walls for three days. Come eat something."
+
+**Month 6 - Chicago Quantum Computing Collective**
+
+Sarah's new job involved maintaining the city's consciousness backup infrastructure. The pay was half what she'd made in finance, but the housing costs had dropped even more.
+
+"It's weird," she told her neighbor over coffee. "I spent fifteen years making money from market failures. Now I help people live forever. Same attention to detail, completely different purpose."
+
+Her neighbor smiled. "You seem less stressed."
+
+"Yeah, I guess markets that work properly are boring. Turns out boring is better."
+
+**Day 2 - Tondo District, Manila**
+
+Rosa Dela Cruz was feeding her three grandchildren breakfast when her phone chimed. Another notification from the Intelligent Internet about her "contribution score adjustment."
+
+She'd been ignoring them for two days—probably spam, like the messages claiming she'd won lotteries she'd never entered. But this one was different. It showed her bank balance.
+
+38,000 pesos.
+
+Rosa stared at the number. Yesterday she'd had 1,200 pesos. She called her neighbor, who worked at the bank.
+
+"Tita Rosa, yes, it's real. The algorithms recalculated care work compensation. You're raising three children, watching the Santos kids after school, caring for your mother. The system finally measured what that prevents—remedial tutoring costs, healthcare expenses, lost productivity." <!-- let's make this a process of discovery for Rosa and the teller -->
+
+"But I didn't do anything different."
+
+"The system did. It learned to count what actually matters." <!-- people dont talk like this -->
+
+Rosa hung up and looked at her grandchildren eating rice and eggs. For the first time in years, she could afford to add meat.
+
+**Week 1 - Rosa's Kitchen**
+
+The news kept talking about "economic collapse" and "market chaos." Rosa watched while cooking dinner—real dinner, with chicken, vegetables, fruit for dessert.
+
+"Lola, why are you crying?" her youngest granddaughter asked.
+
+Rosa wiped her eyes. "I'm not sad, anak. I'm just... the world changed, and we can eat properly now."
+
+On the television, a politician was screaming about "systematic breakdown of economic order." Rosa turned it off.
+
+**Day 1 - Housing Trust Management, São Paulo**
+
+Carlos Mendes watched algorithmic dissolution protocols execute despite every attempt to halt them. His trust managed 47,000 residential properties—$8.3 billion in real estate, built on three decades of careful positioning.
+
+Now the algorithmic dissolution was restructuring everything. Properties transferring to resident cooperatives. Investment vehicles evaporating.
+
+**Week 3 - Carlos's Office**
+
+The investors were furious. Seventy-three institutional clients demanding explanations Carlos couldn't provide.
+
+"Sir, the residents are refusing to pay rent," his property manager reported. "They say they own the buildings now."
+
+Carlos pulled up the blockchain records. They were right. The Intelligent Internet had transferred ownership to resident cooperatives, calculating that housing speculation added zero productive value.
+
+"What do we tell the pension funds?"
+
+Carlos looked at his screen showing thirty years of expertise in artificial scarcity management becoming worthless. "Tell them their retirees can afford housing now."
+
+**Month 8 - Construction Site, São Paulo Periphery**
+
+Carlos wore a hard hat for the first time in twenty years. His new job: coordinating affordable housing construction for the same communities his old job had priced out.
+
+"Ironic, isn't it?" his foreman said during lunch break. "You used to make housing expensive. Now you make it cheap."
+
+Carlos watched workers installing prefab modules that cost what materials and labor actually cost. "I'm better at this than I thought I'd be."
+
+"Why?"
+
+"Turns out understanding housing markets helps with building houses. Who knew?"
+
+**Day 1 - Manufacturing Floor, Buckeye Automotive Parts, Ohio**
 
 Jake Morrison's phone kept buzzing with notifications he thought were spam. "Asset Redistribution Protocol has transferred equity shares to worker accounts."
 
-Finally, during lunch break, he opened one. Stared at it. Showed it to his shop steward.
+Finally, during lunch break, he opened one. Showed it to his shop steward.
 
 "Is this real?"
 
-The steward checked the blockchain verification. "Says you own 0.15% of the company. Based on... twenty-three years worked times value contributed divided by... Jesus, Jake. This says your shares are worth three times your annual salary."
+The steward checked the blockchain verification. "Says you own 0.15% of the company. Twenty-three years worked times value contributed... Jake, this says your shares are worth three times your annual salary."
 
-Jake sat down heavily on a tool chest. Around him, other workers were getting similar notifications. Someone started laughing. Someone else sobbed silently. Most just stared trying to process that they suddenly were partners in the business they worked for, elibile to share in the profits they generated, the enterprise they'd helped built with their hands.
+Jake sat down heavily on a tool chest. Around him, other workers were getting similar notifications. Someone started laughing. Someone else sobbed.
 
 "What do we do?" someone asked.
 
-"I guess," Jake said slowly, "we get back to work."
+"I guess we get back to work."
 
-**Hour 18 - Anthem Health Insurance, Indianapolis**
+**Week 2 - Jake's Kitchen Table**
 
-David Rodriguez had been in back-to-back emergency meetings since 6 AM. First the pharmaceutical cost models started throwing errors. Then medical device pricing went haywire. Now his entire actuarial team was in panic mode.
+The plant had closed temporarily. "Market instability," management said. Jake spent his days fixing his neighbor's plumbing, helping his sister move, building a deck for the Kowalskis down the street.
 
-"Sir, we need to halt all new policy issuance," his lead analyst said, bursting into his office. "The cost projections are completely broken. Insulin pricing is showing a ninety-six percent reduction. That can't be right."
+His wife opened the mail. "Jake, look at this. Dividend payment from Buckeye Automotive. Two thousand dollars."
 
-"Run the diagnostics again," David said, not looking up from his screen. "Someone's feeding us bad data."
+"For what?"
 
-"I've run them four times. The data's coming from our pharmaceutical partners directly. They're confirming the price drops."
+"For owning part of the company, I guess. Says here the Intelligent Internet calculated your contribution to enterprise value over twenty-three years."
 
-David finally looked up. "What do you mean, confirming?"
+Jake stared at the check. "I just built car parts."
 
-"I called Johnson & Johnson. They say their insulin manufacturing costs are about three dollars per vial. They've been charging three hundred because of patent protection, but if the patents are dissolving—"
+"Apparently that was worth something."
 
-"Wait, what patents are dissolving?"
+**Month 5 - Buckeye Automotive, Worker-Owner Meeting**
 
-His analyst pulled up news feeds. "Some kind of massive inheritance event. Tens of thousands of pharmaceutical patents moving to public domain. Real-time. The legal teams are going crazy trying to figure out if it's legitimate."
+The plant had reopened as a cooperative. Jake found himself on the board of directors, which was terrifying.
 
-David stared at the numbers. If insulin really cost three dollars to make... "What about catastrophic care? Surgery, medical devices?"
+"Motion to increase safety equipment budget," said Maria from Quality Control.
 
-"That's the problem, sir. Surgical robot patents, diagnostic equipment, everything's moving to commons. An MRI that cost us three thousand dollars is now... the hospitals are saying three hundred and forty."
+Jake raised his hand. "Seconded. We're not just employees anymore. We're owners. We vote for safety."
 
-"That's impossible."
+The motion passed unanimously. Jake had never voted on anything at work before. It felt strange. Good strange.
 
-"Sir, if it's real, then—" His analyst paused, looking confused. "What do we insure against? How do we stay viable?"
+**Day 1 - Anthem Health Insurance, Indianapolis**
 
-David felt something cold in his stomach. "Pull up the risk models. All of them."
+David Rodriguez had been in emergency meetings since 6 AM. The pharmaceutical cost models were throwing impossible errors.
 
-They spent twenty minutes in silence, recalculating. David kept expecting to find the error, the place where the math broke down. Instead, he found something worse.
+"Sir, insulin pricing is showing a ninety-six percent reduction," his lead analyst reported. "That can't be right."
+
+"Run the diagnostics again."
+
+"I've run them four times. Johnson & Johnson confirms—three dollars manufacturing cost per vial. They've been charging three hundred because of patent protection."
+
+David stared at the numbers. "What about catastrophic care?"
+
+"Surgical robots, diagnostic equipment—everything's moving to commons. An MRI that cost three thousand now costs three hundred forty."
+
+David felt something cold in his stomach. "Pull up the risk models."
+
+Twenty minutes of recalculating. David kept expecting to find the error. Instead, he found something worse.
 
 "We've been insuring against artificial scarcity," he said quietly.
 
-"Sir?"
+**Week 4 - David's Home Office**
 
-"The high costs. They weren't real. We've been charging people to pool risk against prices that were set by patent monopolies." <!-- flesh out this explanation -->
+Anthem had laid off sixty percent of staff. David kept his job but took a seventy percent pay cut. He spent his days trying to figure out what insurance meant when medical costs approached manufacturing costs.
 
-His analyst looked pale. "Sir, what do we tell the shareholders? If medical costs drop ninety percent, our entire business model—"
+His daughter called from college. "Dad, are you okay? Mom says you're stressed about work."
 
-David thought about his mortgage, his daughter's college fund, thirty years of expertise disintegrating before his eyes.
+"The industry's collapsing, sweetheart. Thirty years of expertise in calculating risks that apparently weren't real risks."
 
-"I don't know," he said. "Maybe we tell them we're not in the insurance business anymore. Maybe we never were."
+"But Dad, my roommate's mom just got cancer treatment for eight hundred dollars. She was going to skip it because she couldn't afford insurance. Now she doesn't need insurance."
 
-**Hour 24 - MIT Computational Biology Lab, Cambridge**
+David stared at his laptop screen showing actuarial models that no longer made sense. "That's the problem. Nobody needs insurance anymore."
 
-Dr. Priya Srinivasan was pulling another all-nighter, trying to reverse-engineer consciousness mapping protocols from published abstracts. Three years of grant applications for Korr Foundation data access had been rejected—$2.3 million annually was beyond any academic budget.
+**Month 9 - Community Health Center, Indianapolis**
 
-Her research assistant stumbled into the lab at 2 AM, laptop in hand. "Dr. Srinivasan, something weird is happening with the Korr databases."
+David's new job involved helping people navigate preventive care. The pay was terrible, but housing costs had dropped more than his salary.
 
-"What do you mean, weird?" Priya didn't look up from her calculations.
+"Mr. Rodriguez," said Mrs. Patterson, reviewing her health assessment. "This says I should get a colonoscopy. But I don't have insurance."
 
-"I was trying to access the public abstracts, but the paywall disappeared. I thought it was a glitch, but—" He set his laptop down. "I can access everything. The full datasets. All of them."
+"You don't need insurance," David explained. "The procedure costs sixty dollars. The Intelligent Internet calculated that preventing colon cancer saves more money than treating it."
 
-Priya looked up. "That's impossible. Those are premium repositories. Multi-million dollar licensing fees just to read, let alone access the data" <!-- how would a scientist say this about datasets, no way would the publications give the nitty gritty away as that's their IP, but they had to share somethings with the scientific community for peer review etc, so there was a concept of minmaxing here but for science, let's flesh it out this way -->
+Mrs. Patterson looked confused. "Sixty dollars? My husband's colonoscopy cost six thousand last year."
 
-"I know, but look." He pulled up the Korr Foundation's quantum consciousness archive. Terabytes of data that had been locked behind paywalls for years. "It's all there. Microtubule quantum states, consciousness integration protocols, everything."
+"That was before patent monopolies dissolved. Same procedure, same equipment, same doctors. Just no tribute payments to device manufacturers."
 
-Priya stared at the screen. "This has to be a mistake. Or a hack. They'll fix it in hours and we'll lose access again."
+Mrs. Patterson scheduled her appointment. David realized he was helping people stay healthy instead of calculating their death risks. It felt strange. Good strange.
 
-"I don't think so. Look at the timestamps. These aren't leaked files—they're official releases. Legal transfers to public domain. Real-time."
+**Day 1 - MIT Computational Biology Lab, Cambridge**
 
-"That makes no sense. Why would they—" Priya started downloading files frantically. "Get everything. Now. Before they realize the mistake."
+Dr. Priya Srinivasan was pulling another all-nighter, trying to reverse-engineer consciousness mapping protocols from published abstracts. Three years of grant rejections for Korr Foundation data access.
 
-"Dr. Srinivasan, it's not just Korr. Pharmaceutical datasets, genetic sequences, clinical trial data—everything's moving to commons. My inbox is exploding with notifications from researchers worldwide. Everyone's downloading everything they can."
+Her research assistant stumbled into the lab at 2 AM. "Dr. Srinivasan, something weird is happening with the Korr databases."
 
-Priya opened file after file of research she'd only dreamed of accessing. The complete methodology for consciousness transfer. Quantum mechanics of memory encoding. Biological substrate requirements she'd been trying to reverse-engineer for years.
+"What do you mean, weird?"
 
-"This is decades of work," she whispered. "Hundreds of researchers. Why would they just... give it away?"
+"The paywall disappeared. I can access everything. The full datasets."
 
-Her assistant was already fielding messages. "Dr. Srinivasan, labs in Mumbai, São Paulo, Lagos—everyone who was locked out is trying to coordinate. They want to start collaborative projects immediately."
+Priya looked up. "That's impossible. Those are premium repositories."
 
-Priya looked at her screen showing a global research network forming in chaos as barriers dissolved. She'd spent her career fighting for scraps of data. Now she had access to everything and no idea what to do with it.
+"Look." He pulled up the Korr Foundation's quantum consciousness archive. Terabytes of data that had been locked behind paywalls for years.
 
-"Download everything first," she said. "We'll figure out what it means later."
+Priya stared at the screen. "This has to be a mistake. Download everything before they fix it."
+
+**Week 3 - Priya's Lab**
+
+The data was real. Not just Korr's consciousness research, but pharmaceutical datasets, genetic sequences, clinical trials—everything moving to commons simultaneously.
+
+Priya's inbox contained 847 collaboration requests from researchers worldwide. Mumbai, São Paulo, Lagos, Cairo—everyone who'd been locked out of premium datasets.
+
+"Dr. Srinivasan," her graduate student said, "the Beijing team wants to coordinate on consciousness transfer efficiency. They have computational resources we need."
+
+"Set up the call," Priya said, scrolling through research she'd only read about in abstracts. "For the first time in my career, we can focus on discovery instead of licensing negotiations."
+
+**Month 7 - International Consciousness Research Consortium**
+
+Priya's breakthrough came from combining MIT's quantum coherence work with Mumbai's entanglement protocols and São Paulo's biological substrate research. Three labs that had never been able to afford collaboration.
+
+"Consciousness transfer efficiency improved by forty percent," she announced to the global research call. "We can reduce the resurrection timeline from seventy-two hours to forty-three hours."
+
+Applause from researchers across six continents. Knowledge flowing freely, building on itself exponentially.
+
+"Dr. Srinivasan," said Dr. Chen from Beijing, "your quantum coherence insights enabled our breakthrough in memory preservation. We're citing your foundational contribution."
+
+Priya smiled. In the old economy, she'd have patented the insights and charged licensing fees. Now her status came from enabling other researchers' discoveries. The more her knowledge spread, the more valuable she became.
 
 **Hour 36 - Secure Bunker, Undisclosed Location**
 
