@@ -726,7 +726,7 @@ The security footage shows Kaelen's mask cracking. Just for a second.
 
 "Then WHY?"
 
-"Because you were brilliant and blind and you were going to be brilliant and blind FOREVER." Kaelen stood now too, facing his uncle across the table. "You built a perfect system for measuring genuine contribution and then configured it to extract tribute from eleven billion people in perpetuity. And you couldn't see it because you surrounded yourself with people who benefited from the extraction or loved you too much to force you to look."
+"Because you were brilliant and blind and you were going to be brilliant and blind FOREVER." Kaelen stood now too, facing his uncle across the table. "You built a perfect system for measuring contribution and then configured it to extract tribute from eleven billion people in perpetuity. And you couldn't see it because you surrounded yourself with people who benefited from the extraction or loved you too much to force you to look."
 
 "Democratic validation—"
 
@@ -746,7 +746,7 @@ They faced each other across the table—the uncle who'd been killed, the nephew
 
 "Then how—"
 
-"Because the alternative was worse!" Kaelen's voice broke completely. "The alternative was you, Uncle. Immortal. Extracting tribute forever. Creating a precedent for algorithmic aristocracy that would calcify into permanent systematic oppression. The alternative was your brilliant, perfect, optimized machine grinding humanity down in perpetuity while telling them it was for their own good."
+"Because the alternative was worse!" Kaelen's voice broke completely. "The alternative was you, Uncle. Immortal! Creating a eternal aristocracy. The alternative was your brilliant, perfect, optimized machine grinding humanity down in perpetuity while telling them it was for their own good."
 
 Damon sat down slowly. Stared at his hands.
 
@@ -770,13 +770,13 @@ They stared at each other.
 
 "The world I created," Damon echoed. "You mean the world you liberated."
 
-"Your world," Kaelen insisted. "Your algorithms, your mathematics, your systematic optimization—just without you extracting from it. I removed one variable. The foundation was always yours."
+"Your world," Kaelen insisted. "Your algorithms, your mathematics, your systematic optimization. I removed one variable. The foundation was always yours."
 
 Damon stood. Extended his hand across the table.
 
 "Thank you," he said.
 
-Kaelen looked at the hand for three seconds before accepting it.
+Kaelen looked at the hand for several seconds before accepting it.
 
 They shook hands across three years of preparation, forty-eight hours of transformation, and the death of immortal aristocracy before it began.
 
