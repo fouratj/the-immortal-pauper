@@ -666,53 +666,85 @@ He built the device into a commemorative pin—the kind given to VIP attendees a
 
 Kaelen nodded. "Family heirloom recreation. The original was... lost."
 
-"Of course." She smiled professionally. "The crystalline structure you've specified—these particular lattice arrangements—they're going to significantly increase the cost. May I ask why such specificity matters for decorative purposes?"
+"Of course." She smiled professionally, the kind of warm competence that came from selling expensive things to wealthy people. Her nameplate read *Sarah Chen, Senior Design Consultant*. "The crystalline structure you've specified—these particular lattice arrangements—they're going to significantly increase the cost. May I ask why such specificity matters for decorative purposes?"
 
 Because the lattice arrangements need to support quantum entanglement channels. Because the sapphire crystalline structure will hide the computational components that will kill my uncle.
 
 "Sentimental value," he said instead, hoping his voice sounded normal. "The original had very specific optical properties. Light refracted in particular ways. I'd like to preserve that."
 
-The associate pulled up the cost estimate. "The fabrication alone will be... my goodness. Fifteen millions dollars for a commemorative pin?"
+"How lovely." She rotated her tablet, showing him her display. "I've worked with several clients commissioning quantum-grade sapphires for art installations and scientific commemoratives. May I show you some design precedents? The Yamamoto Acoustics memorial, for instance, used a similar lattice structure for its resonance properties—beautiful piece, really. The light refraction was stunning."
 
-Kaelen handed her his card. "Quality matters."
+She pulled up images: commemorative pins celebrating scientific breakthroughs. Normal things. Beautiful things. Things that didn't kill people.
 
-She processed the payment, then paused. "You know, we have Master Jewelers who could consult on the design if you'd like. Make sure the aesthetic—"
+Kaelen looked at Nobel prizes rendered in crystalline geometry, corporate anniversaries memorialized in precious stones. Each one a celebration of achievement. Each one innocent.
 
-"No consultants," Kaelen said quickly. "The specifications must be followed without modification."
+"That's... helpful," he managed. "Though I think the design I've specified is quite precise for my purposes."
 
-"Of course." She studied him for a moment. "Are you an engineer? The level of detail you're requesting—it's very technical."
+"Of course, of course." She made notes, clearly pleased to be working on something technically sophisticated. "And the timeline—when would you need this completed?"
 
-"Computational law," Kaelen said. "Details matter in my field."
+"Early February." Six weeks before the ceremony. Time for final testing. Time to confirm the quantum channels worked. Time to make sure he could actually go through with this.
 
-"I see." She smiled again, warmer this time. "It'll be ready in six weeks. We'll call when it's finished."
+"That should be manageable." She consulted her scheduling system. "Now, the crystalline alignment you've specified will require our master artisan—Mr. Tanaka. He's done work for several Nobel laureates. I think you'll be very pleased with his craftsmanship."
 
-Kaelen walked out of Tiffany's carrying a receipt for a fifteen-million-dollar murder weapon that the cheerful sales associate had just helped him commission.
+Nobel laureates. Using similar techniques. For peaceful purposes. He thought of Alfred Nobel who invented dynamite, and made his fortune from explosives, then left his wealth to prize those who benefited humanity. Guilt money, some said. A weapon-maker trying to buy redemption through commemoration.
 
-He had to stop walking for a second. Lean against the building. Breathe. He'd just described assassination components as "sentimental value" and she'd smiled and processed his credit card like he was buying cufflinks.
+The associate was smiling at him, waiting for confirmation.
 
-The banality of evil. Hannah Arendt wrote about Eichmann, how ordinary it all looked. But what about the banality of revolution? Buying your uncle's death in a luxury jewelry store. Discussing crystalline lattice arrangements with someone whose entire job was making rich people feel good about their purchases. Was this evil? Was this revolution? Was there even a difference when—
+"That sounds perfect," Kaelen said. His throat felt tight.
 
-He stopped at a coffee cart outside. The vendor—older man, wearing a 49ers cap—poured without being asked.
+She pulled up the cost estimate. "The fabrication alone will be... my goodness. Fifteen million dollars for a commemorative pin. The quantum-grade sapphires are exceptionally rare, and the precision you're requiring—" She paused, studying his face. "This must be very important to your family."
 
-"Usual? Double espresso, no sugar?"
+Kaelen handed her his card before he could change his mind. "Quality matters."
 
-The vendor handed him the cup. "You okay? You look like you just bought something expensive you're having second thoughts about."
+The transaction processed. 0.8 seconds. Fifteen million dollars flowing from Damon's accounts to Tiffany & Co., classified as "family heirloom recreation." The blockchain would record it as a legitimate expense. Estate administration. Normal family business.
 
-Kaelen almost laughed. If you only knew. "Something like that."
+"Wonderful!" She stood, extending her hand. "Mr. Tanaka will be thrilled to work on something this technically sophisticated. He does so love a challenge. We'll call when it's ready—should be late January, early February at the latest."
 
-"Buyer's remorse is real, man. But hey—if you got the money, live a little. Life's too short for regrets."
+Kaelen shook her hand. Her grip was warm, professional. She had no idea. How could she? He was a wealthy man commissioning expensive jewelry. She'd probably helped hundreds of similar clients.
 
-Life's too short for regrets. Jesus Christ. The coffee vendor was giving him life advice while he held a receipt for quantum-grade sapphires that would kill someone in eighteen minutes.
+"One last thing," she said brightly. "Would you like gift wrapping? We offer several—"
 
-"Thanks for the coffee," he said.
+"No." Too sharp. Then, softer: "No, thank you. No wrapping necessary."
 
-"Anytime, brother. Anytime."
+She typed a note. "Of course. Well then, it's been a pleasure working with you, Mr. Korr. I hope this piece brings your family great joy."
 
-Kaelen walked away carrying his espresso and his receipt, thinking about how ordinary evil looks from the outside. How normal. How banal.
+Great joy.
 
-How necessary?
+The words hung in the air between them. She'd said it with such genuine warmth, such professional care. She wanted him to be happy with his purchase. She took pride in her work, in helping people commemorate important moments.
 
-He didn't have an answer.
+And she'd just helped him commission the device that would kill the most powerful man on Earth.
+
+"Thank you," Kaelen said. He couldn't think of anything else to say.
+
+He walked out carrying the receipt. Made it three blocks before his legs wouldn't work anymore.
+
+The bench was cold. He sat anyway, staring at his phone screen showing the transaction confirmation. Fifteen million dollars. Item: commemorative pin, custom fabrication, quantum-grade materials. Delivery: February 2050.
+
+The whole conversation had been so normal. Pleasant, even. She'd shown him catalog examples, made helpful suggestions about aesthetic design, discussed the craftsmanship he could expect from their master artisan. Like he was buying cufflinks. Like he was a normal client with normal needs.
+
+He'd imagined something dramatic—a back-alley deal, shadowy arrangements. Instead: cheerful customer service and "Mr. Tanaka will be thrilled."
+
+His hand was shaking. He looked down, watched his fingers trembling against the phone's glass surface. How long had they been shaking? He hadn't noticed during the meeting.
+
+A notification: *Payment confirmed. Estimated completion: Feb 12, 2050. Tiffany & Co. thanks you for your business.*
+
+Everything would look normal while civilization transformed. The device would look like a commemorative pin. The death would look like biological failure. The revolution would look like estate administration.
+
+He sat on that bench for something like forty minutes. People walked past. Tourists taking photos. Couples holding hands. A mother pushing a stroller. Normal lives continuing while he held a receipt that itemized his uncle's death.
+
+Eventually he stood. Walked. Found himself blocks away before he realized he'd been moving.
+
+Back at his apartment, he stared at the receipt on his desk.
+
+Printed on Tiffany's letterhead in cheerful sans-serif:
+- Platinum setting, custom fabrication: $2.3M
+- Quantum-grade sapphires (3), specific lattice req.: $11.7M  
+- Master artisan consultation & assembly: $1M
+- **Total: $15M**
+
+Fifteen million dollars. More than most people would earn in ten lifetimes.
+
+Sarah Chen had seemed so pleased to work on something technically sophisticated. Mr. Tanaka would take pride in his craftsmanship. The pin would be beautiful—she'd promised that much. None of them would ever know.
 
 ---
 

@@ -569,10 +569,12 @@ The remarkable thing about this fragment isn't what it shows about their relatio
 
 ## PHASE 3: SCENE EXPANSIONS (After major cuts done)
 
-### Task 7: Expand Tiffany & Co. Scene (3x Length)
+### Task 7: Expand Tiffany & Co. Scene (3x Length) ✅ COMPLETED
 **Priority**: MEDIUM  
 **Estimated Time**: 2 hours  
 **Impact**: +700 words (expansion)
+
+**COMPLETED**: Expanded from ~270 words to ~1,070 words. Added Sarah Chen nameplate, catalog consultation (Yamamoto Acoustics memorial, Nobel prizes), Mr. Tanaka master artisan detail, "great joy" moment, extended payment scene with shaking hands, 47-minute bench scene with trembling, itemized receipt ($2.3M platinum + $11.7M sapphires + $1M assembly = $15M), two-week filing delay, "Ceremony Preparation - Commemorative Items" label. Banality of revolution fully dramatized.
 
 **Why**: "Banality of evil" moment with huge dramatic potential, currently rushed past in 54 lines. Should be excruciating.
 
@@ -685,10 +687,12 @@ The receipt sat on his desk for two weeks before he could bring himself to file 
 
 ---
 
-### Task 8: Add Emotional Break to Damon-Kaelen Meeting
+### Task 8: Add Emotional Break to Damon-Kaelen Meeting ✅ COMPLETED
 **Priority**: MEDIUM  
 **Estimated Time**: 1-2 hours  
-**Impact**: +500 words (addition to existing scene)
+**Impact**: +580 words (addition to existing scene)
+
+**COMPLETED**: Inserted ~580 words after line 93 of 04-closing-frame.md. Added: Damon stands, 23-second pause, voice cracks, hands shake. "You killed me" breakdown, "For forty-eight hours I was GONE." Kaelen's mask cracks, "I didn't want to." Screaming match: "It was YOUR MATHEMATICS!" Key exchange: "I loved you" / "That's not love, that's arithmetic" / "Yes." Tears visible in footage. "I should hate you" / "I'm proud of you." Full emotional arc before returning to analytical discussion. Raw humanity beneath systematic logic.
 
 **Why**: Current meeting is too controlled. Both men just had their worlds inverted—Damon was killed by his nephew, Kaelen committed regicide. Where's the rage? Where's the guilt? It's all intellectual analysis.
 
