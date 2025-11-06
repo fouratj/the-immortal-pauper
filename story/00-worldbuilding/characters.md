@@ -1,13 +1,15 @@
 # Character Profiles
+**Last Updated**: November 2024 (Based on 04-short implementation)
 
 ## Damon Korr - The First Immortal's Choice
 
-### Background & Psychology
-- **Age**: 52 (appears younger due to life extension tech) - humanity's first immortal through consciousness transfer
-- **Core Drive**: Maintains power through algorithmic tribute extraction while believing in his own necessity
+### Background & Psychology (AS ACTUALLY WRITTEN)
+- **Age**: 52 (appears 35 due to life extension tech) - humanity's first immortal through consciousness transfer
+- **Core Drive**: Genuinely believes he's creating optimal resource allocation while extracting permanent tribute
 - **Historic Significance**: First human to achieve technological immortality, setting precedent for all future transcendence
-- **Central Dramatic Arc**: Must choose between immortal irrelevance and mortal dignity
-- **Archetype**: God-emperor who discovers his own obsolescence
+- **Central Dramatic Arc**: Dies claiming immortality, resurrects to discover systematic obsolescence, chooses permanent death 8 years later
+- **Archetype**: Brilliant optimizer who becomes the inefficiency in his own system
+- **Actual Story Role**: Appears minimally before death, more fully developed in resurrection and final interview scenes
 
 ### Technical Expertise & Historical Mastery
 - **Primary**: AI governance systems + Historical patterns of elite capture and systematic failure
@@ -71,11 +73,19 @@
 
 ## Kaelen Korr - The Ghost King
 
-### Background & Psychology
-- **Age**: 31 (Damon's nephew)
-- **Core Drive**: Systems liberation from inherited privilege
-- **Method**: Invisible hand shaping visible outcomes
+### Background & Psychology (AS ACTUALLY WRITTEN)
+- **Age**: 26 at discovery (2047), 29 at execution (2050)
+- **Core Drive**: Liberation of artificial scarcity after witnessing late-adopter country oppression
+- **Method**: 3 years of preparation, 48 hours of execution, permanent disappearance
 - **Archetype**: Revolutionary who refuses the throne
+- **Key Scenes in Story**: 
+  - Discovery of vulnerability (2047)
+  - Travel to late-adopter countries (2047-2048)
+  - Moral calculation with Moral Landscape Simulation (April 2048)
+  - Jewelry store commissioning assassination device (Feb 2050)
+  - 18-minute wait during ceremony (shown minimally)
+  - 48-hour cascade management (shown through effects)
+  - Meeting with Damon post-resurrection (reconstruction)
 
 ### Technical Expertise
 - **Primary**: Damon's own systems (learned from the inside)
@@ -96,19 +106,21 @@
 
 ### Relationship to Damon: The Protégé's Awakening
 
-**FAMILY HISTORY:**
-- Brilliant child, all the signs of intellectual equal in future
-- Orphaned at 12 when parents died due to accident instigated by Damon (2031)
-- Damon took guardianship, saw brilliant nephew as natural heir
-- Raised in Damon's shadow, immersed in intellectual world: economics, law, systems theory
-- Obsessed with historical figures who did the right thing at enormous personal cost
-- Semi-Strained father-son relationship built on shared fascination with systematic solutions
+**FAMILY HISTORY (AS ACTUALLY WRITTEN):**
+- Nephew and designated heir to Damon
+- Studied computational law and economics at Stanford (doctorate)
+- Brought into family legal team fresh from graduate work
+- Tasked with mapping edge cases in inheritance law for immortality era
+- **NO orphaning backstory in actual story** - this was planned but not implemented
+- Relationship described as uncle-nephew with teaching dynamic (chess mentioned in reconstruction)
 
-**THE IDEOLOGICAL SPLIT (2045-2047):**
-- Age 26: Kaelen travels to late-adopter countries, sees algorithmic authoritarianism firsthand
-- Witnesses care workers, farmers, laborers systematically devalued by "objective" algorithms
-- Realizes same system creating abundance in democracies enables oppression in authoritarian contexts
-- **The Moment**: Confronts Damon about global inequality, gets dismissed as "implementation details" (2046)
+**THE IDEOLOGICAL SPLIT (AS ACTUALLY WRITTEN - 2047-2048):**
+- **March 2047**: Discovers heir requirement vulnerability while researching inheritance edge cases
+- **June 2047 - Feb 2048**: Travels to late-adopter countries (Manila, Lagos, Cairo, Jakarta, São Paulo, Nairobi, Kenya)
+- Meets specific individuals: Rosa (Manila), Hassan (Cairo), Siti (Jakarta), Carlos and Maria (São Paulo), Amara (Lagos)
+- Witnesses algorithmic oppression: care work undervalued, seed patent tribute, education barriers, medicine costs
+- **Confrontation with Damon**: Described as happening but not shown in detail in actual story
+- Returns February 2048 with 847 GB of documentation, 2,341 interview recordings, 89 case studies
 
 **DAMON'S RESPONSE (The Democratic Success Bias Revealed):**
 - "Look at our results, Kaelen. Corruption eliminated, merit rewarded, innovation unleashed."
@@ -178,85 +190,125 @@
 - **Motivation**: Direct beneficiaries of redistribution
 - **Function**: Ensure reforms actually improve lives
 
-## The World (Supporting Cast)
+## Supporting Characters (AS ACTUALLY WRITTEN)
 
-### The Dispossessed Elite
-- **Profile**: Former rent-seekers losing passive income
-- **Reaction**: Rage, legal challenges, conspiracy theories
-- **Function**: Show stakes of Kaelen's revolution
+### Dr. Elena Vasquez - The Historian (MAJOR ROLE)
+- **Professor of Economic History**, Universidad Complutense Madrid
+- **Archive Project**: "The Kaelen Event - A Documentary History"
+- **Role**: Framing device narrator, collecting testimonies 10 years post-Liberation
+- **Characteristics**: 
+  - Skeptical, acknowledges limitations of sources
+  - "Heinrich Schliemann excavating Troy, armed with a dubious map"
+  - Spent 3 years collecting 43 firsthand accounts
+  - Questions survivor bias, epistemological limits, her own interpretations
+- **Function**: Provides scholarly distance, enables documentary format, embodies historical uncertainty
 
-### The Ascending Middle
-- **Profile**: Workers suddenly owning equity in their companies
-- **Reaction**: Cautious optimism mixed with disbelief
-- **Function**: Demonstrate tangible benefits of reform
+### The Transformation Casualties (Vignette Characters in Cascade Section)
 
-### The Technocratic Class
-- **Profile**: System administrators keeping blockchain running
-- **Reaction**: Professional concern about unauthorized changes
-- **Function**: Technical exposition and systemic tension
+**Rebecca Chen** - Patent Attorney, Boston
+- 23 years expertise in IP law becomes obsolete overnight
+- $850/hour billable rate → part-time community college teacher
+- Arc: Anger → Recognition → Acceptance that her expertise defended dysfunction
 
-### The Global Poor
-- **Profile**: Immediate beneficiaries of patent liberation and debt forgiveness
-- **Reaction**: Quiet gratitude and improved material conditions
-- **Function**: Moral weight of Kaelen's choices
+**Marcus Chen** - Hedge Fund Manager, Westport
+- Crisis arbitrage fund loses 40% when crises disappear
+- Becomes economics professor teaching behavioral finance
+- Realizes markets that work are "boring but functional"
 
-## Family Vignette Characters
+**Sarah Kim** - High-Frequency Trader, Chicago
+- Latency arbitrage opportunities collapse to zero
+- Severed with 2 weeks pay → quantum computing infrastructure maintenance
+- "Markets that work properly are boring"
 
-### Lagos Mother (Amara)
-- **Situation**: Child's fever, expensive antibiotics now affordable
-- **Change**: Medicine patents liberated, prices collapse 90%
-- **Emotional Arc**: Desperation → Relief → Gratitude to unknown benefactor
+**Carlos Mendes** - Housing Trust Manager, São Paulo
+- Managed $8.3B in real estate speculation
+- Properties transfer to resident cooperatives
+- Becomes affordable housing construction coordinator
 
-### São Paulo Couple (Carlos & Maria)
-- **Situation**: Saved for apartment down payment for 8 years
-- **Change**: Real estate trusts dissolved, housing costs plummet
-- **Emotional Arc**: Resignation → Shock → Cautious joy
+**Jake Morrison** - Factory Worker, Ohio
+- Discovers he owns 0.15% of Buckeye Automotive after 23 years
+- Becomes worker-owner, votes on safety equipment
+- First time voting on anything at work
 
-### Ohio Mechanic (Jake)
-- **Situation**: Works for parts manufacturer, struggling with debt
-- **Change**: Suddenly owns shares in company, receives dividends
-- **Emotional Arc**: Confusion → Anger (thinks it's mistake) → Acceptance
+**David Rodriguez** - Health Insurance Executive, Indianapolis
+- 70% pay cut when medical costs collapse to manufacturing costs
+- Becomes community health center navigator
+- Helps Mrs. Patterson get $60 colonoscopy vs. former $6,000
 
-### Mumbai Student (Priya)
-- **Situation**: Brilliant but poor, no access to advanced education
-- **Change**: Blockchain scholarship funded by liquidated Damon assets
-- **Emotional Arc**: Despair → Wonder → Determination
+### The Beneficiaries (Kaelen Met These People)
 
-### Egyptian Farmer (Hassan)
-- **Situation**: Subsistence farming, pays high fees for GMO seeds
-- **Change**: Seed patents moved to commons, costs eliminated
-- **Emotional Arc**: Bitterness → Disbelief → Renewed hope
+**Rosa Dela Cruz** - Care Worker, Manila (Kaelen met her June 2047)
+- Raises 3 grandchildren, watches neighbors' children, cares for elderly mother
+- Before: 9,000 pesos monthly (should be 40,000 by Tallinn Coefficients)
+- After: 38,000 pesos - care work finally measured correctly
+- **In Story**: Kaelen interviews her, later she appears in Day 2 cascade vignette
 
-## Character Questions to Resolve
+**Hassan Al-Masri** - Farmer, Cairo (Kaelen met him 2047)
+- Four generations farming same land
+- Paying 40% of revenue to seed patents for genetics his grandfather improved
+- After Liberation: Farm expands, later pivots to quantum consciousness facility maintenance
+- **In Story**: Kaelen interviews him, he appears in testimony compilation
 
-### Damon
-- What specific events shaped his worldview?
-- How does he rationalize his rent-seeking?
-- What are his genuine accomplishments vs. self-serving myths?
-- How does resurrection affect his psychology?
+**Siti Rahma** - Student, Jakarta (Kaelen met her 2047)
+- 99th percentile mathematical ability, brilliant but poor
+- MIT scholarship blocked by living expenses family can't afford
+- After Liberation: Received scholarship July 3rd, 2050
+- **In Story**: Mentioned in Kaelen's motivation and testimony compilation
 
-### Kaelen
-- What triggered his ideological break from Damon?
-- How does he handle the guilt of murder?
-- What's his endgame beyond redistribution?
-- How does he avoid becoming a new dictator?
+**Amara Okafor** - Healthcare Worker, Lagos (Kaelen met her 2047)
+- Daughter's bacterial fever requires antibiotics: 23,000 naira (3 weeks salary) for medicine that costs 800 naira to manufacture
+- After Liberation: Antibiotics cost 800 naira, daughter survives and thrives
+- **In Story**: Opens framing device as first vignette, appears in testimony compilation
 
-### How Damon Dies
-**NARRATIVE CONSTRAINT: MYSTERY BOX - METHOD NEVER REVEALED**
+**Carlos and Maria Santos** - Workers, São Paulo (Kaelen met them 2047)
+- Saving 8 years for apartment, costs 80% of combined income for 30 years
+- Construction costs 30% of price, rest is "algorithmic real estate speculation"
+- **In Story**: Mentioned in Kaelen's investigation, Maria appears governing algorithms in testimony
 
-**Reader Experience:**
-- Speculation encouraged but never confirmed - method is permanently unknowable
-- Focus stays on systematic implications rather than technical murder details
-- Even Damon never discovers how Kaelen killed him
+**Dr. Priya Srinivasan** - MIT Researcher (NOT Kaelen's meetings - different character)
+- Developing consciousness transfer improvements
+- Before: Locked out of premium Korr datasets by paywalls
+- After: Full access to consciousness research, collaborates globally
+- Arc shown in Day 1 cascade (2 AM discovery) → Month 7 breakthrough
+- **Not the Mumbai student Siti** - different character entirely
 
-**Requirements for Mystery Box:**
-- Must appear natural/accidental during resurrection ceremony
-- Cannot be detected by advanced 2050 medical monitoring systems
-- Timing must align perfectly with smart contract inheritance trigger
-- Method sophisticated enough to be believable for Kaelen's capabilities
-- Leaves no forensic evidence that would compromise Kaelen's position
+## Key Character Beats Actually in Story
 
-**Plot Function:**
-- Mystery preserves Kaelen's safety and operational effectiveness
-- Keeps story focused on systematic transformation rather than murder mechanics
-- Maintains ambiguity about whether readers should sympathize with Kaelen's choice
+### Damon Korr's Arc (AS SHOWN)
+1. **Immortality Announcement** (April 18, 2050, 11:47 AM) - 18 minutes of speech before death
+2. **Resurrection** (April 20, 8:15 AM) - Wakes up, tries to access accounts, discovers dispossession
+3. **Recognition Scene** (reconstructed) - Views sentiment analysis showing humanity happier when he was dead
+4. **Meeting with Kaelen** (April 23, ~3 days post-resurrection) - Confronts nephew, ultimately thanks him
+5. **Final Interview with Elena** (October 2058) - Reflects on systematic obsolescence
+6. **Permanent Death Choice** (October 18, 2058) - Exactly 8 years after first death, chooses to end consciousness backup
+
+### Kaelen Korr's Arc (AS SHOWN)
+1. **Discovery** (March 17, 2047) - Finds vulnerability while researching inheritance law
+2. **First Choice** (March 17, 19 seconds later) - Decides between enrichment and liberation
+3. **Investigation** (June 2047 - Feb 2048) - Travels to 17 countries, meets real people
+4. **Moral Calculation** (April 15, 2048, 2 AM) - Builds Moral Landscape Simulation, chooses assassination
+5. **Preparation** (April 2048 - April 2050) - 86.3 gigawatt-hours of processing, $2.3B cost
+6. **Jewelry Store** (February 2050) - Commissions $15M assassination device
+7. **Execution** (April 18, 2050, 11:47-11:52 AM) - Activates device, 18-minute wait
+8. **Cascade Management** (48 hours) - Authorizes transfers, manages global transformation
+9. **Meeting with Damon** (April 23) - Explains systematic necessity, defends choice
+10. **Disappearance** (After April 23) - Vanishes completely, never seen again
+
+### How Damon Dies (AS ACTUALLY WRITTEN)
+
+**METHOD SHOWN IN STORY:**
+Quantum assassination device disguised as commemorative pin:
+- Built from "quantum-grade sapphires" and platinum setting
+- Cost $15 million, commissioned at Tiffany & Co.
+- Uses Mumbai Protocol's bidirectional quantum entanglement
+- Injects "calibrated decoherence patterns" into Damon's cellular systems
+- Causes cascading failure that appears organic to medical diagnostics
+- Activates via specific muscle twitch, takes exactly 18 minutes to kill
+- Self-erases through thermal decoherence, leaving no forensic signature
+- **Detailed technical explanation**: Lines 505-583 of 01-the-engineers-choice.md
+
+**ACTUAL STORY APPROACH:**
+- Method is explained in Kaelen's preparation section
+- Technical enough to be credible, vague enough to avoid blueprint
+- Focus on timing and systematic implications, not weapon specifications
+- Damon never discovers the method (consistent with plan)

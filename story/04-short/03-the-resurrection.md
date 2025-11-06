@@ -1,5 +1,5 @@
 # Archive Document: The Resurrection
-*April 20, 2050 - 8:15 AM Pacific Time*  
+*April 20, 2050 - 3:47 PM Pacific Time*  
 *Transcribed from Security Footage, BioGenesis Resurrection Chamber One*  
 *San Francisco, California*
 
@@ -7,7 +7,7 @@
 
 The chamber hummed with the precise frequency of molecular reassembly, a sound like ten thousand tuning forks struck in perfect unison. Damon Korr's clone lay motionless on the resurrection table, eighteen months of accelerated growth having produced a body identical to his original at age thirty-five—the age he'd specified for all future returns to life.
 
-Dr. Chen had been awake for forty-eight hours, and it showed. The technicians around her managed subsystems that had never been tested under combat conditions—because that's what unplanned resurrection was. Combat medicine for consciousness itself. What should have been a controlled demonstration of consciousness transfer technology had become humanity's first emergency resurrection, performed under global scrutiny after Damon's unexpected death during his immortality announcement.
+Dr. Chen had been awake for forty-eight hours straight, and it showed. The technicians around her managed subsystems that had never been tested under combat conditions—because that's what unplanned resurrection was. Combat medicine for consciousness itself. What should have been a controlled demonstration of consciousness transfer technology had become humanity's first emergency resurrection, performed under global scrutiny.
 
 "Microtubule quantum coherence at ninety-seven point six percent," announced Dr. Martinez, his voice hoarse from the forty-eight hour procedure. "Orchestrated objective reduction patterns matching archived consciousness baseline."
 
@@ -47,7 +47,11 @@ Damon sat up slowly, examining his hands with the fascination of someone inhabit
 
 Damon nodded, processing the information with characteristic analytical detachment. "So I have no memory of dying."
 
-"None," Dr. Martinez confirmed. "Last backup was six hours before the announcement. Everything after that, we reconstructed from external records."
+"None," Dr. Martinez confirmed. "Last routine backup was seventy-two hours prior—weekly archival. But you created a ceremony-specific backup at eleven hundred hours this morning, forty-seven minutes before taking the stage."
+
+Damon's eyes narrowed slightly. "So the temporal gap is minimal."
+
+"Correct. Forty-seven minutes of memory missing. Everything from final preparation through the collapse itself—we reconstructed from external records and neural pathway analysis."
 
 "Show me."
 
@@ -131,7 +135,7 @@ A pause as the full architecture of the attack became clear. "He needed me alive
 
 He turned toward the gallery, his gaze taking in each witness. "It appears I have a nephew to visit."
 
-At 9:42 AM Pacific Time, one hour and twenty-seven minutes after his first successful resurrection, Damon Korr approached the BioGenesis facility's exit. The biometric scanner hesitated for a moment—his genetic signature identical but carrying trace quantum signatures from the resurrection process that required additional verification—before accepting his identity on the second attempt. The brief delay was subtle but telling.
+At 5:14 PM Pacific Time, one hour and twenty-seven minutes after his first successful resurrection, Damon Korr approached the BioGenesis facility's exit. The biometric scanner hesitated for a moment—his genetic signature identical but carrying trace quantum signatures from the resurrection process that required additional verification—before accepting his identity on the second attempt. The brief delay was subtle but telling.
 
 He left to return to a world that had watched him die claiming immortality and would now struggle to process his return to life.
 
