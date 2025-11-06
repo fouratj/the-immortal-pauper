@@ -190,10 +190,12 @@ Kaelen had rewritten the attribution metadata.
 
 ## PHASE 2: MAJOR STRUCTURAL CHANGES (Do After Phase 1)
 
-### Task 4: Add the 18-Minute Wait Scene (Real-Time)
+### Task 4: Add the 18-Minute Wait Scene (Real-Time) ✅ COMPLETED
 **Priority**: HIGH  
 **Estimated Time**: 3-4 hours  
 **Impact**: +2,000 words (new scene)
+
+**COMPLETED**: Replaced lines 934-956 of 01-the-engineers-choice.md (24 lines summary) with ~445-line present-tense real-time scene (~2,100 words). Security scanner moment, activation sequence, countdown from 18 minutes with physiological details (heart rate 127 BPM, sweating, shaking), memories of chess games, neighbor asking "are you okay?", practiced shock-face deployment, 43-second hesitation before first authorization, ends crying in locked room. Story now has proper climax.
 
 **Why**: This is your story's climax and it currently gets one paragraph. The reader should EXPERIENCE this, not be told about it.
 
