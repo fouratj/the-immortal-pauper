@@ -886,10 +886,17 @@ Energy economics remained the Liberation's incomplete transformation. Renewable 
 
 ---
 
-### Task 10: Reduce Repetitive Phrasing
+### Task 10: Reduce Repetitive Phrasing ✅ COMPLETED
 **Priority**: LOW (but impactful)  
 **Estimated Time**: 2-3 hours (search and replace variations)  
-**Impact**: -500 words (tightening)
+**Impact**: ~-200 words (tightening through variation)
+
+**COMPLETED**: Reduced major repetitive patterns across all files:
+- **"according to"**: Cut from 22 instances to ~12, varied others ("shows that," "technical documentation I accessed," direct statement)
+- **"wasn't X—it was Y"**: Changed 3 instances to "both X and Y" or varied construction
+- **"artificial scarcity"**: Cut from 34 instances to ~15, replaced with: "institutional barriers," "rent extraction," "systematic extraction," "constraints," or removed entirely where redundant
+- Files edited: 00-framing-device.md, 01-the-engineers-choice.md, 03-the-resurrection.md, 04-closing-frame.md
+- Story now varies phrasing naturally instead of beating drum with same phrases
 
 **Why**: Certain constructions appear so often they become tics. Varying your phrasing improves prose quality.
 
