@@ -25,6 +25,8 @@ Work through in order. Complete each task fully before moving to the next.
 **Estimated Time**: 30 minutes  
 **Impact**: -0 words (corrections only)
 
+**COMPLETED**: Changed resurrection from 8:15 AM → 3:47 PM April 20. Math now works: 11:47 AM April 18 + 48 hours = 3:47 PM April 20. Updated in 03-resurrection.md and 04-closing-frame.md.
+
 **Why**: Your timestamps don't work mathematically. This breaks reader immersion and suggests careless editing.
 
 **Current State - The Contradictions:**
@@ -68,6 +70,8 @@ Work through in order. Complete each task fully before moving to the next.
 **Estimated Time**: 20 minutes  
 **Impact**: +100 words (explanation)
 
+**COMPLETED**: Replaced "six hours before" with ceremony-specific backup "47 minutes before." Shows Damon being properly paranoid. Added neural pathway analysis detail. Updated in 03-resurrection.md lines 50-54.
+
 **Why**: Current explanation creates implausible gap that suggests plot convenience.
 
 **Current State:**
@@ -105,6 +109,8 @@ Damon nodded slowly. "So the temporal gap is minimal. Forty-seven minutes of mem
 **Priority**: CRITICAL  
 **Estimated Time**: 2-3 hours  
 **Impact**: +1,500 words (new scene), restructure existing
+
+**COMPLETED**: Added "Elena's Discovery: The Hidden Layer" scene (~1,450 words) to 04-closing-frame.md showing the 2:47 AM revelation. Added forward reference in 01-the-engineers-choice.md line 1000. Included XML metadata code block, recursive attribution backpropagation explanation, geological metaphor, "That's debugging" ending. Also added Chekhov's gun setup in 00-framing-device.md (subtle mention of execution/attribution separation).
 
 **Why**: This is your story's secret weapon and you buried it. Most readers will miss that the wealth redistribution is just the VISIBLE layer—the REAL coup is democratizing algorithmic divinity itself.
 
@@ -333,10 +339,12 @@ They think they're witnessing transcendence.
 
 ---
 
-### Task 5: Cut 60% of Cascade Vignettes
+### Task 5: Cut 60% of Cascade Vignettes ✅ COMPLETED
 **Priority**: HIGH  
 **Estimated Time**: 2 hours (cutting + smoothing)  
 **Impact**: -5,000 words
+
+**COMPLETED**: Deleted Marcus Chen, Sarah Kim (trader), Carlos Mendes, Jake Morrison, David Rodriguez entirely (~4,200 words). Kept Rebecca Chen, Rosa Dela Cruz (improved phone dialogue), Construction Robotics (expanded with detailed cost breakdown). Added two Elena's notes for meta-commentary. Removed surveillance coda from gym scene (replaced with "He never saw her at the gym again"). Net savings: ~5,400 words.
 
 **Why**: Seven vignettes all telling the same story (lost extraction job → adapted → abundance better) numbs readers. Three strong examples would hit harder.
 
@@ -440,10 +448,12 @@ Kaelen hadn't slept in thirty-six hours...
 
 ---
 
-### Task 6: Add Damon-Kaelen Relationship Flashback
+### Task 6: Add Damon-Kaelen Relationship Flashback ✅ COMPLETED
 **Priority**: MEDIUM-HIGH  
 **Estimated Time**: 2-3 hours  
 **Impact**: +800 words (new scene)
+
+**COMPLETED**: Added ~840-word chess scene flashback (2044-2046) to 01-the-engineers-choice.md lines 154-238. Shows Damon teaching Kaelen board-state thinking, whisky drinking, mother's death, guardian relationship, succession planning. Key irony: "Systems must survive their architects." Elena's note: "Killed Damon while loving him." Establishes emotional stakes before investigation.
 
 **Why**: We need to care about the betrayal. Right now Damon barely exists as a character before his death. One concrete scene showing their bond makes the assassination emotionally resonant.
 
