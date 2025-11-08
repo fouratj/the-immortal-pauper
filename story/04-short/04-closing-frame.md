@@ -22,7 +22,7 @@ Damon arrived first, seventeen minutes early. Security footage shows him standin
 
 Kaelen entered at exactly 2:17 PM. He carried a tablet and a thermos of what Damon would later identify as Estonian coffee—an affectation he'd never noticed in his nephew before. The security footage shows them facing each other across the conference table for nine seconds before either spoke.
 
-"Uncle," Kaelen said finally, setting down the thermos with deliberate care—hand-carved Baltic birch, probably Estonian, the kind of artisanal affectation he'd never exhibited before. "Thank you for agreeing to meet."
+"Uncle," Kaelen said finally, setting down the thermos with deliberate care—hand-carved Baltic birch. "Thank you for agreeing to meet."
 
 Damon's expression, according to his later testimony, was "studied neutrality masking volcanic fury." But what he said was: "Show me."
 
@@ -136,55 +136,19 @@ They faced each other across the table—the uncle who'd been killed, the nephew
 
 "Because the alternative was worse!" Kaelen's voice broke completely. "The alternative was you, Uncle. Immortal. Creating an eternal—an eternal aristocracy. Your brilliant, perfect, optimized machine grinding humanity down in perpetuity while telling them it was for their own good."
 
-Damon sat down slowly. Stared at his hands.
+Damon sat down slowly. Stared at his hands. For several seconds, the only sound was the building's climate control system humming in the background.
 
-"I should hate you." He said it finally.
-
-"Yes."
-
-"I should want you arrested. Executed. Erased from history."
-
-"Yes."
-
-"But instead I just..." Damon looked up. His eyes were wet. "I'm proud of you. Catastrophically, inappropriately, absurdly proud. You saw what I couldn't see. Did what I couldn't do. You completed my work by destroying me."
-
-"I didn't want—" Kaelen's voice was ragged. "I wanted you to rage at me. Hate me. Give me what I deserve."
-
-"What you deserve," Damon said, "is to carry this for the rest of your life. The weight of being right about systematic necessity while being morally monstrous about methods. Congratulations. You're the first person in history to kill someone for their own good who was actually correct about it."
-
-They stared at each other.
-
-"I will carry it," Kaelen said. "That's why I'm leaving. After this meeting. Disappearing. Because the person capable of killing you is too dangerous to exist in the world you created."
-
-"The world I created," Damon echoed. "You mean the world you liberated."
-
-"Your world," Kaelen insisted. "Your algorithms, your mathematics, your systematic optimization. I removed one variable. The foundation was always yours."
-
-Damon stood. Extended his hand across the table.
-
-"Thank you," he said.
-
-Kaelen looked at the hand for several seconds before accepting it.
-
-They shook hands across three years of preparation, forty-eight hours of transformation, and the death of immortal aristocracy before it began.
-
-Then Damon turned back to the window, his expression carrying something that might have been acceptance or might have been defeat. "Uncle," Kaelen said—and this was the part Damon would later say still bothered him most—"you built a system that genuinely optimizes for human welfare. I simply removed the single, remaining inefficiency."
-
-"Meaning me," Damon said.
-
-"Meaning the concentration gradient," Kaelen replied, his voice carrying the flat precision of someone discussing fluid dynamics rather than the elimination of human wealth disparity. "You were the bottleneck in your own optimization architecture."
-
-Damon returned to the table, examining the global redistribution projections. "The second-order effects. Insurance industry collapse. Pharmaceutical R&D disruption. Systematic unemployment as rent-seeking sectors vanished overnight—you modeled all of this?"
+Then he returned to the table, examining the global redistribution projections more closely. "The second-order effects. Insurance industry collapse. Pharmaceutical R&D disruption. Systematic unemployment as rent-seeking sectors vanished overnight—you modeled all of this?"
 
 "Down to the individual household level." Kaelen pulled up detailed stabilization projections. "Fourteen months of market oscillations before equilibrium. Global GDP increase of 47% in the first year as patent thickets dissolved and innovation accelerated. Housing costs collapsing to construction plus reasonable profit. Medicine becoming functionally free. Knowledge flowing without artificial barriers."
 
 "You engineered abundance itself."
 
-"I engineered the removal of artificial scarcity. Abundance was always technologically possible. The barriers were institutional, not physical."
+"I engineered the removal of artificial scarcity. Abundance was always technologically possible. The barriers were institutional."
 
-Damon scrolled through the projections, his face shifting from analytical assessment to something approaching awe. "The Tallinn Coefficients. You actually implemented them correctly—care workers earning what care work generates in systematic value."
+Damon scrolled through the projections, his face shifting from analytical assessment to something approaching awe. "The Tallinn Coefficients. You actually implemented them correctly"
 
-"Rosa in Manila now makes 38,000 pesos monthly. Hassan's farm feeds twelve families instead of three. Siti got her MIT scholarship on July 3rd. Amara bought antibiotics for 800 naira instead of 23,000 naira, and her daughter survived." Kaelen's voice remained steady, but something in his posture suggested the emotional weight of those names. "Every system you built worked exactly as designed. They just needed you removed from them."
+"Rosa in Manila now makes 38,000 pesos monthly while the costs of goods has plummted. Hassan's farm feeds twelve families instead of three. Siti got her MIT scholarship on July 3rd. Amara bought antibiotics for 800 naira instead of 23,000 naira, and her daughter survived." Kaelen's voice remained steady, but something in his posture suggested the emotional weight of those names. "Every system you built worked exactly as designed. They just needed you removed from them."
 
 The security footage shows Damon setting down his tablet and walking back to the window. For ninety-seven seconds, he stood silently, watching the bay.
 
@@ -250,13 +214,13 @@ Kaelen's expression shifted—the analytical precision giving way to something m
 
 "The alternative being me," Damon said.
 
-"The alternative being permanent immortal aristocracy extracting tribute from eleven billion humans in perpetuity," Kaelen replied. "You would have lived forever. So would your systematic extraction. The mathematics were becoming immortal."
+"The alternative being permanent immortal aristocracy," Kaelen replied. "You would have lived forever, eventually seeing yourself become a parasite on the human race."
 
 Damon absorbed this in silence. Then he did something the security footage shows clearly: he smiled. Actually smiled, without bitterness or irony.
 
 "You used my own perfectionism against me," he said. "Every system I built to protect my wealth became the vector for its liberation. Every optimization I engineered to preserve my empire became the pathway for its systematic dismantling." He laughed again, this time with something approaching genuine amusement. "That's elegant, Kaelen. Genuinely elegant."
 
-"I learned from the best optimizer in human history."
+"I learned from the best "
 
 "Who optimized himself out of existence." Damon extended his hand across the table. "Thank you."
 
