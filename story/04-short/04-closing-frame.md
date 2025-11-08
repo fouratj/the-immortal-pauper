@@ -22,31 +22,33 @@ Damon arrived first, seventeen minutes early. Security footage shows him standin
 
 Kaelen entered at exactly 2:17 PM. He carried a tablet and a thermos of what Damon would later identify as Estonian coffee—an affectation he'd never noticed in his nephew before. The security footage shows them facing each other across the conference table for nine seconds before either spoke.
 
-"Uncle," Kaelen said finally, setting down the thermos with deliberate care. "Thank you for agreeing to meet."
+"Uncle," Kaelen said finally, setting down the thermos with deliberate care—hand-carved Baltic birch, probably Estonian, the kind of artisanal affectation he'd never exhibited before. "Thank you for agreeing to meet."
 
 Damon's expression, according to his later testimony, was "studied neutrality masking volcanic fury." But what he said was: "Show me."
 
-Kaelen activated the conference room's holographic display. The architecture materialized in the air between them—three years of work rendered in layered visualization. Smart contracts cascading across jurisdictions. Patent releases flowing to commons databases. Housing trust dissolutions. Pharmaceutical licensing protocols. Worker equity transfers. Educational fund distributions.
+Kaelen activated the conference room's holographic display. The architecture materialized in the air between them—three years of work rendered in layered visualization that would have made Edward Tufte weep with professional jealousy. Smart contracts cascading across jurisdictions like dominoes, each toppling precisely as designed. Patent releases flowing to commons databases with the inexorability of water finding its level. Housing trust dissolutions, pharmaceutical licensing protocols, worker equity transfers, educational fund distributions—all color-coded by jurisdiction, all time-stamped to the microsecond, all cross-referenced to the specific legal vulnerabilities that made them simultaneously irreversible and technically lawful.
 
-Every piece individually legal. Together, revolutionary.
+Every piece individually legal. Together, revolutionary. Like the difference between owning nitrogen, glycerin, and sulfuric acid versus owning nitroglycerin.
 
-"I spent 86.3 gigawatt-hours of processing power over three years," Kaelen began, his voice carrying the methodical precision of an engineer presenting technical work. "Analyzed 2.7 billion legal documents across 193 jurisdictions. The computational cost alone was $2.3 billion."
+"I spent 86.3 gigawatt-hours of processing power over three years," Kaelen began, his voice carrying the methodical precision of an engineer presenting technical work at a conference where half the audience wants to give you a prize and the other half wants you prosecuted. "Analyzed 2.7 billion legal documents across 193 jurisdictions. That's roughly four hundred terabytes of legal text—every inheritance protocol, every smart contract specification, every edge case precedent across every blockchain governance system on Earth. The computational cost alone was $2.3 billion, possibly more depending on how you account for the nuclear power I used."
 
 "Which I paid for," Damon said quietly.
 
-"Which you paid for," Kaelen confirmed. "I classified it as 'inheritance law optimization for democratic transparency.' Your own Proof-of-Benefit algorithms approved the expenditure. The system that enriched you financed its own destruction."
+"Which you paid for," Kaelen confirmed. "I classified it as 'inheritance law optimization for democratic transparency.' Your own Proof-of-Benefit algorithms approved the expenditure—87.3% confidence score that the research would yield systematic improvements to governance architecture. Which, technically, it did." He paused. "The system that enriched you financed its own destruction. The machine approved its own dismantling because I described the dismantling in language the machine recognized as optimization."
 
 Damon studied the cascading architecture, his face unreadable. "The forty-eight hour window. You knew exactly how long the resurrection would take."
 
 "Yes. Clone growth requires eighteen months of accelerated growth—but those are prepared in advance, kept in reserve. Decanting—the consciousness transfer into the ready clone—takes forty-eight to seventy-two hours for quantum state reconstruction and neural pathway integration. I modeled it at seventy-three hours, built in margins. It took seventy-three hours and eleven minutes. The models were conservative."
 
-"Conservative," Damon repeated, the word carrying weight. "You killed me with conservative models."
+"Conservative," Damon repeated, the word carrying weight. "You killed me with conservative models. Ninety-nine percent confidence intervals, seven-sigma certainty, whatever terminology makes it feel like engineering instead of murder."
 
-Kaelen met his gaze directly. "I caused temporary death with ninety-nine percent confidence in resurrection success. The one percent probability of permanent death was—"
+Kaelen met his gaze directly. "I caused temporary death with ninety-nine point three percent confidence in resurrection success, based on seventeen prior successful transfers and the specific parameters of your consciousness backup protocols. The one percent probability of permanent death was—" He paused, clearly having rehearsed this justification. "The BioGenesis resurrection success rate across all documented cases was ninety-nine point one percent. Your protocols were superior—custom neural mapping, quantum state preservation beyond standard specifications, redundant backups across three separate facilities. I wasn't guessing. I was calculating expected outcomes based on empirical data."
 
-"Was murder," Damon interrupted. "Don't sanitize it. You accepted a one percent chance of actually killing me. That's not systems engineering. That's assassination with acceptable failure rates."
+"Was murder," Damon interrupted. "Don't sanitize it with statistics. You accepted a non-zero probability of actually killing me. You ran the numbers, saw 'point-seven percent chance of permanent death,' and decided that was an acceptable risk to take with someone else's life. That's not systems engineering. That's assassination with acceptable failure rates." He leaned forward. "Do you know what that's called in every legal framework we've ever developed? It's called depraved indifference. You can kill someone through recklessness even if you don't intend their death. Point-seven percent isn't zero."
 
-A silence stretched between them. The security footage shows Kaelen's hand moving toward the thermos, then stopping. "Yes," he said finally. "Assassination. The weight of that word is appropriate even if the technical definition is ambiguous."
+A silence stretched between them. The security footage shows Kaelen's hand moving toward the thermos, then stopping. His fingers drummed once against the Baltic birch—a tell Damon had seen a thousand times when his nephew was working through uncomfortable logic.
+
+"Yes," Kaelen said finally. "Assassination. The weight of that word is appropriate even if the technical definition is ambiguous. I accepted a point-seven percent probability of committing actual murder in exchange for a ninety-nine point three percent probability of achieving systematic transformation. Those were the odds. I ran them repeatedly, tried to find alternatives that didn't require killing you even temporarily, couldn't find any that worked within the available time window. So yes—depraved indifference, if you want the legal term. I was indifferent to a small probability of your permanent death because I believed the expected value of the outcome justified the risk."
 
 Damon turned back to the holographic display, watching patent releases propagate across the global commons. "When did you decide?"
 
@@ -96,23 +98,23 @@ Then he stands. Walks to the window. Stands there for twenty-three seconds.
 
 When he turns back, his face has changed.
 
-"You killed me." Damon's voice cracked—not the controlled analytical voice. Something rawer. "Not theoretically. Not—not systematically. You looked at me—" His hands shook for the first time in years. "Your uncle. Who raised you. After your mother—after the accident. Who taught you chess. Paid for Stanford. Trusted you with everything. And you—you decided I needed to die."
+"You killed me." Damon's voice cracked—not the controlled analytical voice he'd used to address four billion humans, not the measured tone that had defined two decades of congressional testimony and board presentations. Something rawer. "Not theoretically. Not—not systematically. You looked at me—" His hands shook for the first time in years, trembling the way they hadn't even during the 2043 market crash when three trillion dollars evaporated in four minutes. "Your uncle. Who raised you. After your mother—after the accident. Who taught you chess. Paid for Stanford. Trusted you with everything—gave you access to systems that could have made you richer than Croesus without needing to murder anyone. And you—you decided I needed to die."
 
-Kaelen's face remained still.
+Kaelen's face remained still, the same expression Damon had seen across a thousand chess boards when his nephew was calculating seven moves ahead.
 
-"For forty-eight hours I was nothing." The words came faster now, angrier. "Discontinued. Not sleeping—GONE. Erased. And you did that. You planned it for three years. Three fucken years! You sat in my office. Ate at my table. Smiled at me while mapping every asset I owned so you could take it the second—the second my heart stopped."
+"For forty-eight hours I was nothing." The words came faster now, angrier, the affect regulation failing in ways that would have horrified the man who'd given the immortality speech. "Discontinued. Not sleeping—GONE. Erased. You know what the last thing I remember is? Standing on that stage, telling four billion humans that death was optional, that I'd solved humanity's final problem. Peak of human achievement. And the next memory I have is waking up in a resurrection chamber seventy-three hours later to discover my nephew—my sister's son, who I raised like my own—had spent those seventy-three hours systematically dismantling everything I'd built. You did that. You planned it for three years. Three fucken years! Three years! While you sat in my office discussing inheritance protocols. Ate at my table—Christmas dinner, Thanksgiving, my birthday—smiled at me while mapping every asset I owned, every patent I controlled, every legal vulnerability in my empire, so you could take it all the second—the second my heart stopped. The millisecond the blockchain confirmed death, you triggered cascades I'd spent twenty years constructing."
 
 "Yes," Kaelen said quietly.
 
-"YES?" Damon's voice climbed. "That's your—that's it? YES? Do you understand what you—" He stopped. Pressed his hands against the table. "I was dead, Kaelen. Dead. I died thinking I was the first immortal. That I'd—that I'd conquered humanity's final limitation. And I woke up to discover my own nephew had made me the world's most perfect fool."
+"YES?" Damon's voice climbed toward something between rage and anguish. "That's your—that's it? YES? Do you understand what you—" He stopped. Pressed his hands against the table hard enough that his knuckles went white. "I was dead, Kaelen. Actually dead. Not backed up to some cloud server checking email. Dead. I died thinking I was the first immortal. That I'd—that I'd conquered humanity's final limitation. Solved death itself. The thing that's killed every human who ever lived—Alexander, Caesar, Napoleon, every genius and emperor and god-king who thought they were special—I'd actually beaten it. And I woke up to discover my own nephew had made me the world's most perfect fool. 'The First Immortal, Who Died Richer Than Nations and Resurrected Poorer Than Peasants.' That's how the headlines read. Do you know what that feels like?"
 
-The security footage shows Kaelen's mask cracking. Just for a second.
+The security footage shows Kaelen's mask cracking. Just for a second. A micro-expression that the facial recognition software would later flag as matching the psychological literature's classification for "grief mixed with conviction."
 
-"I didn't want to." His voice broke on the words.
+"I didn't want to." His voice broke on the words—the same breaking pattern he'd exhibited at his mother's funeral fourteen years ago, the last time Damon had seen his nephew cry.
 
 "Then WHY?"
 
-"Because you were brilliant and blind and you were going to be brilliant and blind FOREVER." Kaelen stood now too, facing his uncle across the table. "You built a perfect system for measuring contribution and then—then configured it to extract tribute from eleven billion people in perpetuity. And you couldn't see it. You surrounded yourself with people who benefited from the extraction or—or loved you too much to force you to look."
+"Because you were brilliant and blind and you were going to be brilliant and blind FOREVER." Kaelen stood now too, facing his uncle across the table, and now his voice carried the intensity of three years of preparation and forty-eight hours of execution and whatever moral calculus had convinced him this was justified. "You built a perfect system for measuring contribution and then—then configured it to extract tribute from eleven billion people in perpetuity. Point-three percent of all global economic activity, compounding annually, forever. And you couldn't see it. You surrounded yourself with people who benefited from the extraction or—or loved you too much to force you to look. Every time I showed you data from Manila, from Lagos, from Cairo—Rosa earning nine thousand pesos instead of forty thousand, Hassan paying forty percent of his revenue to patents on wheat his grandfather improved, Amara's daughter nearly dying because antibiotics cost twenty-three thousand naira instead of eight hundred—you explained it away. Implementation problems. Local conditions. Growing pains. You had a doctorate in economics and another in computer science, which meant you could generate arbitrarily sophisticated explanations for why systematic extraction was actually systematic optimization if only people implemented it correctly."
 
 "Democratic validation—"
 

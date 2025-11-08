@@ -223,31 +223,33 @@ Kaelen suspected otherwise. But before he could investigate those suspicions, be
 
 ---
 
-"Lawyer thinking," Damon said, moving his queen to c4.
+"Lawyer thinking," Damon said, moving his queen to c4—a move that looked aggressive but was actually setting up something three moves ahead that Kaelen couldn't quite see yet.
 
-They sat in Damon's study overlooking San Francisco Bay, chess board between them, evening light turning the water gold. Kaelen had been thinking about this move for three minutes. That was his weakness—he overthought positions instead of seeing patterns.
+They sat in Damon's study overlooking San Francisco Bay, chess board between them, evening light turning the water gold in ways that reminded Kaelen of the Renaissance paintings Damon collected—Titian's use of Venetian light, all that accumulated cultural knowledge about how gold hour transforms water into something that looks more valuable than it physically is. Kaelen had been thinking about this move for three minutes, which his uncle had once told him was two minutes and thirty seconds too long for a position this simple. That was his weakness—he overthought positions instead of seeing patterns. Like he was reading the bytecode instead of understanding the high-level algorithm.
 
-"The knight fork." Kaelen moved his piece finally.
+"The knight fork." Kaelen moved his piece finally, confident he'd found a tactic Damon hadn't seen.
 
-"Takes the bishop." Damon was already calculating ahead. "Loses the game." Five moves later, he demonstrated: Kaelen's position collapsed despite the material advantage.
+"Takes the bishop." Damon was already calculating ahead, not even looking at the board anymore. "Loses the game in five. Do you see it?"
+
+Kaelen studied the position. Shit. He saw it. The queen on c4 wasn't attacking—it was controlling diagonal escape routes. The knight fork won material but ceded board control. Five moves later, Damon demonstrated without comment: Kaelen's position collapsed despite the material advantage, every piece perfectly placed to achieve nothing useful.
 
 Kaelen reset the pieces. "Again."
 
-"You're twenty-three. Most people your age can't see three moves ahead." Damon poured them both whiskey—Lagavulin, sixteen-year, which Kaelen was just learning to appreciate. "You see seven. Stop trying for nine."
+"You're twenty-three. Most people your age can't see three moves ahead—they're still pattern-matching against cached positions from beginner chess, playing what looks good rather than calculating what works." Damon poured them both whiskey—Lagavulin, sixteen-year, which Kaelen was just learning to appreciate. The Islay single malt that tasted like someone had distilled peat smoke and sea salt and somehow convinced you to pay two hundred dollars for the privilege of drinking it. "You see seven moves ahead. Stop trying for nine."
 
 "You see twelve."
 
-"I've been playing longer." Damon settled back. "That's not the difference though. You're optimizing locally. I'm optimizing board states."
+"I've been playing longer. Forty-three years since my father taught me the scholar's mate, which is how every Korr learns chess—by getting crushed with the same four-move checkmate until they learn to actually look at the board instead of just moving pieces randomly." Damon settled back into his leather chair, the kind of chair that probably cost more than a used car and looked like it had been engineered by people who understood ergonomics at the level of individual vertebrae. "But that's not the difference though. The difference isn't calculation depth. You're optimizing locally—winning material, accumulating tactical advantage, making moves that look good when evaluated in isolation. I'm optimizing board states."
 
-Kaelen sipped. Smoke and peat and something almost medicinal. "Meaning?"
+Kaelen sipped. Smoke and peat and something almost medicinal, like someone had distilled the concept of "expensive Scottish island" into liquid form. "Meaning?"
 
-"You want to win material. Capture pieces, accumulate advantage. Lawyer thinking—individual transactions, local optimizations." Damon gestured at the board. "System thinking asks: what board state makes my victory inevitable? What configuration means your best moves still lead to my win?"
+"Meaning you want to win material. Capture pieces, accumulate advantage, count up the points—bishop worth three, rook worth five, queen worth nine. That's lawyer thinking. Individual transactions, local optimizations, making sure each move generates positive expected value when evaluated on its own merits." Damon gestured at the board, at the pieces still smoldering from the systematic demolition he'd just demonstrated. "System thinking asks: what board state makes my victory inevitable? What configuration means your best moves still lead to my win? It's not about the pieces you capture—it's about the positions you deny. Control the center, restrict your opponent's king, create pawn chains that lock in advantage for the endgame. Then it doesn't matter if you're down material. The structure is unassailable."
 
-Kaelen studied the position. Something about the pawn structure locking in advantage...
+Kaelen studied the position, really studied it this time. Something about the pawn structure, the way it locked in advantage while appearing to concede...
 
-"That's what the Proof-of-Benefit algorithms do."
+"That's what the Proof-of-Benefit algorithms do," he said, slowly, working through the isomorphism as he spoke.
 
-Damon's eyes lit up—the look he got when someone understood. "Exactly. Don't measure individual contributions. Measure board states. Create conditions where beneficial contributions emerge naturally because the incentive structure makes them inevitable."
+Damon's eyes lit up—the look he got when someone understood, really understood, not just nodded along but actually mapped the deep structure across domains. "Exactly! You get it. Don't measure individual contributions like you're counting captured pieces. Measure board states. Create conditions where beneficial contributions emerge naturally because the incentive structure makes them inevitable. You don't need to tell people to be generous or collaborative or innovative—you just configure the payoff matrices so that selfish optimization leads to collective benefit. Adam Smith's invisible hand, except actually implemented with mathematical rigor instead of just waving your hands about butchers and bakers."
 
 "And your First Citizen attribution..."
 
@@ -355,31 +357,31 @@ Which left the harder question: did that justify assassination?
 
 One meeting stuck with Kaelen months later. Dr. Patricia Reyes, Chief Innovation Officer at PharmaCorp Asia Pacific, had agreed to discuss patent protection frameworks. She met him in her corner office overlooking Manila Bay, confident and articulate in her defense of intellectual property.
 
-"Without exclusivity—" she pulled up market data on holographic displays "—there's no incentive to invest in drug development. Billions to bring a medication to market. Clinical trials, regulatory approval, safety monitoring—"
+"Without exclusivity—" she pulled up market data on holographic displays, showing development cost curves that looked like they'd been designed to justify exactly the conclusions PharmaCorp needed them to justify "—there's no incentive to invest in drug development. Billions to bring a medication to market. Phase one clinical trials cost three hundred million, phase two costs eight hundred million, phase three costs two billion if you're lucky. Add regulatory approval, safety monitoring, post-market surveillance, and you're looking at four point five billion dollars to bring a single medication from discovery to prescription. Without twenty years of patent exclusivity to recoup that investment, the whole model collapses."
 
-"Knowledge is the only thing you can give away and still keep." Kaelen leaned forward. "Share a drug formula, you don't lose it—you get everyone else's improvements back. Not quite infinite, thermodynamics is still a bitch, but close enough."
+"Knowledge is the only thing you can give away and still keep." Kaelen leaned forward, matching her intensity. "It's non-rivalrous in the economic sense—my consumption doesn't reduce your supply. Share a drug formula, you don't lose it. You still have the formula, except now you also get everyone else's improvements back. Network effects. Metcalfe's law applied to molecular biology. Not quite infinite—thermodynamics is still a bitch, entropy always wins—but close enough that hoarding it is probably the dumbest possible strategy."
 
-Dr. Reyes smiled with practiced patience. "Theoretical. In practice, pharmaceutical companies need revenue models to justify R&D. Without patent protection, innovation collapses."
+Dr. Reyes smiled with practiced patience, the smile that senior executives deploy when a smart junior person says something that sounds clever but misses how the real world actually works. "Theoretical. Beautiful in principle, unworkable in practice. Pharmaceutical companies need revenue models to justify R&D investment. Without patent protection, innovation collapses. We've modeled this extensively—commons-based drug development can't generate the capital required for modern molecular medicine."
 
-"In practice—" Kaelen opened his tablet "—every major medical breakthrough was built on commons knowledge. Pasteur didn't patent germ theory. Jonas Salk refused to patent the polio vaccine. When asked who owned it? 'The people. Could you patent the sun?' Watson and Crick couldn't patent DNA structure. The big discoveries that actually saved lives? Those spread fastest because nobody was hoarding them."
+"In practice—" Kaelen opened his tablet, pulling up a century of pharmaceutical history "—every major medical breakthrough was built on commons knowledge. Pasteur didn't patent germ theory even though it revolutionized medicine. Jonas Salk refused to patent the polio vaccine—when Edward R. Murrow asked him who owned it, he said 'The people, I would say. Could you patent the sun?' Watson and Crick couldn't patent DNA structure. Fleming didn't patent penicillin, which probably saved more lives than any other single discovery in human history. The big discoveries that actually saved lives? Those spread fastest because nobody was hoarding them. The knowledge compounded. Every researcher building on every previous breakthrough without needing to navigate licensing agreements or pay tribute to previous discoverers."
 
-"Those were different times."
+"Those were different times. Simpler science, lower costs—"
 
-"No." Kaelen said it quietly. "Those were times when scientists understood what knowledge actually is. The only process that generates value instead of just moving it around. You're not incentivizing innovation. You're bottling it up."
+"No." Kaelen said it quietly, but with enough conviction that Dr. Reyes actually stopped mid-sentence. "Those were times when scientists understood what knowledge actually is. The only process that generates value instead of just moving it around. Information isn't food—when I give you food, I have less food. When I give you an idea, we both have the idea, and the probability that one of us will improve upon it has doubled. You're not incentivizing innovation. You're bottling it up. You're spending billions generating insights and billions more making sure nobody else can use them."
 
 Dr. Reyes set down her stylus. "You're suggesting we just... give away decades of research? Billions in investment?"
 
-"I'm suggesting every dollar you spend keeping others from using your discoveries is a dollar not spent on actual new discoveries. Patents don't create knowledge—they create barriers to it." He pulled up pharmaceutical innovation data. "Drug development cycles: twenty-three years average from discovery to market. We've got AI that can model molecular interactions down to individual bond angles. Unlimited compute. Still takes two decades? Because eighteen of those years are legal warfare. Patent thickets. Competitors filing defensive blocks. The AI can design a malaria cure in six months. Then seventeen years of lawyers arguing about whether targeting the P. falciparum protease infringes on seventeen other patents for 'similar biological pathways.' The compute is infinite. The law is choking us."
+"I'm suggesting every dollar you spend keeping others from using your discoveries is a dollar not spent on actual new discoveries. Patents don't create knowledge—they create barriers to it." He pulled up pharmaceutical innovation data, charts showing the gap between theoretical innovation rates and actual drug approvals widening like a chasm. "Drug development cycles: twenty-three years average from discovery to market. We've got AI that can model molecular interactions down to individual bond angles, simulate protein folding in real-time, predict side effects before synthesizing a single molecule. We have effectively unlimited compute—nuclear fusion power, quantum processors, distributed networks spanning continents. Still takes two decades? Because eighteen of those years are legal warfare. Patent thickets. Competitors filing defensive blocks. Licensing negotiations that require three hundred hours of billable legal time just to determine if you're allowed to build on someone else's work. The AI can design a malaria cure in six months—I've seen it done, DeepMind published the protein structure predictions last year. Then seventeen years of lawyers arguing about whether targeting the P. falciparum protease infringes on seventeen other patents for 'similar biological pathways.' The compute is infinite. The law is choking us. We're CPU-bound on innovation because all our cycles are being spent on legal DRM checks."
 
-"Competitive intelligence—"
+"Competitive intelligence—" Dr. Reyes started, but her voice carried less conviction now.
 
-"—is burning knowledge." Kaelen finished the sentence. "Billions generating insights. Billions more making sure nobody else can use them."
+"—is burning knowledge." Kaelen finished the sentence, leaning forward with an intensity that surprised even him. "Billions generating insights. Billions more making sure nobody else can use them. You have PhD researchers spending forty percent of their time on patent searches instead of actual research. You have entire departments dedicated to filing defensive patents on molecules you'll never develop, just to prevent competitors from developing them. It's the tragedy of the commons in reverse—you're artificially making knowledge scarce when scarcity is literally impossible for information. The marginal cost of copying a drug formula is zero. You're spending billions maintaining artificial scarcity on something that wants to be abundant."
 
-Dr. Reyes stood, walked to her window. Thirty seconds of silence.
+Dr. Reyes stood, walked to her window overlooking Manila Bay. Cargo ships moving between nations, carrying physical goods subject to actual scarcity. Thirty seconds of silence while she stared at something Kaelen couldn't see.
 
-"Those children in Tondo. The ones who can't afford our antibiotics." Her voice cracked slightly. "You think I don't know they exist? You think I don't care? I got into this field to help people. But I work inside a system that requires profits to survive. Patent protection isn't cruelty—it's economic reality."
+"Those children in Tondo." Her voice cracked slightly, the executive polish failing in ways that made her suddenly seem human rather than institutional. "The ones who can't afford our antibiotics. You think I don't know they exist? You think I don't care?" She turned to face him. "I got into this field to help people. Molecular biology degree from Stanford, PhD in pharmacology from Hopkins, fifteen years in drug development. I wanted to save lives. But I work inside a system that requires profits to survive. Patent protection isn't cruelty—it's economic reality. It's how capitalism works when you're trying to develop medications that cost billions and might fail in phase three trials after you've already spent two billion dollars."
 
-"Economic reality is whatever we build it to be." Kaelen said it softly. "Jonas Salk proved that. Polio got eradicated because he chose to give it away."
+"Economic reality is whatever we build it to be." Kaelen said it softly, standing up to meet her gaze at window level. "It's not physics. It's not thermodynamics. Economic systems are human constructions, which means we can build them differently. Jonas Salk proved that. Polio got eradicated because he chose to give it away—refused the patent, let every country manufacture the vaccine without paying tribute. By 1994, polio was gone from the Western Hemisphere. Not because of patent incentives. Because knowledge spread faster than disease."
 
 He closed his tablet and stood. "Thank you for your time, Dr. Reyes. I appreciate your honesty."
 
@@ -397,33 +399,35 @@ The resurrection clause triggered upon biometric reactivation, not legal declara
 
 His phone buzzed. He ignored it. Fourth time this week someone had tried calling during his run. If civilization could survive two thousand years without instant communication, it could survive thirty minutes while he thought.
 
-The woman on the treadmill next to him kept glancing over. Finally she spoke: "You always run 5.2 miles?"
+The woman on the treadmill next to him kept glancing over. Finally she spoke: "You always run exactly 5.2 miles?"
 
-Kaelen didn't break stride. "Optimal distance for sustained cardiovascular benefit without overtraining injury risk."
+Kaelen didn't break stride, maintaining his 7:43 per mile pace with the consistency of a metronome. "Optimal distance for sustained cardiovascular benefit without overtraining injury risk. Studies show peak aerobic adaptation occurs between thirty and forty minutes at seventy to eighty percent of maximum heart rate. Five-point-two miles at my pace hits thirty-eight minutes. Efficient."
 
-"That's... very specific."
+"That's... very specific." Her tone carried the amusement of someone watching someone else overthink something recreational.
 
-"Most things worth doing are." He increased the incline, watching his heart rate climb to 156 BPM. "You always start conversations with strangers mid-workout?"
+"Most things worth doing are." He increased the incline by two degrees, watching his heart rate climb to 156 BPM on the display—roughly seventy-eight percent of his calculated maximum, assuming the 220-minus-age formula was accurate, which it probably wasn't but worked well enough for rough calibration. "You always start conversations with strangers mid-workout?"
 
-She laughed. "Only with the guy who's been running next to me at 6 AM for three months and never once varied his routine by even thirty seconds."
+She laughed. "Only with the guy who's been running next to me at 6 AM for three months and never once varied his routine by even thirty seconds. You realize you're like clockwork, right? Show up at 5:58, start running at 6:00, finish at 6:38, leave by 6:42. I could set my watch by you. Except I don't need to because my watch is already perfectly synchronized."
 
-Kaelen checked his pace. Mile 3.7. Twelve minutes remaining. Could he model the cascade timing while maintaining conversation? Probably not. Social interaction required frontal cortex resources he'd allocated to legal architecture.
+Kaelen checked his pace. Mile 3.7. Twelve minutes remaining. Could he model the cascade timing while maintaining conversation? Probably not. Social interaction required frontal cortex resources he'd allocated to legal architecture—working memory for tracking conversational context, theory-of-mind circuits for modeling what she knew versus what he knew, emotional regulation to maintain appropriate affect. All bandwidth he needed for inheritance protocol edge cases.
 
-"I like consistency," he said finally.
+"I like consistency," he said finally, which was both true and massively understating the degree to which he'd optimized every routine in his life to free up cognitive resources for the assassination planning.
 
-"I noticed." She wiped sweat from her face. "I'm Sarah."
+"I noticed." She wiped sweat from her face with a towel that had some kind of fitness brand logo he didn't recognize. "I'm Sarah."
 
-"Kaelen." Mile 4.2. Eight minutes.
+"Kaelen." Mile 4.2. Eight minutes. The name felt weird to say out loud, like it belonged to someone who wasn't currently planning systematic wealth redistribution across eleven billion humans.
 
-"What do you do, Kaelen?"
+"What do you do, Kaelen?" Standard question. Normal social protocol. Occupation as identity marker.
 
-He almost laughed. *I'm planning to assassinate my uncle and redistribute trillions of dollars.* "Legal research. Estate planning. Inheritance protocols."
+He almost laughed. *I'm planning to assassinate my uncle, the richest man in history, and redistribute trillions of dollars through a vulnerability in Estonian inheritance protocols that nobody else has discovered yet.* "Legal research. Estate planning. Inheritance protocols. Computational law, mostly—modeling how legal frameworks interact with algorithmic governance systems."
 
-"Sounds fascinating," she said, in a tone that suggested the opposite.
+"Sounds fascinating," she said, in a tone that suggested the opposite. The tone that meant "sounds incredibly boring but I'm being polite."
 
-Mile 5.0. Two minutes. The cascade timing required precise synchronization across jurisdictions. If even one major market delayed verification—
+Mile 5.0. Two minutes. The cascade timing required precise synchronization across jurisdictions. If even one major market delayed verification by more than six hours, the reversal protocols might engage before the redistributions completed. He needed to model latency across all 193 governance systems, account for Byzantine failures, simulate what happened if—
 
-"Maybe we could grab coffee sometime?" Sarah asked. "I mean, if you can fit it into your calibrated schedule."
+"Maybe we could grab coffee sometime?" Sarah asked. "I mean, if you can fit it into your calibrated schedule. I promise to show up at the exact minute you specify and leave at the precise second you've allocated for social interaction."
+
+She was teasing him. Gentle mockery of his rigidity. Under other circumstances, he might have found it endearing.
 
 Kaelen reached mile 5.2, hit stop, and stepped off the treadmill in one smooth motion. He grabbed his towel, pulled up his mental calendar.
 

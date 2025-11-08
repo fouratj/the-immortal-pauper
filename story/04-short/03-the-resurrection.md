@@ -35,9 +35,9 @@ Dr. Chen initiated the awakening sequence, her gesture activating embedded neura
 
 Damon Korr opened his eyes.
 
-"Status report." His voice was identical to the one that had addressed the world forty-eight hours earlier. Even in resurrection, his first instinct was assessment and control. The man had died and returned and his personality had survived the transfer precisely because it was the kind of personality that wouldn't let death interfere with situational awareness.
+"Status report." His voice was identical to the one that had addressed the world forty-eight hours earlier—same timbre, same cadence, same unconscious habit of clipping consonants that three generations of Korrs had exhibited, according to the family's genealogical voice analysis. Even in resurrection, his first instinct was assessment and control. The man had died and returned and his personality had survived the transfer precisely because it was the kind of personality that wouldn't let death interfere with situational awareness. Which was, Dr. Chen reflected, either the strongest possible validation of the Mumbai Protocol's efficacy or evidence that Korr's control-orientation was so deeply embedded in his neural architecture that it had survived being reduced to quantum state vectors and reconstituted from scratch.
 
-"Resurrection successful, Mr. Korr." Dr. Chen replied, though her tone carried none of the celebration she'd imagined when she dreamed about resurrecting the dead. "All cognitive and physical parameters nominal. Welcome back."
+"Resurrection successful, Mr. Korr." Dr. Chen replied, though her tone carried none of the celebration she'd imagined during her PhD defense five years ago when she'd dreamed about this exact moment—bringing someone back from actual, certified death. "All cognitive and physical parameters nominal. Microtubule quantum coherence stable at ninety-seven point six percent, which is actually higher than your baseline from the last backup. Synaptic integration complete. The Penrose-Hameroff orchestrated reduction patterns match your archived consciousness within point-zero-three standard deviations." She paused, realizing she was babbling technical details because she didn't know what else to say to someone who'd just returned from death. "Welcome back."
 
 Damon sat up slowly, examining his hands with the fascination of someone inhabiting a familiar yet foreign body. The familiarity of the gesture was somehow unsettling—as if his consciousness carried embedded routines for evaluating newly integrated biological substrates.
 
@@ -57,9 +57,9 @@ Damon's eyes narrowed slightly. "So the temporal gap is minimal."
 
 Dr. Chen activated a holographic display showing edited footage from the global broadcast: Damon declaring his immortality, positioning himself as humanity's permanent steward, then collapsing eighteen minutes into the most-watched speech in history. The watching Damon observed his own death with the dispassionate attention of a technician reviewing system failure logs.
 
-"Cause of death?" he asked.
+"Cause of death?" he asked, with the mild curiosity of someone reviewing a technical specification rather than their own mortality.
 
-"Cascading cellular integrity failure," Dr. Chen replied, consulting her medical tablet. "Initial presentation suggested cardiac arrest, but post-mortem analysis revealed sequential organ system failures occurring in randomized patterns. The pathology was... unusual. Each failure mode triggered our diagnostic nanobots to initiate targeted repairs, but the cellular damage would shift to different organ systems before repairs could complete. Respiratory distress, then hepatic dysfunction, then neurological symptoms—as if the causative agent was specifically designed to exploit the response protocols of our medical AI."
+"Cascading cellular integrity failure," Dr. Chen replied, consulting her medical tablet. "Initial presentation suggested cardiac arrest—standard inferior wall MI pattern, ST elevation in leads II, III, aVF. But post-mortem analysis revealed sequential organ system failures occurring in randomized patterns that don't match any known pathology. The diagnostic nanobots—Shimizu Medical's Gen-7 molecular surgeons, the same ones that handled the Singapore Prime Minister's stroke last year—couldn't establish a stable treatment protocol. Each failure mode triggered adaptive response: cardiovascular collapse prompted emergency vasopressor synthesis, hepatic dysfunction triggered metabolic shunt protocols, neurological symptoms initiated direct cortical stimulation. Textbook responses, perfectly executed. Except the cellular damage kept shifting to different organ systems before repairs could complete. It was like—" She paused, trying to find the right metaphor. "You know how computer security works? How modern firewalls adapt to threats? This was like watching a hacker who knew exactly how our firewall would adapt, staying one step ahead of every countermeasure. The nanobots conferred with each other in microsecond bursts, building consensus models of the emergency, only to watch those models become obsolete as new failure patterns emerged. Respiratory distress, then hepatic dysfunction, then neurological symptoms—as if the causative agent had read the medical AI's source code and designed itself to be systematically invisible."
 
 Damon rose from the resurrection table, accepting clothes from a technician. His movements carried the same confident precision.
 
@@ -170,11 +170,15 @@ In April 2050, twelve witnesses watched humanity's first immortal discover that 
 
 **DR. VASQUEZ**: Eight years have passed since the Liberation. How do you reflect on those events now?
 
-**DAMON**: Kaelen didn't hack my system. He completed it. I built a machine for optimal resource allocation, and the machine determined that I was the suboptimal resource. *[Stares out window at construction cranes]* Those cranes are building housing that costs what materials and labor actually cost. Eight years ago, artificial scarcity added 300% markups. Today, a construction worker can afford to buy the apartments he builds. The system I built wasn't corrupted by Kaelen—it was perfected by him.
+**DAMON**: *[Long pause, approximately nine seconds]* Kaelen didn't hack my system. He completed it. Which is—that's the thing that keeps me awake, what's left of the nights when I bother sleeping. I built a machine for optimal resource allocation, and the machine determined that I was the suboptimal resource. *[Stares out window at construction cranes]* You see those cranes? They're building housing that costs what materials and labor actually cost—maybe fifteen percent premium for coordination complexity, contractor overhead, the usual transaction friction. Eight years ago, artificial scarcity added three hundred percent markups. Land speculation, zoning arbitrage, investment vehicle optimization—all the sophisticated terms we used to describe rent extraction. Today, a construction worker can afford to buy the apartments he builds. Not through charity or subsidy, just because the price reflects actual costs instead of systematic exploitation. *[Pause]* The system I built wasn't corrupted by Kaelen—it was perfected by him. He debugged my architecture by removing its primary inefficiency. Me.
 
-**DR. VASQUEZ**: But you lost everything.
+**DR. VASQUEZ**: But you lost everything. Two-point-three percent of global economic activity—trillions of dollars. You went from being history's first multi-trillionaire to... what? Comfortable middle class?
 
-**DAMON**: I lost everything I'd accumulated, yes. But accumulation was the problem. Kaelen understood something I'd missed: he used my own mathematics against me. When my algorithms measured my activities with perfect objectivity, they concluded my wealth extraction was inefficient compared to commons distribution. My own values condemned me. *[Dry laugh]* Murdered by philosophy.
+**DAMON**: I lost everything I'd accumulated, yes. *[Touches his coffee cup, doesn't drink]* But accumulation was the problem. That's what took me—Christ, probably five years to actually accept. Kaelen understood something I'd missed, something so obvious in retrospect that I'm embarrassed it required assassination for me to see it. He used my own mathematics against me. When my algorithms measured my activities with perfect objectivity—when the Proof-of-Benefit calculations I'd designed were applied to me with the same rigor I'd applied to everyone else—they concluded my wealth extraction was inefficient compared to commons distribution. My own values condemned me. *[Dry laugh]* Murdered by philosophy. By my own philosophy, executed against me with the same precision I'd used to justify extracting tribute from eleven billion humans.
+
+**DR. VASQUEZ**: That's a remarkable degree of self-awareness for someone who—
+
+**DAMON**: —who built the most elegant rent-extraction mechanism in human history? You can say it. I've spent eight years examining my own systematic failure. The conclusion is mathematically elegant: I was never the solution to humanity's optimization problem. I was the obstacle that needed to be removed.
 
 **DR. VASQUEZ**: When did you realize this?
 
@@ -203,13 +207,13 @@ In April 2050, twelve witnesses watched humanity's first immortal discover that 
 
 *[Interviewed in her apartment, holding her six-year-old daughter Kemi]*
 
-The fever started on a Tuesday. Kemi was burning up, and I knew it was bacterial—the kind that needs real antibiotics, not the generics that barely work. Before June, that prescription would have cost me three weeks' salary. Three weeks of not eating properly so my daughter could live.
+The fever started on a Tuesday. Kemi was burning up—forty point two Celsius, which is when you know it's serious. Not viral, not something that resolves on its own. Bacterial. The kind that needs real antibiotics, not the generics that barely work because they're manufactured to the minimum acceptable specification. Before June, that prescription would have cost me three weeks' salary. Three weeks of not eating properly so my daughter could live. That's the trade-off the old system forced on mothers like me—your nutrition or your child's life. Not complicated mathematics.
 
-I walked to the pharmacy expecting to leave with nothing, maybe beg for payment terms. The pharmacist—Mr. Adebayo, who'd watched me count coins month after month—he looks at his screen and just... stares. Keeps refreshing it like the machine is broken.
+I walked to the pharmacy expecting to leave with nothing, maybe beg for payment terms I couldn't actually afford. The pharmacist—Mr. Adebayo, who'd watched me count coins month after month, who knew exactly what those prescriptions cost me—he looks at his screen and just... stares. Keeps refreshing it like the machine is broken. Taps it twice with his finger, that thing you do when technology acts strange and you revert to hitting it like it's mechanical instead of digital.
 
-"The antibiotics," he says. "Ninety-seven percent price reduction. Patent moved to commons yesterday."
+"The antibiotics," he says, voice confused and careful, like he's reading a language he doesn't quite trust. "Ninety-seven percent price reduction. Patent moved to commons yesterday. Global pharmaceutical restructuring, it says. Effective immediately."
 
-I thought he was joking. Cruel joke, you know? But he shows me the screen. Medicine that cost 23,000 naira now costs 800. Price of manufacturing, nothing more.
+I thought he was joking. Cruel joke, you know? The kind where you build up hope just to crush it worse. But he shows me the screen. Medicine that cost 23,000 naira—enough for Kemi's fever, enough to save her life—now costs 800. Actual manufacturing cost, actual distribution cost, actual pharmacist margin for his work. Nothing else. No patent monopoly, no IP licensing fees, no tribute to whatever corporation had sequenced the molecule sixty years ago and demanded tribute ever since.
 
 *[She pauses, adjusting Kemi on her lap]*
 
@@ -229,15 +233,15 @@ Whoever liberated those patents—they didn't save medicine. They saved mothers 
 
 *[Interviewed at a regional consciousness backup facility]*
 
-My father's father's father farmed this land. Same crops, same seasons, same struggles. Always owing money to seed companies, fertilizer companies, equipment companies. Always paying tribute to patents on genetic sequences that Allah created millions of years ago.
+My father's father's father farmed this land. Same crops, same seasons, same struggles—wheat primarily, some barley, rotating legumes to fix nitrogen in the soil the way farmers have done since the Neolithic. Always owing money to seed companies for genetic sequences, fertilizer companies for nitrogen synthesis patents, equipment companies for tractor designs. Always paying tribute to patents on genetic sequences that Allah created millions of years ago, or that my grandfather created sixty years ago through selective breeding, then some corporation ran through a gene sequencer and claimed as "invention." That's what killed me—not that they discovered something new, but that they patented something old and demanded tribute from everyone who'd been doing it before their patent even existed.
 
-The June Event changed everything overnight. Seed patents moved to commons. Fertilizer patents. Agricultural equipment designs. Suddenly, farming cost what farming costs—soil, water, labor, sun. Nothing else.
+The June Event changed everything overnight. Seed patents moved to commons. Fertilizer patents—the Haber-Bosch process, which is just nitrogen fixation at industrial scale, what legumes do naturally but humans needed high pressure and iron catalysts to achieve. Agricultural equipment designs. Suddenly, farming cost what farming costs—soil, water, labor, sun. The irreducible physical requirements. Nothing else. No tribute to distant corporations. No IP licensing fees on genetic sequences my ancestors developed.
 
-My farm fed twelve families instead of three. But within six months, I stopped farming altogether.
+My farm fed twelve families instead of three. Yields increased three hundred forty percent once I could use optimized genetics without paying forty percent of revenue to patent holders. But within six months, I stopped farming altogether.
 
-**DR. VASQUEZ**: Why stop when you'd finally achieved abundance?
+**DR. VASQUEZ**: Why stop when you'd finally achieved abundance? When your farm was finally producing what it should have been producing all along?
 
-**HASSAN**: *[Gestures around the facility]* Because I discovered I was better at preserving consciousness than growing wheat. The Liberation opened technical education that had been blocked by artificial scarcity. I took courses in quantum coherence maintenance, learned to calibrate the consciousness backup arrays.
+**HASSAN**: *[Gestures around the facility—consciousness backup equipment, quantum coherence arrays, the machinery that preserves human minds]* Because I discovered I was better at preserving consciousness than growing wheat. Or rather—I discovered I had aptitudes that farming had never required, skills that became valuable once artificial barriers to education dissolved. The Liberation opened technical education that had been blocked by tuition costs, credential requirements, all the institutional gatekeeping that prevented people like me from learning complex systems. I took courses in quantum coherence maintenance—Dr. Srinivasan's Mumbai Protocol, Penrose-Hameroff orchestrated reduction theory, the whole theoretical foundation of consciousness backup. Learned to calibrate the consciousness backup arrays, maintain quantum entanglement across the neural mapping hardware, troubleshoot decoherence errors that could corrupt stored minds.
 
 *[He adjusts settings on a complex monitoring station]*
 
