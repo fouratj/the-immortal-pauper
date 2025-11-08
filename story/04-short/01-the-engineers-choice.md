@@ -534,7 +534,7 @@ Aggressive projections assuming interstellar expansion: 500 billion humans by 28
 
 _Extraction Scenario:_ If immortal aristocracy locked in permanent rent-seeking? Historical precedent suggested civilizational collapse within centuries. Inequality spirals, resource wars, systematic breakdown. The Roman Empire, the Qing Dynasty, the Soviet Union—all collapsed when extraction exceeded contribution by unsustainable margins.
 
-Projections: Population decline to 2 billion by 2550 as systematic extraction triggered resource conflicts. Average quality-of-life scores 3/10—similar to medieval peasantry, but with better technology used primarily for surveillance and control rather than flourishing. <!-- can you do an actual deep think of what the number would be? -->
+Kaelen's models projected population decline to 2 billion by 2550—not from lack of resources (the Earth could sustain 15+ billion with current technology) but from systematic extraction making reproduction economically untenable for ordinary people. When 70% of income flows to rent and only 30% remains for living, birth rates collapse. Historical analogs: late Roman Empire fertility rates, Soviet demographic stagnation, Japan's post-bubble population crash. But permanent and global. Average quality-of-life scores: 3.2/10 (±0.4 with 89% confidence)—similar to medieval peasantry, but with surveillance technology, algorithmic optimization of extraction, and immortal elites immune to the social pressures that historically limited inequality. The models showed 73% probability of complete civilizational collapse by 2650, reduced to scattered regional polities incapable of maintaining global infrastructure.
 
 **Week 3: Moral Calculus Integration**
 
