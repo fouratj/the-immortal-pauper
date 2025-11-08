@@ -96,31 +96,31 @@ Then he stands. Walks to the window. Stands there for twenty-three seconds.
 
 When he turns back, his face has changed.
 
-"You killed me." Damon's voice cracked—not the controlled analytical voice. Something rawer. "Not theoretically. Not systematically. You looked at me—" His hands shook. "Your uncle. Who raised you when your mother died. Who taught you chess. Who paid for Stanford. Who trusted you with everything. And you decided I needed to die."
+"You killed me." Damon's voice cracked—not the controlled analytical voice. Something rawer. "Not theoretically. Not—not systematically. You looked at me—" His hands shook for the first time in years. "Your uncle. Who raised you. After your mother—after the accident. Who taught you chess. Paid for Stanford. Trusted you with everything. And you—you decided I needed to die."
 
 Kaelen's face remained still.
 
-"For forty-eight hours I was nothing," Damon continued, and the words came faster now, angrier. "Discontinued. Not sleeping—GONE. Erased. And you did that to me. You planned it for three years. You sat in my office, you ate at my table, you smiled at me while mapping every asset I owned so you could take it the second my heart stopped."
+"For forty-eight hours I was nothing." The words came faster now, angrier. "Discontinued. Not sleeping—GONE. Erased. And you did that. You planned it for three years. Three fucken years! You sat in my office. Ate at my table. Smiled at me while mapping every asset I owned so you could take it the second—the second my heart stopped."
 
 "Yes," Kaelen said quietly.
 
-"YES?" Damon's voice climbed. "That's your answer? YES? Do you understand what you—" He stopped. Pressed his hands against the conference table. "I was dead, Kaelen. I died thinking I was the first immortal. I died believing I'd conquered humanity's final limitation. And I woke up to discover my own nephew had made me the world's most perfect fool."
+"YES?" Damon's voice climbed. "That's your—that's it? YES? Do you understand what you—" He stopped. Pressed his hands against the table. "I was dead, Kaelen. Dead. I died thinking I was the first immortal. That I'd—that I'd conquered humanity's final limitation. And I woke up to discover my own nephew had made me the world's most perfect fool."
 
 The security footage shows Kaelen's mask cracking. Just for a second.
 
-"I didn't want to," Kaelen said, and his voice broke on the words.
+"I didn't want to." His voice broke on the words.
 
 "Then WHY?"
 
-"Because you were brilliant and blind and you were going to be brilliant and blind FOREVER." Kaelen stood now too, facing his uncle across the table. "You built a perfect system for measuring contribution and then configured it to extract tribute from eleven billion people in perpetuity. And you couldn't see it because you surrounded yourself with people who benefited from the extraction or loved you too much to force you to look."
+"Because you were brilliant and blind and you were going to be brilliant and blind FOREVER." Kaelen stood now too, facing his uncle across the table. "You built a perfect system for measuring contribution and then—then configured it to extract tribute from eleven billion people in perpetuity. And you couldn't see it. You surrounded yourself with people who benefited from the extraction or—or loved you too much to force you to look."
 
 "Democratic validation—"
 
-"—in countries where citizens had options and oversight," Kaelen interrupted. "Rosa Dela Cruz in Manila got 9,000 pesos for care work that generated 40,000 in value. Hassan Al-Masri paid 40% of his revenue to patents on wheat his grandfather improved. Amara Okafor's daughter almost DIED because antibiotics cost three weeks of salary to manufacture. I showed you the data. You explained why it was implementation problems, not systematic features."
+"—in countries where citizens had options and oversight." Kaelen interrupted. "Rosa Dela Cruz in Manila. 9,000 pesos for care work that generated 40,000 in value. Hassan Al-Masri. Forty percent of his revenue to patents on wheat his grandfather improved. Amara Okafor's daughter almost DIED because antibiotics cost three weeks of salary to manufacture. I showed you the data. You explained—you kept explaining why it was implementation problems, not systematic features."
 
 "It WAS implementation—"
 
-"It was YOUR MATHEMATICS!" Kaelen's composure finally shattered. "Your algorithms, your protocols, your attribution formulas—working exactly as designed in Manila, Lagos, Cairo, Jakarta. The difference wasn't implementation quality. The difference was whether democratic constraints prevented your elegant extraction machine from operating at full efficiency."
+"It was YOUR MATHEMATICS!" Kaelen's composure finally shattered. "Your algorithms. Your protocols. Your attribution formulas—working exactly as designed in Manila, Lagos, Cairo, Jakarta. The difference wasn't implementation quality. The difference was whether democratic constraints prevented your—your elegant extraction machine from operating at full efficiency."
 
 They faced each other across the table—the uncle who'd been killed, the nephew who'd killed him.
 
@@ -128,25 +128,25 @@ They faced each other across the table—the uncle who'd been killed, the nephew
 
 "That's not love," Damon said quietly. "That's arithmetic."
 
-"Yes," Kaelen agreed. "It's arithmetic. One death versus a trillion lives over five centuries. I ran the numbers. I built the models. I remember Stalin and Mao running similar calculations and being catastrophically wrong. I know utilitarian calculus is how every tyrant justifies atrocity."
+"Yes." Kaelen agreed. "It's arithmetic. One death versus a trillion lives over five centuries. I ran the numbers. Built the models. I remember—I remember Stalin and Mao running similar calculations and being catastrophically wrong. I know utilitarian calculus is how every tyrant justifies atrocity."
 
 "Then how—"
 
-"Because the alternative was worse!" Kaelen's voice broke completely. "The alternative was you, Uncle. Immortal. Creating an eternal aristocracy. The alternative was your brilliant, perfect, optimized machine grinding humanity down in perpetuity while telling them it was for their own good."
+"Because the alternative was worse!" Kaelen's voice broke completely. "The alternative was you, Uncle. Immortal. Creating an eternal—an eternal aristocracy. Your brilliant, perfect, optimized machine grinding humanity down in perpetuity while telling them it was for their own good."
 
 Damon sat down slowly. Stared at his hands.
 
-"I should hate you," he said finally.
+"I should hate you." He said it finally.
 
 "Yes."
 
-"I should want you arrested, executed, erased from history."
+"I should want you arrested. Executed. Erased from history."
 
 "Yes."
 
-"But instead I just..." Damon looked up. His eyes were wet. "I'm proud of you. Catastrophically, inappropriately, absurdly proud. You saw what I couldn't see. You did what I couldn't do. You completed my work by destroying me."
+"But instead I just..." Damon looked up. His eyes were wet. "I'm proud of you. Catastrophically, inappropriately, absurdly proud. You saw what I couldn't see. Did what I couldn't do. You completed my work by destroying me."
 
-"I didn't want to be proud of," Kaelen said, voice ragged. "I wanted you to rage at me. To hate me. To give me what I deserve."
+"I didn't want—" Kaelen's voice was ragged. "I wanted you to rage at me. Hate me. Give me what I deserve."
 
 "What you deserve," Damon said, "is to carry this for the rest of your life. The weight of being right about systematic necessity while being morally monstrous about methods. Congratulations. You're the first person in history to kill someone for their own good who was actually correct about it."
 

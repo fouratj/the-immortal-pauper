@@ -9,25 +9,25 @@ The chamber hummed with the precise frequency of molecular reassembly, a sound l
 
 Dr. Chen had been awake for forty-eight hours straight, and it showed. The technicians around her managed subsystems that had never been tested under combat conditions—because that's what unplanned resurrection was. Combat medicine for consciousness itself. What should have been a controlled demonstration of consciousness transfer technology had become humanity's first emergency resurrection, performed under global scrutiny.
 
-"Microtubule quantum coherence at ninety-seven point six percent," announced Dr. Martinez, his voice hoarse from the forty-eight hour procedure. "Orchestrated objective reduction patterns matching archived consciousness baseline."
+"Microtubule quantum coherence at ninety-seven point six percent." Dr. Martinez's voice was hoarse from the forty-eight hour procedure. "Orchestrated objective reduction patterns matching baseline."
 
-"Synaptic integration pathways clear," added Dr. Patel. "No structural abnormalities detected in the substrate. Quantum state vector collapse occurring within normal parameters across the cytoskeletal network."
+"Synaptic integration pathways clear." Dr. Patel checked her displays. "No structural abnormalities. Quantum state vector collapse within normal parameters across the network."
 
 Dr. Chen monitored the real-time consciousness emergence on her displays using the Mumbai Protocol—Dr. Srinivasan's 2049 breakthrough in non-invasive quantum state measurement that had made consciousness backup possible without brain surgery. The displays showed deeper quantum orchestration beyond mere neural firing patterns, the kind Penrose had theorized decades earlier. Consciousness as quantum computation occurring within the microtubules of neurons, where quantum superposition collapsed into specific conscious moments through orchestrated objective reduction. The archived consciousness was being reconstituted, each moment of subjective experience rebuilt through precise quantum state reconstruction. The microtubule quantum architecture allowed for exact mapping of quantum states in living neural tissue, using quantum entanglement to measure consciousness without collapsing the very quantum states being preserved.
 
 The viewing gallery contained only twelve witnesses—no media, no government officials, no global broadcast as had been originally planned before Damon's unexpected death. The resurrection of humanity's first immortal had become a private medical procedure, attended by legal representatives and the BioGenesis board members who had witnessed his very public death. Notably absent were family members—a decision made for "security reasons" though no one questioned why the designated heir had chosen not to attend his uncle's return to life.
 
-"Beginning consciousness integration sequence," Dr. Chen announced to the smaller gallery. Her voice lacked the triumphant confidence of two days prior. "Neural pathway reconstruction commencing."
+"Beginning consciousness integration sequence." Dr. Chen announced it to the smaller gallery. Her voice lacked the triumphant confidence of two days prior. "Neural pathway reconstruction commencing."
 
 The holographic displays showed familiar patterns: quantum storage accessing archived consciousness, memory pathways mapping to biological substrate, personality integration proceeding according to protocols that had worked perfectly once before.
 
-"Integration at forty percent," Dr. Martinez reported. "All systems nominal."
+"Integration at forty percent." Dr. Martinez reported. "All systems nominal."
 
-"Sixty percent. Neural activity approaching baseline parameters."
+"Sixty percent. Neural activity approaching baseline."
 
 "Eighty percent. Consciousness coherence maintained."
 
-"99%...And integration complete."
+"Ninety-nine percent...Integration complete."
 
 The body on the resurrection table stirred, chest rising and falling with programmed regularity. Eyelids fluttered with the same movements remembered from a previous life.
 
@@ -35,19 +35,19 @@ Dr. Chen initiated the awakening sequence, her gesture activating embedded neura
 
 Damon Korr opened his eyes.
 
-"Status report," he said, his voice identical to the one that had addressed the world forty-eight hours earlier. Even in resurrection, his first instinct was assessment and control. The man had died and returned and his personality had survived the transfer precisely because it was the kind of personality that wouldn't let death interfere with information gathering.
+"Status report." His voice was identical to the one that had addressed the world forty-eight hours earlier. Even in resurrection, his first instinct was assessment and control. The man had died and returned and his personality had survived the transfer precisely because it was the kind of personality that wouldn't let death interfere with situational awareness.
 
-"Resurrection successful, Mr. Korr," Dr. Chen replied, though her tone carried none of the celebration she imagined herself feeling when she had dreamed about the resurrecting the dead. "All cognitive and physical parameters nominal. Welcome back."
+"Resurrection successful, Mr. Korr." Dr. Chen replied, though her tone carried none of the celebration she'd imagined when she dreamed about resurrecting the dead. "All cognitive and physical parameters nominal. Welcome back."
 
 Damon sat up slowly, examining his hands with the fascination of someone inhabiting a familiar yet foreign body. The familiarity of the gesture was somehow unsettling—as if his consciousness carried embedded routines for evaluating newly integrated biological substrates.
 
-"How long was I gone?" he asked.
+"How long was I gone?"
 
-"Forty-eight hours, twelve minutes," Dr. Chen replied. "Complete cellular failure occurred at eleven fifty-five AM during your global address. We had to restore from your backup archive rather than maintain continuous awareness through the death process."
+"Forty-eight hours, twelve minutes." Dr. Chen paused. "Complete cellular failure occurred at eleven fifty-five AM during your global address. We had to restore from your backup archive rather than maintain continuous awareness through the death process."
 
 Damon nodded, processing the information with characteristic analytical detachment. "So I have no memory of dying."
 
-"None," Dr. Martinez confirmed. "Last routine backup was seventy-two hours prior—weekly archival. But you created a ceremony-specific backup at eleven hundred hours this morning, forty-seven minutes before taking the stage."
+"None." Dr. Martinez confirmed. "Last routine backup was seventy-two hours prior—weekly archival. But you created a ceremony-specific backup at eleven hundred hours this morning. Forty-seven minutes before taking the stage."
 
 Damon's eyes narrowed slightly. "So the temporal gap is minimal."
 

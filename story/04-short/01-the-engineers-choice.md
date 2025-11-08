@@ -223,43 +223,43 @@ Kaelen suspected otherwise. But before he could investigate those suspicions, be
 
 ---
 
-"You're thinking like a lawyer," Damon said, moving his queen to c4. "Start thinking like a system."
+"Lawyer thinking," Damon said, moving his queen to c4.
 
 They sat in Damon's study overlooking San Francisco Bay, chess board between them, evening light turning the water gold. Kaelen had been thinking about this move for three minutes. That was his weakness—he overthought positions instead of seeing patterns.
 
-"The knight fork," Kaelen said finally, moving his piece.
+"The knight fork." Kaelen moved his piece finally.
 
-"Wins the bishop," Damon agreed, already calculating the continuation. "Loses the game." Five moves later, he demonstrated: Kaelen's position collapsed despite the material advantage.
+"Takes the bishop." Damon was already calculating ahead. "Loses the game." Five moves later, he demonstrated: Kaelen's position collapsed despite the material advantage.
 
 Kaelen reset the pieces. "Again."
 
-"You're twenty-three," Damon said, pouring them both whiskey—Lagavulin, sixteen-year, which Kaelen was just learning to appreciate. "Most people your age can't see three moves ahead. You see seven. Stop trying for nine."
+"You're twenty-three. Most people your age can't see three moves ahead." Damon poured them both whiskey—Lagavulin, sixteen-year, which Kaelen was just learning to appreciate. "You see seven. Stop trying for nine."
 
 "You see twelve."
 
-"I've been playing longer." Damon settled back in his chair. "But that's not the real difference. You're optimizing locally. I'm optimizing board states."
+"I've been playing longer." Damon settled back. "That's not the difference though. You're optimizing locally. I'm optimizing board states."
 
-Kaelen sipped. Smoke and peat and something almost medicinal. "Explain."
+Kaelen sipped. Smoke and peat and something almost medicinal. "Meaning?"
 
-"You want to win material. Capture pieces, accumulate advantage. That's lawyer thinking—individual transactions, local optimizations." Damon gestured at the board. "System thinking asks: what board state makes my victory inevitable? What configuration creates conditions where your best moves still lead to my win?"
+"You want to win material. Capture pieces, accumulate advantage. Lawyer thinking—individual transactions, local optimizations." Damon gestured at the board. "System thinking asks: what board state makes my victory inevitable? What configuration means your best moves still lead to my win?"
 
-Kaelen studied the position. Something about the pawn structure creating locked-in advantage...
+Kaelen studied the position. Something about the pawn structure locking in advantage...
 
-"That's what the Proof-of-Benefit algorithms do," he said slowly.
+"That's what the Proof-of-Benefit algorithms do."
 
-Damon's eyes lit up—the look he got when someone understood. "Exactly. Don't measure individual contributions. Measure systematic board states. Create conditions where beneficial contributions emerge naturally because the incentive structure makes them inevitable."
+Damon's eyes lit up—the look he got when someone understood. "Exactly. Don't measure individual contributions. Measure board states. Create conditions where beneficial contributions emerge naturally because the incentive structure makes them inevitable."
 
 "And your First Citizen attribution..."
 
-"Is recognition that I configured the board." Damon moved his rook. "Check."
+"...is recognition that I configured the board." Damon moved his rook. "Check."
 
 Kaelen blocked with his bishop. "Some people might say you configured it to benefit yourself."
 
-"Some people don't understand system dynamics." No heat in Damon's voice, just patient correction. "The Tallinn Coefficients wouldn't work if I'd rigged them for extraction. Estonia's referendum passed with 87% approval because citizens recognized genuine systematic improvement. Singapore, 92%. The mathematics work, Kaelen. The prosperity is real."
+"Some people don't understand system dynamics." No heat in Damon's voice, just patient correction. "The Tallinn Coefficients wouldn't work if I'd rigged them for extraction. Estonia voted 87% approval. Singapore, 92%. The math works, Kaelen. The prosperity's real."
 
 "In democracies—"
 
-"In properly implemented systems," Damon corrected. "The late adopters who are struggling—that's implementation failure, not architectural flaw. Same surgical technique saves lives or causes death depending on the surgeon's capability." He moved his bishop. "Checkmate in four."
+"In properly implemented systems," Damon corrected. "The late adopters struggling? Implementation failure, not architectural flaw. Same surgical technique saves lives or kills depending on the surgeon's capability." He moved his bishop. "Checkmate in four."
 
 Kaelen saw it. No escape. He extended his hand across the board.
 
@@ -267,17 +267,17 @@ Damon shook it, smiled. "You're getting better. Two months ago I had you in seve
 
 They drank in comfortable silence, watching the bay turn purple as the sun set. This was Kaelen's favorite time—after the chess, before dinner, when Damon's intensity softened into something almost paternal.
 
-"Your mother would have been proud of you," Damon said quietly.
+"Your mother would've been proud of you," Damon said quietly.
 
 Kaelen felt his throat tighten. The car accident had been twelve years ago now. Damon had taken him in without hesitation, raised him as a son, taught him to think in systems and patterns and long-term consequences.
 
 "Thank you," Kaelen managed.
 
-"You're going to do remarkable things. I can see it. The way you're learning to think architecturally—that's rare. That's valuable." Damon refilled their glasses. "That's why I'm bringing you into the foundation work. The inheritance protocols research. You understand that if I'm building something permanent, the governance structure has to outlast me too."
+"You're going to do remarkable things. I can see it. The way you're learning to think architecturally—that's rare." Damon refilled their glasses. "That's why I'm bringing you into the foundation work. Inheritance protocols research. You understand—if I'm building something permanent, the governance structure has to outlast me too."
 
 "Even if you're immortal?"
 
-Damon laughed. "Especially then. Immortality isn't immunity from accident or assassination. The systems have to survive their architects." He raised his glass. "To succession planning."
+Damon laughed. "Especially then. Immortality isn't immunity from accident or assassination. Systems have to survive their architects." He raised his glass. "To succession planning."
 
 Kaelen raised his. "To succession."
 
@@ -307,15 +307,15 @@ Kaelen met Rosa Dela Cruz in her apartment in Tondo, one of Manila's densest dis
 
 The Tallinn Coefficients should have changed that. Care work valued according to downstream effects—children raised, elderly supported, prevented costs measured. Rosa should have been earning 40,000 pesos monthly based on the algorithmic calculations Kaelen could run in his head.
 
-"How much are you earning now?" he asked.
+"How much are you earning now?"
 
-"About 9,000 pesos," Rosa said. "Little bit more than before. They say the system is still... optimizing? Is that the word? Still learning to measure our contribution correctly."
+"About 9,000 pesos. Little bit more than before." Rosa shrugged. "They say the system is still... optimizing? Is that the word? Still learning to measure our contribution correctly."
 
 Eighteen months, and the algorithms had increased her income by twelve percent. Meanwhile, Kaelen knew, patent holders in Manila had seen algorithmic attribution increase their income by 340% over the same period.
 
-"The care work algorithms," Kaelen said carefully. "They're supposed to measure downstream value creation. Have you seen how they calculate that?"
+"The care work algorithms—they're supposed to measure downstream value creation. Have you seen how they calculate that?"
 
-Rosa laughed. "I can't even access the calculations. The interface requires education verification I don't have. I just get told: this is your contribution score, this is your income. No explanation."
+Rosa laughed. "I can't even access the calculations. Interface requires education verification I don't have. I just get told: this is your contribution score, this is your income. No explanation."
 
 Kaelen spent three days reviewing Manila's implementation. The problem was subtle but pervasive: the Tallinn Coefficients had been implemented, but the default assumptions—what counted as "prevented cost," what qualified as "downstream contribution"—had been set to values that quietly minimized care work while maximizing patent holder attribution.
 
@@ -325,9 +325,11 @@ He moved on. Lagos, Nigeria. Cairo, Egypt. Jakarta, Indonesia. São Paulo, Brazi
 
 In Cairo, Kaelen met Hassan Al-Masri, a farmer whose family had worked the same land for four generations. Seed patents—genetic sequences developed from plants Hassan's ancestors had cultivated—cost him 40% of his revenue. The Intelligent Internet's optimization algorithms calculated that genetic monopolies "incentivized innovation" and therefore deserved protection.
 
-"Innovation," Hassan said bitterly, showing Kaelen spreadsheets on a battered tablet. "My grandfather improved these wheat varieties for thirty years. Never got paid for innovation. But some company puts the genetics through a sequencer, files a patent, and now my family pays tribute forever?"
+"Innovation." Hassan said the word bitterly, showing Kaelen spreadsheets on a battered tablet. "My grandfather improved these wheat varieties for thirty years. Never got paid for innovation. But some company puts the genetics through a sequencer, files a patent—now my family pays tribute forever?"
 
-In Jakarta, Kaelen interviewed Siti Rahma, a teenager who'd tested into the ninety-ninth percentile for mathematical ability. Full scholarship to MIT—if she could afford living expenses, materials, lab access. Her family would need to go into debt for generations. "In Indonesia, brilliant means nothing if you're poor," she said. "The scholarship algorithms measure 'contribution potential,' but they assume baseline resources I don't have."
+In Jakarta, Kaelen interviewed Siti Rahma, a teenager who'd tested into the ninety-ninth percentile for mathematical ability. Full scholarship to MIT—if she could afford living expenses, materials, lab access. Her family would need to go into debt for generations.
+
+"In Indonesia, brilliant means nothing if you're poor." She pulled up her scholarship offer on her phone. "The algorithms measure 'contribution potential,' but they assume baseline resources I don't have. Housing. Food. Equipment. They don't see those as barriers—just personal responsibility."
 
 In São Paulo, he met Carlos and Maria Santos, who'd been saving for eight years to buy an apartment. Forty square meters, one hour commute each direction, would cost 80% of their combined income for thirty years. "Construction costs are maybe 30% of the price," Carlos explained, pulling up blockchain-verified cost analyses. "The rest is... what? 'Market optimization'? 'Investment vehicle efficiency'? We're paying for algorithmic real estate speculation that adds zero value."
 
@@ -353,31 +355,31 @@ Which left the harder question: did that justify assassination?
 
 One meeting stuck with Kaelen months later. Dr. Patricia Reyes, Chief Innovation Officer at PharmaCorp Asia Pacific, had agreed to discuss patent protection frameworks. She met him in her corner office overlooking Manila Bay, confident and articulate in her defense of intellectual property.
 
-"Without exclusivity," she explained, pulling up market data on holographic displays, "there's no incentive to invest in drug development. It costs billions to bring a medication to market—clinical trials, regulatory approval, safety monitoring—"
+"Without exclusivity—" she pulled up market data on holographic displays "—there's no incentive to invest in drug development. Billions to bring a medication to market. Clinical trials, regulatory approval, safety monitoring—"
 
-"And yet," Kaelen interrupted, "knowledge is the only thing you can give away and still keep. Share a drug formula and you don't lose it—you get everyone else's improvements back. Not quite infinite, thermodynamics is still a bitch, but close enough."
+"Knowledge is the only thing you can give away and still keep." Kaelen leaned forward. "Share a drug formula, you don't lose it—you get everyone else's improvements back. Not quite infinite, thermodynamics is still a bitch, but close enough."
 
-Dr. Reyes smiled with practiced patience. "Theoretical. In practice, pharmaceutical companies need revenue models to justify R&D investment. Without patent protection, innovation would collapse."
+Dr. Reyes smiled with practiced patience. "Theoretical. In practice, pharmaceutical companies need revenue models to justify R&D. Without patent protection, innovation collapses."
 
-"In practice," Kaelen said, opening his tablet, "every major medical breakthrough was built on commons knowledge. Pasteur didn't patent germ theory. Jonas Salk refused to patent the polio vaccine—when asked who owned it, he said 'the people, could you patent the sun?' Watson and Crick couldn't patent DNA structure. The big discoveries that actually saved lives? Those were the ones that spread fastest because nobody was hoarding them."
+"In practice—" Kaelen opened his tablet "—every major medical breakthrough was built on commons knowledge. Pasteur didn't patent germ theory. Jonas Salk refused to patent the polio vaccine. When asked who owned it? 'The people. Could you patent the sun?' Watson and Crick couldn't patent DNA structure. The big discoveries that actually saved lives? Those spread fastest because nobody was hoarding them."
 
 "Those were different times."
 
-"No," Kaelen said quietly. "Those were times when scientists understood what knowledge actually is. The only process that generates value instead of just moving it around. You're not incentivizing innovation. You're bottling it up."
+"No." Kaelen said it quietly. "Those were times when scientists understood what knowledge actually is. The only process that generates value instead of just moving it around. You're not incentivizing innovation. You're bottling it up."
 
-Dr. Reyes set down her stylus, expression hardening. "You're suggesting we should just... give away decades of research? Billions in investment?"
+Dr. Reyes set down her stylus. "You're suggesting we just... give away decades of research? Billions in investment?"
 
-"I'm suggesting," Kaelen said, "that every dollar you spend keeping others from using your discoveries is a dollar you're not spending on actual new discoveries. Patents don't create knowledge—they create barriers to it." He pulled up pharmaceutical innovation data. "Look at this. Drug development cycles: twenty-three years average from discovery to market. We've got AI that can model molecular interactions down to individual bond angles, unlimited compute, and it still takes two decades? Because eighteen of those years are legal warfare. Patent thickets. Competitors filing defensive blocks before you can block them. The AI can design a malaria cure in six months. Then it's seventeen years of lawyers arguing about whether targeting the P. falciparum protease infringes on seventeen other patents for 'similar biological pathways.' The compute is infinite. The law is choking us."
+"I'm suggesting every dollar you spend keeping others from using your discoveries is a dollar not spent on actual new discoveries. Patents don't create knowledge—they create barriers to it." He pulled up pharmaceutical innovation data. "Drug development cycles: twenty-three years average from discovery to market. We've got AI that can model molecular interactions down to individual bond angles. Unlimited compute. Still takes two decades? Because eighteen of those years are legal warfare. Patent thickets. Competitors filing defensive blocks. The AI can design a malaria cure in six months. Then seventeen years of lawyers arguing about whether targeting the P. falciparum protease infringes on seventeen other patents for 'similar biological pathways.' The compute is infinite. The law is choking us."
 
 "Competitive intelligence—"
 
-"—is burning knowledge," Kaelen finished. "You spend billions generating insights, then spend billions more making sure nobody else can use them."
+"—is burning knowledge." Kaelen finished the sentence. "Billions generating insights. Billions more making sure nobody else can use them."
 
-Dr. Reyes stood, walking to her window. For thirty seconds, neither spoke.
+Dr. Reyes stood, walked to her window. Thirty seconds of silence.
 
-"Those children in Tondo," she said finally, "the ones who can't afford our antibiotics. You think I don't know they exist? You think I don't care?" Her voice cracked. "I got into this field to help people. But I work inside a system that requires profits to survive. Patent protection isn't cruelty—it's economic reality."
+"Those children in Tondo. The ones who can't afford our antibiotics." Her voice cracked slightly. "You think I don't know they exist? You think I don't care? I got into this field to help people. But I work inside a system that requires profits to survive. Patent protection isn't cruelty—it's economic reality."
 
-"Economic reality," Kaelen repeated softly, "is whatever we build it to be. Jonas Salk proved that—polio got eradicated because he chose to give it away."
+"Economic reality is whatever we build it to be." Kaelen said it softly. "Jonas Salk proved that. Polio got eradicated because he chose to give it away."
 
 He closed his tablet and stood. "Thank you for your time, Dr. Reyes. I appreciate your honesty."
 
@@ -662,47 +664,47 @@ He built the device into a commemorative pin—the kind given to VIP attendees a
 
 **February 2050 - Tiffany & Co., Union Square**
 
-"This is a remarkable piece," the sales associate said, examining Kaelen's design specifications on her tablet. "Platinum setting with quantum-grade sapphires. Very unusual request."
+"This is remarkable." The sales associate examined Kaelen's design specifications on her tablet. "Platinum setting with quantum-grade sapphires. Very unusual request."
 
 Kaelen nodded. "Family heirloom recreation. The original was... lost."
 
-"Of course." She smiled professionally, the kind of warm competence that came from selling expensive things to wealthy people. Her nameplate read *Sarah Chen, Senior Design Consultant*. "The crystalline structure you've specified—these particular lattice arrangements—they're going to significantly increase the cost. May I ask why such specificity matters for decorative purposes?"
+"Of course." She smiled professionally—the kind of warm competence that came from selling expensive things to wealthy people. Her nameplate read *Sarah Chen, Senior Design Consultant*. "The crystalline structure you've specified—these particular lattice arrangements—they'll significantly increase the cost. May I ask why such specificity matters for decorative purposes?"
 
 Because the lattice arrangements need to support quantum entanglement channels. Because the sapphire crystalline structure will hide the computational components that will kill my uncle.
 
-"Sentimental value," he said instead, hoping his voice sounded normal. "The original had very specific optical properties. Light refracted in particular ways. I'd like to preserve that."
+"Sentimental value." He hoped his voice sounded normal. "The original had very specific optical properties. Light refracted in particular ways. I'd like to preserve that."
 
-"How lovely." She rotated her tablet, showing him her display. "I've worked with several clients commissioning quantum-grade sapphires for art installations and scientific commemoratives. May I show you some design precedents? The Yamamoto Acoustics memorial, for instance, used a similar lattice structure for its resonance properties—beautiful piece, really. The light refraction was stunning."
+"How lovely." She rotated her tablet, showing him her display. "I've worked with several clients commissioning quantum-grade sapphires for art installations and scientific commemoratives. The Yamamoto Acoustics memorial, for instance—similar lattice structure for its resonance properties. Beautiful piece. The light refraction was stunning." She pulled up images. "May I show you some design precedents?"
 
-She pulled up images: commemorative pins celebrating scientific breakthroughs. Normal things. Beautiful things. Things that didn't kill people.
+Commemorative pins celebrating scientific breakthroughs. Normal things. Beautiful things. Things that didn't kill people.
 
-Kaelen looked at Nobel prizes rendered in crystalline geometry, corporate anniversaries memorialized in precious stones. Each one a celebration of achievement. Each one innocent.
+Kaelen looked at Nobel prizes rendered in crystalline geometry, corporate anniversaries memorialized in precious stones. Each one a celebration. Each one innocent.
 
-"That's... helpful," he managed. "Though I think the design I've specified is quite precise for my purposes."
+"That's... helpful. Though I think the design I've specified is quite precise for my purposes."
 
-"Of course, of course." She made notes, clearly pleased to be working on something technically sophisticated. "And the timeline—when would you need this completed?"
+"Of course." She made notes, clearly pleased to be working on something technically sophisticated. "And the timeline—when would you need this completed?"
 
 "Early February." Six weeks before the ceremony. Time for final testing. Time to confirm the quantum channels worked. Time to make sure he could actually go through with this.
 
-"That should be manageable." She consulted her scheduling system. "Now, the crystalline alignment you've specified will require our master artisan—Mr. Tanaka. He's done work for several Nobel laureates. I think you'll be very pleased with his craftsmanship."
+"That should be manageable." She consulted her scheduling system. "The crystalline alignment you've specified will require our master artisan—Mr. Tanaka. He's done work for several Nobel laureates. I think you'll be very pleased with his craftsmanship."
 
-Nobel laureates. Using similar techniques. For peaceful purposes. He thought of Alfred Nobel who invented dynamite, and made his fortune from explosives, then left his wealth to prize those who benefited humanity. Guilt money, some said. A weapon-maker trying to buy redemption through commemoration.
+Nobel laureates. Using similar techniques. For peaceful purposes. Alfred Nobel invented dynamite, made his fortune from explosives, then left his wealth to prize those who benefited humanity. Guilt money, some said. A weapon-maker trying to buy redemption through commemoration.
 
-The associate was smiling at him, waiting for confirmation.
+The associate was smiling at him, waiting.
 
-"That sounds perfect," Kaelen said. His throat felt tight.
+"That sounds perfect." His throat felt tight.
 
 She pulled up the cost estimate. "The fabrication alone will be... my goodness. Fifteen million dollars for a commemorative pin. The quantum-grade sapphires are exceptionally rare, and the precision you're requiring—" She paused, studying his face. "This must be very important to your family."
 
 Kaelen handed her his card before he could change his mind. "Quality matters."
 
-The transaction processed. 0.8 seconds. Fifteen million dollars flowing from Damon's accounts to Tiffany & Co., classified as "family heirloom recreation." The blockchain would record it as a legitimate expense. Estate administration. Normal family business.
+The transaction processed. 0.8 seconds. Fifteen million dollars flowing from Damon's accounts to Tiffany & Co., classified as "family heirloom recreation." The blockchain would record it as legitimate. Estate administration. Normal family business.
 
-"Wonderful!" She stood, extending her hand. "Mr. Tanaka will be thrilled to work on something this technically sophisticated. He does so love a challenge. We'll call when it's ready—should be late January, early February at the latest."
+"Wonderful!" She stood, extending her hand. "Mr. Tanaka will be thrilled. He does so love a challenge. We'll call when it's ready—late January, early February at the latest."
 
 Kaelen shook her hand. Her grip was warm, professional. She had no idea. How could she? He was a wealthy man commissioning expensive jewelry. She'd probably helped hundreds of similar clients.
 
-"One last thing," she said brightly. "Would you like gift wrapping? We offer several—"
+"One last thing. Would you like gift wrapping? We offer several—"
 
 "No." Too sharp. Then, softer: "No, thank you. No wrapping necessary."
 
