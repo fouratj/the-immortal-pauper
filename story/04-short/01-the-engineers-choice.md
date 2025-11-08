@@ -78,17 +78,19 @@ The blockchain governance revolution had eliminated all that friction in the nam
 
 The efficiency gains had been real. Inheritance disputes that once took years now resolved instantly. Corrupt officials couldn't delay transfers for bribes. Families couldn't be held hostage by bureaucratic incompetence. The Estonian model had been adopted globally because it worked better than anything that came before.
 
-But efficiency and stability weren't the same thing. The old bureaucratic friction had served as a natural speed limit on systematic change—you couldn't restructure civilization overnight because the paperwork took months to process. But could you now restructure civilization in the time it took blockchain consensus to propagate across global networks. Forty-eight hours, maybe less.
-<!-- hmm, he's already talking about changing civilization, let's build upto this. First, he entertains the idea of being the richest man alive or whatever, he doesn't immediately jump to this conclusion, given what you know about him, come up with a more believable pattern of thought for someone so intelligent. Also, read the rest of the chapter to make sure the progression is believeable. We dont want to repeat the same triggers -->
+But efficiency and stability weren't the same thing. The old bureaucratic friction had served as a natural speed limit on systematic change—you couldn't restructure entire fortunes overnight because the paperwork took months to process. Now you could execute massive transfers in the time it took blockchain consensus to propagate across global networks. Forty-eight hours, maybe less.
+
 Most people designated their children as heirs. Damon, who had no children and distrusted state confiscation, had designated Kaelen. Family over government. Blood over bureaucracy. Legacy over children.
 
 The vulnerability was simple: during the window between death confirmation and consciousness restoration—however long resurrection required—the designated heir had unrestricted access to everything. Every account, every patent, every smart contract, every access credential.
 
 Wait, that couldn't be right. Legal systems weren't that stupid. There had to be safeguards, oversight mechanisms, cooling-off periods for major—
 
-But no, he'd checked. The Estonian designers had included a "resurrection clause"—not because they believed in immortality, but because they were optimizing for edge cases in wrongful death scenarios. If someone was declared dead by mistake—medical error, legal confusion, identity fraud—and that error was later corrected, the blockchain needed legal mechanisms to unwind inheritance transfers transparently. The clause was designed for days, maybe weeks at most. Time enough for a misdiagnosed coma patient to wake up, for a legal mixup to get resolved, for bureaucratic errors to get corrected.
+But no, he'd checked. The Estonian designers had included a "resurrection clause"—not because they believed in immortality, but because they were optimizing for edge cases in wrongful death scenarios. If someone was declared dead by mistake—medical error, legal confusion, identity fraud—and that error was later corrected, the blockchain needed legal mechanisms to unwind inheritance transfers transparently. The clause was designed for days, maybe weeks at most. Time enough for a misdiagnosed coma patient to wake up, for a legal mixup to get resolved, for wrongful death verdicts to be overturned, for rare heir-murders that resurrection evidence could prove. Quick corrections to bureaucratic or medical errors, not multi-day windows for systematic transformation.
 
-Nobody had imagined technological resurrection. Someone certifiably dead, legitimately dead, then brought back to life days later. The legal framework just... hadn't accounted for that possibility.
+But what the Estonians never imagined in 2037 was technological resurrection. Someone certifiably dead, legitimately dead, then brought back to life days later through consciousness transfer protocols. The resurrection clause would trigger—inheritance reversal protocols would engage—but the reversal required time. Legal verification, identity confirmation, blockchain consensus, algorithmic recalculation across every jurisdiction that had processed the original inheritance.
+
+The protocols assumed if resurrection happened at all, it would be fairly immediate—wake up from the coma, correct the error, reverse the transfer within hours. Nobody had modeled a multi-day gap where the deceased was certifiably dead, heir legitimately gained full control, then resurrection occurred after the heir had time to execute irreversible actions. The legal framework just... hadn't accounted for that possibility.
 
 Yet.
 
@@ -101,10 +103,6 @@ Damon faced the same dilemma. Push too hard for inheritance law reforms and the 
 Which meant the vulnerability would remain open until someone else discovered it. Someone who might not share Damon's benevolent intentions. Someone who might use forty-eight hours of unrestricted access for purposes Damon couldn't imagine. <!-- again, we should not know Damon has benevolent intentions. Don't spoil the reveal -->
 
 Someone like his nephew, sitting in a legal office in San Francisco, staring at the mathematical proof that civilizations could be restructured faster than their architects could prevent it.
-
-What the Estonians never imagined in 2037 was technological resurrection. Someone certifiably dead, death certificate legitimately issued, then brought back to life days later. The resurrection clause would trigger—inheritance reversal protocols would engage—but the reversal required time. Legal verification, identity confirmation, blockchain consensus, algorithmic recalculation across every jurisdiction that had processed the original inheritance.
-
-The protocols assumed if resurrection happened at all, it would be immediate—wake up from the coma, correct the error, reverse the transfer within hours. Nobody had modeled a multi-day gap where the deceased was certifiably dead, heir legitimately gained full control, then resurrection occurred after the heir had time to execute irreversible actions. The clause had been designed for edge cases: wrongful death verdicts requiring transfer back to a trust, medical misdiagnoses where cardiac arrest hadn't yet progressed to brain death, or rare heir-murders that resurrection evidence could prove. Quick corrections to bureaucratic or medical errors, not multi-day windows for systematic transformation.
 
 Forty-eight hours, Kaelen calculated. That's how long resurrection would take based on the consciousness transfer protocols he'd reviewed. Forty-eight hours during which the heir effectively WAS the deceased for all legal purposes.
 
