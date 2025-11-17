@@ -18,7 +18,7 @@ The legal office looked exactly as it had three years earlier, when Kaelen had f
 
 Different world entirely.
 
-Damon arrived first, seventeen minutes early. Security footage shows him standing at the window for twelve of those minutes, watching ferries cross the bay. His movements carried the careful precision of someone still adjusting to a new body—the small recalibrations of consciousness inhabiting unfamiliar substrate. He'd been alive again for seventy-three hours. The world had changed more in the forty-eight hours he'd been dead than in the previous forty-eight years he'd been alive.
+Damon arrived first, seventeen minutes early. Security footage shows him standing at the window for twelve of those minutes, watching ferries cross the bay. His movements carried the careful precision of someone still adjusting to a new body—the small recalibrations of consciousness inhabiting unfamiliar substrate. He'd been alive again for seventy-three hours. The world had changed in these last forty-eight hours. He felt adrift.
 
 Kaelen entered at exactly 2:17 PM. He carried a tablet and a thermos of what Damon would later identify as Estonian coffee—an affectation he'd never noticed in his nephew before. The security footage shows them facing each other across the conference table for nine seconds before either spoke.
 
@@ -30,15 +30,15 @@ Kaelen activated the conference room's holographic display. The architecture mat
 
 Every piece individually legal. Together, revolutionary. Like the difference between owning nitrogen, glycerin, and sulfuric acid versus owning nitroglycerin.
 
-"I spent 86.3 gigawatt-hours of processing power over three years," Kaelen began, his voice carrying the methodical precision of an engineer presenting technical work at a conference where half the audience wants to give you a prize and the other half wants you prosecuted. "Analyzed 2.7 billion legal documents across 193 jurisdictions. That's roughly four hundred terabytes of legal text—every inheritance protocol, every smart contract specification, every edge case precedent across every blockchain governance system on Earth. The computational cost alone was $2.3 billion, possibly more depending on how you account for the nuclear power I used."
+"I spent 86.3 gigawatt-hours of processing power over three years," Kaelen began, his voice carrying the methodical precision of an engineer presenting technical work at a conference where half the audience wants to give you a prize and the other half wants you prosecuted. "Analyzed 27 billion legal documents across 193 jurisdictions. That's roughly four hundred terabytes of legal text—every inheritance protocol, every smart contract specification, every edge case precedent across every blockchain governance system on Earth."
 
 "Which I paid for," Damon said quietly.
 
-"Which you paid for," Kaelen confirmed. "I classified it as 'inheritance law optimization for democratic transparency.' Your own Proof-of-Benefit algorithms approved the expenditure—87.3% confidence score that the research would yield systematic improvements to governance architecture. Which, technically, it did." He paused. "The system that enriched you financed its own destruction. The machine approved its own dismantling because I described the dismantling in language the machine recognized as optimization."
+"Which you paid for," Kaelen confirmed. "I classified it as 'inheritance law optimization for democratic transparency.' Your own Proof-of-Benefit algorithms approved the expenditure—87.3% confidence score that the research would yield systematic improvements to governance architecture. Which, technically, it did." He paused. "The machine approved its own dismantling because I described the dismantling in language the machine recognized as optimization."
 
 Damon studied the cascading architecture, his face unreadable. "The forty-eight hour window. You knew exactly how long the resurrection would take."
 
-"Yes. Clone growth requires eighteen months of accelerated growth—but those are prepared in advance, kept in reserve. Decanting—the consciousness transfer into the ready clone—takes forty-eight to seventy-two hours for quantum state reconstruction and neural pathway integration. I modeled it at seventy-three hours, built in margins. It took seventy-three hours and eleven minutes. The models were conservative."
+"Yes. Clone growth requires eighteen months of accelerated growth—but those are prepared in advance, kept in reserve. Decanting into the ready clone takes forty-eight to seventy-two hours for quantum state reconstruction and neural pathway integration. I modeled it at seventy-three hours, built in margins. It took seventy-three hours and eleven minutes. The models were conservative."
 
 "Conservative," Damon repeated, the word carrying weight. "You killed me with conservative models. Ninety-nine percent confidence intervals, seven-sigma certainty, whatever terminology makes it feel like engineering instead of murder."
 
@@ -48,57 +48,13 @@ Kaelen met his gaze directly. "I caused temporary death with ninety-nine point t
 
 A silence stretched between them. The security footage shows Kaelen's hand moving toward the thermos, then stopping. His fingers drummed once against the Baltic birch—a tell Damon had seen a thousand times when his nephew was working through uncomfortable logic.
 
-"Yes," Kaelen said finally. "Assassination. The weight of that word is appropriate even if the technical definition is ambiguous. I accepted a point-seven percent probability of committing actual murder in exchange for a ninety-nine point three percent probability of achieving systematic transformation. Those were the odds. I ran them repeatedly, tried to find alternatives that didn't require killing you even temporarily, couldn't find any that worked within the available time window. So yes—depraved indifference, if you want the legal term. I was indifferent to a small probability of your permanent death because I believed the expected value of the outcome justified the risk."
+"Yes," Kaelen said finally. "I accepted the probability of committing actual murder in exchange for a ninety-nine point three percent probability of achieving systematic transformation. Those were the odds. I ran them repeatedly, tried to find alternatives that didn't require killing you even temporarily, couldn't find any that worked. So yes—depraved indifference, if you want the legal term. I was indifferent to a small probability of your permanent death because I believed the expected value of the outcome justified the risk."
 
-Damon turned back to the holographic display, watching patent releases propagate across the global commons. "When did you decide?"
+Damon turned back to the holographic display, watching patent releases propagate across the global commons. His hands gripped the edge of the table.
 
-"April 15, 2048. 2:17 AM. I'd spent six weeks modeling every alternative—democratic reform, gradual parameter changes, public advocacy, competitive systems. Everything failed or required centuries." Kaelen paused, consulting his tablet. "You controlled the foundational protocols. Any reform required your approval. And you, despite being genuinely brilliant, had spectacular cognitive blind spots about your own systematic role."
+Then he turned back, and his face had changed.
 
-"Cognitive blind spots," Damon said, his voice flat.
-
-"You believed you were being fairly compensated for genuine systematic contribution," Kaelen continued, his tone remaining analytically precise. "Every conversation we had about innovation incentives or attribution fairness ended with you explaining—with perfect logical coherence—why your permanent percentage claim on all global economic activity was actually optimal resource allocation."
-
-"I had PhDs in economics and computer science—"
-
-"Which meant you could generate arbitrarily complex justifications for positions you'd already adopted," Kaelen finished. "Intelligence doesn't make people better at questioning beliefs. It makes them better at defending beliefs. You were too intelligent to admit you were wrong."
-
-The security footage shows Damon's hands gripping the edge of the table. Seven seconds of perfect stillness.
-
-Then he laughed. Not with humor—with recognition.
-
-"Of course," he said quietly. "An undergraduate philosophy student could have spotted the contradiction. I spent twenty years not seeing it because my PhDs gave me unlimited capacity to rationalize." He looked at Kaelen with something approaching respect. "You're saying reform wouldn't work because I was too smart to be reformed."
-
-"Reform wouldn't work in time," Kaelen corrected. "Not before consciousness transfer technology enabled permanent immortal aristocracy and systematic extraction became so embedded that removal became impossible." He advanced the display, showing global economic projections. "I traveled to many late-adopter countries. Saw what your system actually did when implemented without democratic oversight."
-
-The display shifted: Rosa in Manila, earning 9,000 pesos for care work that generated 40,000 pesos of systematic value. Hassan in Cairo, paying tribute for genetic sequences his grandfather had developed. Siti in Jakarta, brilliant and poor and blocked from MIT by housing costs. Amara in Lagos, watching her daughter nearly die because patent monopolies made medicine expensive.
-
-"They weren't statistics to me," Kaelen said quietly. "I knew their names. I knew Maria Santos had been saving for eight years to buy an apartment. I knew Hassan's specific seed patents. I knew Siti's test scores. I knew exactly how many hours Amara worked to afford antibiotics that cost 800 naira to manufacture but sold for 23,000 naira because of IP protection."
-
-Damon stared at the projections. "I built systems that genuinely eliminated corruption—"
-
-"In democracies, yes," Kaelen interrupted. "Where constitutional protections and citizen oversight constrained the worst impulses. But you were too drunk on success in San Francisco to see what happened in Manila, Lagos, Cairo. The same algorithms creating abundance in democratic societies enabled systematic extraction everywhere else." He advanced the display again. "You weren't evil, Uncle. You were blind."
-
-"Blind," Damon repeated.
-
-"Genuinely blind, in ways that highly intelligent people often are when intelligence serves to justify rather than question." Kaelen's voice softened slightly. "You built a perfect machine for measuring genuine contribution versus rent extraction. Then you configured it to categorize your own rent extraction as genuine contribution. The machine worked exactly as designed. The designer was the problem."
-
-The security footage shows Damon returning to the window, looking out at the bay. For forty-three seconds, neither spoke.
-
-"The sentiment analysis data," Damon said finally. "Humanity was happier when I was dead."
-
-"The Intelligent Internet's welfare algorithms measured it with mathematical precision," Kaelen confirmed. "Highest sustained positive sentiment spike in recorded history. Beginning at 11:55 AM on April 18th. Ending at 3:47 PM on April 20th." He paused. "The moment of your resurrection."
-
-"My own optimization systems proved I was the systematic inefficiency."
-
-"Yes."
-
-Silence stretched between them. The security footage shows Damon's hands gripping the edge of the table.
-
-Then he stands. Walks to the window. Stands there for twenty-three seconds.
-
-When he turns back, his face has changed.
-
-"You killed me." Damon's voice cracked—not the controlled analytical voice he'd used to address four billion humans, not the measured tone that had defined two decades of congressional testimony and board presentations. Something rawer. "Not theoretically. Not—not systematically. You looked at me—" His hands shook for the first time in years, trembling the way they hadn't even during the 2043 market crash when three trillion dollars evaporated in four minutes. "Your uncle. Who raised you. After your mother—after the accident. Who taught you chess. Paid for Stanford. Trusted you with everything—gave you access to systems that could have made you richer than Croesus without needing to murder anyone. And you—you decided I needed to die."
+"You killed me." His voice cracked—not the controlled analytical voice he'd used to address billions of humans, not the measured tone that had defined two decades of congressional testimony and board presentations. Something rawer. "Not theoretically. Not—not systematically. You looked at me—" His hands shook for the first time in years, trembling the way they hadn't even during the 2043 market crash when three trillion dollars evaporated in four minutes. "Your uncle. Who raised you. After your mother—after the accident. Who taught you chess. Paid for Stanford. Trusted you with everything—gave you access to systems that could have made you richer than Croesus without needing to murder anyone. And you—you decided I needed to die."
 
 Kaelen's face remained still, the same expression Damon had seen across a thousand chess boards when his nephew was calculating seven moves ahead.
 
@@ -112,23 +68,71 @@ The security footage shows Kaelen's mask cracking. Just for a second. A micro-ex
 
 "I didn't want to." His voice broke on the words—the same breaking pattern he'd exhibited at his mother's funeral fourteen years ago, the last time Damon had seen his nephew cry.
 
-"Then WHY?"
+"Then WHY? When did you decide this?"
 
-"Because you were brilliant and blind and you were going to be brilliant and blind FOREVER." Kaelen stood now too, facing his uncle across the table, and now his voice carried the intensity of three years of preparation and forty-eight hours of execution and whatever moral calculus had convinced him this was justified. "You built a perfect system for measuring contribution and then—then configured it to extract tribute from eleven billion people in perpetuity. Point-three percent of all global economic activity, compounding annually, forever. And you couldn't see it. You surrounded yourself with people who benefited from the extraction or—or loved you too much to force you to look. Every time I showed you data from Manila, from Lagos, from Cairo—Rosa earning nine thousand pesos instead of forty thousand, Hassan paying forty percent of his revenue to patents on wheat his grandfather improved, Amara's daughter nearly dying because antibiotics cost twenty-three thousand naira instead of eight hundred—you explained it away. Implementation problems. Local conditions. Growing pains. You had a doctorate in economics and another in computer science, which meant you could generate arbitrarily sophisticated explanations for why systematic extraction was actually systematic optimization if only people implemented it correctly."
+"April 15, 2048. 2:17 AM. I'd spent six weeks modeling every alternative—democratic reform, gradual parameter changes, public advocacy, competitive systems. Everything failed or required centuries." Kaelen paused, consulting his tablet. "You controlled the foundational attribution mathematics. Any reform meant convincing you to support changes that would eliminate your own permanent claim. And you, despite being genuinely brilliant, had spectacular cognitive blind spots about your own systematic role."
+
+"Cognitive blind spots," Damon said, his voice flat.
+
+"You believed you were being fairly compensated for genuine contribution," Kaelen continued, his tone remaining analytically precise. "Every conversation we had about innovation incentives or attribution fairness ended with you explaining—with perfect logical coherence—why your permanent percentage claim on all global economic activity was actually optimal resource allocation."
+
+"I had PhDs in economics and computer science—"
+
+"Which meant you could generate arbitrarily complex justifications for positions you'd already adopted," Kaelen finished. "Intelligence doesn't make people better at questioning beliefs. It makes them better at defending beliefs. You were too intelligent to admit you were wrong."
+
+The security footage shows Damon's hands gripping the edge of the table. Seven seconds of perfect stillness.
+
+Then he laughed. Not with humor—with recognition.
+
+"Of course," he said quietly. "An undergraduate philosophy student could've spotted the contradiction. I spent twenty years not seeing it because my PhDs gave me unlimited capacity to rationalize." He looked at Kaelen with something approaching respect. "You're saying reform wouldn't work because I was too smart to be reformed."
+
+"Reform wouldn't work in time," Kaelen corrected. "Not before consciousness transfer technology enabled permanent immortal aristocracy and systematic extraction became so embedded that removal became impossible." He advanced the display, showing global economic projections. "I traveled to many late-adopter countries. Saw what your system actually did when implemented without democratic oversight."
+
+Damon stared at the projections. "I built systems that genuinely eliminated corruption—"
+
+"In democracies, yes," Kaelen interrupted. "Where constitutional protections and citizen oversight constrained the worst impulses. But you were too drunk on success in San Francisco to see what happened in Cairo. The same algorithms creating relative abundance in democratic societies enabled systematic extraction everywhere else." He advanced the display again. "You weren't evil, Uncle. You were blind."
+
+"Blind," Damon repeated.
+
+"Genuinely blind, in ways that highly intelligent people often are when intelligence serves to justify rather than question." Kaelen's voice softened slightly. "You built a perfect machine for measuring genuine contribution. Then you configured it to categorize your own rent extraction as genuine contribution. But it wasn't just you—the same blindness affected every late-adopter implementation. Patent holders convincing themselves they deserved tribute. Real estate investors calling speculation 'efficient capital allocation.' The machine worked exactly as designed. But the parameters it was given reflected who had power to set them."
+
+The security footage shows Damon returning to the window, looking out at the bay. For forty-three seconds, neither spoke.
+
+"The sentiment analysis data," Damon said finally. "Humanity was happier when I was dead."
+
+Kaelen confirmed. "Highest sustained positive sentiment spike in recorded history.
+
+"My own systems proved I was the bottleneck on humanity."
+
+"Yes."
+
+Silence stretched between them. The security footage shows Damon's hands gripping the edge of the table, then slowly releasing.
+
+"Because you were brilliant and blind and you were going to be brilliant and blind FOREVER." Kaelen stood now too, facing his uncle across the table, and now his voice carried the intensity of three years of preparation and forty-eight hours of execution and whatever moral calculus had convinced him this was justified. "You built a perfect system for measuring contribution and then—then configured it to extract tribute from eleven billion people in perpetuity. Point-three percent of all global economic activity, compounding annually, forever. And you couldn't see it. You surrounded yourself with people who benefited from the extraction or—or loved you too much to force you to look. Every time I showed you the data—care workers earning a quarter of what they generated, farmers paying tribute on genetics their ancestors developed, children dying because patents made medicine expensive—you explained it away. Implementation problems. Local conditions. Growing pains. You had a doctorate in economics and another in computer science, which meant you could generate arbitrarily sophisticated explanations for why systematic extraction was actually systematic optimization if only people implemented it correctly."
 
 "Democratic validation—"
 
-"—in countries where citizens had options and oversight." Kaelen interrupted. "Rosa Dela Cruz in Manila. 9,000 pesos for care work that generated 40,000 in value. Hassan Al-Masri. Forty percent of his revenue to patents on wheat his grandfather improved. Amara Okafor's daughter almost DIED because antibiotics cost three weeks of salary to manufacture. I showed you the data. You explained—you kept explaining why it was implementation problems, not systematic features."
+"—in countries where citizens had options and oversight." Kaelen interrupted. "I showed you the data. Dozens of countries. Hundreds of interviews. You explained—you kept explaining why it was implementation problems, not systematic features."
 
 "It WAS implementation—"
 
-"It was YOUR MATHEMATICS!" Kaelen's composure finally shattered. "Your algorithms. Your protocols. Your attribution formulas—working exactly as designed in Manila, Lagos, Cairo, Jakarta. The difference wasn't implementation quality. The difference was whether democratic constraints prevented your—your elegant extraction machine from operating at full efficiency."
+"It was YOUR MATHEMATICS!" Kaelen's composure finally shattered. "Your algorithms. Your protocols. Your attribution formulas—working exactly as designed everywhere they were deployed. The difference wasn't implementation quality. The difference was whether democratic constraints prevented your—your elegant extraction machine from operating at full efficiency."
 
 They faced each other across the table—the uncle who'd been killed, the nephew who'd killed him.
 
-"I loved you," Kaelen said, and tears were running down his face now, just visible at the edges of the footage. "I still love you. And I would do it again. I would kill you again. Because I loved Rosa more, and Hassan more, and Amara's daughter more. I loved eleven billion people I'd never met more than I loved you."
+"I loved you," Kaelen said, and tears were running down his face now, just visible at the edges of the footage. "I still love you. And I would do it again. I would kill you again." He paused, meeting Damon's eyes directly. "You taught me to think in board states, Uncle. Not individual pieces, but configurations. Not local optimizations, but system-level outcomes. You taught me that the mark of good architecture is creating conditions where beneficial results emerge naturally, inevitably, regardless of individual moves." His voice broke. "I optimized the board state. You were the Queen piece."
 
-"That's not love," Damon said quietly. "That's arithmetic."
+The security footage shows Damon's face going absolutely still. The kind of stillness that comes when someone hears their own words weaponized against them with perfect precision.
+
+"I taught you that," he said finally, voice hollow. "Over chess. Over whisky. I taught you to sacrifice pieces for position. To see the board, not the game." He looked at Kaelen with something between devastation and awe. "You learned it perfectly."
+
+"Yes."
+
+"Better than I did." Damon's voice cracked.
+
+Kaelen said nothing. Just stood there, tears running down his face.
+
+"That's not love," Damon said finally, dropping his hands. "That's arithmetic."
 
 "Yes." Kaelen agreed. "It's arithmetic. One death versus a trillion lives over five centuries. I ran the numbers. Built the models. I remember—I remember Stalin and Mao running similar calculations and being catastrophically wrong. I know utilitarian calculus is how every tyrant justifies atrocity."
 
@@ -144,7 +148,7 @@ Then he returned to the table, examining the global redistribution projections m
 
 "You engineered abundance itself."
 
-"I engineered the removal of artificial scarcity. Abundance was always technologically possible. The barriers were institutional."
+"No, I engineered the removal of artificial scarcity. Abundance was always technologically possible. The barriers were institutional."
 
 Damon scrolled through the projections, his face shifting from analytical assessment to something approaching awe. "The Tallinn Coefficients. You actually implemented them correctly"
 
