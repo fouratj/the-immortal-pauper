@@ -95,6 +95,8 @@ The medical teams rushed the stage as eleven billion humans watched in stunned s
 
 At 11:55 AM, eight minutes after collapse, Damon Korr was declared dead.
 
+Kaelen's phone began vibrating immediately—thousands of authentication requests, every smart contract in the cascade asking for heir approval. The forty-eight hour window vaulted open.
+
 In the chaos that followed—medical teams, investigators, officials demanding explanations, crowds in twelve hundred cities shouting questions at screens that could no longer answer—no one noticed Kaelen Korr quietly leaving the amphitheater.
 
 The revolution had begun with eleven billion witnesses.
