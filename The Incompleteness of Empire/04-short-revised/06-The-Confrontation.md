@@ -129,7 +129,7 @@ Kaelen said nothing.
 
 "Uncle—"
 
-"That's not absolution." Damon's voice hardened. "The fact that your assassination achieved beneficial results doesn't make it ethical. It makes you lucky. You gambled with my life, you won the gamble, and now you want me to congratulate you for being right."
+"That's not absolution." Damon's voice hardened. "The fact that your assassination achieved beneficial results doesn't make it ethical. It makes you lucky. You gambled with my life, you may have won the gamble, and now you want me to congratulate you for being right."
 
 "I don't want—"
 
