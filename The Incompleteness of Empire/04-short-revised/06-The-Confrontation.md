@@ -137,7 +137,7 @@ Kaelen said nothing.
 
 Kaelen stared at the man who had raised him. Who had taught him chess. Who had held him at his mother's funeral when he was twelve and terrified that the world had ended.
 
-"I wanted you to understand."
+"I wanted you to understand. And I wanted you to see—I didn't keep any of it. It's already gone. All of it. And I'm leaving. Because if I'd kept it, I'd become you."
 
 "I understand perfectly." Damon walked toward the door. "You saw a systemic inefficiency. You determined the most elegant solution was killing me. You executed the plan with characteristic precision. And now you want my *approval*."
 

@@ -61,9 +61,25 @@ Dr. Chen activated a holographic display showing edited footage from the global 
 
 "Cause of death?" he asked, with the mild curiosity of someone reviewing a technical specification rather than their own mortality.
 
-"Cascading cellular integrity failure," Dr. Chen replied, consulting her medical tablet. "Initial presentation suggested cardiac arrest—standard inferior wall MI pattern, ST elevation in leads II, III, aVF. But post-mortem analysis revealed sequential organ system failures occurring in randomized patterns that don't match any known pathology. The diagnostic nanobots—Shimizu Medical's Gen-7 molecular surgeons, the same ones that handled the Singapore Prime Minister's stroke last year—couldn't establish a stable treatment protocol. Each failure mode triggered adaptive response: cardiovascular collapse prompted emergency vasopressor synthesis, hepatic dysfunction triggered metabolic shunt protocols, neurological symptoms initiated direct cortical stimulation. Textbook responses, perfectly executed. Except the cellular damage kept shifting to different organ systems before repairs could complete. It was like—" She paused, trying to find the right metaphor. "You know how computer security works? How modern firewalls adapt to threats? This was like watching a hacker who knew exactly how our firewall would adapt, staying one step ahead of every countermeasure. The nanobots conferred with each other in microsecond bursts, building consensus models of the emergency, only to watch those models become obsolete as new failure patterns emerged. Respiratory distress, then hepatic dysfunction, then neurological symptoms—as if the causative agent had read the medical AI's source code and designed itself to be systematically invisible."
+"Cardiac arrest from coronary vasoconstriction," Dr. Chen replied, consulting her medical tablet. "But here's what doesn't make sense: we can't find the attack vector."
 
-Damon rose from the resurrection table, accepting clothes from a technician. His movements carried the same confident precision.
+She pulled up a diagnostic timeline. "Your Gen-7 population shows normal count, normal distribution, factory-standard firmware. No malicious code. No foreign nanobots. No evidence of external compromise. According to everything we can measure, your medical systems just... failed. Spontaneously. During the most important moment of your life."
+
+She shook her head. "The logs show a coordination breakdown. Some units initiated vasoconstriction while others reported normal function. It's like your nanobot population split into factions—half trying to save you from a crisis that didn't exist, half insisting nothing was wrong. By the time the failsafe kicked in, the damage was done."
+
+Dr. Chen hesitated. "There's one theory that fits the data. Same-type infiltration. If someone introduced *additional* Gen-7s into your bloodstream—jailbroken units with modified firmware but identical authentication—your existing nanobots wouldn't recognize them as threats. Same molecular signature. Same trusted-network credentials. Like a compromised immune cell that other immune cells can't attack because it still carries the right markers."
+
+She looked up. "The attacking nanobots replicate until they reach critical mass, override your legitimate systems' command channels, and execute. Then they purge their modified firmware and revert to factory baseline. Forensics finds nothing because the murder weapons erased themselves and became indistinguishable from your own medical systems."
+
+A pause. "The problem is, this would require physical delivery. Someone would have had to make skin contact with you—transfer the nanobots directly—within about twenty minutes of the collapse." She checked her notes. "Did anyone touch you before you went on stage?"
+
+Damon was silent for a moment. His expression didn't change, but something flickered behind his eyes.
+
+"My nephew," he said slowly. "Kaelen. He came backstage. Said he wanted to wish me luck before the speech." A pause. "He hugged me."
+
+Dr. Chen made a note. "We should probably—"
+
+"Later." Damon rose from the resurrection table, accepting clothes from a technician. His movements carried the same confident precision, but his jaw had tightened almost imperceptibly.
 
 "Investigation status?"
 
@@ -73,9 +89,9 @@ From the gallery, Director Harrison called down: "Comprehensive forensic analysi
 
 "We should proceed under the assumption of intentional causation," Damon announced, straightening his jacket with regal precision. "Someone has developed a method for causing undetectable cellular failure. Being a god is no fun if you keep having to resurrect yourself."
 
-Dr. Chen frowned. "But that would require not just knowledge of consciousness transfer protocols, but perfect understanding of the timing, the cellular patterns, the specific biological vulnerabilities—"
+Dr. Chen frowned. "But to pull off same-type infiltration, someone would need access to Shimizu Gen-7s, the technical expertise to jailbreak them, and physical proximity to you at exactly the right moment—"
 
-"Precisely," Damon interrupted. "We can rule out outsiders. Internal. Someone with access to our complete technical specifications, someone who understands both the consciousness transfer process and my personal security arrangements."
+"Precisely," Damon interrupted, his voice cold. "Someone with their own Gen-7s. Someone with access to BioGenesis technical specifications. Someone close enough to embrace me backstage and walk away without suspicion."
 
 His gaze swept the small gallery, passing over board members, legal representatives, and technical staff with equal analytical attention.
 
@@ -131,7 +147,7 @@ Harrison cleared his throat, glancing at the graph before hurriedly minimizing i
 
 "My heir," Damon said sharply, each word carrying the weight of perfect understanding. "Someone who had complete knowledge of my asset structure, legal vulnerabilities, and technical systems. Someone who spent years mapping every holding, every patent, every revenue stream."
 
-His eyes widened fractionally—the only outward sign of the realization hitting him. "Someone who knew about the consciousness backup. Who knew resurrection was guaranteed." His voice dropped to something between admiration and fury. "Kaelen didn't kill me. He borrowed my death. Precisely timed for maximum effect—during the immortality announcement, maximum global attention, maximum chaos. Just long enough to inherit everything, redistribute it, and let me come back to discover what he'd done."
+His eyes widened fractionally—the only outward sign of the realization hitting him. "Someone who knew about the consciousness backup. Who knew resurrection was guaranteed." His voice dropped to something between admiration and fury. "He came backstage to wish me luck. He *hugged* me. And the whole time, he was transferring weaponized nanobots through my suit." A hollow laugh. "Kaelen didn't kill me. He borrowed my death. Precisely timed for maximum effect—during the immortality announcement, maximum global attention, maximum chaos. Just long enough to inherit everything, redistribute it, and let me come back to discover what he'd done."
 
 A pause as the full architecture of the attack became clear. "He needed me alive afterward. Dead permanently, I become a martyr and the system might reverse everything. Alive and resurrected?" Damon's laugh was hollow. "I validate that consciousness transfer works while simultaneously proving my own obsolescence. Brilliant."
 

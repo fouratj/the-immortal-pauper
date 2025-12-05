@@ -523,9 +523,35 @@ It's the most sophisticated stagnation in human history. Rome's decline took cen
 
 The pin is sitting in front of me now.
 
-Fifteen million dollars. Platinum setting with quantum-grade sapphires--computational decoration. Entangled lattice structures capable of broadcasting precisely calibrated decoherence signals.
+Fifteen million dollars. Platinum setting with quantum-grade sapphires. Computational decoration hiding a substrate layer containing forty-seven million Shimizu Gen-7 nanobots.
 
-In three days, I'm going to wear it to my uncle's immortality announcement. I'm going to activate it during his speech. And I'm going to watch him die while the world witnesses what they'll think is tragic irony.
+My nanobots. The same model that swim through my uncle's bloodstream, maintaining his cardiovascular system, monitoring his vitals, keeping his fifty-two-year-old body functioning like a thirty-five-year-old's. I've had my own Gen-7s for three years—standard health maintenance for anyone wealthy enough to afford them. Same manufacturer. Same authentication protocols. Same molecular signature.
+
+I've spent eighteen months jailbreaking them.
+
+It's not easy to reprogram medical nanobots. They're designed with multiple failsafes, encrypted command channels, tamper-evident firmware. But I had time. I had access to the technical specifications—estate planning requires understanding the medical assets you're inheriting. And I had motivation that the security engineers never anticipated: the designated heir wanting to murder the person he was inheriting from.
+
+The jailbroken bots sit dormant in the pin's substrate layer, suspended in a biocompatible gel that keeps them viable without power. They'll activate on contact with human skin. Enter through pores. Reach the bloodstream within seconds.
+
+And here's the part that took me a year to figure out: my uncle's existing Gen-7s won't attack them.
+
+Medical nanobots are designed to cooperate, not compete. They use molecular authentication—chemical signatures that identify them as legitimate Shimizu hardware, part of the same trusted network. It's like how your immune system recognizes "self" versus "non-self" using MHC markers. The Gen-7s all carry the same authentication, because they're all supposed to be working together.
+
+My jailbroken bots carry the same authentication. Because they *are* legitimate Gen-7s. Just... reprogrammed.
+
+Once they're in his bloodstream, they'll replicate. The Gen-7s are designed to maintain population levels—if some are destroyed or expelled, others multiply to compensate. My bots will exploit that mechanism. They'll replicate until they reach critical mass: enough units to override his existing nanobots' command channels and take direct control of his cardiovascular system.
+
+Eighteen minutes. That's how long the replication takes to reach threshold.
+
+Then they execute. Emergency vasoconstriction—the exact intervention the Gen-7s would use if he were hemorrhaging. Except he won't be hemorrhaging. He'll be standing on stage declaring his immortality, and his own medical systems will constrict his coronary arteries until his heart stops.
+
+And after he's dead—after the cascade is triggered, after I've inherited everything—the jailbroken bots will execute their final instruction. Purge the modified firmware. Restore factory baseline. Become indistinguishable from the legitimate Gen-7s they were designed to mimic.
+
+The forensic teams will find nothing. No foreign nanobots. No malicious code. Just a population of perfectly normal Shimizu Gen-7s that, according to their logs, detected an emergency and responded correctly. A tragic malfunction. An edge case. The kind of thing that gets patched in the next update.
+
+The pin doesn't kill him. I have to deliver it myself. Physical contact. Skin to skin. The proud nephew embracing his uncle before the biggest speech of his life.
+
+That's the part I try not to think about.
 
 *[Pause]*
 

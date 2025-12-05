@@ -1,41 +1,95 @@
 ## The Activation
-**April 18, 2050 - 11:29 AM Coordinated Global Time**
+**April 18, 2050 - 11:12 AM Coordinated Global Time**
 
 ---
 
-The security guard turned the pin over in his palm.
+"I'm sorry, sir. The schedule's changed."
 
-Kaelen stopped breathing. The amphitheater's climate control hummed at 68 degrees but sweat pooled in the small of his back, soaking through his undershirt. The guard—young, bored, a coffee stain on his collar—held three years of preparation and fifteen million dollars of quantum engineering between his thumb and forefinger.
+Kaelen stared at the security officer—different from the one he'd bribed, different from the one he'd mapped six months ago. New face. New uniform insignia. New problem.
+
+"Changed how?"
+
+"Mr. Korr is in final preparation. No visitors backstage. Family included."
+
+The amphitheater hummed around them. Eighteen minutes until the speech began. Eighteen minutes until four billion humans watched his uncle declare immortality. Eighteen minutes that meant nothing if Kaelen couldn't get physical contact first.
+
+"There must be a mistake." His voice came out calm. How was his voice calm? "I'm his nephew. I'm on the access list."
+
+"Access list was revised this morning." The officer checked his tablet. "Security protocols tightened after the São Paulo incident last week. Direct family access requires Mr. Korr's personal authorization, which—" He scrolled. "—wasn't requested."
+
+Because Kaelen hadn't known he'd need to request it. Because six months ago, when he'd mapped every security checkpoint, every access protocol, every possible failure point, "family" had meant automatic backstage access. Because he'd planned for everything except a last-minute protocol change triggered by some unrelated threat on another continent.
+
+His hand went to the pin on his lapel. Forty-seven grams of platinum and sapphire. Forty-seven million jailbroken nanobots suspended in biocompatible gel, waiting for skin contact that might never happen.
+
+"Can you radio him? Tell him Kaelen needs two minutes before he goes on?"
+
+The officer's expression shifted from bored to suspicious. "Sir, I can't interrupt final prep for—"
+
+"He'll want to see me." Kaelen heard the desperation in his own voice and hated it. "It's important. Family matter. Please."
+
+A long pause. The officer studied him—the expensive suit, the family resemblance, the sweat beading at his temples despite the climate control.
+
+"Wait here."
+
+The officer stepped away, spoke into his earpiece. Kaelen stood motionless in the corridor, surrounded by the backstage machinery of the most-watched event in human history, and tried to calculate probabilities he couldn't calculate. If Damon said no. If security escorted him out. If three years of preparation collapsed because of a protocol change he couldn't have predicted.
+
+The officer returned. "Mr. Korr says two minutes. Through there."
+
+Kaelen's legs carried him down the corridor before his mind caught up. The door opened onto a preparation room—mirrors, lighting equipment, a makeup station that Damon had obviously ignored. His uncle stood by the window, practicing gestures, mouthing words to himself.
+
+He turned when Kaelen entered. That familiar face. The charcoal adaptive-fiber suit. The measured confidence of a man who had already conquered death.
+
+"Kael." Damon smiled. "Nervous for me?"
+
+"Something like that." Kaelen crossed the room. "I wanted to—before you go out there—"
+
+He embraced his uncle.
+
+The pin pressed between them. Kaelen felt it shift, felt the substrate layer make contact with the fabric of Damon's suit, felt the warmth of a body he was about to kill.
+
+"Good luck," he said into his uncle's shoulder. "I'm proud of you."
+
+Damon hugged him back. The kind of hug they hadn't shared since Kaelen's mother died. The kind of hug that meant family, meant trust, meant everything Kaelen was about to betray.
+
+"Thank you, Kael. That means more than you know."
+
+They separated. Kaelen managed a smile. The transfer was complete—nanobots migrating from the pin's substrate through the suit fabric, seeking skin, entering pores, reaching bloodstream. Forty-seven million microscopic assassins beginning their eighteen-minute countdown.
+
+"I should get to my seat."
+
+"Third row, right?" Damon straightened his jacket. "I'll find your face in the crowd. Helps with the nerves."
+
+*Don't,* Kaelen thought. *Don't look for me. Don't make me watch your face while you die.*
+
+"I'll be there."
+
+He left before his voice could break.
+
+---
+
+**11:29 AM Coordinated Global Time**
+
+The security guard at the main entrance turned the pin over in his palm.
+
+Kaelen stopped breathing. The substrate layer was empty now—the nanobots delivered—but the guard didn't know that. Didn't know anything except that a nervous young man in an expensive suit was wearing a piece of jewelry worth more than most houses.
 
 "Pretty fancy," the guard said.
 
-"Family heirloom." Kaelen's voice came out normal. How was his voice normal?
+"Family heirloom." His voice came out normal.
 
-The guard handed it back. Kaelen re-pinned it over his heart with fingers that refused to shake, though they should have. Forty-seven grams of platinum and sapphire. Cool against his chest.
+The guard handed it back. Kaelen re-pinned it over his heart with fingers that refused to shake, though they should have. Forty-seven grams of platinum and sapphire. Empty now. The weight of what it had carried already swimming through his uncle's bloodstream.
 
 VIP section. Third row. Seat 17.
 
-The woman to his left was already crying—overcome by the historical moment, dabbing her eyes with a silk handkerchief that probably cost more than what most poeple made in a month. The man to his right recorded everything on his phone, muttering timestamps to himself like prayer.
-
-Kaelen sat. The seat's leather was cold through his suit pants. He could smell the amphitheater: ozone from the holographic projectors, expensive perfume from the crying woman, the faint metallic tang of the metamaterial walls. His own sweat, which he hoped no one else could detect.
+He sat. The seat's leather was cold through his suit pants. Around him, witnesses to history—the crying woman with her silk handkerchief, the man muttering timestamps into his phone. None of them knew. None of them could know.
 
 The music swelled. The podium rose.
 
 Damon Korr stepped into the spotlight.
 
-Fifty-two years old but appearing thirty-five. That charcoal adaptive-fiber suit that somehow managed to look both humble and imperial. His uncle smiled at four billion humans with the confidence of a man who had already conquered death and was about to inform the species of that fact.
+He found Kaelen's face in the crowd, just as he'd promised. Smiled at his nephew. The proud uncle, grateful for family support on the biggest day of his life.
 
-*I taught you chess,* Kaelen thought, unbidden. *When Mom died. Midnight games. Lagavulin whisky. "You're getting better, Kael."*
-
-Stop. He couldn't afford memories. Not now.
-
-"Citizens of Earth," Damon began.
-
-Kaelen shifted his weight—right shoulder up, down, left shoulder roll, neck extension. The precise sequence. The pin vibrated against his chest, confirmation signal so subtle it felt like his own heartbeat accelerating.
-
-Somewhere at scales no instrument could track in real-time, calibrated decoherence patterns were beginning to propagate through his uncle's cellular machinery.
-
-No going back now.
+Kaelen smiled back and began counting.
 
 Eighteen minutes.
 
@@ -65,6 +119,8 @@ Kaelen folded his hands in his lap and pressed them together until his knuckles 
 
 All true in democracies with oversight. Less true everywhere else.
 
+Somewhere in his uncle's bloodstream, the jailbroken nanobots were replicating. Dividing. Building toward critical mass. His uncle's existing Gen-7s saw them as friendly units—same authentication, same molecular signature—and let them multiply unchallenged.
+
 He thought of Rosa in Manila. Hassan in Cairo. Amara's daughter burning with fever because patents made antibiotics expensive.
 
 *That's why you're doing this.*
@@ -77,7 +133,7 @@ Damon's voice dropped to intimate register: "But one constraint remained. The bi
 
 Someone three rows back whispered too loudly: "Here it comes."
 
-Six minutes.
+Six minutes. The nanobots should be approaching critical mass. Millions of them now, replicating in the warm darkness of his uncle's circulatory system.
 
 "Tonight, I stand before you to announce that immortality is no longer theoretical."
 
@@ -85,15 +141,13 @@ The amphitheater held its breath. Eleven billion humans processing the impossibl
 
 "I am the first human being to achieve true technological immortality."
 
-Four minutes.
+Four minutes. Critical mass achieved. The jailbroken nanobots were taking control now—overriding the legitimate Gen-7s' command channels, preparing to execute.
 
-Kaelen could see it now—or thought he could. The faintest tremor in Damon's left hand. Could be rhetorical emphasis. Could be microscopic muscle failure as mitochondria began their cascade collapse.
+Kaelen could see it now—or thought he could. The faintest tremor in Damon's left hand. Could be rhetorical emphasis. Could be the first signs of vasoconstriction as the nanobots began their work.
 
 His uncle spread his arms wide. "Death, for the first time in human history, has become optional."
 
-Two minutes.
-
-The cellular degradation should be accelerating. Cardiac rhythm destabilizing. Neural pathways beginning to fragment. All invisible, all appearing organic, all designed to kill in-
+Two minutes. The coronary arteries constricting. Blood flow to the heart muscle decreasing. The damage building invisibly while Damon declared himself immortal.
 
 One minute.
 
