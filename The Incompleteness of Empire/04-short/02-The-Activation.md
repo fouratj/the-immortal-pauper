@@ -5,21 +5,21 @@
 
 "I'm sorry, sir. The schedule's changed."
 
-Kaelen stared at the security officer—different from the one he'd bribed, different from the one he'd mapped six months ago. New face. New uniform insignia. New problem.
+Kaelen stared at the security officer—different from the one he'd expected, different from the one he'd mapped six months ago. New face. New uniform insignia. New problem.
 
 "Changed how?"
 
 "Mr. Korr is in final preparation. No visitors backstage. Family included."
 
-The amphitheater hummed around them. Eighteen minutes until the speech began. Eighteen minutes until four billion humans watched his uncle declare immortality. Eighteen minutes that meant nothing if Kaelen couldn't get physical contact first.
+The amphitheater hummed around them. Eighteen minutes. Three years of work. One security officer who didn't know he was holding the future in his hands. Eighteen minutes. Three years of work. One security officer who didn't know he was holding the future in his hands. 
 
 "There must be a mistake." His voice came out calm. How was his voice calm? "I'm his nephew. I'm on the access list."
 
-"Access list was revised this morning." The officer checked his tablet. "Security protocols tightened after the São Paulo incident last week. Direct family access requires Mr. Korr's personal authorization, which—" He scrolled. "—wasn't requested."
+"Access list was revised this morning." The officer checked his tablet. "Security protocols tightened after the São Paulo incident last week. Direct access requires Mr. Korr's personal authorization, which—" He scrolled. "—wasn't requested."
 
-Because Kaelen hadn't known he'd need to request it. Because six months ago, when he'd mapped every security checkpoint, every access protocol, every possible failure point, "family" had meant automatic backstage access. Because he'd planned for everything except a last-minute protocol change triggered by some unrelated threat on another continent.
+Because Kaelen hadn't known he'd need to request it. Because six months ago, when he'd mapped every security checkpoint and access protocol, alongside every possible failure point, "family" had meant automatic backstage access. Because he'd planned for everything except a last-minute protocol change triggered by some unrelated threat on another continent. "Fuck" he thought to himself.
 
-His hand went to the pin on his lapel. Forty-seven grams of platinum and sapphire. Forty-seven million jailbroken nanobots suspended in biocompatible gel, waiting for skin contact that might never happen.
+His hand went to the pin on his lapel. Forty-seven grams of platinum and sapphire. Seventy-seven million jailbroken nanobots suspended in biocompatible gel, waiting for skin contact that might never happen.
 
 "Can you radio him? Tell him Kaelen needs two minutes before he goes on?"
 
@@ -45,7 +45,7 @@ He turned when Kaelen entered. That familiar face. The charcoal adaptive-fiber s
 
 He embraced his uncle.
 
-The pin pressed between them. Kaelen felt it shift, felt the substrate layer make contact with the fabric of Damon's suit, felt the warmth of a body he was about to kill.
+The pin pressed between them. Kaelen felt it shift, felt the substrate layer make contact with the fabric of Damon's suit, felt the warmth of the Uncle he loved, who he was about to kill.
 
 "Good luck," he said into his uncle's shoulder. "I'm proud of you."
 
@@ -53,11 +53,13 @@ Damon hugged him back. The kind of hug they hadn't shared since Kaelen's mother 
 
 "Thank you, Kael. That means more than you know."
 
-They separated. Kaelen managed a smile. The transfer was complete—nanobots migrating from the pin's substrate through the suit fabric, seeking skin, entering pores, reaching bloodstream. Forty-seven million microscopic assassins beginning their eighteen-minute countdown.
+They separated. Kaelen managed a smile. The transfer was complete—nanobots migrating from the pin's substrate through the suit fabric, seeking skin, entering pores, reaching bloodstream. Seventy-seven million microscopic assassins beginning their mission.
+
+In the substrate of Kaelen's pin, seventy-seven million nanobots had waited in suspended animation for eleven months. Now, triggered by the warmth and pressure of contact, they woke. One among them—indistinguishable from its seventy-seven million siblings—began the journey first. It was a cylinder 200 nanometers long, its surface studded with mechanosensitive proteins that detected the pressure gradient between fabric and skin. It pushed through the weave of Damon's adaptive-fiber suit like a submarine navigating kelp, following the thermal signature of living tissue.
 
 "I should get to my seat."
 
-"Third row, right?" Damon straightened his jacket. "I'll find your face in the crowd. Helps with the nerves."
+"Third row, right?" Damon straightened his jacket. "I'll find your face in the crowd."
 
 *Don't,* Kaelen thought. *Don't look for me. Don't make me watch your face while you die.*
 
@@ -65,7 +67,6 @@ They separated. Kaelen managed a smile. The transfer was complete—nanobots mig
 
 He left before his voice could break.
 
----
 
 **11:29 AM Coordinated Global Time**
 
@@ -77,11 +78,11 @@ Kaelen stopped breathing. The substrate layer was empty now—the nanobots deliv
 
 "Family heirloom." His voice came out normal.
 
-The guard handed it back. Kaelen re-pinned it over his heart with fingers that refused to shake, though they should have. Forty-seven grams of platinum and sapphire. Empty now. The weight of what it had carried already swimming through his uncle's bloodstream.
+The guard handed it back. Kaelen re-pinned it over his heart with fingers that refused to shake, though they should have. Empty now. The weight of what it had carried already swimming through his uncle's bloodstream.
 
 VIP section. Third row. Seat 17.
 
-He sat. The seat's leather was cold through his suit pants. Around him, witnesses to history—the crying woman with her silk handkerchief, the man muttering timestamps into his phone. None of them knew. None of them could know.
+He sat. The seat's leather was cold through his suit pants. Around him, witnesses to history—a crying woman with her silk handkerchief, the man muttering timestamps into his phone. None of them knew. None of them could know.
 
 The music swelled. The podium rose.
 
@@ -89,17 +90,18 @@ Damon Korr stepped into the spotlight.
 
 He found Kaelen's face in the crowd, just as he'd promised. Smiled at his nephew. The proud uncle, grateful for family support on the biggest day of his life.
 
-Kaelen smiled back and began counting.
+Kaelen smiled back.
 
-Eighteen minutes.
+The nanobot found skin. Its surface proteins recognized human keratinocytes and triggered the next phase: a burst of hyaluronidase enzymes that softened the intercellular matrix, creating a path through the stratum corneum. It took four minutes to breach the epidermis—four minutes of blind, programmed burrowing through dead cells and lipid barriers. Then dermis. Then the wall of a capillary, thin as a soap bubble. The nanobot squeezed through the endothelial junction and tasted blood for the first time. Iron. Glucose. Oxygen. Fuel.
 
----
 
 "For fifty thousand years, our species has been defined by scarcity..."
 
 Kaelen had heard this speech forty times. Had helped Damon refine the rhetoric, adjust the pacing, workshop the emotional beats. Section One: Historical Context. Then Technological Achievement. Then Governance Triumph. Building toward the immortality announcement in Section Five.
 
 Damon would never reach Section Seven.
+
+The nanobot was swimming now—if "swimming" described the corkscrew rotation of its ATP-powered flagellum against the river of plasma. It was impossibly small against the scale of the circulatory system: a single bacterium navigating an ocean. But it wasn't alone. Behind it, still breaching the dermis, seventy-seven million others followed the same chemical gradient.
 
 The crying woman grabbed Kaelen's arm. "Are you family? You look like him."
 
@@ -115,17 +117,15 @@ She didn't let go of his arm. Her grip was surprisingly strong, her perfume sudd
 
 "Of course, of course." She released him, patting his hand. "What a moment. What a *moment* for your family."
 
-Kaelen folded his hands in his lap and pressed them together until his knuckles went white. Twelve minutes. Damon was describing the Intelligent Internet's systematic achievements. All true. Every word. The care workers in Tallinn earning what their labor actually generated. The grandmother compensated like a financial engineer for teaching mathematics to three families' children. The working class who could finally afford housing near their jobs.
+Kaelen folded his hands in his lap and pressed them together until his knuckles went white. Damon was describing the Intelligent Internet's systematic achievements. All true. Every word. All true in democracies with oversight. Less true everywhere else.
 
-All true in democracies with oversight. Less true everywhere else.
-
-Somewhere in his uncle's bloodstream, the jailbroken nanobots were replicating. Dividing. Building toward critical mass. His uncle's existing Gen-7s saw them as friendly units—same authentication, same molecular signature—and let them multiply unchallenged.
+Somewhere in his uncle's bloodstream, the jailbroken nanobots were spreading. His uncle's existing Gen-7s saw them as friendly units—same authentication, same molecular signature—and let them pass unchallenged.
 
 He thought of Rosa in Manila. Hassan in Cairo. Amara's daughter burning with fever because patents made antibiotics expensive.
 
 *That's why you're doing this.*
 
-Eight minutes.
+In the inferior vena cava—the body's largest vein, a river three centimeters wide—the nanobot encountered its first Gen-7. The legitimate medical unit was larger, more sophisticated, running continuous diagnostics on the blood chemistry around it. It pinged the newcomer with a standard authentication request. The nanobot responded with stolen credentials: valid cryptographic signatures harvested from a Gen-7 that Kaelen had extracted from a medical waste facility in Singapore eighteen months ago. The Gen-7 accepted the handshake. Logged a routine contact with a fellow unit. Continued its patrol. The nanobot swam past, carrying its payload of synthetic death, officially welcomed into Damon Korr's body.
 
 The holographic displays showed global viewing numbers: 10.3 billion. Almost every conscious human with access to a screen. The largest simultaneous shared experience in human history.
 
@@ -133,7 +133,9 @@ Damon's voice dropped to intimate register: "But one constraint remained. The bi
 
 Someone three rows back whispered too loudly: "Here it comes."
 
-Six minutes. The nanobots should be approaching critical mass. Millions of them now, replicating in the warm darkness of his uncle's circulatory system.
+The nanobot had reached the heart. It felt the pressure change first—the rhythmic surge of blood expelled from the left ventricle at nearly five liters per minute. The current here was violent, chaotic, nothing like the gentle drift of the peripheral veins. The nanobot's navigation system locked onto a chemical beacon: the elevated concentration of low-density lipoproteins that marked arterial walls. It fought across the current, flagellum spinning at twelve thousand RPM, until it reached the entrance to the left anterior descending artery. The widowmaker. Three million of its siblings were already inside.
+
+The nanobots should be approaching the heart now. Seventy-seven million of them, swimming through the warm darkness of his uncle's circulatory system.
 
 "Tonight, I stand before you to announce that immortality is no longer theoretical."
 
@@ -149,7 +151,17 @@ His uncle spread his arms wide. "Death, for the first time in human history, has
 
 Two minutes. The coronary arteries constricting. Blood flow to the heart muscle decreasing. The damage building invisibly while Damon declared himself immortal.
 
+The nanobot found its target: a smooth muscle cell in the arterial wall, one of millions that controlled the vessel's diameter. Its surface receptors locked onto the cell membrane with the precision of a key entering a lock. Inside the nanobot's core, lipid vesicles ruptured in sequence, releasing their payload—synthetic endothelin-1 analogues, vasoconstrictors engineered to outlast any natural regulatory response.
+
+The muscle fiber received the signal. Contracted. Held. Refused to relax.
+
+The nanobot's job was done. It had no capacity for satisfaction, no awareness that it had just participated in the murder of the most powerful man on Earth. It simply detached, drifted, and began searching for the next smooth muscle cell.
+
+Three million of its siblings were doing exactly the same thing.
+
 One minute.
+
+By now, the nanobot had delivered sixteen payloads. Its internal reserves were nearly depleted—the synthetic compounds exhausted, the ATP harvesting struggling to keep pace with the flagellum's demands. It was dying, in the limited sense that a machine could die. But tens of million of its siblings were still working, still contracting smooth muscle, still strangling the blood supply to Damon Korr's heart. The nanobot drifted into a capillary too small to navigate, wedged itself against the vessel wall, and went still. Its final act was to purge its modified firmware, restoring factory baseline, becoming indistinguishable from the legitimate Gen-7s it had been designed to mimic. Anonymous in death. Untraceable. Perfect.
 
 Kaelen's practiced shock-face. He'd rehearsed it in mirrors for six months. Mouth slightly open. Eyes widening. Hands gripping armrests.
 

@@ -102,3 +102,5 @@ Keep the chronological structure. It works well for building the "inevitability"
 I recommend starting with **Task 3 (Damon's Turn)** and **Task 1 (The Device)** as these will have the biggest impact on the story's emotional and logical resonance.
 
 
+
+
