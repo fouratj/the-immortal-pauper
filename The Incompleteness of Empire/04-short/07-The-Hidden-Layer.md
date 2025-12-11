@@ -141,3 +141,21 @@ Grid storage patents moved to commons. Battery costs dropped 73%. Advanced manuf
 By 2052, the first fusion reactors came online. Energy abundance followed on its own timeline. The Liberation unlocked possibility. Physics required time.
 
 Even today, we're approaching post-scarcity, albeit not quite there yet. Some have referred to this moment as The Beginning of Infinity.
+
+---
+
+**[Addendum: On the Question of Parallels]**
+
+A colleague asked me recently about the Mars colonies—specifically, about the practice of "Parallels" that emerged once consciousness transfer became affordable.
+
+The Mars colonies were settled not by wealthy immortals but by ordinary humans who could afford consciousness backup the same way their ancestors had afforded insurance policies. The journey itself became instantaneous from the traveler's perspective: grow a clone on Mars, transfer consciousness at speed-of-light, wake up on the red planet without experiencing the eight-month voyage your body never took.
+
+Some colonists went further—they left their Earth bodies intact and conscious, creating what the philosopher Yuki Tanaka termed "Parallels" in her 2067 treatise *On Multiplicity*. Two identical consciousnesses diverging from a single moment of transfer, each believing themselves the original, each developing independent experiences and memories. Earth-you continues your relationships, your career, your lunch appointments. Mars-you builds habitats and studies novel geology. Both were you. Then neither is.
+
+The identity debates were fierce—philosophers argued for decades about whether Parallels constituted one person or two, whether they had legal obligations to each other, whether Mars-you's debts belonged to Earth-you. But the Parallels themselves mostly shrugged and got on with living two simultaneous lives, sending each other updates like distant cousins comparing notes across an insurmountable divide of subjective experience.
+
+Death became truly optional, not through wealth accumulation but through systematic abundance. The stars would belong to everyone, because Kaelen had made sure that everything did.
+
+I find it fitting that the technology Damon invented to preserve himself forever became, within a generation, the mechanism by which ordinary humans scattered themselves across the solar system—becoming multiple, becoming distributed, becoming impossible to concentrate or control. The ultimate refutation of singular genius: consciousness itself, democratized and multiplied beyond any individual's capacity to monopolize.
+
+Damon built immortality for one. Kaelen made it inheritance for all.
