@@ -11,7 +11,7 @@ Kaelen stared at the security officer—different from the one he'd expected, di
 
 "Mr. Korr is in final preparation. No visitors backstage. Family included."
 
-The amphitheater hummed around them. Eighteen minutes. Three years of work. One security officer who didn't know he was holding the future in his hands. Eighteen minutes. Three years of work. One security officer who didn't know he was holding the future in his hands. 
+The amphitheater hummed around them. Eighteen minutes. Three years of work. One security officer who didn't know he was holding the future in his hands.
 
 "There must be a mistake." His voice came out calm. How was his voice calm? "I'm his nephew. I'm on the access list."
 
@@ -45,7 +45,7 @@ He turned when Kaelen entered. That familiar face. The charcoal adaptive-fiber s
 
 He embraced his uncle.
 
-The pin pressed between them. Kaelen felt it shift, felt the substrate layer make contact with the fabric of Damon's suit, felt the warmth of the Uncle he loved, who he was about to kill.
+The pin pressed between them. Kaelen felt it shift, felt the substrate layer make contact with the fabric of Damon's suit, felt the warmth of the Uncle he loved. Damon's cologne reached him—sandalwood and something synthetic underneath, the same scent he'd worn to Kaelen's mother's funeral, to every family gathering since Kaelen was twelve. The smell of safety. The smell of the man who'd stepped in when his father was gone.
 
 "Good luck," he said into his uncle's shoulder. "I'm proud of you."
 
@@ -161,9 +161,7 @@ Three million of its siblings were doing exactly the same thing.
 
 One minute.
 
-By now, the nanobot had delivered sixteen payloads. Its internal reserves were nearly depleted—the synthetic compounds exhausted, the ATP harvesting struggling to keep pace with the flagellum's demands. It was dying, in the limited sense that a machine could die. But tens of million of its siblings were still working, still contracting smooth muscle, still strangling the blood supply to Damon Korr's heart. The nanobot drifted into a capillary too small to navigate, wedged itself against the vessel wall, and went still. Its final act was to purge its modified firmware, restoring factory baseline, becoming indistinguishable from the legitimate Gen-7s it had been designed to mimic. Anonymous in death. Untraceable. Perfect.
-
-Kaelen's practiced shock-face. He'd rehearsed it in mirrors for six months. Mouth slightly open. Eyes widening. Hands gripping armrests.
+By now, the nanobot had delivered sixteen payloads. Its internal reserves were nearly depleted—the synthetic compounds exhausted, the ATP harvesting struggling to keep pace with the flagellum's demands. It was dying, in the limited sense that a machine could die. But tens of millions of its siblings were still working, still contracting smooth muscle, still strangling the blood supply to Damon Korr's heart. The nanobot drifted into a capillary too small to navigate, wedged itself against the vessel wall, and went still. Its final act was to purge its modified firmware, restoring factory baseline, becoming indistinguishable from the legitimate Gen-7s it had been designed to mimic. Anonymous in death. Untraceable. Perfect.
 
 "What I am," Damon declared, voice rising toward its crescendo, "is no longer just Damon Korr. I am the first human to transcend biology itself, the architect of—"
 
@@ -179,7 +177,7 @@ Damon staggered. Caught himself on the podium. Tried to continue: "—the beginn
 
 Collapsed.
 
-The sound his body made hitting the stage was small. Barely audible over the sudden screaming. But Kaelen heard it. Would hear it forever.
+The sound his body made hitting the stage was small. Barely audible over the sudden screaming. But Kaelen heard it. Would hear it forever. The sound of his uncle dying by his hand.
 
 *Uncle.*
 
@@ -209,6 +207,8 @@ His phone was vibrating continuously. Thousands of authentication requests.
 
 Forty-eight hours. He had forty-eight hours to transform everything before Damon woke up in a new body and discovered what his nephew had done.
 
+The system status showed compute allocation through Hour 52. His eyes slid past that number without stopping. Forty-eight was the window. Forty-eight was the plan. Whatever came after didn't matter.
+
 Kaelen opened the first transfer authorization. His hands were shaking so badly he mis-typed his confirmation code twice.
 
 *One death versus a trillion lives.*
@@ -227,4 +227,4 @@ And Kaelen sat alone in a locked room, systematically dismantling his uncle's em
 
 ---
 
-*[End of reconstructed timeline. The cascade would run for forty-nine hours. Damon Korr would wake in a new body to discover his empire redistributed. Neither man would be the same.]*
+*[End of reconstructed timeline.]*
