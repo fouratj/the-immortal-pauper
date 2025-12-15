@@ -73,7 +73,19 @@ Damon stared at him. The silence stretched.
 
 "You could have told me," he said finally. "You could have confronted me. Given me a chance to—"
 
-"To what? Change? Reform? You had PhDs in economics and computer science, Uncle. Every conversation we had about attribution fairness ended with you generating arbitrarily sophisticated explanations for why your permanent claim on global economic activity was actually optimal resource allocation. You were too intelligent to be wrong. Your own brilliance was the trap."
+"Dr. Tanaka told you."
+
+Damon went still.
+
+"March 2049," Kaelen continued. "The Bangalore Patch. I was there, Uncle. I sat in the corner taking estate planning notes while she showed you exactly what I'd been showing you for two years. The attribution leak. Rosa Dela Cruz. The 847 documented cases. She had the fix. Point-zero-two percent of operating budget. You said no."
+
+"That was—"
+
+"You said deploying it would 'create precedent.' You said markets needed 'predictable value flows.' You said Rosa would benefit from 'the system's continued stability.'" Kaelen's voice cracked. "You looked at a woman being robbed by your mathematics and you explained why the robbery was optimal. And then you closed the proposal and asked me to dinner."
+
+The silence stretched.
+
+"You had your chance," Kaelen said. "You had it handed to you by your own Chief Attribution Architect, with the math already done and the patch already built. You chose not to take it. So don't tell me I should have *confronted* you. I watched someone confront you. She resigned six weeks later."
 
 Something shifted in Damon's face. 
 

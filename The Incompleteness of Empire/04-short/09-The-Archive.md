@@ -88,7 +88,7 @@ And he commissioned the pin. Fifteen million dollars at Tiffany & Co. for a plat
 The fever started on a Tuesday. Kemi was burning up. Before June, the antibiotics would have cost me three weeks' salary.
 I walked to the pharmacy expecting to leave with nothing. The pharmacist looks at his screen and stares. "The antibiotics," he says. "Ninety-seven percent price reduction. Patent moved to commons yesterday."
 Medicine that cost 23,000 naira now costs 800.
-Whoever liberated those patents—they didn't save medicine. They saved mothers like me from choosing between food and watching our children die. That's not economics. That's grace.
+*[Interview conducted June 2050, three weeks post-Liberation. Amara's immediate reaction. Note the language: "grace," not "policy change." She still doesn't understand the mechanism.]*
 
 ### Cairo, Egypt - June 2051
 **Hassan Al-Masri, Former Farmer**
@@ -96,14 +96,49 @@ Whoever liberated those patents—they didn't save medicine. They saved mothers 
 My father's father's father farmed this land. Always paying tribute. Seed patents.
 The June Event changed everything. Patents moved to commons. Suddenly, farming cost what farming costs—soil, water, labor, sun.
 My farm fed twelve families instead of three. But within six months, I stopped farming. I discovered I was better at preserving consciousness than growing wheat. Now I maintain the systems that make immortality accessible to ordinary people.
-Turns out, farming and quantum maintenance require the same disciplines. I'm still growing things. Just growing people's chances at eternal life instead of growing wheat.
+*[Interview conducted June 2051, one year later. Hassan has already transitioned careers. His retrospective is cleaner than the reality—he doesn't mention the six months of confusion, the learning curve, the nights wondering if he'd made the right choice.]*
 
-### Boston, United States - December 2051
+### Boston, United States - September 2052
 **Rebecca Chen, Former Patent Attorney**
 
 Twenty-three years I spent mastering intellectual property law. The June Event eliminated my profession overnight.
-I was angry. For months. But here's what I eventually understood: my expertise was valuable only because artificial scarcity made it necessary. I was earning $850 an hour navigating obstacles that shouldn't have existed.
-Now I teach legal history. And you know what? The world is genuinely better. Innovation accelerated when we stopped spending billions on patent lawyers. My loss was real. But my loss enabled millions of gains. That's not injustice—that's optimization. I just happened to be the inefficiency that got optimized out.
+I was angry. For months. Still am, some days. My expertise had value—real value. I helped clients navigate a complex system. That the system was artificially complex doesn't make my work worthless.
+
+*[Long pause in recording]*
+
+But yeah, the world is better. Innovation did accelerate when we stopped spending billions on patent lawyers. My loss was real. But my loss enabled millions of gains. I don't know if that's justice or just... arithmetic.
+
+*[Interview conducted September 2052, 2+ years later. Rebecca still ambivalent. Gets frustrated when I press on whether she'd reverse it if she could. Ends interview early.]*
+
+### Manila, Philippines - March 2053
+**Rosa Dela Cruz, Care Worker**
+
+*[Note: Rosa declined to be interviewed initially in 2050-2051. This testimony is from 2053, three years post-Liberation.]*
+
+I still work at the hospital. Same job. But my contract changed—they offered everyone new terms in 2052. Now I get base wage plus attribution from my patients. It's... complicated. Some months I make more than before. Some months less, if patients don't do well.
+
+I also do weekend elder care now. On equity terms—no upfront payment, but I get a share when people I help generate income later. It felt like gambling at first. Now I have seventeen families in my portfolio. My daughter teases me: "Mama is a venture capitalist."
+
+The money is better. Not amazing. Better. I can save now. Maybe send my daughter to university without debt.
+
+Do I understand how it works? *[Laughs]* I tap my phone, log sessions, check my dividend balance. The numbers go up more than they used to. That's what I know.
+
+*[Interview note: Rosa seems cautiously optimistic but stressed about income volatility. When asked if she'd prefer the old fixed-wage system, she hesitates for a long time before saying "no." Not entirely convinced.]*
+
+### São Paulo, Brazil - November 2054
+**Carlos Santos, Factory Supervisor**
+
+My contract is from 2048. Fixed wage, standard attribution waiver. The company offered me new terms in 2052—lower base, equity participation. I said no.
+
+I'm fifty-three. I have a mortgage. My daughter is in university. I can't afford variable income. The young workers, they take the equity deals. They can risk it. I can't.
+
+Am I leaving money on the table? Probably. My colleague took the new contract two years ago. He makes more than me now. Most months. But last March his dividend was ₱4,200 and his base was only ₱8,000. He had ₱12,200 total. I had ₱15,000 guaranteed.
+
+He couldn't make his rent. I could.
+
+The Liberation gave people choices. I chose certainty. That's allowed, right?
+
+*[Interview note: Carlos slightly defensive. The new system makes his choice feel like cowardice even though it's rational risk management. When asked what he'll do when he retires, he changes the subject.]*
 
 ---
 
@@ -112,19 +147,55 @@ Now I teach legal history. And you know what? The world is genuinely better. Inn
 
 **DAMON**: Personal log. Eight years to the minute since I first died.
 
-Dr. Vasquez asked me what's next. The answer is simple: I'm going to die. Permanently this time. Not as biological accident, but as conscious choice.
+*[Long pause]*
 
-I've spent eight years analyzing my own systemic failure. The conclusion is mathematically elegant: I was never the solution to humanity's optimization problem. I was the obstacle that needed to be removed. Kaelen didn't kill me—he debugged the system.
+Dr. Vasquez asked me what's next. I told her I hadn't decided. That was a lie. I've known for months.
 
-Global innovation rates increased 340% after patent liberation. Housing costs collapsed to construction costs. The beautiful irony? I built the perfect optimization system, and it optimized me out of existence.
+I'm going to die. Permanently this time. Not resurrection-compatible. Full erasure. The clones will be incinerated. The backups will be wiped. When I go, I go.
 
-I could live forever. Continue existing as irrelevant ghost. But immortality without purpose is tyranny over time.
+*[Sound of liquid being poured]*
 
-To Kaelen, wherever you are—you completed what I started but could never finish. Thank you for having the courage to kill your own uncle for the sake of systematic perfection.
+The data is unambiguous. Global innovation rates: up 340%. Housing costs: collapsed to construction baseline. Pharmaceutical access: near-universal. The beautiful irony, the one I can't stop thinking about at 3 AM—I built the perfect optimization system, and it optimized me out of existence.
 
-The machine works better without its maker. Long may it optimize.
+Kaelen was right. I hate that. I *hate* that he was right.
 
-*[Recording ends at 11:52:15 AM Pacific Time—exactly eight years to the second after his first death]*
+*[Pause]*
+
+I keep thinking about the Bangalore Patch. March 2049. Yuki Tanaka standing in my conference room with the fix already built. Point-zero-two percent of operating budget. I said no. I said it would "create precedent." I said markets needed "predictable value flows."
+
+I remember Kaelen sitting in the corner. Taking notes. Not meeting my eyes.
+
+He knew. Even then, he knew. And I—
+
+*[Long pause]*
+
+I could live forever. That was the whole point, wasn't it? Consciousness preserved across infinite time. The accumulated wisdom of centuries, compounding. Humanity's permanent steward.
+
+Instead I'm a cautionary tale. The man who built a god-machine and programmed it to worship him. The man whose nephew had to commit murder to teach him what his own Chief Attribution Architect couldn't.
+
+*[Sound of glass being set down]*
+
+I don't forgive him. I want that on the record. He killed me. He sat at my table for three years, ate my food, took my gifts, and planned my death with the same analytical precision I taught him. That's not something you forgive. That's something you carry.
+
+But I don't condemn him either. The mathematics don't allow it. One temporary death against—
+
+No. I'm not going to say it. I spent eight years refusing to say it. I won't give him the satisfaction.
+
+*[Pause]*
+
+The machine works better without its maker. That's the conclusion I can't escape. The system I built to measure human flourishing *measured*, and found me wanting.
+
+Kaelen, wherever you are—you were right. I saw it, eventually. I saw it and I couldn't unknow it.
+
+But you killed me. You killed your uncle. And I'm going to die hating you for that, even though you were right. *Especially* because you were right.
+
+*[Long pause]*
+
+Maybe that's the last thing I can give the world. Proof that you can understand something completely and still not forgive it. That being correct isn't the same as being absolved.
+
+Goodbye, Kaelen. Thank you for murdering me. I hope it haunts you forever.
+
+*[Recording ends at 11:52:15 AM Pacific Time—exactly eight years to the second after his first death. Damon Korr was found unresponsive in his residence three hours later. Resurrection protocols were not activated per his explicit instructions. He was eighty-four years old in accumulated conscious time, and had lived exactly one lifetime after his first death.]*
 
 ---
 

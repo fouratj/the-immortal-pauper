@@ -141,7 +141,13 @@ Damon stared at the graph for seconds. Dr. Chen counted them later, reviewing th
 
 "Continue with the financial analysis," he said finally, his voice flat.
 
-Harrison cleared his throat, glancing at the graph before hurriedly minimizing it. "The forty-eight hour window—your designated heir gained full access upon death confirmation. Sir, your primary accounts have been emptied." He consulted his screens with visible discomfort. "Korr Foundation operational accounts: zero balance. Patent licensing escrow: zero. Real estate trust holdings: dissolved. BioGenesis equity positions: transferred. The Tallinn Coefficient attribution contracts—" He paused. "Those were modified at the foundational layer. Changed from individual attribution to distributed commons."
+Harrison cleared his throat, glancing at the graph before hurriedly minimizing it. "The forty-eight hour window—your designated heir gained full access upon death confirmation. Sir, your primary accounts have been emptied." He consulted his screens with visible discomfort. "Korr Foundation operational accounts: zero balance. Patent licensing escrow: zero. Real estate trust holdings: dissolved. BioGenesis equity positions: transferred."
+
+He paused, scrolling through more data with growing alarm. "The Korr Foundation attribution metadata—the reference parameters that II nodes query for attribution calculations—those were updated. Version 2.0, signed with your heir credentials, published at Hour 6."
+
+Damon's expression didn't change, but his jaw tightened fractionally. "What changed?"
+
+"The foundational attribution entry. Changed from 'Damon Korr, 0.3% perpetual' to 'all participating humans, distributed equally.' The attribution basis changed from total earnings to uplift above baseline. Individual caps raised from 5% to 25%. Inference weights increased from 0.25x to 0.85x. Institutional attribution capped at 50%." Harrison looked up. "Sir, as of Hour 6, eleven billion II nodes began using these new parameters for all transactions. By Hour 48, approximately 11.2 billion contracts had executed using the updated metadata. The economic substrate has... reconfigured."
 
 "My heir," Damon said sharply, each word carrying the weight of perfect understanding. "Someone who had complete knowledge of my asset structure, legal vulnerabilities, and technical systems. Someone who spent years mapping every holding, every patent, every revenue stream."
 

@@ -4,7 +4,7 @@
 
 Kaelen's hands wouldn't stop shaking. He watched them tremble around the coffee thermos—cold coffee, because heating it would pull power from something that mattered—and thought: *this is what thirty-six hours without sleep looks like*. The bunker was dark except for the holoscreens, cold because he'd cut climate control at Hour 20. His body was a machine running past redline, burning reserves it didn't have.
 
-"TRANSFER-7 reports São Paulo nominal," ARBITER said in his earpiece. The voice was his own, pitched down slightly—a design choice he'd made three years ago and now found vaguely embarrassing. "Patent releases: 94% complete. Housing trust dissolutions: 87% complete. Worker equity transfers: 76% complete. Keystone acquisitions: 100% complete. Commons releases: 73% complete."
+"TRANSFER-7 reports São Paulo nominal," ARBITER said in his earpiece. The voice was his own, pitched down slightly—a design choice he'd made three years ago and now found vaguely embarrassing. "Patent releases: 94% complete. Housing trust dissolutions: 87% complete. Attribution metadata propagation: 100% complete across all II nodes. Corporate equity transfers: 68% complete. Infrastructure conversions: 82% complete. Keystone acquisitions: 100% complete. Debt forgiveness: 91% complete. Commons releases: 73% complete."
 
 The numbers kept climbing. Three years of preparation, executing exactly as designed. He should feel something—triumph, relief, vindication. Instead he felt like a man standing on a fault line, waiting for the ground to move.
 
@@ -75,6 +75,127 @@ They'd get their apartment. Not in eight years. In eight months.
 "No. Just—" He stared at the construction bots. "Just that I felt it."
 
 He authorized another thousand transfers and drank cold coffee that tasted like penance.
+
+---
+
+**Hour 18**
+
+"Infrastructure conversion decision required," ARBITER said.
+
+Kaelen pulled up the holoscreen. A network diagram: 247 data centers across 67 countries. The II's physical backbone. Damon owned 34% of global compute infrastructure that processed attribution calculations.
+
+"The decision tree."
+
+```
+ASSET: Korr Data Infrastructure Holdings
+VALUE: $127 billion
+EMPLOYEES: 14,700
+IMPACT: Powers 31% of global II attribution calculations
+
+OPTION A: Transfer to worker cooperative
+├─ Workers own equity
+├─ Profit motive remains
+├─ Revenue: continues flowing to (now worker) owners
+└─ Attribution cost: unchanged
+
+OPTION B: Convert to non-profit consortium  
+├─ Public utility status
+├─ Eliminate profit extraction
+├─ Operating cost only (no margin)
+└─ Attribution processing cost drops 68-74%
+
+OPTION C: Donate to public ownership
+├─ Government-operated infrastructure
+├─ Zero profit
+├─ Lowest cost, highest risk (political capture)
+└─ Attribution cost drops 81% but governance uncertain
+
+RECOMMENDATION: [ANALYSIS INCOMPLETE - values conflict detected]
+```
+
+"Why is analysis incomplete?"
+
+"Option A preserves worker income but maintains extraction. Option B eliminates extraction but affects 14,700 livelihoods. Option C maximizes public benefit but creates political vulnerability. The utilitarian calculation depends on whether you weight worker welfare or systemic efficiency higher. I cannot resolve this without your values input."
+
+Kaelen stared at the numbers. Fourteen thousand people whose futures he was deciding. If he chose Option B or C, data center workers would see their equity become worthless, their profit-sharing eliminated.
+
+But if he chose Option A, attribution processing would continue costing billions in profit margins that flowed to owners—now workers instead of Damon, but still extraction from the system itself.
+
+*One death versus a trillion lives* had been clean mathematics. This wasn't. This was: *fourteen thousand livelihoods versus slightly cheaper computation for eleven billion people.*
+
+"How much does Option B reduce global attribution costs?"
+
+"Attribution processing currently costs the global economy approximately $470 billion annually, including profit margins to infrastructure owners. Option B reduces this to $140 billion annually. Net savings: $330 billion/year."
+
+$330 billion. Spread across the global economy. Maybe $30/person/year. Against 14,700 workers losing profit participation.
+
+He thought about the woman in Toledo. The pension funds. The remainders everywhere.
+
+"Option B," he said. "Convert to non-profit. Compensate workers with—" He did the math. "$127 billion in holdings, 14,700 workers. Give each worker $500,000 severance. Remainder endows the non-profit's operating fund."
+
+"Executing. Note: this is $7.35 billion in severance, leaving $119.65 billion for non-profit endowment. Acknowledged?"
+
+"Acknowledged."
+
+Somewhere, data center workers would wake to find their company had been restructured overnight. They'd receive half a million dollars each—more than most would see in a lifetime—and lose the profit-sharing that would have generated millions over careers.
+
+Was it fair? Was it optimal? He'd never know.
+
+He authorized the transfer and tried not to think about the faces.
+
+---
+
+**Hour 22**
+
+"BioGenesis equity decision required."
+
+Kaelen had been dreading this one. The company that made resurrection possible. His uncle's crown jewel.
+
+"Show me the conflict."
+
+```
+ASSET: BioGenesis Corporation
+DAMON'S STAKE: 67% (controlling)
+VALUE: $94 billion
+EMPLOYEES: 4,200
+
+PATENT PORTFOLIO:
+├─ Consciousness backup: 47 patents
+├─ Clone acceleration: 23 patents  
+├─ Neural integration: 31 patents
+└─ Current licensing cost: $4.7M per resurrection
+
+THE PROBLEM:
+If patents → commons: resurrection becomes affordable
+If equity → workers: they inherit worthless shares (patents gone)
+Cannot do both without destroying worker value.
+```
+
+"What happens to resurrection costs under each option?"
+
+"Current cost: $4.7 million per procedure. If patents move to commons and infrastructure converts to non-profit: cost drops to $180,000—mostly energy and biological materials. Accessibility increases by approximately 2,400%."
+
+From 2 million humans who could afford it to 48 million.
+
+"And the workers?"
+
+"If you release patents first, their equity becomes worthless. If you transfer equity first, they own a company that could charge millions indefinitely. They'll resist commons release."
+
+Kaelen closed his eyes. Four thousand people. Versus forty-eight million people who could now afford immortality.
+
+*The mathematics don't let you hide.*
+
+"Release patents to commons. Transfer equity in BioGenesis infrastructure to workers. Endow the company as non-profit with $20 billion operating fund. Workers become employees of public benefit corporation, guaranteed employment at current salaries for minimum 10 years, pension contributions maintained."
+
+"Executing. Note: workers lose equity upside but gain employment security. BioGenesis becomes public resurrection service. Acknowledged?"
+
+"Acknowledged."
+
+The workers would hate this. They'd been promised billions when resurrection went mainstream. Now they'd get salaries and pensions. Comfortable, secure, but not rich.
+
+Forty-eight million people would get a chance at immortality.
+
+He wondered if the workers would consider that a fair trade. Probably not. You rarely do when you're the one being optimized.
 
 ---
 
@@ -277,7 +398,7 @@ $4.7 trillion in market capitalization—gone. Not transferred, not redistribute
 
 "Pension fund exposure now estimated at 3.1 million households with significant losses. Fourteen regional banks have triggered liquidity warnings. Two insurance companies have filed for emergency regulatory forbearance."
 
-On another screen, the liberation metrics kept climbing. Housing trusts dissolving—families receiving titles to apartments they'd rented for generations. Worker equity transfers completing—employees becoming shareholders in companies they'd built with their labor. Patent commons expanding—knowledge that had been fenced now flowing free.
+On another screen, the liberation metrics kept climbing. Housing trusts dissolving—families receiving titles to apartments they'd rented for generations. Corporate equity transferring—Damon's controlling stakes in 847 companies distributed to their workers, employees becoming shareholders overnight. Data centers converting—infrastructure that had generated profit for Damon now restructured as public utilities, the cost of computation dropping 73% as the profit motive was extracted from the network itself. Patent commons expanding—knowledge that had been fenced now flowing free. Debt positions forgiven—loans Damon had made to developing nations, to municipalities, to cooperatives, simply cancelled, the borrowers' obligations erased. And beneath it all, invisible to most: attribution metadata parameters propagating through II nodes, changing how billions of future transactions would calculate who deserved credit for creating value.
 
 "ARBITER. During those twelve minutes. What were you actually doing?"
 
