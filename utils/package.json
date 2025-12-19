@@ -1,0 +1,30 @@
+{
+  "name": "pauper-story-utils",
+  "version": "1.0.0",
+  "description": "Utilities for concatenating and managing story files for The Incompleteness of Empire",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "concat": "node concat-story.js",
+    "build": "node concat-story.js",
+    "stats": "node stats.js",
+    "wc": "node stats.js"
+  },
+  "bin": {
+    "concat-story": "./concat-story.js",
+    "story-stats": "./stats.js"
+  },
+  "keywords": [
+    "story",
+    "concatenate",
+    "writing",
+    "utilities"
+  ],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
+
+

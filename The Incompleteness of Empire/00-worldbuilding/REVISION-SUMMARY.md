@@ -166,3 +166,4 @@ Story now matches attribution-economics-core.md:
 ✓ Remainders and incompleteness
 
 All major contradictions resolved. Technical readers should find it coherent.
+

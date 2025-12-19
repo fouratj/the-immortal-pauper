@@ -4,7 +4,7 @@ Javi Reyes had seventeen minutes to prevent a ₱82,000 loss.
 
 His phone showed the alert: Carlos M., age 14, Tondo District, 21:47 Wednesday. School night. Pattern deviation probability 0.94. If Carlos's baseline dropped another ₱600K, four months of work would cross into negative territory. ₱125,000 from investors who were already complaining about Q3 returns.
 
-He was doing 60 kph on a Honda Metropolitan through Quezon City traffic, phone mounted on handlebars showing Carlos's location as a pulsing blue dot. The body camera on his shoulder was recording—always recording. After the Gutierrez dispute, he'd learned to document everything.
+He was doing 60 kph on a Honda Metropolitan through Quezon City traffic, weaving between jeepneys and tricycles, phone mounted on handlebars showing Carlos's location as a pulsing blue dot. The body camera on his shoulder was recording—always recording. After the Gutierrez dispute, he'd learned to document everything.
 
 Twenty-three active contracts. Year-to-date return: negative six percent. Guild average: positive twelve.
 
@@ -12,7 +12,7 @@ The blue dot wasn't moving.
 
 ---
 
-Rosa Santos clocked out at 21:52, twelve hours into her shift at Manila General Hospital. Her phone showed forty-seven patients handled, two emergency stabilizations. The system calculated her contribution: ₱47,200 for the shift.
+Rosa Santos clocked out at 21:52, twelve hours into her shift at Manila General Hospital. Her phone showed forty-seven patients handled across three wards, two emergency stabilizations. The system calculated her contribution: ₱47,200 for the shift.
 
 Her paycheck would show ₱1,125.
 
@@ -22,11 +22,11 @@ She closed the app without doing the math. She'd already done it six times today
 
 The elevator door opened. Three nurses got on, comparing their attribution scores. Rosa's was 34th percentile. She'd disabled public visibility last week.
 
-Marco's door was closed when she got home. It had been closed for four months.
+Marco's door was closed when she got home. It had been closed for four months. She could hear the neighbors through the thin walls—someone's TV on loud, a child crying, the usual sounds of too many families packed too close.
 
 ---
 
-Javi parked the scooter thirty meters from the chain-link fence. Carlos was visible through the gaps—sitting on a concrete barrier with five other people, ages ranging from mid-teens to early twenties. No obvious criminal activity. One of them was smoking, but that wasn't illegal. They were just talking.
+Javi parked the scooter thirty meters from the chain-link fence, squeezed between a sari-sari store's display rack and a parked tricycle. Carlos was visible through the gaps—sitting on a concrete barrier with five other people, ages ranging from mid-teens to early twenties. No obvious criminal activity. One of them was smoking, but that wasn't illegal. They were just talking.
 
 His phone identified Carlos via facial recognition, highlighted him with a green overlay. The other five showed as gray silhouettes—no identification, no data. They hadn't granted him access.
 
@@ -46,35 +46,35 @@ The guy walked toward the fence. Twenty-two, maybe twenty-three. Thin build, wea
 
 "Who are you?"
 
-Javi held up his guild badge on the phone screen. "I'm Javi. Carlos's intervention specialist <!-- we should have a euphemistic name -->. His mom asked me to check on him."
+Javi held up his guild badge on the phone screen. "I'm Javi. Carlos's development partner. His mom asked me to check on him."
 
-"The fuck is an intervention specialist?"
+"Ano'ng development partner? The fuck is that?"
 
-"I work with him. School, job prep, life coaching. His mom and I have a contract."
+"I work with him, eh. School stuff, job prep, life coaching. His mom and I have contract."
 
-"You getting paid to follow him around?"
+"You're getting paid to follow him around?"
 
-"I get paid if he does well."
+"I get paid if he does well, talaga. If he graduates, gets a job."
 
-"You're betting on him?"
+"So you're betting on him?"
 
 "Yeah."
 
 "How much?"
 
-Javi hesitated. "15% of his uplift from baseline."
+Javi hesitated. "Fifteen percent of his uplift. From baseline."
 
-The guy nodded slowly. "Damn, that's real money."
+The guy nodded slowly. "Puta, that's real money."
 
 "So what do you want?"
 
-"Just to talk to him. His mom's worried."
+"Just to talk to him lang. His mom's worried, eh."
 
-"He's fine."
+"He's fine naman."
 
-"I can see that. But she doesn't know that. She saw an alert—Carlos in Tondo, late night, school night. She's freaking out."
+"I can see that na. But she doesn't know that, di ba? She saw alert—Carlos in Tondo, late night, school night. She's freaking out."
 
-The guy turned back toward the group. "Yo, Carlos. You know this dude?"
+The guy turned back toward the group. "Hoy, Carlos. You know this guy?"
 
 Carlos looked up from his phone. Saw Javi. His face did something complicated—not quite annoyance, not quite fear. Something closer to resignation.
 
@@ -82,11 +82,11 @@ Carlos looked up from his phone. Saw Javi. His face did something complicated—
 
 "He says your mom sent him."
 
-"She always does."
+"She always does naman."
 
 The guy turned back to Javi. "He doesn't want to talk to you."
 
-"Can I come in? Just five minutes."
+"Can I come in lang? Five minutes."
 
 The guy studied him. Body camera on the shoulder, three phones, guild badge displayed. No weapon visible. Alone.
 
@@ -98,7 +98,7 @@ The guy pulled the fence open—wasn't locked, just closed. Javi walked through.
 
 ---
 
-Rosa sat at the kitchen table with her phone showing three open tabs: her bank account (₱8,240), the pharmacy's refill portal (₱4,800 due Friday), and the CarePath Medical offer that had arrived yesterday.
+Rosa sat at the kitchen table, cold rice and leftover adobo still on the counter from dinner, her phone showing three open tabs: her bank account (₱8,240), the pharmacy's refill portal (₱4,800 due Friday), and the CarePath Medical offer that had arrived yesterday.
 
 ₱145,000 upfront. Lianne's insulin for two years, plus monitoring supplies, plus emergency fund. Maybe Marco's therapy intake—the good kind, private practice, not the public clinic.
 
@@ -118,11 +118,11 @@ Marco's door, closed ever since.
 
 The speaker was the same guy who'd let Javi through the fence. Up close, Javi could see the scars on his shoulder weren't random—they formed a pattern, deliberate. Old burn marks, maybe. The guy's eyes were flat and calm.
 
-"I provide services. The family gets upfront payment, I get equity. It's a trade."
+"I provide services naman. The family gets upfront payment, I get equity. It's a trade lang."
 
 "Services. Like following him around at night."
 
-"Like tutoring, mentorship, job prep, crisis intervention. Following him around is just how I know when crisis intervention is needed."
+"Like tutoring, mentorship, job prep, crisis intervention. Following him around is just how I know when crisis intervention is needed, di ba?"
 
 Carlos was still sitting on the barrier, watching but not participating. The other four people had moved closer, forming a loose semicircle. Not threatening yet, but paying attention.
 
@@ -130,7 +130,7 @@ The guy said, "You ever hear of Marco Santos?"
 
 Javi's face must have shown something because the guy smiled—first expression he'd made, and it wasn't friendly.
 
-"Yeah, you heard of him. He was one of your contracts, right?"
+"Yeah na, you heard of him. He was one of your contracts, di ba?"
 
 "Not mine. Different specialist."
 
@@ -138,15 +138,15 @@ Javi's face must have shown something because the guy smiled—first expression 
 
 "I don't know what happened with Marco—"
 
-"Guy named Ernesto had a contract with him. Fifteen percent, just like you. Marco started slipping. Ernesto filed breach, sold the contract to MentorMaxx for ₱60K. They showed up at 2 AM with private security. Took him to some facility for six months."
+"Guy named Ernesto had contract with him. Fifteen percent, just like you. Marco started slipping. Ernesto filed breach, sold the contract to MentorMaxx for ₱60K. They showed up at 2 AM with private security. Took him to some facility for six months."
 
 Javi felt something cold in his stomach.
 
-"Marco came back. He doesn't leave the house now. Doesn't talk. His baseline's probably close to zero." The guy's voice went flat. "So when I see you here, checking on Carlos, talking about your equity stake, I think about Marco."
+"Marco came back na. He doesn't leave the house now. Doesn't talk pa. His baseline's probably close to zero." The guy's voice went flat. "So when I see you here, checking on Carlos, talking about your equity stake, I think about Marco, eh."
 
-"I'm not MentorMaxx. I'm independent. I don't do residential extractions—"
+"I'm not MentorMaxx naman. I'm independent. I don't do residential extractions—"
 
-"You don't do them *yet*. But what happens when Carlos stops responding? When your investors get nervous? When you're 2 years in and his baseline's dropping?"
+"You don't do them *yet*. But what happens when Carlos stops responding? When your investors get nervous na? When you're 2 years in and his baseline's dropping?"
 
 Javi didn't have a good answer.
 
@@ -154,25 +154,25 @@ Javi didn't have a good answer.
 
 "That's not—I wouldn't—"
 
-"Marco's mom probably said the same thing."
+"Marco's mom probably said the same thing naman."
 
-One of the other people spoke up—younger, maybe nineteen. "Rico, he's just doing his job."
+One of the other people spoke up—younger, maybe nineteen. "Rico, he's just doing his job lang."
 
 Rico. Javi filed the name.
 
 "His job is making money off kids who don't understand they're investments."
 
-"The contract is legal," Javi said. "The mother consented—"
+"The contract is legal naman," Javi said. "The mother consented—"
 
-"Because she was desperate. And Carlos is fourteen. That's not consent."
+"Because she was desperate, eh. And Carlos is fourteen. That's not consent."
 
-Carlos stood up. "I'm right here. Stop talking about me like I'm not."
+Carlos stood up. "I'm right here na. Stop talking about me like I'm not."
 
-Rico looked at him. "You want him here?"
+Rico looked at him. "You want him here ba?"
 
-"Doesn't matter what I want. My mom signed the contract. If I blow him off, she'll just hire someone worse."
+"Doesn't matter what I want naman. My mom signed the contract already. If I blow him off, she'll just hire someone worse."
 
-"Yep" Carlos looked at Javi. "We're both stuck."
+"Yep." Carlos looked at Javi. "We're both stuck na."
 
 ---
 
@@ -180,17 +180,17 @@ Rosa called Luz at 22:17.
 
 Her sister answered on the third ring: "What's wrong?"
 
-"Nothing's wrong. I just—can we talk?"
+"Nothing's wrong naman. I just—can we talk?"
 
-"I'm actually dealing with something right now. Carlos is out late, I got an alert, I sent Javi to check—"
+"I'm actually dealing with something right now, eh. Carlos is out late, I got alert, I sent Javi to check—"
 
 "Javi... is he the intervention specialist?"
 
 Pause. "How do you know about that?"
 
-"You told me last month. When you said you quit the night job."
+"You told me last month na. When you said you quit the night job."
 
-"Oh. Right." Luz sounded distracted. "He just texted me. Says Carlos is fine, he's talking to him now."
+"Oh. Right." Luz sounded distracted. "He just texted me na. Says Carlos is fine, he's talking to him now."
 
 "How much did they pay you?"
 
@@ -210,33 +210,33 @@ Silence for four seconds. "₱100,000."
 
 "Is it better?"
 
-"Yeah. It is. Carlos's grades improved. We eat dinner together. I'm not falling asleep on the train anymore."
+"Yeah talaga. It is. Carlos's grades improved already. We eat dinner together. I'm not falling asleep on the train anymore."
 
-Rosa looked at Marco's door. "What about when it gets worse?"
+Rosa looked at Marco's door. "What about when it gets worse na?"
 
 "Why would it—"
 
-"Because Carlos is fourteen. Because the investors get nervous and then—"
+"Because Carlos is fourteen lang. Because the investors get nervous and then—"
 
-"Javi's not like that."
+"Javi's not like that naman."
 
-"Ernesto probably wasn't either."
+"Ernesto probably wasn't either, di ba?"
 
-Luz went quiet. Then: "You're thinking about signing one."
+Luz went quiet. Then: "You're thinking about signing one na."
 
-"Lianne needs insulin. It's ₱4,800 every month. I make ₱9,000 a month. The math doesn't work."
+"Lianne needs insulin, eh. It's ₱4,800 every month. I make ₱9,000 a month. The math doesn't work."
 
-"There has to be another way."
+"There has to be another way pa."
 
-"Government waitlist is eight months. Medical loans are thirty-eight percent interest. The hospital won't give me a raise. There's no other way."
+"Government waitlist is eight months already. Medical loans are thirty-eight percent interest. The hospital won't give me raise. There's no other way na."
 
 "What about Marco?"
 
-Rosa laughed. No humor. "Marco won't come out of his room."
+Rosa laughed. No humor. "Marco won't come out of his room pa."
 
-"I'm sorry."
+"I'm sorry talaga."
 
-"It's not your fault."
+"It's not your fault naman."
 
 "But you're thinking about doing it again. With Lianne."
 
@@ -244,7 +244,7 @@ Rosa didn't answer.
 
 "Rosa. After what happened to Marco—"
 
-"If I don't sign, Lianne doesn't get insulin. Then I lose her too. At least this way she has a chance."
+"If I don't sign, Lianne doesn't get insulin, di ba? Then I lose her too. At least this way she has a chance pa."
 
 ---
 
@@ -256,17 +256,17 @@ Eight inches, held low. Not threatening yet, but present.
 
 Javi's hand moved toward his phone—panic button—but he stopped. Police meant everyone here gets arrested or runs. Carlos gets flagged. Everything gets worse.
 
-"I'm not taking anyone. I don't have authority over—"
+"I'm not taking anyone naman. I don't have authority over—"
 
-"You've got money riding on him. That's authority."
+"You've got money riding on him. That's authority na."
 
-"It's not. Check the contract. I can advise, that's it. If Carlos tells me to leave, I leave."
+"It's not, eh. Check the contract. I can advise, that's it. If Carlos tells me to leave, I leave."
 
-"Then leave."
+"Then leave na."
 
-Javi looked at Carlos. "You want me to leave?"
+Javi looked at Carlos. "You want me to leave ba?"
 
-Carlos looked at Rico, then at Javi, then at his phone. "If you leave, you file it as non-responsive. Three non-responsives in thirty days and my mom can terminate your contract."
+Carlos looked at Rico, then at Javi, then at his phone. "If you leave, you file it as non-responsive. Three non-responsives in thirty days and my mom can terminate your contract na."
 
 "Yeah."
 
@@ -278,21 +278,21 @@ Carlos looked at Rico, then at Javi, then at his phone. "If you leave, you file 
 
 Javi didn't answer.
 
-"So if I tell you to leave," Carlos said. "someone worse shows up."
+"So if I tell you to leave," Carlos said, "someone worse shows up lang."
 
-Rico's hand tightened on the knife. "That's fucked up."
+Rico's hand tightened on the knife. "Puta, that's fucked up."
 
-One of the other people—older, mid-twenties, wearing a construction company shirt—stepped forward. "Rico, put it away."
+One of the other people—older, mid-twenties, wearing a construction company shirt—stepped forward. "Rico, put it away na."
 
-"He's exploiting them—"
+"He's exploiting them, eh—"
 
-"And stabbing him makes it worse. Carlos gets arrested for accessory. His baseline goes to shit. Then his mom definitely hires MentorMaxx, you idiot"
+"And stabbing him makes it worse lang. Carlos gets arrested for accessory. His baseline goes to shit. Then his mom definitely hires MentorMaxx, you idiot."
 
 Rico didn't lower the knife. "So we just let them turn kids into investments?"
 
-"I didn't say that. I said stabbing him doesn't fix it."
+"I didn't say that naman. I said stabbing him doesn't fix it lang."
 
-The guy in the construction shirt looked at Javi. "Guild certified?"
+The guy in the construction shirt looked at Javi. "Guild certified ba?"
 
 "Yeah."
 
@@ -302,31 +302,31 @@ The guy in the construction shirt looked at Javi. "Guild certified?"
 
 "How many sold to MentorMaxx?"
 
-"None."
+"None, eh."
 
 "Breaches filed?"
 
-"Four. First year. None went to MentorMaxx—two terminated me, one I worked out, one aged out."
+"Four. First year lang. None went to MentorMaxx—two terminated me, one I worked out, one aged out na."
 
 "What happened to the kids?"
 
-"Two fine. One dropped out. One's in college."
+"Two fine naman. One dropped out. One's in college na."
 
-The guy nodded slowly. "Rico, give it up man, he's one of the better ones."
+The guy nodded slowly. "Rico, give it up na, pare. He's one of the better ones."
 
-"He's part of the system—"
+"He's part of the system pa rin—"
 
-"We're all part of the system."
+"We're all part of the system na, eh."
 
 Rico looked at Carlos. Carlos looked back.
 
-"I'm not going with him," Carlos said. "But I'll go home. On my own. In like thirty minutes."
+"I'm not going with him," Carlos said. "But I'll go home na. On my own. In like thirty minutes."
 
-"That enough?" the construction guy asked Javi.
+"That enough ba?" the construction guy asked Javi.
 
 Javi pulled up the intervention form on his phone. "If he goes home in the next hour, I can log it as successful."
 
-"Then that's what happens." The guy looked at Rico. "Put it away."
+"Then that's what happens na." The guy looked at Rico. "Put it away na."
 
 Rico held eye contact with Javi for another five seconds. Then folded the knife and put it in his pocket.
 
@@ -348,11 +348,11 @@ Walked over. Knocked.
 
 No response. Music playing inside, something with heavy bass.
 
-"I know you're angry. I know you blame me. You're right to. I should have read the contract more carefully. I should have understood what escalated intervention meant. I should have—"
+"I know you're angry pa. I know you blame me. You're right naman. I should have read the contract more carefully talaga. I should have understood what escalated intervention meant. I should have—"
 
 Her voice cracked. She stopped, breathed.
 
-"I'm doing it again. I don't have a choice. Your sister needs insulin. I just wanted you to know."
+"I'm doing it again na. I don't have choice, eh. Your sister needs insulin. I just wanted you to know lang."
 
 The music didn't stop.
 
@@ -402,7 +402,7 @@ And Marco, who wouldn't leave his room.
 
 Carlos's blue dot was moving. Heading home, like he'd promised.
 
-Javi started the scooter. Rode home through Thursday night traffic, three phones mounted on handlebars, thinking about Rico's question: *What happens when Carlos stops responding?*
+Javi started the scooter. Rode home through Thursday night traffic, humid air thick even at midnight, three phones mounted on handlebars, thinking about Rico's question: *What happens when Carlos stops responding?*
 
 ---
 
@@ -487,11 +487,11 @@ Went to bed.
 
 <!-- we need a 2050 insulin medicine, maybe it lasts all months, so the monthly payment stays. Or maybe it's subscription-based nanotech? -->
 
-Rosa woke up at 06:00 Friday to Lianne's glucose alarm. 64 mg/dL. Below target.
+Rosa woke up at 06:00 Friday to Lianne's glucose alarm, the electric fan doing nothing against the humid morning air. 64 mg/dL. Below target.
 
-She found Lianne already testing with the finger stick. "How do you feel?"
+She found Lianne already testing with the finger stick. "How do you feel, anak?"
 
-"Okay. A little shaky."
+"Okay lang, Mama. A little shaky."
 
 Juice from the kitchen. Fifteen grams carbs. Fifteen minute wait. Test again: 82 mg/dL. Better.
 
@@ -499,9 +499,9 @@ Eight years old, managing a chronic condition like an adult.
 
 Rosa's phone showed the CarePath notification: *Your specialist will contact you today between 10:00-16:00.*
 
-She made breakfast. Knocked on Marco's door. No answer. Music still playing.
+She made breakfast—pandesal from yesterday, fried egg, Nescafé 3-in-1. Knocked on Marco's door. No answer. Music still playing.
 
-Left for work at 07:15.
+Left for work at 07:15, the morning heat already building.
 
 Her bank account still showed ₱153,240.
 
@@ -571,21 +571,21 @@ He closed the file and opened the attribution lending application instead.
 
 Rosa got the call from CarePath at 11:23.
 
-"Ms. Santos? Angela Reyes, CarePath Medical. I'm Lianne's care coordinator. Initial consultation—Saturday 15:00 at your residence? Ninety minutes. I'll need glucose logs, current regimen, school schedule."
+"Ms. Santos? Angela Reyes, CarePath Medical. I'm Lianne's care coordinator na. Initial consultation—Saturday 15:00 at your residence? Ninety minutes lang. I'll need glucose logs, current regimen, school schedule."
 
-"Okay."
+"Okay po."
 
-"I'm sending a pre-consultation form. Also, make sure to log Lianne's insulin delivery in the CarePath app today."
+"I'm sending a pre-consultation form ha. Also, make sure to log Lianne's insulin delivery in the CarePath app today."
 
 "There's an app?"
 
-"Should be on your phone. CarePath Family Portal. You'll use it to log everything—glucose readings, insulin doses, meals. It syncs with our monitoring system."
+"Should be on your phone already. CarePath Family Portal. You'll use it to log everything—glucose readings, insulin doses, meals. It syncs with our monitoring system."
 
 Rosa checked her phone: CarePath Family Portal installed automatically. Permissions granted—location, health data, camera, contacts.
 
-"I see it."
+"I see it na."
 
-"Perfect. Message me through the app if you have questions. 24/7 for emergencies."
+"Perfect. Message me through the app if you have questions ha. 24/7 for emergencies."
 
 The call ended.
 

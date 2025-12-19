@@ -8,7 +8,7 @@
 ## I. The Historian's Preface
 *(Originally cataloged as the "Framing Device")*
 
-Ten years have passed since the Kaelen Event. I've spent the last three trying to piece together what actually happened during those forty-eight hours—a task that feels increasingly like Heinrich Schliemann excavating Troy, armed with a dubious map and the growing suspicion that what I'm uncovering never quite matches the legend.
+Ten years have passed since the Kaelen Event. I've spent the last three trying to piece together what actually happened, beginning in those forty-eight hours—a task that feels increasingly like Heinrich Schliemann excavating Troy, armed with a dubious map and the growing suspicion that what I'm uncovering never quite matches the legend.
 
 The official narrative—a smooth transition from extraction to abundance, a celebrated transformation, and a universally beneficial outcome—is as useful as the Soviet Encyclopedia's entry on Trotsky. What's missing is far more revealing than what's included. The governance blockchain's immutable records, at least, don't lie: they show massive systematic changes executed with what appears to be impossible precision, though I've learned to be cautious about declaring anything "impossible" when dealing with fragmentary evidence.
 
@@ -88,7 +88,7 @@ And he commissioned the pin. Fifteen million dollars at Tiffany & Co. for a plat
 The fever started on a Tuesday. Kemi was burning up. Before June, the antibiotics would have cost me three weeks' salary.
 I walked to the pharmacy expecting to leave with nothing. The pharmacist looks at his screen and stares. "The antibiotics," he says. "Ninety-seven percent price reduction. Patent moved to commons yesterday."
 Medicine that cost 23,000 naira now costs 800.
-*[Interview conducted June 2050, three weeks post-Liberation. Amara's immediate reaction. Note the language: "grace," not "policy change." She still doesn't understand the mechanism.]*
+*[Interview conducted June 2050, three weeks post-Liberation. Amara's immediate reaction.]*
 
 ### Cairo, Egypt - June 2051
 **Hassan Al-Masri, Former Farmer**

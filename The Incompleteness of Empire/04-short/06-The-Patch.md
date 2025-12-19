@@ -5,7 +5,7 @@
 
 ---
 
-The conference room on the 47th floor had been designed to make visitors feel small. Floor-to-ceiling windows framing the Pacific. A table of polished obsidian that cost more than most houses. Twelve empty chairs arranged around a man who needed no entourage to fill a room.
+The conference room on the 47th floor overlooking San Francisco Bay had been designed to make visitors feel small. Floor-to-ceiling windows framing the Pacific. A table of polished obsidian that cost more than most houses. Twelve empty chairs arranged around a man who needed no entourage to fill a room.
 
 Damon Korr sat at the head of the table, reviewing the proposal on his tablet. Dr. Tanaka stood at the presentation display, hands clasped, waiting. In the corner, taking notes he would never file, Kaelen watched.
 
@@ -19,7 +19,7 @@ Dr. Tanaka pulled up the visualization—a cascade tree showing attribution flow
 
 "And the hospital?"
 
-"Keeps her attribution, pays it upstream to intermediaries. Equipment licensing. Training certification. Administrative overhead. Each extraction mathematically justified." Tanaka paused. "The same pattern appears across 847 documented cases in our late-adopter sample. Care workers, agricultural laborers, artisanal manufacturers. Employers capture worker attribution through standard contracts. The algorithm enables it by making individual attribution claims easy to waive—and caps them at 5% of total output even when not waived."
+"Keeps her attribution, pays it upstream to intermediaries. Equipment licensing. Training certification. Administrative overhead." Tanaka paused. "The same pattern appears across 847 documented cases in our late-adopter sample. Care workers, agricultural laborers, artisanal manufacturers. Employers capture worker attribution through standard contracts. The algorithm enables it by making individual attribution claims easy to waive—and caps them at 5% of total output even when not waived."
 
 Damon set down the tablet. His face was unreadable—the expression Kaelen had learned to recognize as intense calculation.
 

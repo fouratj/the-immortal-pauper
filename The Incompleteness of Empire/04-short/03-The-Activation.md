@@ -224,7 +224,3 @@ The cascade was running.
 The liberation had begun.
 
 And Kaelen sat alone in a locked room, systematically dismantling his uncle's empire, crying so hard he could barely see the screen, wondering if the mathematics of suffering had any term for what was currently happening inside his chest.
-
----
-
-*[End of reconstructed timeline.]*

@@ -294,7 +294,7 @@ The companies that owned those dependent patents saw their valuations collapse i
 
 "Show me Toledo," Kaelen said.
 
-The holoscreen shifted. A living room. Margaret Kowalski, seventy-three, at her kitchen table, holoscreen glowing, portfolio display open. She'd worked fourteen jobs across four decades—warehouse picker, home health aide, remote customer service, delivery driver until the autonomous fleets came. Each time she'd scraped together what she could into the same retirement account, the one thing that stayed constant. She was crying.
+The holoscreen shifted. A living room. Margaret Kowalski, seventy-three, at her kitchen table in Toledo, snow visible through the window, holoscreen glowing, portfolio display open. She'd worked fourteen jobs across four decades—warehouse picker, home health aide, remote customer service, delivery driver until the autonomous fleets came. Each time she'd scraped together what she could into the same retirement account, the one thing that stayed constant. She was crying.
 
 ARBITER had found her through public financial distress indicators—a spike in cortisol-correlated search queries, a call to her pension administrator, a social media post Kaelen would never read.
 
