@@ -177,4 +177,10 @@ He didn't move for a long time.
 
 ---
 
-*[Note: This meeting lasted approximately fourteen minutes. Damon Korr departed the building at 2:31 PM and did not speak to Kaelen again for six years. When asked in 2058 whether he had forgiven his nephew, Damon replied: "Forgiveness is a category error. What Kaelen did was correct. That doesn't make it forgivable." He chose permanent death three months later. Kaelen Korr disappeared from all records within days of this meeting and has never been located.]*
+*[Note: This meeting lasted approximately fourteen minutes. Damon Korr departed the building at 2:31 PM and did not speak to Kaelen again for six years. 
+
+Three weeks later, on May 14, 2050, Damon released a single-paragraph statement through the Korr Foundation's legal office:
+
+"I am withdrawing all cooperation with litigation efforts seeking to reverse the April 18th modifications. Kaelen's method was criminal. His analysis was correct. I will not use the law to perpetuate extraction that the data proves was unjust. To those harmed by this transition: your losses are real and necessary. That is the tragedy of progress. This is my final public statement."
+
+The lawsuits collapsed within six weeks. When asked in 2058 whether he had forgiven his nephew, Damon replied: "Forgiveness is a category error. What Kaelen did was correct. That doesn't make it forgivable." He chose permanent death three months later. Kaelen Korr disappeared from all records within days of this meeting and has never been located.]*

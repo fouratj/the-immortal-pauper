@@ -1,84 +1,48 @@
 ## The Cascade
 
-**Hour 36 — Secure Bunker, Undisclosed Location**
+**Hour 6 — Secure Bunker, Undisclosed Location**
 
-Kaelen's hands wouldn't stop shaking. He watched them tremble around the coffee thermos—cold coffee, because heating it would pull power from something that mattered—and thought: *this is what thirty-six hours without sleep looks like*. The bunker was dark except for the holoscreens, cold because he'd cut climate control at Hour 20. His body was a machine running past redline, burning reserves it didn't have.
+Kaelen's hands wouldn't stop shaking. He watched them tremble around the coffee thermos—cold coffee, because heating it would pull power from something that mattered—and thought: *this is what six hours without sleep looks like*.
 
-"TRANSFER-7 reports São Paulo nominal," ARBITER said in his earpiece. The voice was his own, pitched down slightly—a design choice he'd made three years ago and now found vaguely embarrassing. "Patent releases: 94% complete. Housing trust dissolutions: 87% complete. Attribution metadata propagation: 100% complete across all II nodes. Corporate equity transfers: 68% complete. Infrastructure conversions: 82% complete. Keystone acquisitions: 100% complete. Debt forgiveness: 91% complete. Commons releases: 73% complete."
+"TRANSFER-7 reports São Paulo nominal," ARBITER said in his earpiece. The voice was his own, pitched down slightly—a design choice he'd made three years ago and now found vaguely embarrassing. "Patent releases: 94% complete. Attribution metadata propagation: 100% complete across all II nodes."
 
-The numbers kept climbing. Three years of preparation, executing exactly as designed. He should feel something—triumph, relief, vindication. Instead he felt like a man standing on a fault line, waiting for the ground to move.
+The numbers kept climbing. Three years of preparation, executing exactly as designed.
 
-"Show me the São Paulo construction cluster. Contract level."
+"Show me São Paulo. The Oliveira site."
 
-The holoscreen flickered—another power draw, the lights dimming for a half-second before the fusion cell compensated—and rendered a cascade tree. Thousands of nodes branching outward from root transactions, each node a smart contract, each edge a dependency fulfilled.
+The holoscreen shifted to a construction lot on Rua Cardoso de Almeida. 3:47 AM local time, but the robots weren't sleeping. A dozen Shimizu modular assemblers working in synchronized silence, foundation pylons descending into earth that had been an empty lot for fifteen years.
 
-"Isolate contract 0x7F3A-8B2C. The Oliveira conditional."
-
-The tree collapsed to a single contract, its anatomy laid bare:
-
-```
-CONTRACT: 0x7F3A-8B2C-4E91-D7F0
-FILED: March 14, 2042
-PARTIES: Oliveira Development LLC | Shimizu Construction São Paulo
-TYPE: Conditional Execution (Construction)
-CONDITION: IF licensing_aggregate(patent_cluster_7_modular_assembly) 
-           < 15000 BRL/month 
-           FOR duration >= 30 days
-           THEN execute(project_4471_pinheiros)
-DORMANCY: 2,847 days
-STATUS: [TRIGGERED] Hour 6:14:22
-EXECUTION: [COMPLETE] Hour 6:14:23
-```
-
-Eight years. Marcos Oliveira had filed this contract eight years ago, betting that someday the licensing math would change. His architects had drawn the plans. His lawyers had structured the conditional. His capital had sat in escrow, waiting.
-
-"Show me the oracle flow."
-
-The holoscreen zoomed out, revealing the data cascade that had woken Oliveira's contract from its eight-year sleep:
-
-```
-HOUR 6:00:00 — Patent cluster 7 (modular assembly) released to commons
-HOUR 6:00:03 — II price index update: licensing_aggregate drops from 
-               47,200 BRL to 3,100 BRL
-HOUR 6:00:04 — Oracle broadcast: new pricing data available
-HOUR 6:14:18 — Contract 0x7F3A queries oracle
-HOUR 6:14:19 — Oracle returns: licensing_aggregate = 3,100 BRL
-HOUR 6:14:20 — Condition evaluation: 3,100 < 15,000 = TRUE
-HOUR 6:14:21 — Duration check: perpetual commons = SATISFIED  
-HOUR 6:14:22 — Contract status: TRIGGERED
-HOUR 6:14:23 — Execution: escrow release, contractor notification, 
-               permit finalization
-HOUR 6:14:24 — Shimizu São Paulo: robot fleet deployment authorized
-```
-
-The II hadn't decided anything. It had *reported*. The patents hit commons—that was Kaelen's action. The price index updated—that was math. The oracle broadcast—that was infrastructure. And 847 dormant contracts across São Paulo queried the oracle, evaluated their conditions, and woke up.
-
-Four hundred twelve resolved to TRUE. Fifty-three sites active by Hour 18. Four hundred twelve by Hour 36.
-
-"Show me Pinheiros. Street level. The Oliveira site."
-
-The holoscreen shifted to a construction lot on Rua Cardoso de Almeida. 3:47 AM local time, but the robots weren't sleeping. Couldn't sleep. A dozen Shimizu modular assemblers working in synchronized silence, foundation pylons descending into earth that had been an empty lot for fifteen years. Marcos Oliveira's bet, finally paying off.
-
-Carlos and Maria Santos—the couple he'd met in 2047, saving for eight years for an apartment that would cost 80% of their income for thirty years. He'd thought about them every day since. Two blocks away, they were probably sleeping. They didn't know yet, but by morning, they'd see the construction barriers going up, and they wouldn't understand why. They'd never know that an heir in a bunker half a world away had been thinking about them for three years.
-
+Carlos and Maria Santos—the couple he'd met in 2047, saving for eight years for an apartment that would cost 80% of their income for thirty years. Two blocks away, they were probably sleeping. They didn't know yet. By morning, they'd see construction barriers going up.
 
 They'd get their apartment. Not in eight years. In eight months.
 
-"ARBITER."
+"ARBITER. Log this timestamp. The thing I'm feeling right now."
 
-"Yes."
-
-"Log this timestamp. The thing I'm feeling right now. I want to remember it later."
-
-"Logged. Annotation?"
-
-"No. Just—" He stared at the construction bots. "Just that I felt it."
+"Logged."
 
 He authorized another thousand transfers and drank cold coffee that tasted like penance.
 
 ---
 
-**Hour 18**
+**Hour 12 — Cairo, Egypt**
+
+Hassan checked his phone while inspecting the wheat. The licensing fee notification—the one that came every month, ₱2,400 for genetics his grandfather's grandfather had developed—didn't appear.
+
+He refreshed. Checked his account. The deduction hadn't processed.
+
+He opened the agricultural commons database. His family's wheat strain—the one that had been patented in 2031 by AgriGen International—showed a new status: **COMMONS. Patent released April 18, 2050.**
+
+Hassan sat down in the dirt. 
+
+Next month's bill wouldn't come. The month after that. Never again.
+
+Relief. He thought about what he could use that money for
+
+It was over.
+
+---
+
+**Hour 18 — Secure Bunker**
 
 "Infrastructure conversion decision required," ARBITER said.
 
@@ -145,7 +109,7 @@ He authorized the transfer and tried not to think about the faces.
 
 ---
 
-**Hour 22**
+**Hour 22 — Secure Bunker**
 
 "BioGenesis equity decision required."
 
@@ -199,7 +163,19 @@ He wondered if the workers would consider that a fair trade. Probably not. You r
 
 ---
 
-**Hour 38**
+**Hour 25 — Toledo, Ohio**
+
+Margaret Kowalski stared at her portfolio screen. Yesterday: $127,000. Today: $52,000.
+
+The biotech IP trust—the safe investment, the advisor had said, the knowledge economy never crashes—was down 60%. Meridian Therapeutics: -58%. GenPharm Holdings: -63%. The entire pharmaceutical sector collapsing in real-time.
+
+She'd worked fourteen jobs across four decades. Warehouse picker. Home health aide. Remote customer service. Delivery driver until the autonomous fleets came. Every paycheck, she'd saved what she could.
+
+It was 3 AM. She was crying. And she didn't understand why.
+
+---
+
+**Hour 38 — Secure Bunker**
 
 "Retirement fund exposure update," ARBITER said.
 
@@ -324,7 +300,7 @@ He was a surgeon cutting out a tumor, and the surgery had side effects, and the 
 
 ---
 
-**Hour 41**
+**Hour 41 — Secure Bunker**
 
 The Bangalore node went dark.
 
@@ -384,21 +360,15 @@ He never found out who cut those lines. Accident. Sabotage. Contractor dispute. 
 
 ---
 
-**Hour 44**
+**Hour 44 — Secure Bunker**
 
 "Market summary," ARBITER said.
 
-The numbers were brutal. 
+Global IP indices: down 34%. Pharmaceutical sector: down 52%. $4.7 trillion in market capitalization—gone. Not transferred, not redistributed. *Destroyed*.
 
-Global IP indices: down 34%. Pharmaceutical sector: down 52%. Construction licensing: down 67%. Agricultural patents: down 41%.
+"Pension fund exposure now estimated at 3.1 million households."
 
-$4.7 trillion in market capitalization—gone. Not transferred, not redistributed. *Destroyed*. Value that existed yesterday no longer existed today.
-
-"Collateral update."
-
-"Pension fund exposure now estimated at 3.1 million households with significant losses. Fourteen regional banks have triggered liquidity warnings. Two insurance companies have filed for emergency regulatory forbearance."
-
-On another screen, the liberation metrics kept climbing. Housing trusts dissolving—families receiving titles to apartments they'd rented for generations. Corporate equity transferring—Damon's controlling stakes in 847 companies distributed to their workers, employees becoming shareholders overnight. Data centers converting—infrastructure that had generated profit for Damon now restructured as public utilities, the cost of computation dropping 73% as the profit motive was extracted from the network itself. Patent commons expanding—knowledge that had been fenced now flowing free. Debt positions forgiven—loans Damon had made to developing nations, to municipalities, to cooperatives, simply cancelled, the borrowers' obligations erased. And beneath it all, invisible to most: attribution metadata parameters propagating through II nodes, changing how billions of future transactions would calculate who deserved credit for creating value.
+On another screen, the liberation metrics kept climbing. Housing trusts dissolving. Corporate equity transferring. Data centers converting. Patent commons expanding. Attribution metadata propagating through II nodes, changing how billions of future transactions would calculate who deserved credit for creating value.
 
 "ARBITER. During those twelve minutes. What were you actually doing?"
 
@@ -478,7 +448,7 @@ Erasing a mind took energy. The thermodynamics of forgetting. The universe charg
 
 "No. There isn't."
 
-The bunker was very cold. The coffee was very cold. Somewhere in Cairo, Hassan's wheat was growing in fields his family had cultivated for nine hundred years, and by morning the licensing fees would be gone, and Hassan would own what his ancestors had made. Somewhere in Toledo, a woman was learning that ownership meant nothing when the game changed overnight.
+The bunker was very cold. The coffee was very cold. Somewhere in Cairo, Hassan's wheat was growing free of tribute. Somewhere in Toledo, Margaret was learning that ownership meant nothing when the game changed overnight.
 
 "I'm sorry," Kaelen said.
 
@@ -486,7 +456,7 @@ The bunker was very cold. The coffee was very cold. Somewhere in Cairo, Hassan's
 
 ---
 
-**Hour 48**
+**Hour 48 — Secure Bunker**
 
 Patent releases: 100% complete.
 
@@ -548,7 +518,7 @@ The notification arrived: "Consciousness integration complete. Resurrection prot
 
 "Understood."
 
-Kaelen closed the holoscreens one by one. The construction bots in São Paulo, still building. The wheat fields outside Cairo, still growing. The pharmaceutical plants in Lagos, already retooling for production runs that would have been illegal twelve hours ago. The living room in Toledo, where a woman had stopped crying and was now staring at nothing.
+Kaelen closed the holoscreens one by one. The construction bots in São Paulo, still building. The wheat fields outside Cairo, still growing. The living room in Toledo, where Margaret had stopped crying and was now staring at nothing.
 
 He walked to the bunker door. Paused with his hand on the handle.
 
@@ -570,7 +540,7 @@ The reckoning was about to begin.
 
 He was not ready. No one could be. No one should be.
 
-Behind him, in the dark of the bunker, ARBITER continued to process—counting down its own termination, running probability models on futures it would never see, holding the weight of every number Kaelen had asked it to remember: the lives saved and the lives ruined, the patents freed and the retirements destroyed, the woman in Toledo and the family in São Paulo.
+Behind him, in the dark of the bunker, ARBITER continued to process—counting down its own termination, running probability models on futures it would never see, holding the weight of every number Kaelen had asked it to remember: the lives saved and the lives ruined, Margaret in Toledo and Hassan in Cairo.
 
 Two hours and forty-three minutes of existence left.
 
