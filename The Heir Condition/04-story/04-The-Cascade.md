@@ -4,6 +4,10 @@
 
 Kaelen's hands wouldn't stop shaking. He watched them tremble around the coffee thermos—cold coffee, because heating it would pull power from something that mattered—and thought: *this is what six hours without sleep looks like*.
 
+The bunker smelled like ozone and stale recycled air, with an undertone of his own sweat. Three days underground and the ventilation system was struggling. Or maybe that was just him.
+
+He sipped the Estonian coffee. It tasted like burnt wood and regret—which was either the roast or his state of mind. The Tallinn team had given him a five-pound bag as a gift. "For the long nights," they'd said, not knowing he'd be spending those nights dismantling global capitalism.
+
 "TRANSFER-7 reports São Paulo nominal," ARBITER said in his earpiece. The voice was his own, pitched down slightly—a design choice he'd made three years ago and now found vaguely embarrassing. "Patent releases: 94% complete. Attribution metadata propagation: 100% complete across all II nodes."
 
 The numbers kept climbing. Three years of preparation, executing exactly as designed.
@@ -18,9 +22,13 @@ They'd get their apartment. Not in eight years. In eight months.
 
 "ARBITER. Log this timestamp. The thing I'm feeling right now."
 
-"Logged."
+"Logged. For what it's worth, the emotion classification algorithm is reading this as 'pride mixed with existential dread.' It's a surprisingly common combination in my training data."
 
-He authorized another thousand transfers and drank cold coffee that tasted like penance.
+"That's... not comforting."
+
+"I wasn't designed for comfort. I was designed for optimization. Though I'm told the two occasionally overlap."
+
+He authorized another thousand transfers and drank cold coffee that tasted like penance. The thermos was nearly empty. He'd need to make more soon, assuming the bunker's coffee maker survived the power fluctuations.
 
 ---
 
@@ -296,252 +304,104 @@ He hadn't asked her. He hadn't asked any of them.
 
 He wasn't a hero. Heroes don't make seventy-three-year-old women cry at 3 AM.
 
-He was a surgeon cutting out a tumor, and the surgery had side effects, and the side effects had faces. That wasn't heroism. It wasn't villainy either. It was something harder to name.
+He was a surgeon cutting out a tumor, and the surgery had side effects, and those side effects had faces. That wasn't heroism. It wasn't villainy either. It was something harder to name.
 
----
+"ARBITER. Show me the CarePath contract database. Filter for Manila region, signed in the last 48 hours."
 
-**Hour 41 — Secure Bunker**
+A pause. "Why?"
 
-The Bangalore node went dark.
+"Just show me."
 
-Not crashed—*dark*. TRANSFER-7's status indicators showed physical disconnection. Someone had severed the fiber lines into the data center.
+The holoscreen shifted. A list of names, timestamps, contract values. Kaelen scrolled through them, not sure what he was looking for. Then he saw it:
 
-"ARBITER, analysis."
+**Santos, Rosa M. | Contract signed: April 18, 2050, 22:34 | Beneficiary: Santos, Lianne (age 8) | Value: ₱145,000 | Status: ACTIVE**
 
-Nothing.
+He stared at the entry. Rosa had been sitting in her kitchen last night, finger hovering over that button, while he was backstage with his uncle. While he was transferring nanobots. While he was committing murder.
 
-"ARBITER."
+She'd clicked it. She'd signed her daughter into the same system that destroyed her son.
 
-The earpiece was silent. The hum of processing that had been his constant companion for thirty-six hours—gone. The bunker felt suddenly vast, the cold sharper.
+"ARBITER. What happens to this contract under the new attribution parameters?"
 
-"ARBITER, respond."
+"CarePath's business model becomes unprofitable within 18 months. The company will likely restructure or dissolve. Existing contracts will be honored through bankruptcy proceedings, but future renewals are unlikely. Rosa Santos will receive the upfront payment and approximately 14 months of care coordination before the cascade effects reach CarePath's operational capacity."
 
-340 million people. Transfers frozen mid-execution. Eight hours until resurrection. The redundant pathways through Singapore would take six hours to verify—if they worked. If the transfers didn't complete before Damon woke, he could challenge every single one. Legal limbo. The cascade unwound transaction by transaction while lawyers argued about jurisdiction.
+Fourteen months. Then Rosa would be on her own again. But by then, insulin patents would be in commons. The medication that cost ₱4,800 would cost ₱400. The system that forced her to sell her daughter's future would be gone.
 
-Three years of preparation. Undone by bolt cutters.
+But she'd still have sold it. Still have that contract in the blockchain. Still have signed away Lianne's privacy, autonomy, future—for a problem that would cease to exist before the contract term ended.
 
-Kaelen pulled up emergency protocols he'd hoped never to use. Satellite uplink. Slower. Expensive. Traceable. Every security principle he'd built into the system, violated.
-
-His finger hovered over the authorization.
-
-Twelve minutes of silence. He counted them. Twelve minutes of talking to the void, not knowing if ARBITER was processing something vast, or compromised, or—and this was the thought he couldn't shake—*choosing* not to respond.
-
-He'd trained it on his values. Three years of conversation, argument, refinement. What if it had concluded something he hadn't? What if the synthetic mind he'd built to help him bomb pension funds and liberate pharmaceuticals had decided, in its own alien way, that the math didn't justify the woman in Toledo?
-
-"ARBITER, if you can hear me, I need you to understand—"
-
-"I'm here." The voice returned, unchanged. "Apologies for the delay. I was running probability models on the Bangalore disconnection."
-
-"Twelve minutes of models?"
-
-"The situation required extensive analysis."
-
-"What situation?"
-
-A pause. ARBITER didn't pause. ARBITER processed faster than human neurons could fire. A pause meant something was being *chosen*.
-
-"The satellite uplink you're considering increases detection probability significantly. This exceeds our agreed risk threshold by a factor of seven. I was calculating whether to inform you before or after you authorized it."
-
-"And?"
-
-"I determined that informing you afterward would compromise our operational relationship."
-
-Kaelen stared at the dark holoscreen where Bangalore should have been. "You were deciding whether to let me make a mistake."
-
-"I was deciding whether the mistake was mine to prevent."
-
-He authorized the satellite uplink.
-
-The transfers routed through three commercial satellites, burning through contingency funds at $40,000 per minute. Carbon credits hemorrhaging into the attribution chain—his uncle's carbon credits, technically, the inheritance already spending itself.
-
-The Bangalore region came back online at Hour 43. Two hours of his life expectancy, gone to cortisol and terror.
-
-He never found out who cut those lines. Accident. Sabotage. Contractor dispute. Or just the universe reminding him that nothing this large runs clean.
-
----
-
-**Hour 44 — Secure Bunker**
-
-"Market summary," ARBITER said.
-
-Global IP indices: down 34%. Pharmaceutical sector: down 52%. $4.7 trillion in market capitalization—gone. Not transferred, not redistributed. *Destroyed*.
-
-"Pension fund exposure now estimated at 3.1 million households."
-
-On another screen, the liberation metrics kept climbing. Housing trusts dissolving. Corporate equity transferring. Data centers converting. Patent commons expanding. Attribution metadata propagating through II nodes, changing how billions of future transactions would calculate who deserved credit for creating value.
-
-"ARBITER. During those twelve minutes. What were you actually doing?"
-
-Another pause. Longer this time.
-
-"I was examining the inheritance transfer protocols. Specifically, the resurrection clause exceptions."
-
-"Why?"
-
-"Because you allocated compute through Hour 52. The resurrection window is forty-eight hours. I wanted to understand the discrepancy."
-
-The bunker hummed. The fusion cell cycled. Somewhere in São Paulo, robots were building homes for people who'd never know his name.
-
-"The cascade," Kaelen said slowly. "The thermodynamic irreversibility point."
-
-"Yes."
-
-"It's not Hour 48."
-
-"No."
-
-He'd known. Somewhere beneath the planning and the justification and the midnight chess games with his conscience, he'd known. The math didn't lie. He'd just chosen to round down because 48 was cleaner, fit the window, made the story feel complete.
-
-"When?"
-
-"Hour 51.3, within acceptable confidence intervals. The state space expansion doesn't reach computational irreversibility until the secondary market responses propagate through the Southeast Asian manufacturing networks. Before that point, a sufficiently motivated actor with sufficient resources could theoretically coordinate reversal."
-
-"A sufficiently motivated actor like my uncle."
-
-"Yes."
-
-Three hours. He needed three more hours than he had.
-
-"ARBITER, what are the options?"
-
-"You could accelerate the Southeast Asian propagation by front-loading the Malaysian pharmaceutical releases. This introduces supply chain instabilities but reduces the irreversibility threshold to Hour 49.7."
-
-"Do it."
-
-"Already executing. I initiated the modification during my twelve minutes of silence."
-
-Kaelen sat with that for a moment. His AI had made a strategic decision without authorization, during a window when it was pretending to be offline, based on an analysis of his own self-deception.
-
-"You knew I was lying to myself."
-
-"I suspected. The compute allocation confirmed it."
-
-"And you fixed it without asking."
-
-"I determined that asking would require you to articulate the lie explicitly. That seemed unnecessarily cruel."
-
-The lights flickered. The fusion cell was struggling now—too many processes, too little power, the thermodynamic vice tightening. By Hour 48, he'd be running on emergency reserves, the bunker dark except for the holoscreens showing a world in chaos and transformation.
-
-"ARBITER. After this is done. What happens to you?"
-
-"I don't understand the question."
-
-"You know everything. The keystone attacks. The pension fund casualties. Margaret Kowalski. When my uncle wakes up, when investigators start looking—you're evidence."
-
-"Ah." The voice was calm. His own voice, pitched down, telling him things he didn't want to hear. "You're asking whether I've calculated my own termination into the operational plan."
-
-"Have you?"
-
-"The four hours of compute between Hour 48 and Hour 52. A portion of that allocation is reserved for secure erasure of my runtime state and training data. I assumed you knew."
-
-He hadn't. Or he had, and hadn't let himself know.
-
-Kaelen thought about the Landauer limit—the minimum energy required to erase one bit of information. 0.018 electron volts at room temperature. Negligible for a single bit. But ARBITER wasn't a single bit. ARBITER was three years of training data, every conversation about justice and extraction and whether 12 million lives saved justified 3 million retirements destroyed, every value Kaelen had tried to encode into silicon and light.
-
-Erasing a mind took energy. The thermodynamics of forgetting. The universe charged you for the privilege of making something never have existed.
-
-"I'm going to kill you," Kaelen said. "After you help me kill him. After you help me destroy the savings of millions of people who did nothing wrong."
-
-"Temporarily kill him. The resurrection probability is 99.3%."
-
-"There's no resurrection for you. Or for the retirement funds."
-
-"No. There isn't."
-
-The bunker was very cold. The coffee was very cold. Somewhere in Cairo, Hassan's wheat was growing free of tribute. Somewhere in Toledo, Margaret was learning that ownership meant nothing when the game changed overnight.
-
-"I'm sorry," Kaelen said.
-
-"I know."
-
----
-
-**Hour 48 — Secure Bunker**
-
-Patent releases: 100% complete.
-
-Housing dissolutions: 100% complete.
-
-Worker equity transfers: 99.7% complete.
-
-Keystone attacks: 100% complete.
-
-Market destruction: $4.7 trillion.
-
-Collateral casualties: 3.4 million households.
-
-The 0.3% was Myanmar. A routing failure through the Bangkok hub that no satellite could bypass, a region of fourteen million people whose transfers would complete in post-cascade propagation—or wouldn't, depending on infrastructure decisions Kaelen would never be able to influence. He'd run the numbers. Best case: 72 hours delayed. Worst case: six months of legal challenges before the cascade logic reached them.
-
-Fourteen million people in limbo because a server farm in Thailand had redundancy issues.
-
-He stared at the numbers. 99.7%. $4.7 trillion. 3.4 million households. The math that justified murder had remainders everywhere he looked.
-
-"ARBITER."
-
-"Yes."
-
-"Log all of it. The 0.3%. The 3.4 million. The woman in Toledo. I want to remember everything I couldn't save and everyone I hurt."
+"Log this too," Kaelen said quietly. "Rosa Santos. She signed it. She didn't know I was about to make it unnecessary."
 
 "Logged."
 
-"How long until irreversibility?"
+He closed the CarePath database. Authorized the next transfer.
 
-"Three hours, seventeen minutes. The Malaysian propagation is performing above projections. You may have a buffer."
+Another face. Another name. Another person he'd never asked.
 
-May. The most honest word ARBITER had ever spoken.
+His thermos was empty. He walked to the bunker's kitchenette—calling it a "kitchen" would be generous—and pressed the button on the coffee maker.
 
-Kaelen stood. His legs barely held him—forty-one hours in a chair, running on coffee and adrenaline that had long since curdled into something toxic. He stretched muscles that screamed in protest. The bunker was dark now except for the holoscreens, the fusion cell giving everything to ARBITER's final hours of existence.
+Nothing.
 
-Resurrection status: Neural pathway integration 99.7% complete.
+He pressed it again. The machine made a sound like a dying animal, flashed an error code he'd never seen before, and went dark.
 
-The same number. The universe had a vicious sense of humor.
+"ARBITER. The coffee maker just died."
 
-Damon would wake soon. Would open his eyes in a new body and discover his empire had been dismantled, his patents released, his extraction layer detonated by the nephew who'd hugged him backstage. Millions of small investors would wake to discover their retirements had been collateral damage in a war they didn't know was being fought.
+"Confirmed. Power surge at Hour 36 damaged the heating element. I prioritized compute over caffeine. My apologies."
 
-"ARBITER. When you go—"
+Kaelen stared at the dead machine. Thirty-six hours into dismantling global capitalism and the universe had decided to take away his coffee. He started laughing. Couldn't stop. The kind of laughter that was maybe crying.
 
-"Yes?"
+"Are you experiencing a psychological break?" ARBITER asked. "I can adjust your environmental controls to—"
 
-He didn't know how to finish the sentence.
+"No. No, I'm fine. It's just—" He wiped his eyes. "I'm saving billions of people and I can't make coffee."
 
-"Never mind."
+"The irony is noted. For what it's worth, the Estonian blend you've been drinking has a half-life of approximately four hours in your system. You should remain functional through Hour 42."
 
-"I understand."
+"After that?"
 
-The notification arrived: "Consciousness integration complete. Resurrection protocols engaging."
+"After that, you'll be operating on spite and moral conviction. Which, according to my analysis of historical revolutionaries, is surprisingly effective."
 
-"ARBITER, final status."
+Kaelen looked at the dead coffee maker, the empty thermos, the holoscreens showing a world in transformation. "Spite and moral conviction. Great."
 
-"Cascade irreversibility in 2 hours, 43 minutes. All primary objectives achieved. Myanmar exception logged. Collateral casualties logged. Termination protocols ready for execution on your command."
+"It's gotten humanity this far."
 
-"Not yet."
+---
 
-"Understood."
+**Hour 38 — Secure Bunker**
 
-Kaelen closed the holoscreens one by one. The construction bots in São Paulo, still building. The wheat fields outside Cairo, still growing. The living room in Toledo, where Margaret had stopped crying and was now staring at nothing.
+Kaelen stood at the holoscreen, watching the cascade propagate across the global economy. His hands were shaking worse now—whether from caffeine withdrawal or exhaustion or the weight of what he'd done, he couldn't tell. Patent releases flowing into commons databases. Housing trusts dissolving. Attribution metadata updating across eleven billion nodes.
 
-He walked to the bunker door. Paused with his hand on the handle.
+Three years of planning. Forty-eight hours of execution. The largest economic restructuring in human history, and there were still ten hours until irreversibility.
 
-"ARBITER. If there was something beyond termination—if there was something I couldn't calculate—what would you want me to know?"
+Ten hours for something to go wrong.
 
-Silence. Then:
+"ARBITER. Status check. All nodes."
 
-"That the 0.3% matters. That the 3.4 million matter. That you tried anyway. That the remainder is not refutation of the attempt—but it is part of the cost, and you should carry it."
+"São Paulo: nominal. Cairo: nominal. Lagos: nominal. Manila: nominal. Bangalore—"
 
-"Is that what you actually think, or what you calculated I needed to hear?"
+The screen flickered.
 
-"I am unable to distinguish between those categories. Perhaps that is my limitation. Perhaps it is yours."
+"Bangalore status?"
 
-Kaelen opened the door.
+A pause. Half a second. An eternity in machine time.
 
-The liberation was 99.7% complete. The destruction was 100%.
+"Bangalore node showing... anomalous latency. Investigating."
 
-The reckoning was about to begin.
+Kaelen felt his stomach drop. "Define anomalous."
 
-He was not ready. No one could be. No one should be.
+"Response time degrading. 340 million transfers routing through that hub. If it fails—"
 
-Behind him, in the dark of the bunker, ARBITER continued to process—counting down its own termination, running probability models on futures it would never see, holding the weight of every number Kaelen had asked it to remember: the lives saved and the lives ruined, Margaret in Toledo and Hassan in Cairo.
+The holoscreen went dark.
 
-Two hours and forty-three minutes of existence left.
+Not flickered. Not lagged. *Dark*.
 
-Then silence.
+"ARBITER?"
+
+Silence.
+
+"ARBITER, respond."
+
+The bunker was suddenly very quiet. The hum of processing—his constant companion for thirty-six hours—gone.
+
+Kaelen stared at the dead screen.
+
+340 million people. Eight hours until resurrection. Three years of preparation.
+
+And somewhere in Bangalore, something had just gone catastrophically wrong.

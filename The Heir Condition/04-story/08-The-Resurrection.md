@@ -39,7 +39,11 @@ Damon Korr opened his eyes.
 
 "Resurrection successful, Mr. Korr." Dr. Chen replied, though her tone carried none of the celebration she'd imagined during her PhD defense five years ago when she'd dreamed about this exact moment—bringing someone back from actual, certified death. "All cognitive and physical parameters nominal. Microtubule quantum coherence stable at ninety-seven point six percent, which is actually higher than your baseline from the last backup. Synaptic integration complete. The Penrose-Hameroff orchestrated reduction patterns match your archived consciousness within point-zero-three standard deviations." She paused, realizing she was babbling technical details because she didn't know what else to say to someone who'd just returned from death. "Welcome back."
 
-Damon sat up slowly, examining his hands with the fascination of someone inhabiting a familiar yet foreign body. The familiarity of the gesture was somehow unsettling—as if his consciousness carried embedded routines for evaluating newly integrated biological substrates.
+Damon sat up slowly, examining his hands with the fascination of someone inhabiting a familiar yet foreign body. The skin was too smooth. No calluses, no age spots, no accumulated history. The fingers moved with a slight delay—not lag, exactly, but the microsecond gap between intention and execution that came from consciousness still calibrating to unfamiliar neural pathways.
+
+Everything felt *new*. The air was too cold on his skin. The resurrection table was too hard beneath him. His mouth tasted like copper and antiseptic, though he knew that was impossible—this body had never tasted anything. The sensations were memories, phantom experiences his consciousness was projecting onto virgin nerve endings.
+
+He flexed his hands. The joints moved smoothly, without the subtle ache he'd grown accustomed to over fifty-two years. This body was thirty-five, optimized, perfect. It felt like wearing someone else's clothes.
 
 "How long was I gone?"
 

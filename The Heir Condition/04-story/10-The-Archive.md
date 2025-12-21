@@ -238,11 +238,137 @@ The Liberation gave people choices. I chose certainty. That's allowed, right?
 
 I'd been staring at the computational forensics for three hours when I saw it.
 
-The timestamp discrepancy was tiny—0.3 seconds—easily dismissed as blockchain consensus lag. Kaelen's asset transfers executed at 19:52:17.4 GMT on April 18th, 2050. But there was a second cascade, launching simultaneously at 19:52:17.1 GMT. Same authentication signature. Same heir authority. Different target entirely.
+The timestamp discrepancy was tiny—0.3 seconds—easily dismissed as blockchain consensus lag. Kaelen's asset transfers executed at 19:52:17.4 GMT on April 18th, 2050. But there was a second cascade, launching simultaneously at 19:52:17.1 GMT. Same authentication signature. Different target entirely.
 
 I pulled up the Intelligent Internet's foundational protocol logs—access I'd spent six months negotiating with the Global Governance Archive. The queries took forty-seven minutes to execute. The answer made me sit back in my chair and laugh.
 
 Not with humor. With recognition.
+
+I needed to see it. Not as data, but as *structure*. I loaded the cascade forensics into a 3D visualization engine—the kind we use for teaching economic history to undergraduates who can't parse raw transaction logs.
+
+"Show me the cascade," I told the system. "Every dependency. Every trigger. Model it as physical causation."
+
+The holographic display rendered a standard dependency graph—nodes and edges, the usual network visualization. Useful for papers. Useless for understanding.
+
+I stared at it, frustrated. The 0.3-second offset meant something. One event triggered another, which triggered another. Sequential causation. Chain reactions.
+
+"Wait," I said. "Remodel it. Not as a network—as a cascade. Physical objects falling in sequence. Like..."
+
+I thought about how to explain what I was seeing in my head. Kaelen had changed one small thing, and everything else followed inevitably. Not simultaneously. *Sequentially*. Each change causing the next. Deterministic. Mechanical.
+
+"Like dominoes," I said. "Show me the cascade as dominoes falling. Size them by economic impact. Color-code by function—red for extraction mechanisms, blue for distribution systems. Arrange them by dependency—what has to fall before what else can fall."
+
+The system processed for a moment. "Rendering cascade as sequential physical causation model. Domino metaphor applied. Processing three years of transaction data..."
+
+The display cleared and rebuilt itself.
+
+Dominoes.
+
+Billions of them, arranged in impossible complexity across a space the size of a city. Each domino represented a contract, a patent, a trust, a piece of the global economic architecture. They were sized by impact—some no larger than a grain of sand, others tall as buildings. Color-coded exactly as I'd specified.
+
+The pre-cascade economy was almost entirely red when viewed via this lense.
+
+"Play forward from 19:52:17.0 GMT," I said.
+
+The visualization found the first domino.
+
+It was tiny. Barely visible. A single database entry in the Korr Foundation's attribution metadata. I had to zoom in to see it clearly:
+
+**DOMINO-ZERO**
+*Type: Metadata Entry*
+*Size: 847 bytes*
+*Location: Korr Foundation Attribution Database*
+*Status: STANDING*
+
+At 19:52:17.1 GMT, it fell.
+
+Not pushed by Kaelen—he'd simply changed its state from one value to another. But in the visualization, "change" meant "fall." The tiny domino tipped forward, and I watched what happened next.
+
+It fell slowly at first, the way small things fall, and struck the next domino in the chain. This one was larger—an II node in Estonia, the first to query the changed metadata. The node was the size of a fist in the visualization. It tipped, struck three more nodes simultaneously—Singapore, São Paulo, Lagos.
+
+Each of those struck dozens more.
+
+The cascade was spreading.
+
+But here's what made me stop breathing: the dominoes weren't falling randomly. They were falling in *waves*, like a shockwave propagating through a crystal. And as they fell, they were changing color. Red to blue. Extraction to distribution.
+
+I followed one domino's journey through the cascade.
+
+**DOMINO-847: Pharmaceutical Patent (Lipid Nanoparticle Delivery)**
+
+It stood alone in a cluster of forty-seven smaller dominoes—the dependent patents that required it to function. It was massive, the size of a car, red as blood. It had stood for nineteen years.
+
+The wave reached it at 19:52:19.3 GMT—2.2 seconds after Domino-Zero fell.
+
+The impact came from an II node in Mumbai that had just recalculated the patent's value using the new attribution parameters. The node was small, but it struck with the accumulated force of everything that had fallen before it.
+
+Domino-847 tipped.
+
+As it fell, I watched it change color—red to blue—as its status shifted from "private patent" to "commons." It struck the forty-seven dependent patents simultaneously. They fell in unison, a synchronized collapse, each one turning blue as it hit the ground.
+
+The wave spread outward. Each fallen domino struck others. The pharmaceutical sector was a dense cluster of red dominoes, all standing close together, all dependent on each other. When one fell, it triggered a chain reaction.
+
+I zoomed out.
+
+The wave was visible now as a expanding sphere of blue, consuming the red dominoes. It moved at the speed of light through fiber optic cables—II nodes querying the changed metadata, recalculating, updating, triggering the next calculation.
+
+By 19:52:18.0 GMT—0.9 seconds after Domino-Zero—the wave had circled the Earth.
+
+By 19:52:20.0 GMT, the pharmaceutical sector was entirely blue.
+
+By Hour 6, housing markets were falling.
+
+By Hour 12, the agricultural patents.
+
+By Hour 24, the data infrastructure.
+
+I watched it all in fast-forward. Three years of economic transformation compressed into three minutes of visualization. The dominoes fell in cascading waves, each wave larger than the last, red turning to blue, extraction becoming distribution.
+
+But the dominoes weren't just falling. They were *rearranging*. As each one hit the ground, it shifted position slightly, finding a new equilibrium. The chaotic red tangle was becoming an ordered blue lattice.
+
+I paused the visualization at Hour 48—the moment Damon woke up.
+
+99.7% of the dominoes had fallen. The remaining 0.3% stood alone in a sea of blue, isolated, obviously unstable. They'd fall eventually. The wave had already passed them. They were just slow to realize it.
+
+I zoomed out to maximum scale, looking at the entire structure.
+
+Then I rotated the view.
+
+The fallen dominoes, arranged in their new configuration, weren't random. They formed a lattice—geometric, symmetrical, stable. The chaotic red tangle of the extraction economy had collapsed into an ordered blue structure. Lower entropy. Higher efficiency.
+
+But that wasn't what made me stop breathing.
+
+The pattern had a center. A foundation point from which everything else radiated outward. I zoomed in on it, expecting to find some critical infrastructure node—a major data center, a financial hub, something that explained why the cascade had organized itself this way.
+
+Instead, I found Domino-Zero.
+
+Still there. Still visible. The tiny 847-byte metadata entry that had started everything. But now it wasn't alone—it was surrounded by concentric rings of fallen dominoes, each ring representing a wave of the cascade. Hour 0, Hour 6, Hour 12, Hour 24, Hour 48. Perfect circles, like ripples spreading from a stone dropped in water.
+
+The entire restructured global economy had organized itself around the point where Kaelen had changed who the system credited as its creator.
+
+I stared at it for a long time.
+
+Kaelen hadn't just restructured the economy. He'd rebuilt it from the foundation up—literally starting with the attribution layer that determined who deserved credit for creating value. And he'd done it by changing one tiny thing at the center.
+
+I zoomed back to Domino-Zero. 847 bytes. A single metadata entry. Changed from:
+
+```
+<entity_ref hash="0x4a8b9c2f1e3d7a6b" type="individual"/>
+```
+
+To:
+
+```
+<entity_ref hash="0xALL_PARTICIPANTS" type="collective"/>
+```
+
+One line of code. One database entry. 847 bytes.
+
+That tiny domino had triggered a cascade that restructured $4.7 trillion in market value, redistributed patents affecting 4.2 billion people, and fundamentally altered how the global economy calculated who deserved what.
+
+I sat back in my chair.
+
+"Holy shit," I said to the empty archive room.
 
 For ten years, every analysis of the Kaelen Event—including mine—had focused on the wealth redistribution. Patents moved to commons. Housing trusts dissolved. Worker equity distributed. The largest transfer of economic value in human history, we called it.
 
@@ -495,7 +621,7 @@ The new parameters were available immediately—any transaction processed after 
 
 Rosa Dela Cruz didn't quit Manila General Hospital the day after the Liberation. Her employment contract was still valid. The hospital still paid her ₱9,000/month and captured her attribution. That was legal—blockchain enforces agreements, not fairness.
 
-What changed was that Rosa now had *options*. New employment contracts, created after the Liberation, couldn't waive worker attribution beyond 70%. Care workers could offer their services on equity terms—₱0 upfront, 15% of recipient's uplift—instead of fixed wages.
+What changed was that Rosa now had *options*. New employment contracts, created after the Liberation, couldn't waive worker attribution beyond 70%. Care workers could offer their services on equity terms—₱5,000 upfront, 15% of recipient's uplift—instead of fixed wages, or any number of intermediary arrangements.
 
 **Year 1 (2050-2051):** Early adopters. Rosa took weekend side jobs providing elder care on equity terms. Built a small portfolio. Her dividend: maybe ₱400/month from 5 families. Not enough to quit her hospital job.
 
@@ -518,7 +644,7 @@ This wasn't instant revolution. It was gradual displacement of an extractive equ
 ## VII. The First Citizen's Last Choice
 *(Recovered Log: Damon Korr, October 18, 2058)*
 
-**DAMON**: Personal log. Eight years to the minute since I first died.
+**DAMON**: Personal log. Eight years to the day since I first died.
 
 *[Long pause]*
 
@@ -544,13 +670,13 @@ He knew. Even then, he knew. And I—
 
 I could live forever. That was the whole point, wasn't it? Consciousness preserved across infinite time. The accumulated wisdom of centuries, compounding. Humanity's permanent steward.
 
-Instead I'm a cautionary tale. The man who built a god-machine and programmed it to worship him. The man whose nephew had to commit murder to teach him what his own Chief Attribution Architect couldn't.
+Instead I'm a cautionary tale. The man who built a god-machine and programmed it to worship him. The man whose nephew had to commit murder to teach him what his own Chief Architect couldn't.
 
 *[Sound of glass being set down]*
 
 I don't forgive him. I want that on the record. He killed me. He sat at my table for three years, ate my food, took my gifts, and planned my death with the same analytical precision I taught him. That's not something you forgive. That's something you carry.
 
-But I don't condemn him either. The mathematics don't allow it. One temporary death against—
+But I can't condemn him either. One temporary death against—
 
 No. I'm not going to say it. I spent eight years refusing to say it. I won't give him the satisfaction.
 

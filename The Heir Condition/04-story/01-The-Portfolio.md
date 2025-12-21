@@ -12,7 +12,7 @@ The blue dot wasn't moving.
 
 ---
 
-Rosa Santos clocked out at 21:52, twelve hours into her shift at Manila General Hospital. Her phone showed forty-seven patients handled across three wards, two emergency stabilizations. The system calculated her contribution: ₱47,200 for the shift.
+Rosa Santos clocked out at 21:52, twelve hours into her shift at Manila General Hospital. Forty-seven patients across three wards, two emergency stabilizations.
 
 Her paycheck would show ₱1,125.
 
@@ -334,45 +334,25 @@ Javi's hands were shaking. He kept them at his sides.
 
 ---
 
-Rosa clicked [Accept].
+Rosa's finger hovered over [Accept].
 
-Biometric confirmation. She pressed her thumb to the screen, held the phone up for the camera. The authorization processed.
+The screen glowed in the dark kitchen. ₱145,000. Lianne's insulin for two years. Marco's therapy intake. Rent paid ahead. The math that would finally work.
+
+She looked at Marco's door. Still closed. Music still playing inside, something with heavy bass.
+
+She thought about the night they came for him. 2 AM. Private security. The residential extraction Ernesto had authorized when Marco stopped responding to interventions. Six months at the facility. He came back different. Quieter. Wouldn't leave his room.
+
+Her thumb was still on the screen.
 
 *Payment processing. Estimated transfer: 2-4 hours.*
 
-She set the phone down. Looked at Marco's door.
+The button waited.
 
-Walked over. Knocked.
+Marco's door stayed closed.
 
-"Marco. I signed another contract. For Lianne. I thought you should know."
+Lianne needed insulin by Friday.
 
-No response. Music playing inside, something with heavy bass.
-
-"I know you're angry pa. I know you blame me. You're right naman. I should have read the contract more carefully talaga. I should have understood what escalated intervention meant. I should have—"
-
-Her voice cracked. She stopped, breathed.
-
-"I'm doing it again na. I don't have choice, eh. Your sister needs insulin. I just wanted you to know lang."
-
-The music didn't stop.
-
-She went back to the kitchen. Opened the pharmacy portal. Added Lianne's insulin refill to her cart. Set delivery for Friday. It wouldn't process the charge until delivery, but by Friday the ₱145,000 would be in her account.
-
-Her phone showed ₱8,240.
-
-Tomorrow it would show ₱153,240.
-
-She'd pay ₱4,800 for insulin, ₱2,000 for monitoring supplies, ₱5,000 into savings for next month's rent, ₱1,500 for Marco's therapy intake appointment (she'd found a place that had availability, seemed decent), ₱800 for groceries, ₱240 for utilities.
-
-That left ₱138,900.
-
-Enough for thirty months of insulin at current prices.
-
-Or until Lianne's pattern deviated from baseline.
-
-Or until CarePath filed breach.
-
-Or until 2 AM.
+Rosa's finger trembled.
 
 ---
 
@@ -403,38 +383,6 @@ And Marco, who wouldn't leave his room.
 Carlos's blue dot was moving. Heading home, like he'd promised.
 
 Javi started the scooter. Rode home through Thursday night traffic, humid air thick even at midnight, three phones mounted on handlebars, thinking about Rico's question: *What happens when Carlos stops responding?*
-
----
-
-Rosa's phone buzzed at 23:47: *Payment processed. ₱145,000 deposited to account ending in 7392.*
-
-She checked her balance: ₱153,240.
-
-Refreshed the page to make sure it was real.
-
-₱153,240.
-
-Lianne was asleep. Marco's door was still closed, music still playing.
-
-She opened the pharmacy portal. Processed the insulin order. Delivery Friday, ₱4,800, confirmed.
-
-Opened her calendar. Found the therapy clinic's contact. Sent an email: *I'd like to schedule an intake appointment for my son Marco, age 17. Insurance is PhilHealth + Manila General employee supplemental. Please let me know available times.*
-
-She opened her privacy settings. Reviewed what she'd just authorized: location tracking, health records, academic records, biometric monitoring, social graph.
-
-Every permission had a toggle. She could revoke them.
-
-But revoking meant breach. Breach meant forfeiting the ₱145,000, plus penalties.
-
-She closed the settings.
-
-Looked at Marco's door.
-
-Wondered if he'd had any idea, at age fourteen, what eighteen percent of his future meant.
-
-Wondered if Lianne understood now, at age eight.
-
-Wondered if it mattered.
 
 ---
 
@@ -486,28 +434,6 @@ Went to bed.
 ---
 
 <!-- we need a 2050 insulin medicine, maybe it lasts all months, so the monthly payment stays. Or maybe it's subscription-based nanotech? -->
-
-Rosa woke up at 06:00 Friday to Lianne's glucose alarm, the electric fan doing nothing against the humid morning air. 64 mg/dL. Below target.
-
-She found Lianne already testing with the finger stick. "How do you feel, anak?"
-
-"Okay lang, Mama. A little shaky."
-
-Juice from the kitchen. Fifteen grams carbs. Fifteen minute wait. Test again: 82 mg/dL. Better.
-
-Eight years old, managing a chronic condition like an adult.
-
-Rosa's phone showed the CarePath notification: *Your specialist will contact you today between 10:00-16:00.*
-
-She made breakfast—pandesal from yesterday, fried egg, Nescafé 3-in-1. Knocked on Marco's door. No answer. Music still playing.
-
-Left for work at 07:15, the morning heat already building.
-
-Her bank account still showed ₱153,240.
-
-The insulin delivery was still scheduled for today, ₱4,800 deducted on delivery.
-
-Everything was fine.
 
 ---
 
@@ -567,32 +493,3 @@ He opened the first file. Looked at the beneficiary's photo—thirteen years old
 
 He closed the file and opened the attribution lending application instead.
 
----
-
-Rosa got the call from CarePath at 11:23.
-
-"Ms. Santos? Angela Reyes, CarePath Medical. I'm Lianne's care coordinator na. Initial consultation—Saturday 15:00 at your residence? Ninety minutes lang. I'll need glucose logs, current regimen, school schedule."
-
-"Okay po."
-
-"I'm sending a pre-consultation form ha. Also, make sure to log Lianne's insulin delivery in the CarePath app today."
-
-"There's an app?"
-
-"Should be on your phone already. CarePath Family Portal. You'll use it to log everything—glucose readings, insulin doses, meals. It syncs with our monitoring system."
-
-Rosa checked her phone: CarePath Family Portal installed automatically. Permissions granted—location, health data, camera, contacts.
-
-"I see it na."
-
-"Perfect. Message me through the app if you have questions ha. 24/7 for emergencies."
-
-The call ended.
-
-Rosa opened the app. TODAY'S TASKS showed four items overdue. She logged the morning glucose reading from memory. Logged the breakfast insulin dose. 
-
-*Thank you for logging! Current streak: 1 day. Keep it up!*
-
-She closed the app.
-
-Went back to work.

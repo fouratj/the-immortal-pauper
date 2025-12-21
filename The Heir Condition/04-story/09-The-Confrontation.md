@@ -7,7 +7,9 @@
 
 Kaelen threw up twice in the bathroom before the meeting.
 
-The second time there was nothing left—just bile and the sour taste of Estonian coffee he couldn't keep down. He gripped the porcelain sink, stared at his reflection. Thirty-two hours without sleep. Stubble. Eyes that looked like someone else's.
+The second time there was nothing left—just bile and the sour taste of Estonian coffee he couldn't keep down. His throat burned. His hands were shaking so badly he had to grip the porcelain sink to stay upright. The bathroom smelled like industrial cleaner and his own fear-sweat.
+
+He stared at his reflection. Thirty-two hours without sleep. Stubble. Eyes that looked like someone else's—red-rimmed, hollow, the eyes of a man who'd murdered his uncle and saved the world and couldn't tell which act would define him.
 
 His phone showed one message from Damon's legal team: *He's here.*
 
@@ -35,9 +37,47 @@ It was his uncle looking at a stranger.
 
 Kaelen's hands shook as he activated the holographic display. Three years of work materialized in the air between them—smart contracts cascading across jurisdictions, patent releases flowing to commons databases, housing trusts dissolving into cost-basis distribution. Color-coded by jurisdiction, time-stamped to the microsecond.
 
-Damon studied it in silence.
+Damon studied it in silence. Not the silence of shock or grief—the silence of an engineer reviewing system diagnostics. His eyes tracked through the cascade visualization, parsing the data flows with the same analytical precision he'd applied to everything for forty years.
 
-"The forty-eight hour window," he said finally. "You knew exactly how long resurrection would take."
+He zoomed into Southeast Asia. Frowned.
+
+"Myanmar's showing 0.3% incomplete."
+
+Kaelen's stomach dropped. "Routing failure through Bangkok. It'll resolve in post-cascade propagation—"
+
+"When did Bangkok go offline?" Damon's voice was sharp now. Not uncle-voice. Systems architect voice.
+
+"I... Hour 41. Temporary outage. The satellite uplink—"
+
+Damon was already pulling up detailed logs, his fingers moving through the holographic interface with muscle memory that transcended bodies. "You routed through commercial satellites. Expensive. Traceable." He paused, reading something that made his jaw tighten. "And you didn't monitor the downstream propagation."
+
+"The redundancy protocols—"
+
+"Failed." Damon pulled up a status window. "Look at the timestamp. Bangkok hub offline 47 minutes ago. Myanmar regional authority flagged the satellite routing as 'irregular transaction pattern.' They've frozen the accounts pending investigation."
+
+Kaelen felt the room tilt. "They can't. The transfers are already—"
+
+"In limbo. Blockchain shows initiated but not confirmed. Myanmar's local II nodes are refusing to validate because the authentication chain looks suspicious—which it is, because you burned through three commercial satellites to bypass a cut fiber line." Damon's voice was clinical. Dissecting a failure. "You have maybe forty minutes before their legal team files a formal challenge. Once that happens, you're looking at six months of litigation. Fourteen million people stuck in legal limbo while lawyers argue about jurisdiction."
+
+"I can—"
+
+"You can't." Damon turned to face him fully. "You don't have authority anymore. The forty-eight hour window closed. You're legally nobody now. Just the former heir who happened to execute some transfers during a narrow legal window that's now closed."
+
+The silence stretched.
+
+"But I do," Damon said quietly. "I'm resurrected. Legally alive. Technically, I never stopped being the primary authority—the death was just a... discontinuity. Estonian inheritance law has a resurrection clause. I can authorize an emergency override."
+
+Kaelen couldn't breathe.
+
+"So that's what you came here for," Damon said. "Not absolution. Not understanding. You came because your revolution is failing and you need me to save it."
+
+"I didn't know—"
+
+"Of course you didn't know. Because you're twenty-six years old and you planned a global economic restructuring with three years of preparation and an AI assistant, and you thought that was enough." Damon's voice was cold. "You know what I would have done? I would have had monitoring systems on every node. Redundancy for the redundancy. Human operators watching the automated systems. Because I've been doing this for forty years and I know that the universe finds the gaps you didn't anticipate."
+
+He pulled up the Myanmar override authorization form. It hung in the holographic display between them, waiting for a signature.
+
+"The forty-eight hour window," Damon said finally. "You knew exactly how long resurrection would take."
 
 "Yes."
 
@@ -99,9 +139,9 @@ Damon laughed. The sound was ugly—nothing like the cultivated chuckle Kaelen h
 
 He threw the thermos.
 
-It hit the wall three feet from Kaelen's head, spraying coffee across the white surface in a pattern that looked disturbingly like blood splatter. The Baltic birch cracked down the middle.
+It hit the wall three feet from Kaelen's head, spraying coffee across the white surface in a pattern that looked disturbingly like blood splatter. The Baltic birch cracked down the middle with a sound like a bone breaking. The smell of Estonian coffee—burnt wood and regret—filled the room.
 
-Kaelen didn't flinch. He'd expected violence. Had prepared for it. Was ready to accept it
+Kaelen didn't flinch. He'd expected violence. Had prepared for it. Was ready to accept it. His heart was hammering so hard he could feel it in his throat, but his body stayed still.
 
 What he hadn't prepared for was what Damon said next.
 
@@ -151,19 +191,29 @@ Kaelen stared at the man who had raised him. Who had taught him chess. Who had h
 
 "I wanted you to understand. And I wanted you to see—I didn't keep any of it. It's already gone. All of it. And I'm leaving. Because if I'd kept it, I'd become you."
 
-"I understand perfectly." Damon walked toward the door. "You saw a systemic inefficiency. You determined the most elegant solution was killing me. You executed the plan with characteristic precision. And now you want my *approval*."
+Damon looked at him for a long moment. Then he turned back to the holographic display. The Myanmar override form still hung there, waiting.
+
+"I understand perfectly," Damon said. "You saw a systemic inefficiency. You determined the most elegant solution was killing me. You executed the plan with characteristic precision." He reached toward the authorization form. "And now fourteen million people are going to suffer because you were too busy feeling guilty to monitor your own cascade."
+
+His finger hovered over the signature field.
+
+"You're not a revolutionary. You're not a liberator. You're a man who murdered his uncle for the greater good and almost failed because you didn't have the competence to match your ideology."
+
+He signed.
+
+The authorization propagated instantly—cryptographic signature verified, legal authority confirmed, emergency override accepted. In Myanmar, frozen accounts would unlock within minutes. Fourteen million transfers would complete. The 0.3% would become 100%.
+
+Damon closed the holographic display with a gesture.
+
+"I just saved your revolution," he said quietly. "Not because you deserve it. Not because I forgive you. But because fourteen million people don't deserve to suffer for your mistakes." He walked toward the door. "You wanted to do this without me. You wanted to prove that the system works better without its architect. And you were right—it does. But you still needed me to finish it."
 
 He stopped with his hand on the doorknob.
 
-"Here's what I understand, Kaelen: you're not a revolutionary. You're not a liberator. You're a man who murdered his uncle for the greater good and needs the murder victim to tell him it was okay. Because if I say it was okay, then you don't have to live with what you did."
+"Here's what you get to live with, Kaelen: You were right about the mathematics. Right about the extraction. Right about everything except your own competence. You needed the man you killed to save the thing you killed him for."
 
 He opened the door.
 
-"I'm not going to give you that. You don't get absolution. You don't get understanding. You get to live with this for the rest of your life, knowing that the man you killed—temporarily, *strategically*—will never forgive you for it."
-
-Damon paused in the doorway.
-
-"Yes," he said. "The systems work. You completed what I started. And I will hate you for it until I die—permanently, this time, whenever I choose to stop extending my existence."
+"That's not absolution. That's not forgiveness. That's just the truth. You completed what I started, and I will hate you for it until I die—permanently, this time, whenever I choose to stop extending my existence."
 
 He looked back over his shoulder.
 
@@ -177,10 +227,14 @@ He didn't move for a long time.
 
 ---
 
-*[Note: This meeting lasted approximately fourteen minutes. Damon Korr departed the building at 2:31 PM and did not speak to Kaelen again for six years. 
+*[Note: This meeting lasted approximately nineteen minutes. Damon Korr departed the building at 2:36 PM and did not speak to Kaelen again for six years. 
+
+The Myanmar emergency override he authorized during this meeting completed successfully at 2:47 PM, enabling 14.2 million transfers that had been frozen by local authorities. This was Damon's first official act following his resurrection—completing the cascade that had killed him.
 
 Three weeks later, on May 14, 2050, Damon released a single-paragraph statement through the Korr Foundation's legal office:
 
 "I am withdrawing all cooperation with litigation efforts seeking to reverse the April 18th modifications. Kaelen's method was criminal. His analysis was correct. I will not use the law to perpetuate extraction that the data proves was unjust. To those harmed by this transition: your losses are real and necessary. That is the tragedy of progress. This is my final public statement."
 
-The lawsuits collapsed within six weeks. When asked in 2058 whether he had forgiven his nephew, Damon replied: "Forgiveness is a category error. What Kaelen did was correct. That doesn't make it forgivable." He chose permanent death three months later. Kaelen Korr disappeared from all records within days of this meeting and has never been located.]*
+The lawsuits collapsed within six weeks. When asked in 2058 whether he had forgiven his nephew, Damon replied: "Forgiveness is a category error. What Kaelen did was correct. That doesn't make it forgivable." He chose permanent death three months later. 
+
+Kaelen Korr disappeared from all records within days of this meeting and has never been located. The Myanmar override remained the only documented case of Damon Korr using his post-resurrection authority—a single signature that completed the revolution designed to eliminate him.]*

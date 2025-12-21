@@ -25,7 +25,7 @@ Damon set down the tablet. His face was unreadable—the expression Kaelen had l
 
 "The proposed fix?"
 
-"Parameter adjustments to the attribution metadata." Tanaka pulled up the next slide. "Three changes: First, raise individual attribution caps from 5% to 15% of calculated uplift. Second, increase inference weight for non-institutional contributions from 0.25x to 0.6x. Third, add minimum worker attribution floors—employers cannot capture more than 70% through contracts."
+"Parameter adjustments to the attribution metadata." Tanaka pulled up the next slide. "Three changes: First, raise individual attribution caps from 5% to 15% of calculated uplift. Second, increase inference weight for non-institutional contributions from 0.25x to 0.6x. Third, add minimum worker attribution floors—employers cannot capture more than 70% through contracts." <!-- let's add a small explanation of diffusion of tokens throughout the economy and how it helps, increase velocity of money blah blah -->
 
 She advanced the slide. "Implementation cost: 0.02% of annual operating budget. Attribution correction across 47 countries affecting approximately 340 million primary laborers. We call it the Bangalore Patch. Test deployment showed workers receiving 35-40% of their calculated contribution instead of 15-20%."
 
@@ -49,37 +49,35 @@ Tanaka hesitated. "Some intermediary institutions would see reduced attribution 
 
 He turned.
 
-"Including the foundational layer itself."
-
 The room was very quiet.
 
-"The patch is technically correct," Damon said. "I don't dispute Dr. Tanaka's analysis. Rosa Dela Cruz probably does deserve more attribution than she receives. The mathematics support that conclusion."
+"The patch is technically correct," Damon said. "I don't dispute Dr. Tanaka's analysis. Rosa Dela Cruz probably does deserve more attribution than she receives. The evidence supports that conclusion."
 
 "Then—"
 
-"But deploying it creates precedent. If we raise individual caps and lower employer capture in Manila, we're admitting the parameters were wrong. Every late-adopter country will demand their own adjustments. Every labor constituency will argue for higher inference weights, lower institutional priority." He walked to the window. "And if institutional attribution is systematically overcredited in Manila—maybe it's overcredited everywhere. Maybe the entire parameter set is wrong."
+"But deploying it creates precedent. Increases risks elsewhere. If we raise individual caps and lower employer capture in Manila, we're admitting the parameters were wrong. Every late-adopter country will demand their own adjustments. Every labor constituency will argue for higher inference weights, lower institutional priority." He walked to the window. "And if institutional attribution is systematically overcredited in Manila—maybe it's overcredited everywhere. Maybe the entire parameter set is wrong."
 
 He turned back. "Including the foundational layer itself."
 
 Tanaka went still.
 
-"The patch is technically correct," Damon repeated. "But it questions the logic that justified these parameters in the first place. The logic that says institutional contribution should be weighted higher than individual contribution. The logic that says the architect of the system deserves perpetual tribute for building it."
+"The patch is technically correct," Damon repeated. "But it questions the logic that justified these parameters in the first place. The logic that says institutional contribution should be weighted higher than individual contribution."
 
 "With respect, sir, the current parameters *are* political. You set them. Unilaterally. In 2033."
 
 Damon's expression didn't change, but something flickered in his eyes.
 
-"And they've produced twenty years of unprecedented global prosperity," he said, voice still gentle. "Imperfect, yes. With edge cases that create genuine hardship—I don't deny that. But stable. Predictable. Optimized within known parameters."
+"And they've produced twenty years of unprecedented global prosperity," he said, voice still gentle. "Imperfect, yes. But stable. Predictable. Optimized within known parameters."
 
 "Rosa Dela Cruz generates ₱40,000 uplift monthly," Tanaka said, voice hardening. "She receives ₱9,000. That's not an edge case. That's 340 million workers being systematically undercompensated because the parameters favor institutional capture."
 
 "The parameters reflect institutional contribution—"
 
-"The parameters reflect *your* contribution estimate from 2033. You decided institutions deserve unlimited claims. You decided individuals cap at 5%. You decided inference gets 0.25x weight." Tanaka took a step forward. "And now I'm asking you—as your Chief Attribution Architect, with the fix already built—to update those parameters. Point-zero-two percent of operating budget. Four hundred twelve lines of metadata. That's all it takes."
+"The parameters reflect *your* contribution estimate from 2033. You decided institutions deserve unlimited claims. You decided individuals cap at 5%. You decided inference gets 0.25x weight." Tanaka took a step forward. "And now I'm asking you—as your Chief Architect, with the fix already built—to update those parameters. Point-zero-two percent of operating budget. Four hundred twelve lines of metadata. That's all it takes."
 
 The silence stretched.
 
-"You can do this," she continued. "Right now. Foundation authority. No governance vote required. Just update the reference parameters and publish. By tomorrow, 340 million workers would see fair attribution. You don't need consensus. You need to type your signature and press commit."
+"You can do this," she continued. "Right now. Foundation authority. No governance vote required. Just update the reference parameters and publish. By tomorrow, 340 million workers would see fairer attribution. You don't need consensus. You need to type your signature and press commit."
 
 Damon picked up the tablet. Handed it back to her.
 
@@ -89,7 +87,7 @@ Damon picked up the tablet. Handed it back to her.
 
 "Which is why I won't set them again." His voice was final. "If you believe these parameters are wrong, Dr. Tanaka, propose changes through the governance process. Submit them to the II Global Council. Build consensus. Get democratic approval. That's how the system is supposed to work."
 
-Tanaka stared at him. "That process takes eighteen months minimum. Rosa Dela Cruz doesn't have eighteen months."
+Tanaka stared at him. "That process takes eighteen months minimum." <!-- let's have a little story about power here. I like how Abraham Lincoln would always respond to a question with a story and an allegory -->
 
 "Then convince the council to expedite." Damon's tone was maddeningly reasonable. "I'm not the bottleneck here. Democratic governance is. And I won't undermine democratic process—even for a good cause—because undermining it *once* destroys its legitimacy forever."
 
