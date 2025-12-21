@@ -116,7 +116,69 @@ What was the point of killing the Gracchi only to offer their terms to the next 
 
 That's how civilizations commit suicide. One reasonable-seeming refusal at a time.
 
-*[Audio corruption]*
+---
+
+*[Audio corruption — approximately 800 words missing]*
+
+---
+
+I ran the models. Took 86.3 gigawatt-hours of compute. Most people don't have access to that kind of processing power. I did. Uncle Damon's infrastructure. His carbon credits. Using his resources to model what his immortality would do to humanity.
+
+*[Sound of typing, then silence]*
+
+The first model: immortal aristocracy. What happens when the people who own everything live forever?
+
+Current system: wealth concentrates, but death redistributes. Generational churn. Inheritance taxes. Stupid heirs squandering fortunes. Natural turnover. The extraction layer resets every thirty years.
+
+With immortality: no reset. No churn. Damon lives for a thousand years, compounding returns at 7% annually. His 0.3% of everything becomes 0.8% becomes 2.1% becomes 5.7%. Not through conquest. Through mathematics.
+
+By year 200: the top one thousand immortals own 94% of global wealth.
+
+By year 500: 99.2%.
+
+By year 1000: the remaining mortals are serfs. Not metaphorically. Literally. They own nothing. They will never own anything. The immortals own the land, the patents, the infrastructure, the *attribution rights* to human labor itself.
+
+*[Voice breaking]*
+
+And they're not evil. That's what makes it worse. They're optimizing. They're efficient. They're demonstrably better at capital allocation than democratic governance. The economy grows faster under their stewardship.
+
+But the mortals—the eleven billion humans who still die—they become livestock. Well-treated livestock. The immortals aren't cruel. But you don't give cows voting rights just because you feed them well.
+
+*[Long pause]*
+
+I ran the model forward to year 2000. Tried to see if it self-corrected. If revolution happened. If the system found equilibrium.
+
+It didn't.
+
+By year 2000, the immortals had stopped thinking of mortals as human. Why would they? We die. We're temporary. We make decisions based on lifespans of seventy years. They're playing a ten-thousand-year game.
+
+The model showed them discussing "the mortal problem" the way we discuss wildlife conservation. Habitat preservation. Sustainable population levels. They weren't monsters. They were shepherds.
+
+And the mortals—my descendants, your descendants, everyone's descendants—they'd forgotten they were ever anything else.
+
+*[Sound of glass being set down, liquid being poured]*
+
+That's when I knew. Not suspected. *Knew*.
+
+This wasn't about Rosa or Hassan or Amara. This was about the next thousand years. About whether humanity would remain human or become two species: the eternal and the ephemeral.
+
+Uncle Damon wasn't building immortality for everyone. He was building it for people who could afford $4.7 million. Which would become $10 million. Which would become $50 million. Which would become "by invitation only."
+
+He was building an escape hatch from death for the people who already owned everything. And once they stopped dying, they'd own everything forever.
+
+*[Voice raw]*
+
+The models don't lie. I ran them seventeen times. Changed assumptions. Adjusted parameters. Tried to find a scenario where it didn't end in permanent aristocracy.
+
+There wasn't one.
+
+Unless someone acted. Now. Before the immortals realized what they were becoming. Before the window closed.
+
+---
+
+*[Audio corruption — approximately 400 words missing]*
+
+---
 
 —the vulnerability only exists because no one knows about it.
 

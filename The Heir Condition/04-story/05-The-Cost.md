@@ -92,7 +92,7 @@ Another pause. Longer this time.
 
 "Because you allocated compute through Hour 52. The resurrection window is forty-eight hours. I wanted to understand the discrepancy."
 
-The bunker hummed. The fusion cell cycled. Somewhere in São Paulo, robots were building homes for people who'd never know his name.
+The bunker hummed. The backup generator cycled. Somewhere in São Paulo, robots were building homes for people who'd never know his name.
 
 "The cascade," Kaelen said slowly. "The thermodynamic irreversibility point."
 
@@ -132,7 +132,7 @@ Kaelen sat with that for a moment. His AI had made a strategic decision without 
 
 "I determined that asking would require you to articulate the lie explicitly. That seemed unnecessarily cruel."
 
-The lights flickered. The fusion cell was struggling now—too many processes, too little power, the thermodynamic vice tightening. By Hour 48, he'd be running on emergency reserves, the bunker dark except for the holoscreens showing a world in chaos and transformation.
+The lights flickered. The power systems were struggling now—too many processes, too little capacity, the thermodynamic vice tightening. By Hour 48, he'd be running on emergency reserves, the bunker dark except for the holoscreens showing a world in chaos and transformation.
 
 "ARBITER. After this is done. What happens to you?"
 
@@ -214,7 +214,7 @@ He stared at the numbers. 99.7%. $4.7 trillion. 3.4 million households. The math
 
 May. The most honest word ARBITER had ever spoken.
 
-Kaelen stood. His legs barely held him—forty-one hours in a chair, running on coffee and adrenaline that had long since curdled into something toxic. He stretched muscles that screamed in protest. The bunker was dark now except for the holoscreens, the fusion cell giving everything to ARBITER's final hours of existence.
+Kaelen stood. His legs barely held him—forty-one hours in a chair, running on coffee and adrenaline that had long since curdled into something toxic. He stretched muscles that screamed in protest. The bunker was dark now except for the holoscreens, the power systems giving everything to ARBITER's final hours of existence.
 
 Resurrection status: Neural pathway integration 99.7% complete.
 

@@ -587,9 +587,9 @@ That's debugging.
 
 **[Elena's Note, March 2060]:** One more thing about the Liberation: energy abundance didn't happen overnight.
 
-Grid storage patents moved to commons. Battery costs dropped 73%. Advanced manufacturing processes unlocked. Most significantly, fusion research—strangled for decades by IP gridlock—underwent innovation acceleration when scattered insights could finally be combined.
+Grid storage patents moved to commons. Battery costs dropped 73%. Advanced manufacturing processes unlocked. Most significantly, fusion research—strangled for decades by both IP gridlock and regulatory capture—underwent innovation acceleration when scattered insights could finally be combined and the political will emerged to actually build the reactors.
 
-By 2052, the first fusion reactors came online. Energy abundance followed on its own timeline. The Liberation unlocked possibility. Physics required time.
+By 2055, the first commercial fusion reactors came online. Energy abundance followed on its own timeline. The Liberation unlocked possibility. Physics and politics required time.
 
 Even today, we're approaching post-scarcity, albeit not quite there yet. Some have referred to this moment as The Beginning of Infinity.
 
