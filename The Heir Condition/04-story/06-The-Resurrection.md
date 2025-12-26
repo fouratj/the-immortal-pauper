@@ -39,7 +39,7 @@ Damon Korr opened his eyes.
 
 "Resurrection successful, Mr. Korr." Dr. Chen replied, though her tone carried none of the celebration she'd imagined during her PhD defense five years ago when she'd dreamed about this exact moment—bringing someone back from actual, certified death. "All cognitive and physical parameters nominal. Microtubule quantum coherence stable at ninety-seven point six percent, which is actually higher than your baseline from the last backup. Synaptic integration complete. The Penrose-Hameroff orchestrated reduction patterns match your archived consciousness within point-zero-three standard deviations." She paused, realizing she was babbling technical details because she didn't know what else to say to someone who'd just returned from death. "Welcome back."
 
-Damon sat up slowly, examining his hands with the fascination of someone inhabiting a familiar yet foreign body. The skin was too smooth. No calluses, no age spots, no accumulated history. The fingers moved with a slight delay—not lag, exactly, but the microsecond gap between intention and execution that came from consciousness still calibrating to unfamiliar neural pathways.
+Damon sat up slowly, and the new body responded with perfect precision. But something felt wrong. He examined his hands—smooth, unmarked, perfect. No callus on his right index finger. No scar on his left palm. No age spots. The fingers moved with a slight delay—not lag, exactly, but the microsecond gap between intention and execution that came from consciousness still calibrating to unfamiliar neural pathways.
 
 Everything felt *new*. The air was too cold on his skin. The resurrection table was too hard beneath him. His mouth tasted like copper and antiseptic, though he knew that was impossible—this body had never tasted anything. The sensations were memories, phantom experiences his consciousness was projecting onto virgin nerve endings.
 
@@ -49,17 +49,19 @@ He flexed his hands. The joints moved smoothly, without the subtle ache he'd gro
 
 "Forty-eight hours, twelve minutes." Dr. Chen paused. "Complete cellular failure occurred at eleven fifty-five AM during your global address. We had to restore from your backup archive rather than maintain continuous awareness through the death process."
 
-Damon nodded, processing the information with characteristic analytical detachment. "So I have no memory of dying."
+Damon nodded, processing the information with characteristic analytical detachment. But the nod felt wrong—the muscles in his neck responding differently than they should. "So I have no memory of dying."
 
 "None." Dr. Martinez confirmed. "Last routine backup was seventy-two hours prior—weekly archival. But you created a ceremony-specific backup at eleven hundred hours this morning. Forty-seven minutes before taking the stage."
 
-Damon's eyes narrowed slightly. "So the temporal gap is minimal."
+Damon's eyes narrowed slightly. The gesture felt unfamiliar—the muscles around his eyes responding with the precision of a new body, not the accumulated wear of fifty-two years. "So the temporal gap is minimal."
 
 "Correct. Forty-seven minutes of memory missing. Everything from final preparation through the collapse itself—we reconstructed from external records and neural pathway analysis."
 
 "Show me."
 
 Dr. Chen activated a holographic display showing edited footage from the global broadcast: Damon declaring his immortality, positioning himself as humanity's permanent steward, then collapsing eighteen minutes into the most-watched speech in history. The watching Damon observed his own death with the dispassionate attention of a technician reviewing system failure logs.
+
+But watching himself die felt strange in this new body. The old body would have responded with familiar tension—muscles remembering stress, heart rate patterns recognizing crisis. This body felt nothing. It was watching a stranger die.
 
 "Cause of death?" he asked, with the mild curiosity of someone reviewing a technical specification rather than their own mortality.
 
@@ -81,7 +83,7 @@ Damon was silent for a moment. His expression didn't change, but something flick
 
 Dr. Chen made a note. "We should probably—"
 
-"Later." Damon rose from the resurrection table, accepting clothes from a technician. His movements carried the same confident precision, but his jaw had tightened almost imperceptibly.
+"Later." Damon rose from the resurrection table, accepting clothes from a technician. His movements carried the same confident precision, but his jaw had tightened almost imperceptibly. The clothes felt wrong against his skin—fabric that should have been familiar, but this body had never worn them before.
 
 "Investigation status?"
 
@@ -118,6 +120,10 @@ From the gallery, a board member asked, "What about additional security measures
 Dr. Chen hesitated. "Mr. Korr, implementing those protocols will require immediate payment authorization. Shall I process the additional charges?"
 
 "Of course," Damon replied automatically. "Execute immediately."
+
+He tried to stand, and the new body responded with the slight hesitation of consciousness calibrating to unfamiliar substrate. His legs felt wrong—too strong, too responsive, no accumulated wear. He'd spent fifty-two years in a body that remembered every step, every ache, every moment of use. This body remembered nothing.
+
+He looked down at his hands again. Smooth. Perfect. Optimized. He flexed his fingers. Felt nothing. No ache, no memory, no connection to the life he'd lived.
 
 Dr. Chen's tablet chimed softly, then displayed an error message. She frowned, tried again, then looked up with confusion and growing alarm. "Sir, the payment authorization is triggering an identity verification paradox. The blockchain recognizes you as simultaneously legally dead—inheritance transfer completed—and biometrically alive—resurrection verified. Your accounts are locked in recursive loops." She paused, studying the cascading error messages. "The system is trying to process dead-person-inherits-from-themselves, which creates infinite ownership transfers. The original Estonian inheritance protocol included a 'resurrection clause'—not because anyone expected actual resurrection, but because the law required accommodation for theoretical wrongful death reversals. When your biometrics reactivated, it triggered an edge case that's preventing authentication across all your accounts."
 
@@ -160,6 +166,26 @@ His eyes widened fractionally—the only outward sign of the realization hitting
 A pause as the full architecture of the attack became clear. "He needed me alive afterward. Dead permanently, I become a martyr and the system might reverse everything. Alive and resurrected?" Damon's laugh was hollow. "I validate that consciousness transfer works while simultaneously proving my own obsolescence. Brilliant."
 
 He turned toward the gallery, his gaze taking in each witness. "It appears I have a nephew to visit."
+
+Before leaving, Damon paused at the resurrection table. He looked at his hands one more time—smooth, perfect, optimized. A body that had never lived.
+
+"Dr. Chen," he said, still looking at his hands. "The clones. Do they preserve calluses?"
+
+Dr. Chen frowned. "Calluses, sir?"
+
+"Physical markers. Scars. Age-appropriate wear. The accumulated evidence of living."
+
+"No, sir. The clones are optimized to peak physical condition. Age thirty-five, no accumulated wear, no physical history. That's the standard protocol."
+
+Damon flexed his fingers again. Nothing. "Modify the protocols. I want the next body to remember."
+
+"Remember what, sir?"
+
+"The life it's lived." He looked up. "Even if it means imperfection."
+
+Dr. Chen made a note. "I'll modify the protocols. But it will take time to develop the preservation methods."
+
+"Time is fine." Damon looked at his hands one more time. Smooth. Perfect. Optimized. A body that had never lived. "I have time now."
 
 At 5:14 PM Pacific Time, one hour and twenty-seven minutes after his first successful resurrection, Damon Korr approached the BioGenesis facility's exit. The biometric scanner hesitated for a moment—his genetic signature identical but carrying trace quantum signatures from the resurrection process that required additional verification—before accepting his identity on the second attempt. The brief delay was subtle but telling.
 

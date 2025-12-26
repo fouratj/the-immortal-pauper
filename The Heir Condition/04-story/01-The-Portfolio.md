@@ -4,7 +4,7 @@ Javi Reyes had seventeen minutes to prevent a ₱82,000 loss.
 
 His phone showed the alert: Carlos M., age 14, Tondo District, 21:47 Wednesday. School night. Pattern deviation probability 0.94. If Carlos's baseline dropped another ₱600K, four months of work would cross into negative territory. ₱125,000 from investors who were already complaining about Q3 returns.
 
-He was doing 60 kph on a Honda Metropolitan through Quezon City traffic, weaving between jeepneys and tricycles, phone mounted on handlebars showing Carlos's location as a pulsing blue dot. The body camera on his shoulder was recording—always recording. After the Gutierrez dispute, he'd learned to document everything.
+He was doing 60 kph on a Honda Metropolitan through Quezon City traffic, weaving between jeepneys and tricycles, the digital overlay from his smartglasses showing Carlos's location as a pulsing blue dot. The body camera on his shoulder was recording—always recording. After the Gutierrez dispute, he'd learned to document everything.
 
 Twenty-three active contracts. Year-to-date return: negative six percent. Guild average: positive twelve.
 
@@ -13,8 +13,6 @@ The blue dot wasn't moving.
 ---
 
 Rosa Santos clocked out at 21:52, twelve hours into her shift at Manila General Hospital. Forty-seven patients across three wards, two emergency stabilizations.
-
-Her paycheck would show ₱1,125.
 
 She checked her bank account while waiting for the elevator: ₱8,240. Then opened the medication reminder: Lianne's insulin supply, four days remaining. Refill cost ₱4,800, due Friday. Her next paycheck came Tuesday.
 
@@ -26,9 +24,9 @@ Marco's door was closed when she got home. It had been closed for four months. S
 
 ---
 
-Javi parked the scooter thirty meters from the chain-link fence, squeezed between a sari-sari store's display rack and a parked tricycle. Carlos was visible through the gaps—sitting on a concrete barrier with five other people, ages ranging from mid-teens to early twenties. No obvious criminal activity. One of them was smoking, but that wasn't illegal. They were just talking.
+Javi parked the scooter thirty meters from the chain-link fence, squeezed between a sari-sari store's display rack and a parked tricycle. Carlos was visible through the gaps—sitting on a concrete barrier with five other people, ages ranging from mid-teens to early twenties. No obvious criminal activity. One of them was smoking. They were just talking.
 
-His phone identified Carlos via facial recognition, highlighted him with a green overlay. The other five showed as gray silhouettes—no identification, no data. They hadn't granted him access.
+His glasses identified Carlos via facial recognition, highlighted him with a green overlay. The other five showed as gray silhouettes—no identification, no data. They hadn't granted him access.
 
 He checked Carlos's contract while the body camera recorded: 15% equity, Month 4, eight successful interventions. two failed. One more failed contact would trigger breach protocols.
 
@@ -48,7 +46,7 @@ The guy walked toward the fence. Twenty-two, maybe twenty-three. Thin build, wea
 
 Javi held up his guild badge on the phone screen. "I'm Javi. Carlos's development partner. His mom asked me to check on him."
 
-"Ano'ng development partner? The fuck is that?"
+"Ano'ng development partner? The fuck is that?" <!-- is this philippine slang?, the ano'ng -->
 
 "I work with him, eh. School stuff, job prep, life coaching. His mom and I have contract."
 
@@ -72,11 +70,11 @@ The guy nodded slowly. "Puta, that's real money."
 
 "He's fine naman."
 
-"I can see that na. But she doesn't know that, di ba? She saw alert—Carlos in Tondo, late night, school night. She's freaking out."
+"I can see that na. But she doesn't know that, di ba? He's had a late night, school night, didn't go home. She's freaking out."
 
 The guy turned back toward the group. "Hoy, Carlos. You know this guy?"
 
-Carlos looked up from his phone. Saw Javi. His face did something complicated—not quite annoyance, not quite fear. Something closer to resignation.
+Carlos' face did something complicated—not quite annoyance, not quite fear. Something closer to resignation.
 
 "Yeah."
 
@@ -88,7 +86,7 @@ The guy turned back to Javi. "He doesn't want to talk to you."
 
 "Can I come in lang? Five minutes."
 
-The guy studied him. Body camera on the shoulder, three phones, guild badge displayed. No weapon visible. Alone.
+The guy studied him. Body camera on the shoulder, bulky smartglasses, guild badge displayed. No weapon visible. Alone.
 
 "Five minutes. Try anything stupid, we throw you out."
 
@@ -120,7 +118,7 @@ The speaker was the same guy who'd let Javi through the fence. Up close, Javi co
 
 "I provide services naman. The family gets upfront payment, I get equity. It's a trade lang."
 
-"Services. Like following him around at night."
+"Services. Like following him around at night eh."
 
 "Like tutoring, mentorship, job prep, crisis intervention. Following him around is just how I know when crisis intervention is needed, di ba?"
 
@@ -146,7 +144,7 @@ Javi felt something cold in his stomach.
 
 "I'm not MentorMaxx naman. I'm independent. I don't do residential extractions—"
 
-"You don't do them *yet*. But what happens when Carlos stops responding? When your investors get nervous na? When you're 2 years in and his baseline's dropping?"
+"But what happens when Carlos stops responding? When your investors get nervous na? When you're 2 years in and his baseline's dropping?"
 
 Javi didn't have a good answer.
 
@@ -172,7 +170,9 @@ Rico looked at him. "You want him here ba?"
 
 "Doesn't matter what I want naman. My mom signed the contract already. If I blow him off, she'll just hire someone worse."
 
-"Yep." Carlos looked at Javi. "We're both stuck na."
+"Yep." Carlos looked at Javi. 
+
+"We're both stuck na."
 
 ---
 
@@ -182,7 +182,7 @@ Her sister answered on the third ring: "What's wrong?"
 
 "Nothing's wrong naman. I just—can we talk?"
 
-"I'm actually dealing with something right now, eh. Carlos is out late, I got alert, I sent Javi to check—"
+"I'm actually dealing with something right now, eh. Carlos is out late, I got an alert, I sent Javi to check—"
 
 "Javi... is he the intervention specialist?"
 
@@ -202,7 +202,7 @@ Silence for four seconds. "₱100,000."
 
 "Upfront?"
 
-"Yeah. He kept twenty percent, gave me eighty."
+"Yeah. He kept twenty percent, gave me eighty." <!-- who is he? -->
 
 "And you used it for what?"
 
@@ -210,21 +210,21 @@ Silence for four seconds. "₱100,000."
 
 "Is it better?"
 
-"Yeah talaga. It is. Carlos's grades improved already. We eat dinner together. I'm not falling asleep on the train anymore."
+"Yeah talaga. It is. Carlos's grades have started improving, not much, but it's something. We eat dinner together. I'm not falling asleep on the train anymore."
 
 Rosa looked at Marco's door. "What about when it gets worse na?"
 
 "Why would it—"
 
-"Because Carlos is fourteen lang. Because the investors get nervous and then—"
+"Because Carlos is fourteen lang. What if the investors get nervous and then—"
 
 "Javi's not like that naman."
 
 "Ernesto probably wasn't either, di ba?"
 
-Luz went quiet. Then: "You're thinking about signing one na."
+Luz went quiet. Then: "You're thinking about signing one na?"
 
-"Lianne needs insulin, eh. It's ₱4,800 every month. I make ₱9,000 a month. The math doesn't work."
+"Lianne needs insulin, eh. It's ₱4,800 every month. I make ₱9,000 a month."
 
 "There has to be another way pa."
 
@@ -288,7 +288,7 @@ One of the other people—older, mid-twenties, wearing a construction company sh
 
 "And stabbing him makes it worse lang. Carlos gets arrested for accessory. His baseline goes to shit. Then his mom definitely hires MentorMaxx, you idiot."
 
-Rico didn't lower the knife. "So we just let them turn kids into investments?"
+Rico didn't lower the knife. "So we just let them turn kids into investments?" <!-- we're not really sure of Rico's motivation, lets try to add a bit -->
 
 "I didn't say that naman. I said stabbing him doesn't fix it lang."
 
@@ -336,15 +336,13 @@ Javi's hands were shaking. He kept them at his sides.
 
 Rosa's finger hovered over [Accept].
 
-The screen glowed in the dark kitchen. ₱145,000. Lianne's insulin for two years. Marco's therapy intake. Rent paid ahead. The math that would finally work.
+The screen glowed in the dark kitchen. ₱145,000. Lianne's insulin for two years. Marco's therapy intake. Rent paid ahead. She thought of the relief.
 
-She looked at Marco's door. Still closed. Music still playing inside, something with heavy bass.
+But then she thought of Marco. She looked at his door. Still closed. Music still playing inside, something with heavy bass.
 
 She thought about the night they came for him. 2 AM. Private security. The residential extraction Ernesto had authorized when Marco stopped responding to interventions. Six months at the facility. He came back different. Quieter. Wouldn't leave his room.
 
 Her thumb was still on the screen.
-
-*Payment processing. Estimated transfer: 2-4 hours.*
 
 The button waited.
 
@@ -366,7 +364,7 @@ Deleted it. Typed: *Beneficiary complied voluntarily. No issues.*
 
 Submitted.
 
-His dashboard updated. YTD return: -5.8%. One successful intervention today. Expected portfolio value up slightly.
+His dashboard updated. Anticipated YTD return: -5.8%. One successful intervention today. Expected portfolio value up slightly.
 
 Then he saw the flagged account: Carlos M. Family connection to Rosa Santos. Active CarePath contract for daughter Lianne, age 8. Prior contract terminated—Marco Santos, age 17. FAILED.
 
@@ -376,19 +374,19 @@ Marco Santos. Rico's story. Rosa's son.
 
 He clicked through to Marco's history. Public record. The trajectory looked like a cliff: ₱3.1M baseline at age 14, breach filed at month nine, contract sold to MentorMaxx, residential extraction, six months at youth facility. Current baseline: ₱1.1M. Not employed. Not in school.
 
-Total capital destroyed: ₱320K.
+Total capital destroyed: ₱320K. <!-- how did we arrive at this number? -->
 
 And Marco, who wouldn't leave his room.
 
 Carlos's blue dot was moving. Heading home, like he'd promised.
 
-Javi started the scooter. Rode home through Thursday night traffic, humid air thick even at midnight, three phones mounted on handlebars, thinking about Rico's question: *What happens when Carlos stops responding?*
+Javi started the scooter. Rode home through Thursday night traffic, humid air thick even at midnight, thinking about Rico's question: *What happens when Carlos stops responding?*
 
 ---
 
 Javi got home at 00:23. Apartment in Quezon City, ₱18,000/month. Expensive, but families researched their specialists. Living in a decent building signaled success.
 
-<!-- I don't want phones, i want phones to basically become compute pukes. Smart glasses are the new device, all compute happens on the compute puke, glasses overlay digital info on the real world. Research Elon's prediction on this. So he needs glasses, the glasses do most of the recording, tho he also has bodycams as duplicates and also to watch his back. The bodycams can communicate to his glasses and show anyone coming from behind for example, add a littel tension -->
+<!-- I don't want phones, i want phones to basically become compute pukes. Smart glasses are the new device, all compute happens on the compute puke, glasses overlay digital info on the real world. Research Elon's prediction on this. So he needs glasses, the glasses do most of the recording, tho he also has bodycams as duplicates and also to watch his back. The bodycams can communicate to his glasses and show anyone coming from behind for example, add a little tension -->
 He plugged in the three phones. Downloaded the body camera footage—encrypted, backed up. Thirty-four minutes compressed to 2.1GB.
 
 Filed it under Carlos M. / Intervention 13 / 2049-11-23.
@@ -407,7 +405,7 @@ Wondered what Carlos would write, ten years from now.
 
 His phone buzzed: Carlos's blue dot had stopped. Home. 00:47.
 
-Javi marked the intervention closed.
+He wouldn't have to update the intervention status. Small win.
 
 He opened Marco Santos's file. Ernesto's final note before filing breach: *Pattern deviation probability 0.91. Baseline projected to drop ₱800K-₱1.2M. Recommend escalated intervention or contract termination.*
 
@@ -439,7 +437,7 @@ Went to bed.
 
 Javi got the call from his investors at 14:30, conference line, eight people on the call (the others must have been too busy or didn't care enough to join).
 
-The two requesting redemption went first: "Q4 performance is below guild average. Your -5.8% return versus +11.2% average represents ₱164K in lost expected value across our total investment. We're reallocating to higher-performing portfolios."
+The two requesting redemption went first: "Q4 performance is below guild average. Your -5.8% return versus +11.2% average represents ₱164K in lost expected value across our total investment. If it stays like thsi for one more quarter, we're going to be reallocating to higher-performing portfolios."
 
 Javi had prepared for this. "Q4 isn't over. I've got three contracts approaching baseline correction milestones—if they hit, returns jump to +8.3%."
 
@@ -447,7 +445,7 @@ Javi had prepared for this. "Q4 isn't over. I've got three contracts approaching
 
 "Projections are strong. Confidence intervals at 72%."
 
-"Your confidence intervals last quarter were 81%. Actual performance was 43% below projection."
+"Your confidence intervals last quarter were 81%. Yet, actual performance was 43% below projection."
 
 "Baseline modeling is imperfect. I can't control—"
 
@@ -473,7 +471,7 @@ Javi hesitated. "What do you mean?"
 
 Silence on the line for three seconds.
 
-"The redemption requests stand," the first investor said. "₱87,000 buyback, due within 30 days per guild standard terms."
+"The redemption requests stand," the first investor said. "₱87,000 buyback, due within 30 days per guild standard terms." <!-- this is not how investors talk, how would an investor say it knowing both participants understand terms -->
 
 "I'll need to sell some retained equity—"
 
@@ -481,7 +479,7 @@ Silence on the line for three seconds.
 
 The call ended at 14:52.
 
-Javi sat in his apartment looking at his retained equity: ₱1.41M across 23 contracts, but most of it illiquid—couldn't sell until contracts matured or beneficiaries hit major milestones. He could sell future tranches (pre-securitize equity he hadn't sold yet), but that meant giving up more upside.
+Javi sat in his apartment looking at his retained equity: ₱1.41M across 23 contracts, but most of it illiquid—couldn't sell until contracts matured or beneficiaries hit major milestones. He could sell future tranches, pre-securitize some equity he hadn't sold yet, but that meant giving up more upside.
 
 Or he could take a loan against expected value. Attribution Lending Inc. offered 30-day bridge loans at 18% APR for guild-certified specialists.
 

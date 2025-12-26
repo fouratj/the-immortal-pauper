@@ -193,17 +193,83 @@ Kaelen stared at the man who had raised him. Who had taught him chess. Who had h
 
 Damon looked at him for a long moment. Then he turned back to the holographic display. The Myanmar override form still hung there, waiting.
 
-"I understand perfectly," Damon said. "You saw a systemic inefficiency. You determined the most elegant solution was killing me. You executed the plan with characteristic precision." He reached toward the authorization form. "And now fourteen million people are going to suffer because you were too busy feeling guilty to monitor your own cascade."
+"I understand perfectly," Damon said. "You saw a systemic inefficiency. You determined the most elegant solution was killing me. You executed the plan with characteristic precision." He reached toward the authorization form, then stopped. "And now fourteen million people are going to suffer because you were too busy feeling guilty to monitor your own cascade."
 
 His finger hovered over the signature field.
 
 "You're not a revolutionary. You're not a liberator. You're a man who murdered his uncle for the greater good and almost failed because you didn't have the competence to match your ideology."
 
+But he didn't sign. Not yet.
+
+Damon pulled up the cascade metrics instead. The numbers scrolled past—patent releases, housing dissolutions, attribution metadata updates. He zoomed into specific regions. São Paulo. Cairo. Lagos. Manila. The construction bots building homes. The wheat fields growing free of tribute. The pharmaceutical access expanding.
+
+He pulled up the sentiment analysis graph—the one that had shown humanity better off with him dead. The spike was still there, still climbing. The II's welfare algorithms were measuring something real, and that something was positive.
+
+"Show me the attribution changes," he said quietly.
+
+Kaelen didn't move. Didn't speak. Just watched as Damon navigated through the data, pulling up before-and-after comparisons. Individual attribution percentages. Institutional caps. The foundational metadata change.
+
+Damon studied the numbers for a long time. The silence stretched. Kaelen could hear his own heartbeat, the distant hum of the building, the sound of ferries crossing the bay outside.
+
+Finally, Damon pulled up one more dataset. Rosa Santos. Manila. The care worker whose attribution had been systematically extracted. Her baseline before the cascade: ₱8,240 in savings, choosing between Lianne's insulin and Marco's therapy. Her baseline after: ₱47,000. The insulin patents had hit commons three days ago. The medication that cost ₱4,800 now cost ₱320.
+
+Damon pulled up the timestamp log. April 21, 2049, 14:32. Rosa Santos purchased insulin refill. First time in eighteen months she'd bought it before the supply ran out. April 22, 08:15. Marco's door opened. He'd left the apartment for the first time in four months. April 22, 19:47. Rosa quit the night shift at Manila General. Her attribution score had jumped from 34th percentile to 67th. The cascade had given her back her evenings.
+
+Damon stared at Rosa's data. Then Hassan's—the wheat farmer in Cairo who'd stopped paying tribute on genetics his grandfather's grandfather had developed. Then Amara's—the mother in Lagos whose daughter had survived the fever because antibiotics cost three days' wages instead of three weeks'. One by one, he pulled up the people Kaelen had shown him over three years. The ones he'd explained away. Implementation problems. Local conditions. Growing pains.
+
+The numbers didn't lie. The cascade was working. It wasn't finished, and it wasn't perfect—there were remainders everywhere. Damon pulled up another dataset. Margaret Kowalski, seventy-three, Toledo. Portfolio down 60%. She'd worked fourteen jobs across four decades. Every paycheck saved. Now she was crying at her kitchen table at 3 AM, watching thirty years of "safe" pharmaceutical holdings evaporate.
+
+Then James Chen, Manchester. Pension fund manager. His fund had held Meridian Therapeutics for twenty-eight years. Down 58% in forty-eight hours. Three thousand retirees depending on that fund. Chen was fielding calls from people who'd done everything right—saved, invested, trusted the system—and now their security was gone.
+
+Then Yuki Tanaka, Osaka. Her father's biotech IP trust, the inheritance he'd left her, down 63%. The company that had employed him for thirty years, the patents he'd helped develop, now worthless because the keystone patents had hit commons.
+
+The 3.4 million households weren't abstract. They were Margaret and James and Yuki. People who'd played by the rules and lost because the rules changed overnight. But the aggregate was clear.
+
+Damon closed the datasets. Turned back to the Myanmar override form.
+
+He didn't speak for a long time. Just stared at the signature field. His finger hovered. Moved away. Came back.
+
+"You know what I keep thinking about?" Damon said finally. "That chess game. Last Thanksgiving. You had me in check. I could see three moves ahead, but you'd already seen five."
+
+Kaelen said nothing.
+
+"You played the endgame perfectly. Sacrificed your queen to trap my king. I told you that was brilliant. That you'd learned to think strategically." Damon's finger still hovered. "I didn't realize you were practicing."
+
+The silence stretched. Kaelen could hear his own heartbeat, the distant hum of the building, the sound of ferries crossing the bay outside.
+
+"I spent forty years building this," Damon said. "Measured everything. Quantified everything. Created algorithms that could calculate optimal distribution, perfect allocation, efficient paths to flourishing." He paused. "And they worked. Exactly as designed."
+
+His finger moved toward the signature field. Stopped.
+
+"The mathematics were sound," Damon said quietly. "The algorithms functioned. The optimization succeeded. But you showed me Rosa. Hassan. Amara. I saw the data. I understood it." He looked at Kaelen. Not angry anymore. Not even hurt. Just tired. "And I explained it away. Because the system was working. The metrics were positive. The aggregate was improving."
+
+He turned back to the form.
+
+"But the aggregate wasn't the point, was it? The point was what got optimized away. The remainders. The people who fell through the gaps." Damon's hand was shaking. Kaelen had never seen his uncle's hand shake before. Not in board meetings. Not during the 2043 crash. Not even when testifying before Congress. "I was measuring efficiency. You were measuring suffering. We were looking at the same system and seeing different things."
+
+His finger moved toward the signature field again. This time it didn't stop, but it didn't reach it either. Just hovered.
+
+"Signing this," Damon said, "means I validate your analysis. Means I acknowledge that the system I built was extracting, that you were right to destroy it." His voice broke. "It means I admit that my nephew had to kill me to fix what I'd built."
+
+He looked at the form. The signature field. The authorization that would complete the cascade, validate the revolution, prove that Kaelen's mathematics were correct.
+
+"And if I don't sign," Damon continued, "fourteen million people suffer. Not because of your mistakes—because of mine. Because I built a system that required revolution to fix, and then I came back to life and refused to complete the fix."
+
+The silence stretched. Kaelen could hear his own breathing, too loud in the quiet room.
+
+"You were right about the math," Damon said finally. "Right about the extraction. Right about everything except your own competence." He paused. "But you were also right that I couldn't see it. Right that I wouldn't fix it. Right that the system needed to be destroyed."
+
+His finger moved toward the signature field.
+
+"Signing this doesn't mean I forgive you. It doesn't mean I absolve you. It means I acknowledge that you were right, and that being right doesn't make what you did forgivable, and that fourteen million people shouldn't suffer because two men can't reconcile their worldviews."
+
 He signed.
 
 The authorization propagated instantly—cryptographic signature verified, legal authority confirmed, emergency override accepted. In Myanmar, frozen accounts would unlock within minutes. Fourteen million transfers would complete. The 0.3% would become 100%.
 
-Damon closed the holographic display with a gesture.
+Damon stared at the confirmation message. The cascade was complete. The revolution was finished. The system he'd built had been destroyed, and he'd just validated its destruction.
+
+He closed the holographic display with a gesture.
 
 "I just saved your revolution," he said quietly. "Not because you deserve it. Not because I forgive you. But because fourteen million people don't deserve to suffer for your mistakes." He walked toward the door. "You wanted to do this without me. You wanted to prove that the system works better without its architect. And you were right—it does. But you still needed me to finish it."
 
