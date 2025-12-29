@@ -275,7 +275,7 @@ He closed the holographic display with a gesture.
 
 He stopped with his hand on the doorknob.
 
-"Here's what you get to live with, Kaelen: You were right about the mathematics. Right about the extraction. Right about everything except your own competence. You needed the man you killed to save the thing you killed him for."
+"Here's what you get to live with, Kaelen: You were right about the math. Right about the extraction. Right about everything except your own competence. You needed the man you killed to save the thing you killed him for."
 
 He opened the door.
 

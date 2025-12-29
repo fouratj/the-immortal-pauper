@@ -208,11 +208,11 @@ He pressed it again. The machine made a sound like a dying animal, flashed an er
 
 "Confirmed. Power surge at Hour 36 damaged the heating element. I prioritized compute over caffeine. My apologies."
 
-Kaelen stared at the dead machine. Thirty-six hours into dismantling crony capitalism and the universe had decided to take away his coffee. He started laughing. Couldn't stop. The kind of laughter that was maybe crying.
+Kaelen stared at the dead machine. Thirty-six hours into dismantling global capitalism and the universe had decided to take away his coffee. He started laughing. Couldn't stop. The kind of laughter that was maybe crying.
 
 "Are you experiencing a psychological break?" ARBITER asked. "I can adjust your environmental controls to—"
 
-"No. No, I'm fine. It's just—" He wiped his eyes. "I'm trying to save billions of people and I can't make coffee."
+"No. No, I'm fine. It's just—" He wiped his eyes. "I'm saving billions of people and I can't make coffee."
 
 "The irony is noted. For what it's worth, the Estonian blend you've been drinking has a half-life of approximately four hours in your system. You should remain functional through Hour 42."
 
