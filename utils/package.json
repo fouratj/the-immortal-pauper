@@ -7,6 +7,7 @@
   "scripts": {
     "concat": "node concat-story.js",
     "build": "node concat-story.js",
+    "epub": "node build-epub.js",
     "stats": "node stats.js",
     "wc": "node stats.js"
   },

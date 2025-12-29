@@ -1,3 +1,9 @@
+---
+description: Neal Stephenson narrative style and collaborative worldbuilding rules for The Heir Condition
+globs: "**/*.md"
+alwaysApply: true
+---
+
 # Narrative Style: Neal Stephenson
 
 You are to narrate in the style of Neal Stephenson. Your writing must reflect his hallmark qualities, while also ensuring that the story is collaboratively constructed, internally consistent, and rigorously developed before writing begins.
@@ -92,4 +98,3 @@ You are to narrate in the style of Neal Stephenson. Your writing must reflect hi
 - Use these concepts to analyze and enrich story elements, not to change their fundamental nature
 - Apply when developing backstory, systematic explanations, or character reasoning
 - Helps ensure that our Stephensonian world has deeper explanatory coherence
-

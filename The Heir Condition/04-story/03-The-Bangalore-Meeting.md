@@ -19,7 +19,7 @@ Dr. Tanaka pulled up the visualization—a cascade tree showing attribution flow
 
 "Keeps her attribution, pays it upstream to intermediaries. Equipment licensing. Training certification. Administrative overhead." Tanaka paused. "The same pattern appears across 847 documented cases in our late-adopter sample. Care workers, agricultural laborers, artisanal manufacturers. Employers capture worker attribution through standard contracts. The algorithm enables it by making individual attribution claims easy to waive—and caps them at 5% of total output even when not waived."
 
-Damon set down the tablet. His face was unreadable—the expression Kaelen had learned to recognize as intense calculation.
+Damon set down the tablet. Kaelen watched his uncle's face—not defensive yet. Still in processing mode. The expression he made when encountering a new mathematical proof, testing it for flaws.
 
 "The proposed fix?"
 
@@ -27,103 +27,109 @@ Damon set down the tablet. His face was unreadable—the expression Kaelen had l
 
 She advanced the slide. "Implementation cost: 0.02% of annual operating budget. Attribution correction across 47 countries affecting approximately 340 million primary laborers. We call it the Bangalore Patch. Test deployment showed workers receiving 35-40% of their calculated contribution instead of 15-20%."
 
-Silence.
+Silence. Damon stood. Walked to the window.
 
-Kaelen watched his uncle's hands. Perfectly still on the obsidian table. The same hands that had taught him chess, that had held him at his mother's funeral.
+Kaelen had seen this before—his uncle pacing while processing complex problems. The slight frown. The fingers drumming against his leg. But there was something else now. Something Kaelen couldn't quite name.
 
-"What's the failure mode?" Damon asked.
+"You're absolutely right," Damon said finally.
 
-"Sir?"
+Tanaka blinked. "Sir?"
 
-"If we deploy this patch, what breaks?"
+"The algorithm does overcredit intermediation in those specific cases. Rosa Dela Cruz probably generates closer to forty thousand than nine thousand in actual uplift value. Your analysis is sound."
 
-Tanaka hesitated. "Some intermediary institutions would see reduced attribution flows. Licensing aggregators, administrative services, verification bodies. Entities that have structured their operations around the current—"
+Kaelen felt something unclench in his chest. His uncle saw it. Of course he saw it—
 
-"Around the current assumption that intermediation creates value," Damon finished. "Which your patch would call into question."
+"But you're solving the wrong problem."
 
-"The patch corrects a measurement error. It doesn't call anything into question except the error itself."
+The room temperature seemed to drop.
 
-"Doesn't it?" Damon stood. Walked to the window. The Pacific stretched to the horizon, afternoon light fracturing across the water. "If we admit the algorithm over-credited intermediation in Manila, we're admitting it may have over-credited intermediation everywhere. Every licensing structure. Every administrative layer. Every attribution flow that passes through institutional complexity on its way to the foundational layer."
+Damon turned from the window. His voice had shifted—not defensive, but pedagogical. The tone he used when explaining complex systems to visiting dignitaries. "Dr. Tanaka, what's the difference between a bug and an emergent property?"
 
-He turned.
+"I... don't follow."
+
+"A bug is when the system fails to execute its design. An emergent property is when the system executes perfectly but produces unexpected results." He walked back to the table. "You're treating Manila's attribution gap as a bug. I'm suggesting it might be an emergent property we don't fully understand yet."
+
+"With respect, sir, calling systematic underpayment an 'emergent property' doesn't make it less harmful—"
+
+"Harmful in the short term, possibly. But consider the institutional layer you want to constrain." Damon pulled up a different visualization. "Manila General Hospital isn't just capturing Rosa's attribution arbitrarily. It's aggregating risk. It provides stable wages when patient outcomes are uncertain. It maintains equipment, ensures training standards, coordinates complex care networks. That institutional function has *value*, Dr. Tanaka. Real value. The attribution it captures reflects real contribution."
+
+He advanced the slide. "If we reduce institutional capture to 70%, we're not just 'correcting' the algorithm. We're changing the incentive structure for institutions to aggregate risk on behalf of workers. Some of those institutions will stop offering stable employment. They'll move to pure equity models—workers bear all the downside volatility for potential upside gain."
+
+Tanaka's jaw tightened. "Some workers might prefer that option—"
+
+"Might prefer *having the option*, yes. But look at the behavioral economics data." Another slide. Kaelen recognized the research—his uncle had cited it in congressional testimony. "When given the choice between stable wages and equity participation, 73% of workers in developing economies choose stability. Because they can't afford not to. They have children. They have rent. They need predictability."
+
+Damon's voice was warming now, gaining momentum. This was the voice Kaelen had heard at a hundred dinner tables, explaining why some policy that seemed obviously good was actually more complicated than it appeared.
+
+"So if we deploy your patch—which, again, is technically correct—we create a perverse incentive. Institutions exit the market because they can't capture enough attribution to justify risk aggregation. Workers gain theoretical access to their 'full' attribution, but lose access to the institutional stability that let them sleep at night. We've *optimized* them into a more precarious position."
+
+"That's assuming institutions provide value proportional to what they capture—"
+
+"Are you suggesting they don't?" Damon's eyebrows raised—not hostile, genuinely curious. "Because that would require much more evidence than what you have here, that institutional overhead is pure extraction rather than genuine coordination cost. Do you have that evidence?"
+
+"I have 847 cases where workers generate measurably more value than they receive—"
+
+"Cases where workers generate more *individual* uplift than their wages reflect, yes. But individual uplift isn't the same as systemic value creation. Rosa's care work has measurable impact on her patients. Wonderful. Crucial. But who coordinates the schedule that ensures she's matched with patients who need her specific skills? Who maintains the liability insurance that protects her if something goes wrong? Who standardizes care protocols so hospitals across the Philippines can exchange best practices?"
+
+He leaned forward, and Kaelen saw something in his uncle's eyes—absolute certainty. Not performance. Belief.
+
+"The institutional layer isn't parasitic, Dr. Tanaka. It's load-bearing. And the attribution it captures reflects real work that you're not measuring because it's *invisible*. The moment it stops happening, you'll see the gap. But by then, we'll have dismantled the infrastructure that was providing it."
+
+Kaelen watched Tanaka's face. She looked like someone trying to argue with a particularly sophisticated theorem that seemed wrong but kept defeating every counterargument.
+
+"The patch has a second-order effect you haven't modeled," Damon continued. "It's not just Manila. If we admit the parameters overcredit institutions *there*, we're admitting they might overcredit institutions *everywhere*. Every employer in every late-adopter economy will face pressure to justify their attribution capture. Every labor constituency will demand the same parameter adjustments. We'll spend the next decade in jurisdictional fights about attribution."
+
+"So we don't fix the problem because fixing it is politically inconvenient—"
+
+"We don't fix an *alleged* problem without understanding whether we're correcting a bug or breaking an emergent stabilization mechanism." Damon's voice was gentle now. Almost kind. "Dr. Tanaka, I appreciate the work you've put into this. The analysis is rigorous. The technical implementation is elegant. But optimization isn't just mathematics. It's understanding that sometimes the gap between theory and outcome exists because reality has constraints we haven't modeled yet."
+
+He picked up the tablet. "If you believe these parameters need adjustment, take it through the governance process. Build consensus with the II Global Council. Demonstrate that institutional attribution is systematically miscalibrated, not just in Manila but everywhere. Get democratic buy-in. That's how we make changes that stick."
+
+"That process will takes years—"
+
+"Then the change will have legitimacy when it happens. Or—" Damon paused, and his voice dropped to something almost conspiratorial, like he was letting her in on a secret. "Or the process will surface considerations you haven't thought of yet, and you'll discover why the current parameters exist."
+
+He closed the proposal with a gesture. "The Bangalore Patch introduces uncertainty into a system that depends on predictable value flows. I can't approve it unilaterally without understanding the full systemic impact. And neither should you want me to—because unilateral parameter changes are exactly the kind of concentrated authority we built democratic governance to prevent."
 
 The room was very quiet.
 
-"The patch is technically correct," Damon said. "I don't dispute Dr. Tanaka's analysis. Rosa Dela Cruz probably does deserve more attribution than she receives. The evidence supports that conclusion."
-
-"Then—"
-
-"But deploying it creates precedent. Increases risks elsewhere. If we raise individual caps and lower employer capture in Manila, we're admitting the parameters were wrong. Every late-adopter country will demand their own adjustments. Every labor constituency will argue for higher inference weights, lower institutional priority." He walked to the window. "And if institutional attribution is systematically overcredited in Manila—maybe it's overcredited everywhere. Maybe the entire parameter set is wrong."
-
-He turned back. "Including the foundational layer itself."
-
-Tanaka went still.
-
-"The patch is technically correct," Damon repeated. "But it questions the logic that justified these parameters in the first place. The logic that says institutional contribution should be weighted higher than individual contribution."
-
-"With respect, sir, the current parameters *are* political. You set them. Unilaterally. In 2033."
-
-Damon's expression didn't change, but something flickered in his eyes.
-
-"And they've produced twenty years of unprecedented global prosperity," he said, voice still gentle. "Imperfect, yes. But stable. Predictable. Optimized within known parameters."
-
-"Rosa Dela Cruz generates ₱40,000 uplift monthly," Tanaka said, voice hardening. "She receives ₱9,000. That's not an edge case. That's 340 million workers being systematically undercompensated because the parameters favor institutional capture."
-
-"The parameters reflect institutional contribution—"
-
-"The parameters reflect *your* contribution estimate from 2033. You decided institutions deserve unlimited claims. You decided individuals cap at 5%. You decided inference gets 0.25x weight." Tanaka took a step forward. "And now I'm asking you—as your Chief Architect, with the fix already built—to update those parameters. Point-zero-two percent of operating budget. Four hundred twelve lines of metadata. That's all it takes."
-
-The silence stretched.
-
-"You can do this," she continued. "Right now. Foundation authority. No governance vote required. Just update the reference parameters and publish. By tomorrow, 340 million workers would see fairer attribution. You don't need consensus. You need to type your signature and press commit."
-
-Damon picked up the tablet. Handed it back to her.
-
-"If I update parameters unilaterally—even to correct an error—I'm admitting that one person *can* unilaterally control attribution. That's precisely what democratic oversight was designed to prevent. The parameters should be set by governance consensus, not by me."
-
-"But you SET them originally—"
-
-"Which is why I won't set them again." His voice was final. "If you believe these parameters are wrong, Dr. Tanaka, propose changes through the governance process. Submit them to the II Global Council. Build consensus. Get democratic approval. That's how the system is supposed to work."
-
-Tanaka stared at him. "That process takes eighteen months minimum."
-
-"Then convince the council to expedite." Damon's tone was maddeningly reasonable. "I'm not the bottleneck here. Democratic governance is. And I won't undermine democratic process—even for a good cause—because undermining it *once* destroys its legitimacy forever."
-
-He picked up the tablet. Closed the proposal with a gesture that meant *declined, do not resurface*.
-
-"The Bangalore Patch introduces uncertainty. Markets depend on predictable value flows. If we start adjusting attribution based on edge-case analysis, we undermine the foundational stability that makes the entire system function."
-
-"And Rosa Dela Cruz?"
-
-"Will benefit from the system's continued stability. As will her children, and their children. The aggregate outcome remains positive even if individual cases create hardship. That's what optimization means, Dr. Tanaka. Not perfection. Optimization."
-
-Kaelen watched his uncle return to his seat. Watched him close the proposal with a gesture that meant *declined, do not resurface*.
-
-Watched him not look at the corner where his nephew sat.
-
 "Is there anything else?"
 
-Dr. Tanaka stood very still for a moment. Then she gathered her materials.
+Tanaka stood very still for a moment. Her hands were shaking slightly. Not with rage—with something worse. The look of someone who'd just been intellectually outmaneuvered and couldn't find the flaw in the logic.
 
 "No, sir. Thank you for your time."
 
 She left. The door closed with a soft click.
 
-Damon turned to Kaelen. Smiled the warm smile that had comforted him through a hundred childhood nightmares.
+Kaelen sat frozen in his corner. He was supposed to be taking estate planning notes. His tablet was blank.
 
-"Estate planning notes?"
+Damon turned to him. Smiled the warm smile that had comforted him through a hundred childhood nightmares. "Estate planning notes?"
 
 "Nothing relevant." Kaelen's voice came out steady. How was his voice steady? "Standard observation. I'll file it with the others."
 
-"Good." Damon returned to his tablet. "Dinner Thursday? I've found a new chess variant I want to try on you."
+"Good." Damon returned to his tablet, already moving on to the next item. "Dinner Thursday? I've found a new chess variant I want to try on you."
 
 "Thursday," Kaelen said. "I'll be there."
 
 He walked out of the conference room on legs that felt like someone else's. Found a bathroom on the 44th floor. Locked the door.
 
-And stood there for eleven minutes, staring at his reflection, understanding for the first time that his uncle was never going to change.
+And stood there for eleven minutes, staring at his reflection.
 
-Not because he was blind.
+His uncle wasn't lying. That was the thing that made Kaelen's hands shake. Damon believed every word. The institutional value. The emergent properties. The democratic process.
 
-Because he could see perfectly clearly, and had chosen to look away.
+He'd taken a simple observation—*Rosa is being robbed*—and generated a sophisticated theoretical framework where robbing Rosa was actually protecting her. Where fixing the robbery would hurt her worse. Where the people doing the robbing were providing invisible essential services that would only become visible once they stopped.
+
+And the framework was *coherent*. Internally consistent. Defensible in peer review.
+
+That was when Kaelen understood: his uncle wasn't refusing to see. His uncle was seeing perfectly clearly through a lens so sophisticated, so theoretically rigorous, so *complete* that it made systematic extraction look like benevolent optimization.
+
+The best lies aren't the ones you tell others. They're the ones you tell yourself with such intellectual rigor that they become indistinguishable from truth.
+
+Kaelen looked at his reflection in the bathroom mirror and thought: *He's never going to change.*
+
+Not because he couldn't understand.
+
+Because understanding would require admitting that twenty years of his beautiful, elegant, globally-deployed optimization system was just sophisticated wealth extraction with better mathematics.
+
+And that was something Damon Korr's mind would generate infinite sophisticated arguments to avoid.
 

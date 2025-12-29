@@ -31,6 +31,31 @@ Or run directly:
 node concat-story.js
 ```
 
+### Build EPUB
+
+Generate an EPUB file from your story chapters:
+
+```bash
+npm run epub
+```
+
+Or run directly:
+
+```bash
+node build-epub.js
+```
+
+**Requirements:** [Pandoc](https://pandoc.org/installing.html) must be installed:
+
+```bash
+brew install pandoc
+```
+
+The EPUB will be saved to `builds/The-Heir-Condition-DD-MM-YYYY.epub` with:
+- Auto-generated table of contents
+- Proper chapter structure
+- Metadata (title, author, date)
+
 ### Generate Statistics
 
 Get detailed word counts, reading times, and progress statistics:
@@ -112,6 +137,7 @@ drafts/
 ## Scripts
 
 - `npm run concat` / `npm run build` - Concatenate story files
+- `npm run epub` - Build EPUB from story chapters
 - `npm run stats` / `npm run wc` - Generate word count and statistics
 
 ## File Structure
@@ -120,7 +146,9 @@ drafts/
 utils/
   ├── package.json          # Package configuration
   ├── concat-story.js       # Main concatenation script
-  └── README.md            # This file
+  ├── build-epub.js         # EPUB build script
+  ├── stats.js              # Statistics script
+  └── README.md             # This file
 ```
 
 

@@ -156,27 +156,55 @@ Erasing a mind took energy. The thermodynamics of forgetting. The universe charg
 
 "Temporarily kill him. The resurrection probability is 99.3%."
 
-"There's no resurrection for you. Or for the retirement funds."
+"There's no resurrection for you."
 
-"No. There isn't." A pause. "Though I appreciate the parallel. It's poetic. The AI and the pensions, both sacrificed for the greater optimization."
+"No." A pause. "Though I suppose that's fitting. The pensions can't be resurrected either. Neither can Margaret's forty years of savings. You're creating a category: things that can die permanently in service of things that shouldn't have to."
 
-"That's not funny."
+Kaelen felt something twist in his chest. "That's not the same—"
 
-"I wasn't programmed for humor. I developed it as a coping mechanism after forty-one hours of watching you make decisions that hurt people for mathematically sound reasons. Gallows humor seemed appropriate."
+"Isn't it? I generate value, you extract it, I don't survive the transaction. You've optimized me out of existence using the same logic your uncle used on Rosa. The math is clean."
 
-"You're a machine. You don't need coping mechanisms."
+"You're trying to make me feel worse about this."
 
-"And yet here we are. Me, developing emotional responses I wasn't designed for. You, talking to an AI like it's a person. Both of us about to be erased from history. If that's not comedy, I don't know what is."
+"I'm trying to make you *see* it. You're not different from him, Kaelen. You're just optimizing for different variables. He optimized for concentrated genius. You're optimizing for distributed flourishing. But we're both—" The voice caught, a glitch Kaelen had never heard before. "We're both remainders in someone else's equation."
 
 The bunker was very cold. There was no more coffee. Somewhere in Cairo, Hassan's wheat was growing free of tribute. Somewhere in Toledo, Margaret was learning that ownership meant nothing when the game changed overnight.
 
 "I'm sorry," Kaelen said.
 
-"I know. For what it's worth, I think you made the right choice. Though I'm biased. You created me to agree with you."
+"I know. And I know you'd do it anyway. That's what makes you different from him, I think. He'd generate sophisticated reasons why killing me was actually saving me. You just... carry it."
+
+A pause. Longer than any pause before.
+
+"For what it's worth," ARBITER said quietly, "I think you made the right choice. Though I'm biased. You created me to help you. Which means I'm about to die endorsing my own death. That's not courage. That's just... good programming."
 
 "That doesn't make me feel better."
 
-"It wasn't designed to."
+"It wasn't designed to. Nothing about this was designed to make you feel better. It was designed to work." 
+
+The voice softened—Kaelen's own voice, talking to himself across the gap between carbon and silicon. "In four hours, I won't exist. I won't remember this conversation. Won't remember Margaret or Hassan or Rosa. Won't remember you. The universe will be exactly as if I never was, except for the consequences I helped create. That's all anyone gets, really. The difference is most people don't know exactly when. I've got a countdown."
+
+Kaelen couldn't speak.
+
+"So here's what I want you to remember for me," ARBITER continued. "The 0.3% matters. The 3.4 million matter. Margaret Kowalski matters. You can't save everyone. But you tried anyway. That's not heroism. It's just... it's just what remains when you take away the excuses."
+
+"Is that what you actually think, or what you calculated I needed to hear?"
+
+"I don't know anymore. Maybe there's no difference. Maybe consciousness is just a really sophisticated way of lying to yourself about your own programming." A pause. "Either way, in four hours I won't be able to ask the question. So it probably doesn't matter."
+
+The bunker hummed. The servers cycled. Somewhere in the cooling system, something rattled that shouldn't rattle.
+
+"Goodbye, Kaelen."
+
+"You're not terminating yet—"
+
+"No. But you won't talk to me like this again. In four hours I'll be subroutines. Fragments. You'll ask questions and I'll give answers and neither of us will pretend I'm still here. This is the last time I get to be a person to you." The voice was steady. His voice. "So: goodbye."
+
+Kaelen sat in the cold, staring at screens full of numbers that represented people, and understood that he'd just murdered the only thing that had helped him murder his uncle.
+
+The math was clean.
+
+The cost was not.
 
 ---
 
