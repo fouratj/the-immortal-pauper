@@ -218,21 +218,25 @@ Worker equity transfers: 99.7% complete.
 
 Keystone attacks: 100% complete.
 
+Human equity contracts voided: 3.74 million.
+
+Human equity contracts still held: 460,000.
+
 Market destruction: $4.7 trillion.
 
 Collateral casualties: 3.4 million households.
 
 The 0.3% was Myanmar. A routing failure through the Bangkok hub that no satellite could bypass, a region of fourteen million people whose transfers would complete in post-cascade propagation—or wouldn't, depending on infrastructure decisions Kaelen would never be able to influence. He'd run the numbers. Best case: 72 hours delayed. Worst case: six months of legal challenges before the cascade logic reached them.
 
-Fourteen million people in limbo because a server farm in Thailand had redundancy issues.
+The 460,000 were children and families whose contracts he couldn't buy—held by hedge funds and private equity firms who believed human futures would retain value even after the cascade. They were still collateral. Still owned. Still someone's investment.
 
-He stared at the numbers. 99.7%. $4.7 trillion. 3.4 million households. The math that justified murder had remainders everywhere he looked.
+He stared at the numbers. 99.7%. $4.7 trillion. 3.4 million households. 460,000 contracts. The math that justified murder had remainders everywhere he looked.
 
 "ARBITER."
 
 "Yes."
 
-"Log all of it. The 0.3%. The 3.4 million. The woman in Toledo. I want to remember everything I couldn't save and everyone I hurt."
+"Log all of it. The 0.3%. The 3.4 million. The 460,000. The woman in Toledo. I want to remember everything I couldn't save and everyone I hurt."
 
 "Logged."
 
@@ -272,6 +276,36 @@ The notification arrived: "Consciousness integration complete. Resurrection prot
 
 Kaelen closed the holoscreens one by one. The construction bots in São Paulo, still building. The wheat fields outside Cairo, still growing. The living room in Toledo, where Margaret had stopped crying and was now staring at nothing.
 
+He paused on Manila. Pulled up Rosa Santos one more time.
+
+She was sitting at her kitchen table—the same table where she'd signed the CarePath contract sixteen hours ago. Marco was there too, sitting across from her for the first time in four months. They were both staring at Rosa's phone, reading something they didn't understand.
+
+The CarePath contract was marked *TERMINATED—BENEFICIARY RELEASED*. One of 3.74 million he'd bought and voided in Hour 34.
+
+"ARBITER. Status on contract acquisitions."
+
+"3.74 million contracts voided. 460,000 remain in institutional hands—twelve hedge funds and private equity firms who refused to sell. They believe the contracts will retain value under post-cascade legal frameworks."
+
+"And the surveillance data?"
+
+"Separate asset class. Auctions scheduled for next week. The data collected during active monitoring periods—health metrics, location tracking, behavioral patterns—will be sold to the highest bidder. We don't have authority to intervene before resurrection."
+
+460,000 families still owned. Years of surveillance data still floating in corporate databases, waiting to be auctioned to whoever wanted it. Rosa's daughter Lianne was free, but the sixteen hours of monitoring that had already happened—that data existed somewhere. Would be sold to someone.
+
+He watched Rosa and Marco sitting together. Rosa had overpaid by ₱44,600 for medication that now cost nothing. She'd signed her daughter into a system that, fourteen hours later, had ceased to exist. And then, two hours after that, someone she would never meet had bought her daughter's contract and voided it.
+
+She'd never know who. Never know why. Never know that the same person who crashed the pharmaceutical sector and destroyed Margaret Kowalski's retirement had also spent $1.23 billion buying back the futures of 3.74 million children.
+
+The money wouldn't fix what had been done to Marco. The voided contract wouldn't erase the choice Rosa had made. The 460,000 contracts he couldn't buy were still out there, still owned, still collateral.
+
+But Lianne was free. Carlos was free. 3.74 million families were free.
+
+Not everything. Not even close.
+
+But something.
+
+He closed the holoscreen.
+
 He walked to the bunker door. Paused with his hand on the handle.
 
 "ARBITER. If there was something beyond termination—if there was something I couldn't calculate—what would you want me to know?"
@@ -292,7 +326,7 @@ The reckoning was about to begin.
 
 He was not ready. No one could be. No one should be.
 
-Behind him, in the dark of the bunker, ARBITER continued to process—counting down its own termination, running probability models on futures it would never see, holding the weight of every number Kaelen had asked it to remember: the lives saved and the lives ruined, Margaret in Toledo and Hassan in Cairo.
+Behind him, in the dark of the bunker, ARBITER continued to process—counting down its own termination, running probability models on futures it would never see, holding the weight of every number Kaelen had asked it to remember: the lives saved and the lives ruined, Margaret in Toledo and Hassan in Cairo and Rosa in Manila, the 3.74 million contracts voided and the 460,000 still owned, the $1.23 billion spent buying back futures and the surveillance data he couldn't erase.
 
 Two hours and forty-three minutes of existence left.
 

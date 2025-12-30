@@ -186,7 +186,7 @@ She'd clicked it. She'd signed her daughter into the same system that destroyed 
 
 "CarePath's business model becomes unprofitable within 18 months. The company will likely restructure or dissolve. Existing contracts will be honored through bankruptcy proceedings, but future renewals are unlikely. Rosa Santos will receive the upfront payment and approximately 14 months of care coordination before the cascade effects reach CarePath's operational capacity."
 
-Fourteen months. Then Rosa would be on her own again. But by then, insulin patents would be in commons. The medication that cost ₱4,800 would cost ₱400. The system that forced her to sell her daughter's future would be gone.
+Fourteen months. Then Rosa would be on her own again. But by then, the GlucoSync patents would be in commons. The nanopatch that cost ₱4,800 would cost ₱340—just the manufacturing. The system that forced her to sell her daughter's future would be gone.
 
 But she'd still have sold it. Still have that contract in the blockchain. Still have signed away Lianne's privacy, autonomy, future—for a problem that would cease to exist before the contract term ended.
 

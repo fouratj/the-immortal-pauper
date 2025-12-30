@@ -211,7 +211,7 @@ Kaelen didn't move. Didn't speak. Just watched as Damon navigated through the da
 
 Damon studied the numbers for a long time. The silence stretched. Kaelen could hear his own heartbeat, the distant hum of the building, the sound of ferries crossing the bay outside.
 
-Finally, Damon pulled up one more dataset. Rosa Santos. Manila. The care worker whose attribution had been systematically extracted. Her baseline before the cascade: ₱8,240 in savings, choosing between Lianne's insulin and Marco's therapy. Her baseline after: ₱47,000. The insulin patents had hit commons three days ago. The medication that cost ₱4,800 now cost ₱320.
+Finally, Damon pulled up one more dataset. Rosa Santos. Manila. The care worker whose attribution had been systematically extracted. Her baseline before the cascade: ₱8,240 in savings, choosing between Lianne's GlucoSync and Marco's therapy. Her baseline after: ₱47,000. The nanopatch patents had hit commons three days ago. The medication that cost ₱4,800 now cost ₱340.
 
 Damon pulled up the timestamp log. April 21, 2049, 14:32. Rosa Santos purchased insulin refill. First time in eighteen months she'd bought it before the supply ran out. April 22, 08:15. Marco's door opened. He'd left the apartment for the first time in four months. April 22, 19:47. Rosa quit the night shift at Manila General. Her attribution score had jumped from 34th percentile to 67th. The cascade had given her back her evenings.
 

@@ -6,6 +6,8 @@ His phone showed the alert: Carlos M., age 14, Tondo District, 21:47 Wednesday. 
 
 He was doing 60 kph on a Honda Metropolitan through Quezon City traffic, weaving between jeepneys and tricycles, the digital overlay from his smartglasses showing Carlos's location as a pulsing blue dot. The body camera on his shoulder was recording—always recording. After the Gutierrez dispute, he'd learned to document everything.
 
+A news banner scrolled across the top of his display: **KORR FOUNDATION ANNOUNCES GLOBAL BROADCAST — APRIL 18 — "HUMANITY'S NEXT CHAPTER"**. He dismissed it with a blink. Whatever the richest man on Earth wanted to announce, it wouldn't change his immediate problem.
+
 Twenty-three active contracts. Year-to-date return: negative six percent. Guild average: positive twelve.
 
 The blue dot wasn't moving.
@@ -14,11 +16,19 @@ The blue dot wasn't moving.
 
 Rosa Santos clocked out at 21:52, twelve hours into her shift at Manila General Hospital. Forty-seven patients across three wards, two emergency stabilizations.
 
-She checked her bank account while waiting for the elevator: ₱8,240. Then opened the medication reminder: Lianne's insulin supply, four days remaining. Refill cost ₱4,800, due Friday. Her next paycheck came Tuesday.
+She checked her bank account while waiting for the elevator: ₱8,240. Then opened the medication reminder: Lianne's GlucoSync subscription, four days remaining. The monthly nanopatch—a postage-stamp-sized device that regulated blood sugar automatically—cost ₱4,800 to renew. The actual manufacturing cost was ₱340. The rest was patent licensing, attribution fees, and what the economics textbooks called "innovation incentives." Her next paycheck came Tuesday.
 
 She closed the app without doing the math. She'd already done it six times today.
 
 The elevator door opened. Three nurses got on, comparing their attribution scores. Rosa's was 34th percentile. She'd disabled public visibility last week.
+
+"—biggest announcement since the II rollout," one of the nurses was saying. "My cousin works security for BioGenesis. They've been on lockdown for months. Nobody knows what it is."
+
+"Korr's been promising 'next chapters' for twenty years. It's probably some new attribution algorithm."
+
+"With *this* much secrecy? And all the life extension rumors? No way it's just algorithms."
+
+The elevator dinged. Rosa stepped out, leaving them to their speculation. Whatever Damon Korr was announcing, it wouldn't help her pay for Lianne's nanopatch.
 
 Marco's door was closed when she got home. It had been closed for four months. She could hear the neighbors through the thin walls—someone's TV on loud, a child crying, the usual sounds of too many families packed too close.
 
@@ -46,7 +56,7 @@ The guy walked toward the fence. Twenty-two, maybe twenty-three. Thin build, wea
 
 Javi held up his guild badge on the phone screen. "I'm Javi. Carlos's development partner. His mom asked me to check on him."
 
-"Ano'ng development partner? The fuck is that?" <!-- is this philippine slang?, the ano'ng -->
+"Ano'ng development partner? The fuck is that?"
 
 "I work with him, eh. School stuff, job prep, life coaching. His mom and I have contract."
 
@@ -98,7 +108,7 @@ The guy pulled the fence open—wasn't locked, just closed. Javi walked through.
 
 Rosa sat at the kitchen table, cold rice and leftover adobo still on the counter from dinner, her phone showing three open tabs: her bank account (₱8,240), the pharmacy's refill portal (₱4,800 due Friday), and the CarePath Medical offer that had arrived yesterday.
 
-₱145,000 upfront. Lianne's insulin for two years, plus monitoring supplies, plus emergency fund. Maybe Marco's therapy intake—the good kind, private practice, not the public clinic.
+₱145,000 upfront. Lianne's GlucoSync for two years—no more scrambling for the monthly renewal. Plus monitoring supplies, plus emergency fund. Maybe Marco's therapy intake—the good kind, private practice, not the public clinic.
 
 She'd opened this tab fourteen times. Hadn't clicked anything yet.
 
@@ -202,7 +212,7 @@ Silence for four seconds. "₱100,000."
 
 "Upfront?"
 
-"Yeah. He kept twenty percent, gave me eighty." <!-- who is he? -->
+"Yeah. Javi kept twenty percent as his fee, gave me the rest."
 
 "And you used it for what?"
 
@@ -288,7 +298,7 @@ One of the other people—older, mid-twenties, wearing a construction company sh
 
 "And stabbing him makes it worse lang. Carlos gets arrested for accessory. His baseline goes to shit. Then his mom definitely hires MentorMaxx, you idiot."
 
-Rico didn't lower the knife. "So we just let them turn kids into investments?" <!-- we're not really sure of Rico's motivation, lets try to add a bit -->
+Rico didn't lower the knife. "So we just let them turn kids into investments?" He'd watched three friends disappear into MentorMaxx facilities over the past two years. Two came back different. One didn't come back at all. "You know what Korr's big announcement is gonna be? Some new life extension bullshit. They're already living to 120. Pretty soon they'll live forever, and we'll be their fucking portfolios forever."
 
 "I didn't say that naman. I said stabbing him doesn't fix it lang."
 
@@ -336,7 +346,7 @@ Javi's hands were shaking. He kept them at his sides.
 
 Rosa's finger hovered over [Accept].
 
-The screen glowed in the dark kitchen. ₱145,000. Lianne's insulin for two years. Marco's therapy intake. Rent paid ahead. She thought of the relief.
+The screen glowed in the dark kitchen. ₱145,000. Lianne's GlucoSync for two years—no more counting days until the nanopatch expired, no more choosing between rent and her daughter's blood sugar. Marco's therapy intake. Rent paid ahead. She thought of the relief.
 
 But then she thought of Marco. She looked at his door. Still closed. Music still playing inside, something with heavy bass.
 
@@ -344,11 +354,15 @@ She thought about the night they came for him. 2 AM. Private security. The resid
 
 Her thumb was still on the screen.
 
+Through the thin walls, she could hear the neighbor's television: "—the Korr Foundation remains tight-lipped about the content of tomorrow's global broadcast. Security analysts report unprecedented information lockdowns across all Korr subsidiaries. Whatever 'humanity's next chapter' means, Damon Korr is determined to control the narrative—"
+
 The button waited.
 
 Marco's door stayed closed.
 
-Lianne needed insulin by Friday.
+Lianne's nanopatch expired Friday.
+
+Somewhere, a man worth more than the GDP of the Philippines was preparing to announce that death had become optional for people like him.
 
 Rosa's finger trembled.
 
@@ -374,7 +388,7 @@ Marco Santos. Rico's story. Rosa's son.
 
 He clicked through to Marco's history. Public record. The trajectory looked like a cliff: ₱3.1M baseline at age 14, breach filed at month nine, contract sold to MentorMaxx, residential extraction, six months at youth facility. Current baseline: ₱1.1M. Not employed. Not in school.
 
-Total capital destroyed: ₱320K. <!-- how did we arrive at this number? -->
+Lifetime earnings projection: down ₱2M. Investor returns on the original contract: negative. The only people who made money were Ernesto, who'd sold before the crash, and MentorMaxx, who'd collected facility fees.
 
 And Marco, who wouldn't leave his room.
 
@@ -382,12 +396,19 @@ Carlos's blue dot was moving. Heading home, like he'd promised.
 
 Javi started the scooter. Rode home through Thursday night traffic, humid air thick even at midnight, thinking about Rico's question: *What happens when Carlos stops responding?*
 
+And Rico's other prediction, the one that had silenced everyone for a moment: *Pretty soon they'll live forever, and we'll be their fucking portfolios forever.*
+
+A billboard flickered past: Damon Korr's face, benevolent, timeless. **TOMORROW. HUMANITY'S NEXT CHAPTER.**
+
 ---
 
 Javi got home at 00:23. Apartment in Quezon City, ₱18,000/month. Expensive, but families researched their specialists. Living in a decent building signaled success.
 
-<!-- I don't want phones, i want phones to basically become compute pukes. Smart glasses are the new device, all compute happens on the compute puke, glasses overlay digital info on the real world. Research Elon's prediction on this. So he needs glasses, the glasses do most of the recording, tho he also has bodycams as duplicates and also to watch his back. The bodycams can communicate to his glasses and show anyone coming from behind for example, add a little tension -->
-He plugged in the three phones. Downloaded the body camera footage—encrypted, backed up. Thirty-four minutes compressed to 2.1GB.
+He set his glasses on the charging dock and watched the bodycam footage download to his compute puck—the hockey-puck-sized device that handled all his processing, encrypted backups streaming to distributed storage. Thirty-four minutes compressed to 2.1GB.
+
+His wall display had defaulted to news while he was out. A countdown timer dominated the screen: **KORR GLOBAL BROADCAST — 19 HOURS, 23 MINUTES**. Below it, talking heads speculated about what the announcement could be. Nobody knew. The Korr Foundation had locked down every subsidiary, every research facility, every employee with access. The biggest information security operation since the Bangalore Incident.
+
+He switched it off. Didn't help him with his immediate problems.
 
 Filed it under Carlos M. / Intervention 13 / 2049-11-23.
 
@@ -431,10 +452,6 @@ Went to bed.
 
 ---
 
-<!-- we need a 2050 insulin medicine, maybe it lasts all months, so the monthly payment stays. Or maybe it's subscription-based nanotech? -->
-
----
-
 Javi got the call from his investors at 14:30, conference line, eight people on the call (the others must have been too busy or didn't care enough to join).
 
 The two requesting redemption went first: "Q4 performance is below guild average. Your -5.8% return versus +11.2% average represents ₱164K in lost expected value across our total investment. If it stays like thsi for one more quarter, we're going to be reallocating to higher-performing portfolios."
@@ -471,7 +488,7 @@ Javi hesitated. "What do you mean?"
 
 Silence on the line for three seconds.
 
-"The redemption requests stand," the first investor said. "₱87,000 buyback, due within 30 days per guild standard terms." <!-- this is not how investors talk, how would an investor say it knowing both participants understand terms -->
+"The redemption requests stand," the first investor said. "₱87K. Thirty days."
 
 "I'll need to sell some retained equity—"
 
@@ -480,6 +497,10 @@ Silence on the line for three seconds.
 The call ended at 14:52.
 
 Javi sat in his apartment looking at his retained equity: ₱1.41M across 23 contracts, but most of it illiquid—couldn't sell until contracts matured or beneficiaries hit major milestones. He could sell future tranches, pre-securitize some equity he hadn't sold yet, but that meant giving up more upside.
+
+His wall display had cycled back to news. The Korr countdown: **16 HOURS, 42 MINUTES**. Talking heads speculating about what the announcement could be—new attribution protocols, expanded life extension, governance reforms. Nobody knew. The Korr Foundation's information security was legendary. Whatever it was, it would "trickle down eventually." Trickle down. Like the benefits of the Intelligent Internet had trickled down to Rosa and Carlos and Marco.
+
+He muted it.
 
 Or he could take a loan against expected value. Attribution Lending Inc. offered 30-day bridge loans at 18% APR for guild-certified specialists.
 
@@ -490,4 +511,12 @@ Three contracts were candidates: beneficiaries non-responsive on recent interven
 He opened the first file. Looked at the beneficiary's photo—thirteen years old, smiling in her school uniform, didn't know she was an investment vehicle.
 
 He closed the file and opened the attribution lending application instead.
+
+---
+
+The night before the Korr broadcast, Rosa signed the CarePath contract at 22:34. ₱145,000 transferred to her account. Lianne's GlucoSync secured for two years. Marco's door stayed closed.
+
+She didn't know that in eighteen hours, everything would change.
+
+None of them did.
 
