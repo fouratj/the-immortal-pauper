@@ -162,8 +162,6 @@ Damon had given Kaelen access two years ago: "Sometimes you need to model scenar
 
 The irony was perfect.
 
-The irony was perfect.
-
 Kaelen booked it. 72 hours. The system logged it as: *K. Korr - Estate modeling - Confidential*
 
 It would show up on quarterly audits eventually. But not for months.
@@ -234,8 +232,6 @@ Kaelen studied the visualization. "What creates these conditions historically?"
 "Show me examples."
 
 The screen shifted. Historical examples scrolled past: succession crises in monarchies, constitutional conventions, revolutionary moments, legal edge cases created by new technologies.
-
-Kaelen pulled up a separate window. Estonian inheritance protocols. Started scrolling.
 
 Kaelen pulled up a separate window. Estonian inheritance protocols. Started scrolling.
 

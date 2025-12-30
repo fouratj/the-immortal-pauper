@@ -7,7 +7,7 @@
 
 Kaelen threw up twice in the bathroom before the meeting.
 
-The second time there was nothing left—just bile and the sour taste of Estonian coffee he couldn't keep down. His throat burned. His hands were shaking so badly he had to grip the porcelain sink to stay upright. The bathroom smelled like industrial cleaner and his own fear-sweat.
+The second time there was nothing left—just bile and acid. His throat burned. His hands were shaking so badly he had to grip the porcelain sink to stay upright. The bathroom smelled like industrial cleaner and his own fear-sweat.
 
 He stared at his reflection. Thirty-two hours without sleep. Stubble. Eyes that looked like someone else's—red-rimmed, hollow, the eyes of a man who'd murdered his uncle and saved the world and couldn't tell which act would define him.
 
@@ -139,7 +139,7 @@ Damon laughed. The sound was ugly—nothing like the cultivated chuckle Kaelen h
 
 He threw the thermos.
 
-It hit the wall three feet from Kaelen's head, spraying coffee across the white surface in a pattern that looked disturbingly like blood splatter. The Baltic birch cracked down the middle with a sound like a bone breaking. The smell of Estonian coffee—burnt wood and regret—filled the room.
+It hit the wall three feet from Kaelen's head, spraying coffee across the white surface in a pattern that looked disturbingly like blood splatter. The Baltic birch cracked down the middle with a sound like a bone breaking.
 
 Kaelen didn't flinch. He'd expected violence. Had prepared for it. Was ready to accept it. His heart was hammering so hard he could feel it in his throat, but his body stayed still.
 

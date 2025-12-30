@@ -154,21 +154,9 @@ He wondered if the workers would consider that a fair trade. Probably not. You r
 
 ---
 
-**Hour 25 — Toledo, Ohio**
-
-Margaret Kowalski stared at her portfolio screen. Yesterday: $127,000. Today: $52,000.
-
-The biotech IP trust—the safe investment, the advisor had said, the knowledge economy never crashes—was down 60%. Meridian Therapeutics: -58%. GenPharm Holdings: -63%. The entire pharmaceutical sector collapsing in real-time.
-
-She'd worked fourteen jobs across four decades. Warehouse picker. Home health aide. Remote customer service. Delivery driver until the autonomous fleets came. Every paycheck, she'd saved what she could.
-
-It was 3 AM. She was crying. And she didn't understand why.
-
----
-
 **Hour 30 — Secure Bunker**
 
-Kaelen pulled up the holoscreen. Margaret Kowalski, seventy-three, Toledo. Portfolio: $127,000 yesterday. $52,000 today.
+Kaelen pulled up the holoscreen. A woman in Toledo. Margaret Kowalski, seventy-three. Portfolio: $127,000 yesterday. $52,000 today. She'd worked fourteen jobs across four decades—warehouse picker, home health aide, remote customer service, delivery driver until the autonomous fleets came. Every paycheck saved.
 
 She was crying. 3 AM. Forty years of savings, gone.
 
