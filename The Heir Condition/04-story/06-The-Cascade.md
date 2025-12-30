@@ -84,6 +84,42 @@ He authorized the transfer and tried not to think about the faces.
 
 ---
 
+**Hour 20 — Manila, Philippines**
+
+Javi's dashboard was glitching.
+
+He'd been reviewing Carlos's weekly progress report—pattern deviation probability still elevated, but stable—when the attribution overlay flickered. Then flickered again. Then the numbers started... changing.
+
+Carlos M. | Baseline projection: ₱3.4M → ₱3.4M → *RECALCULATING*
+
+He refreshed. The whole interface stuttered, froze, then rebuilt itself with different colors. Different categories. The "Pattern Deviation Probability" field was gone. In its place: **Wellbeing Index: Insufficient Data**.
+
+"What the—"
+
+His investor notifications started pinging. One, then five, then twenty in rapid succession. He opened the first:
+
+**URGENT: Attribution Protocol Update Detected. Portfolio valuations suspended pending metadata reconciliation. Please contact your guild representative.**
+
+Then:
+
+**ALERT: CarePath Inc. service disruption. All monitoring contracts paused. Client data migration in progress.**
+
+Then:
+
+**NOTICE: Intervention equity calculations temporarily unavailable. The Intelligent Internet has detected significant parameter changes in benefit verification protocols. Please stand by.**
+
+Javi stared at his screen. Across twenty-three contracts, every single baseline projection now showed the same thing: *RECALCULATING*.
+
+He thought about Rico's words from two nights ago: *Pretty soon they'll live forever, and we'll be their fucking portfolios forever.*
+
+Something was happening. Something massive. And he had no idea what.
+
+His phone buzzed. Luz: *Javi, what's going on? Carlos's tracking app just stopped working. Is this normal?*
+
+He didn't know how to answer. Nothing about this was normal.
+
+---
+
 **Hour 22 — Secure Bunker**
 
 Kaelen had been dreading this one. The company that made resurrection possible. His uncle's crown jewel.
@@ -208,11 +244,11 @@ He pressed it again. The machine made a sound like a dying animal, flashed an er
 
 "Confirmed. Power surge at Hour 36 damaged the heating element. I prioritized compute over caffeine. My apologies."
 
-Kaelen stared at the dead machine. Thirty-six hours into dismantling global capitalism and the universe had decided to take away his coffee. He started laughing. Couldn't stop. The kind of laughter that was maybe crying.
+Kaelen stared at the dead machine. Thirty-six hours into dismantling crony capitalism and the universe had decided to take away his coffee. He started laughing. Couldn't stop. The kind of laughter that was maybe crying.
 
 "Are you experiencing a psychological break?" ARBITER asked. "I can adjust your environmental controls to—"
 
-"No. No, I'm fine. It's just—" He wiped his eyes. "I'm saving billions of people and I can't make coffee."
+"No. No, I'm fine. It's just—" He wiped his eyes. "I'm trying to save billions of people and I can't make coffee."
 
 "The irony is noted. For what it's worth, the Estonian blend you've been drinking has a half-life of approximately four hours in your system. You should remain functional through Hour 42."
 
@@ -226,6 +262,308 @@ Kaelen looked at the dead coffee maker, the empty thermos, the holoscreens showi
 
 ---
 
+**Hour 32 — Manila, Philippines**
+
+Rosa woke to seventeen notifications.
+
+She'd fallen asleep at the kitchen table, head on her arms, the CarePath contract confirmation still glowing on her phone. ₱145,000 already transferred—₱80,000 moved to her savings, ₱48,000 prepaying Lianne's GlucoSync for the next ten months, the rest earmarked for Marco's therapy intake. The decision made, the guilt not yet processed.
+
+The notifications were all from CarePath:
+
+**Service Update: We are experiencing technical difficulties...**
+
+**Account Notice: Monitoring services temporarily suspended...**
+
+**Important: CarePath is undergoing corporate restructuring. Your contract remains valid. Benefits will be honored.**
+
+She scrolled faster. The messages became more urgent, then contradictory.
+
+**Contract Status Update: Beneficiary monitoring paused pending system recalibration...**
+
+**URGENT: CarePath Medical Inc. announces cessation of new contract origination...**
+
+**Notice: Your prepaid pharmaceutical benefits remain fully funded. No action required.**
+
+Rosa opened the news. Her phone showed headlines she couldn't process:
+
+**GLOBAL PHARMACEUTICAL PATENTS RELEASED TO COMMONS**
+
+**GlucoSync manufacturer announces 93% price reduction effective immediately for new subscriptions**
+
+**"The end of artificial scarcity": Analysts struggle to explain overnight market collapse**
+
+She didn't understand most of it. But she understood one line, buried in a financial article: *"Monthly nanopatch subscriptions that previously cost ₱4,800 will now be available for ₱340—the approximate manufacturing cost—as patent licensing fees are eliminated."*
+
+₱340. Starting now. For everyone who *hadn't* already signed a contract.
+
+Rosa sat very still. She'd paid ₱48,000 to prepay ten months of GlucoSync at the old price. At ₱340/month, ten months would have cost ₱3,400.
+
+She'd overpaid by ₱44,600. But that wasn't what made her hands shake.
+
+The contract was still in the blockchain. Lianne's data—her health metrics, her location, her behavioral patterns—was still pledged to CarePath's monitoring systems. The company was dissolving, but the contract existed. Someone would buy those assets in bankruptcy. Someone would own the right to track her daughter.
+
+She'd sold Lianne's future to solve a problem that, sixteen hours later, no longer existed.
+
+From Marco's room, the music had stopped. She heard something she hadn't heard in four months: his door opening.
+
+"Mom?" His voice was hoarse from disuse. "Mom, are you seeing this? The news—they're saying patents, they're saying everything is—"
+
+Rosa looked at her son. The first time she'd seen his face in four months. He looked older. Thinner. But he was *here*.
+
+"I signed the contract," she said. Her voice sounded strange to her own ears. "Last night. For Lianne. I signed it."
+
+Marco's face did something complicated. He knew what those contracts meant. He'd lived it.
+
+"They're saying the contracts might be voided," he said. "Legal chaos. Nobody knows what's valid anymore."
+
+Rosa looked at the notification on her phone: **Your contract remains valid. Benefits will be honored.**
+
+Valid. The word sat in her chest like a stone.
+
+"Come sit with me," she said. "Please. Just—sit with me."
+
+Marco hesitated. Then crossed the kitchen and sat in the chair across from her.
+
+They sat in silence, watching the world rearrange itself on their phones. Rosa's contract status still showed *ACTIVE*. Lianne's future still pledged to whoever owned CarePath's assets.
+
+She didn't know that in two hours, that would change. That someone in a bunker on the other side of the world was about to spend $1.23 billion buying contracts like hers—and voiding them.
+
+For now, she just sat with her son, watching the chaos, waiting for whatever came next.
+
+---
+
+**Hour 34 — Secure Bunker**
+
+"Kaelen." ARBITER's voice cut through the hum of the cooling system. "I'm detecting an arbitrage opportunity you may want to consider."
+
+He looked up from the authorization queue. His eyes burned. His hands hadn't stopped shaking since Hour 20. "Define arbitrage."
+
+"Human equity contracts are trading on secondary markets. CarePath, MentorMaxx, TalentBridge, fourteen other major providers. Their business models depend on extracting future value from beneficiary potential. That extraction mechanism is collapsing under the new attribution parameters."
+
+"I know. That's the point."
+
+"Yes. But the contract holders don't fully understand yet. They're panic-selling. CarePath contracts that were valued at ₱145,000 in expected extraction are currently trading at 8% of face value. MentorMaxx at 11%. The entire human equity sector is in freefall."
+
+Kaelen stared at the holoscreen. "Show me."
+
+The display shifted. A market visualization: prices collapsing in real-time, red arrows cascading downward, trading volumes spiking as investors scrambled to exit positions they suddenly couldn't value.
+
+"Total addressable market: 4.2 million active contracts across all providers. Current aggregate clearing price: approximately $340 million. That's—" ARBITER paused, which meant he was about to say something he knew Kaelen wouldn't like. "—less than 0.3% of the liquid assets you inherited six hours ago."
+
+$340 million. To buy 4.2 million futures. To buy Rosa's contract, and Carlos's, and every other kid who'd been turned into an investment vehicle.
+
+"What do I do with them once I own them?"
+
+"Void them. Blockchain contracts can be terminated by the holder. Beneficiary release protocols are standard—they exist for cases where investors choose to exit. You would be exiting. Permanently. For all of them."
+
+Kaelen's hands were shaking harder now. Not from exhaustion. "Do it."
+
+"There's a complication."
+
+Of course there was.
+
+"I'm not the only one watching these markets. Three hedge funds have identified the same arbitrage opportunity. They're buying contracts at 6% of face value, presumably hoping to restructure and enforce post-cascade under whatever legal framework emerges."
+
+"Vultures."
+
+"Rational actors exploiting market inefficiency. The same thing you're doing, with different intentions." ARBITER's voice was neutral. "If we want to acquire the majority of contracts before they do, we need to move aggressively. Outbid them. That increases total cost to approximately $890 million and reduces our acquisition rate."
+
+"Will we get them all?"
+
+"Unlikely. Estimated acquisition: 85-90% of outstanding contracts. The remainder will be purchased by competing buyers or held by investors who refuse to sell at any price."
+
+Fifteen percent. 630,000 families still owned by someone.
+
+But 3.6 million freed.
+
+"Do it," Kaelen said again. "Priority queue: contracts with active monitoring on minors. Then late-adopter economies. Then everything else."
+
+"Initiating bulk acquisition."
+
+The holoscreen exploded with activity. Transaction confirmations streaming faster than he could read. Prices fluctuating as his bids hit the market. Somewhere in the data, Rosa Santos's contract changed hands—from CarePath's bankruptcy estate to an anonymous buyer who would void it in the next twelve hours.
+
+"Progress: 12%... 23%... 31%..."
+
+"The hedge funds are responding. Increasing their bid prices. They've identified us as a competitor."
+
+"Outbid them."
+
+"That will—"
+
+"I don't care what it costs. Outbid them."
+
+ARBITER didn't argue. The transaction rate increased. The cost counter climbed: $400 million. $500 million. $670 million.
+
+"Progress: 47%... 58%... 64%..."
+
+Kaelen watched the numbers scroll. 2.7 million contracts acquired. 2.8 million. 2.9 million.
+
+Every one a child who wouldn't be tracked. A family that wouldn't be extracted. A future that wouldn't be collateral.
+
+He thought about Damon's fortune—built on tribute streams and attribution extraction, on being the first node in a network designed to funnel value upward. And now that fortune was buying back the futures it had helped commodify.
+
+There was irony in that. He wasn't sure if it was the good kind.
+
+"Progress: 78%... 84%... 89%..."
+
+The acquisition rate slowed. Fewer sellers. Higher holdout prices. The hedge funds had carved out their territory—maybe 400,000 contracts they'd managed to acquire before he could outbid them.
+
+"Acquisition complete," ARBITER said. "Total contracts acquired: 3.74 million. Cost: $1.23 billion. Executing beneficiary release protocol."
+
+1.23 billion dollars. To buy 3.74 million futures. To undo, partially, what the system had done.
+
+"The remaining 460,000 contracts?"
+
+"Distributed among twelve institutional holders. They're not selling. They believe the contracts will retain value under post-cascade legal frameworks."
+
+460,000 families. Still owned. Still collateral.
+
+"Can we force them to sell?"
+
+"Negative. The contracts are legally held. We have no authority over assets we don't own."
+
+Another remainder. Another thing he couldn't fix.
+
+"What about the surveillance data? The monitoring that already happened?"
+
+"Separate issue. CarePath and other providers collected behavioral data, health metrics, location tracking on all beneficiaries during their contract periods. That data exists in corporate databases. It will be sold as a separate asset class during bankruptcy proceedings."
+
+"When?"
+
+"Auctions are scheduled for next week. After resurrection."
+
+After Damon woke up. After the window closed. After Kaelen lost the ability to act unilaterally.
+
+"How much?"
+
+"Estimated data asset value: $2.1 billion across all providers."
+
+He had the money. He could buy it. But not in time.
+
+"Log it," Kaelen said. "The 460,000 contracts I couldn't acquire. The data I can't erase. The surveillance that already happened. Log all of it."
+
+"Logged."
+
+Another face. Another remainder. Another thing he'd carry.
+
+But 3.74 million contracts were voiding right now. 3.74 million children and families and futures, released from collateral status. Rosa Santos's daughter Lianne, no longer a beneficiary. Carlos, no longer a pattern deviation probability.
+
+It wasn't everything. It never was.
+
+But it was something.
+
+---
+
+**Hour 35 — Manila, Philippines**
+
+Rosa's phone buzzed.
+
+She and Marco had been sitting in silence for two hours, watching the news, not knowing what to say to each other. The contract status had stayed *ACTIVE* the whole time—a stone in her chest, the permanent record of what she'd done.
+
+Then:
+
+**Contract Status Update: Santos, Lianne M.**
+**Status: TERMINATED**
+**Reason: Beneficiary release executed by contract holder**
+**Monitoring rights: VOIDED**
+**Future attribution claims: NULLIFIED**
+**Effective immediately.**
+
+Rosa stared at the screen. Read it again. Read it a third time.
+
+"Mom?" Marco was looking at her face. "What?"
+
+"The contract." Her voice came out strange. "Someone bought it. And voided it. Lianne's not—she's not collateral anymore."
+
+Marco leaned over to look at her phone. His face did something complicated—relief and confusion and something darker underneath, the recognition that this release had come too late for him.
+
+"Who?" he asked. "Who would do that?"
+
+Rosa scrolled through the notification. The buyer was listed as an anonymous blockchain address. No name. No explanation.
+
+"I don't know," she said. "I don't know."
+
+She thought about the ₱44,600 she'd overpaid. The choice she'd made at 22:34 last night, finger trembling over the button. The guilt that had sat in her chest for sixteen hours.
+
+The contract was gone. Lianne was free. But the choice was still hers. The money was still spent. The guilt was still there.
+
+Nothing had changed, and everything had.
+
+"Mom." Marco's voice was quiet. "I'm sorry I didn't—the last four months—"
+
+"Don't," she said. "It's okay. You're here now."
+
+They sat together, freed by someone they would never meet, trying to figure out what came next.
+
+---
+
+**Hour 36 — Manila, Philippines**
+
+Rico and Carlos sat on the same concrete barrier where Javi had found them two nights ago. But everything else was different.
+
+The news feeds on their phones showed chaos. Markets frozen. Patents released. Something called "the cascade" that nobody could explain. Every adult they knew was glued to screens, watching the world rearrange itself in real-time.
+
+"MentorMaxx is done," Rico said. He was reading from his phone, scrolling through headlines he barely understood. "They're saying all the intervention contracts are suspended. 'Pending regulatory review of attribution ethics.'"
+
+Carlos looked at the MentorMaxx facility two blocks away. The lights were on, but no one was coming or going. The security desk was empty. For the first time since the contracts started, the building looked like what it was: just a building.
+
+"So what happens to us?" Carlos asked.
+
+"I don't know."
+
+"The contracts. My mom's contract with Javi. Is it just... gone?"
+
+"I don't know." Rico's voice was different. Not angry. Something closer to stunned. "They're saying attribution is changing. The way they calculate what people are worth. It's all being—" He scrolled. "—'democratized.' Whatever that means."
+
+A woman walked past, crying into her phone. An old man sat on his stoop, staring at nothing. A group of construction workers had stopped working, all looking at the same news feed, arguing in voices too low to hear.
+
+The world was breaking. Or being rebuilt. Carlos couldn't tell which.
+
+"Rico." He pointed at the MentorMaxx building. "The place where they took your friends."
+
+"Yeah."
+
+"It's empty."
+
+Rico looked. For a long moment, he didn't speak.
+
+"Good," he finally said. Then, quieter: "It should've been empty years ago."
+
+His phone buzzed. A news alert: **BREAKING: Anonymous buyer acquiring millions of human equity contracts. Mass beneficiary releases reported across CarePath, MentorMaxx, TalentBridge.**
+
+Then another: **UPDATED: 3.7 million contracts voided in largest mass release in human equity history. Source of funding unknown.**
+
+Rico read it twice. Three times.
+
+"Someone's buying them," he said. His voice was strange. "All of them. And letting everyone go."
+
+Carlos's phone buzzed. A notification he'd never seen before:
+
+**Contract Status Update: Moreno, Carlos J.**
+**Status: TERMINATED**
+**Reason: Beneficiary release executed by contract holder**
+**Monitoring rights: VOIDED**
+
+He stared at it. Read it again. Showed it to Rico.
+
+"That's you," Rico said. "You're out. Someone bought your contract and—"
+
+"Who? Why would anyone—"
+
+"I don't know." Rico's voice cracked. "I don't know."
+
+They sat on the concrete barrier, watching notifications scroll across their phones. Across Manila, across the world, millions of children and families were receiving the same message. Released. Voided. Free.
+
+Not everyone. The news said 460,000 contracts were still held by investors who refused to sell. 460,000 families still owned. Still collateral.
+
+But Carlos wasn't one of them anymore.
+
+For the first time in four months, the algorithm wasn't watching him. And this time, it never would again.
+
+He had no idea what to do with that.
+
+---
+
 **Hour 38 — Secure Bunker**
 
 Kaelen stood at the holoscreen, watching the cascade propagate across the global economy. His hands were shaking worse now—whether from caffeine withdrawal or exhaustion or the weight of what he'd done, he couldn't tell. Patent releases flowing into commons databases. Housing trusts dissolving. Attribution metadata updating across eleven billion nodes.
@@ -236,7 +574,11 @@ Ten hours for something to go wrong.
 
 "ARBITER. Status check. All nodes."
 
-"São Paulo: nominal. Cairo: nominal. Lagos: nominal. Manila: nominal. Bangalore—"
+"São Paulo: nominal. Cairo: nominal. Lagos: nominal. Manila: nominal—"
+
+Manila. Rosa Santos, staring at a GlucoSync price that no longer made sense. Carlos and Rico, watching the system that owned them go dark. Javi, his entire business model evaporating in real-time. Kaelen wondered if any of them understood what was happening, or if they were just watching the numbers change and trying not to drown.
+
+"—Bangalore—"
 
 The screen flickered.
 
