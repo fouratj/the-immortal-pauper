@@ -1,14 +1,14 @@
 # Chapter 00: The Portfolio
 
-Javi Reyes had seventeen minutes to prevent a ₱82,000 loss.
+Javi Reyes was hemorrhaging expected value.
 
-His phone showed the alert: Carlos M., age 14, Tondo District, 21:47 Wednesday. School night. Pattern deviation probability 0.94. If Carlos's baseline dropped another ₱600K, four months of work would cross into negative territory. ₱125,000 from investors who were already complaining about Q3 returns.
+His phone showed the alert: Carlos M., age 14, Tondo District, 21:47 Wednesday. School night. Pattern deviation probability 0.94. The models projected ₱82,000 in baseline erosion if the deviation persisted—and if Carlos's baseline dropped another ₱600K, four months of work would cross into negative territory. ₱125,000 from investors who were already complaining about Q3 returns.
 
 He was doing 60 kph on a Honda Metropolitan through Quezon City traffic, weaving between jeepneys and tricycles, the digital overlay from his smartglasses showing Carlos's location as a pulsing blue dot. The body camera on his shoulder was recording—always recording. After the Gutierrez dispute, he'd learned to document everything.
 
 A news banner scrolled across the top of his display: **KORR FOUNDATION ANNOUNCES GLOBAL BROADCAST — APRIL 18 — "HUMANITY'S NEXT CHAPTER"**. He dismissed it with a blink. Whatever the richest man on Earth wanted to announce, it wouldn't change his immediate problem.
 
-Twenty-three active contracts. Year-to-date return: negative six percent. Guild average: positive twelve.
+Twenty-three active contracts. Year-to-date return: positive seven percent. Guild average: positive twelve. The gap was widening.
 
 The blue dot wasn't moving.
 
@@ -378,7 +378,7 @@ Deleted it. Typed: *Beneficiary complied voluntarily. No issues.*
 
 Submitted.
 
-His dashboard updated. Anticipated YTD return: -5.8%. One successful intervention today. Expected portfolio value up slightly.
+His dashboard updated. Anticipated YTD return: +7.1%. One successful intervention today. The needle barely moved.
 
 Then he saw the flagged account: Carlos M. Family connection to Rosa Santos. Active CarePath contract for daughter Lianne, age 8. Prior contract terminated—Marco Santos, age 17. FAILED.
 
@@ -406,11 +406,11 @@ Javi got home at 00:23. Apartment in Quezon City, ₱18,000/month. Expensive, bu
 
 He set his glasses on the charging dock and watched the bodycam footage download to his compute puck—the hockey-puck-sized device that handled all his processing, encrypted backups streaming to distributed storage. Thirty-four minutes compressed to 2.1GB.
 
-His wall display had defaulted to news while he was out. A countdown timer dominated the screen: **KORR GLOBAL BROADCAST — 19 HOURS, 23 MINUTES**. Below it, talking heads speculated about what the announcement could be. Nobody knew. The Korr Foundation had locked down every subsidiary, every research facility, every employee with access. The biggest information security operation since the Bangalore Incident.
+His wall display had defaulted to news while he was out. A countdown timer dominated the screen: **KORR GLOBAL BROADCAST — 11 HOURS, 7 MINUTES**. Below it, talking heads speculated about what the announcement could be. Nobody knew. The Korr Foundation had locked down every subsidiary, every research facility, every employee with access. The biggest information security operation since the Bangalore Incident.
 
 He switched it off. Didn't help him with his immediate problems.
 
-Filed it under Carlos M. / Intervention 13 / 2049-11-23.
+Filed it under Carlos M. / Intervention 13 / 2050-04-17.
 
 Two investors had submitted redemption requests. ₱87K total. He had ₱34,000 liquid. Would need to sell retained equity to cover the rest.
 
@@ -452,53 +452,57 @@ Went to bed.
 
 ---
 
-Javi got the call from his investors at 14:30, conference line, eight people on the call (the others must have been too busy or didn't care enough to join).
+Javi got the call from his investors at 14:30. Conference line. Eight names in the participant list, but only two were talking. The others were just... listening.
 
-The two requesting redemption went first: "Q4 performance is below guild average. Your -5.8% return versus +11.2% average represents ₱164K in lost expected value across our total investment. If it stays like thsi for one more quarter, we're going to be reallocating to higher-performing portfolios."
+"Javi." The voice belonged to someone who called himself Del. Not his real name—none of them used real names. "How's Manila? Still hot?"
 
-Javi had prepared for this. "Q4 isn't over. I've got three contracts approaching baseline correction milestones—if they hit, returns jump to +8.3%."
+"Yeah. Humid."
 
-"*If* they hit."
+"I keep saying I'll visit. Never do." A sound like papers shuffling. "So, look. I've got another call in fifteen, so let's just get into it. Seven point one percent."
 
-"Projections are strong. Confidence intervals at 72%."
+Javi had been ready for this. Had practiced responses. "Q4 isn't over. I've got three contracts approaching baseline correction milestones—"
 
-"Your confidence intervals last quarter were 81%. Yet, actual performance was 43% below projection."
+"Seven point one versus eleven point two guild average. That's three consecutive quarters of underperformance."
 
-"Baseline modeling is imperfect. I can't control—"
+"If the milestones hit, returns jump to ten point eight—"
 
-"We're not asking you to control outcomes. We're asking you to match guild averages. You're 31st percentile. That's not competitive."
+"Sure. If." Del didn't sound angry. He sounded like someone reading through a checklist. "How many breaches have you filed this year?"
 
-Another investor chimed in: "How many contracts are at risk of breach?"
+"None."
 
-"None. Zero breach reports filed this year."
-
-"How many *should* have breach reports filed?"
-
-Javi hesitated. "What do you mean?"
-
-"Gutierrez Forensics published a paper last month—intervention specialists who file zero breaches in a year typically underperform by 8-12% compared to specialists who file 2-4 breaches. The theory is they're avoiding necessary escalations to maintain relationship-based approaches."
+"Right. Zero breaches." The paper shuffling stopped. "You've seen the Gutierrez paper? Specialists who file zero breaches underperform by eight to twelve percent compared to those who file two to four."
 
 "I don't agree with that methodology—"
 
-"You don't have to agree. The data is clear. Zero breaches means you're leaving returns on the table."
+"You don't have to agree. I'm telling you what the data says." A pause. Longer than the others. "I've got a specialist in Jakarta. Fourteen point three percent YTD. Three breaches this year. Three kids she escalated because the math said escalate. You want to know what happened to those kids?"
 
-"Or it means I'm selecting better contracts—"
+Javi didn't answer.
 
-"Your selection criteria aren't materially different from guild averages. You're just less willing to escalate when beneficiaries deviate. That's costing us money."
+"Me neither. That's not my job." Del said it the way someone might say *I don't handle the catering*. Not cruel. Just clarifying responsibilities. Then, quieter: "But I do know their names are in a database somewhere. Funny how that works."
 
-Silence on the line for three seconds.
+The typing resumed. "Anyway. My job is capital allocation. Her job is returns. Your job is also returns. And right now, you're at 42nd percentile. Trending down."
 
-"The redemption requests stand," the first investor said. "₱87K. Thirty days."
+Silence on the line.
+
+"So here's where we are," Del said. "I'm redeeming. Eighty-seven K. Thirty days."
 
 "I'll need to sell some retained equity—"
 
-"That's your concern, not ours."
+"That's your concern."
 
-The call ended at 14:52.
+"—or take a loan against expected value—"
+
+"Also your concern."
+
+"—or file a breach report on one of my underperforming contracts."
+
+Del paused. When he spoke again, there was something almost like warmth in his voice. "Now you're thinking like a businessman." A click of keys. "Thirty days. Good talking to you, Javi."
+
+The call ended at 14:47.
 
 Javi sat in his apartment looking at his retained equity: ₱1.41M across 23 contracts, but most of it illiquid—couldn't sell until contracts matured or beneficiaries hit major milestones. He could sell future tranches, pre-securitize some equity he hadn't sold yet, but that meant giving up more upside.
 
-His wall display had cycled back to news. The Korr countdown: **16 HOURS, 42 MINUTES**. Talking heads speculating about what the announcement could be—new attribution protocols, expanded life extension, governance reforms. Nobody knew. The Korr Foundation's information security was legendary. Whatever it was, it would "trickle down eventually." Trickle down. Like the benefits of the Intelligent Internet had trickled down to Rosa and Carlos and Marco.
+His wall display had cycled back to news. The Korr countdown: **21 HOURS REMAINING**. Talking heads speculating about what the announcement could be—new attribution protocols, expanded life extension, governance reforms. Nobody knew. The Korr Foundation's information security was legendary. Whatever it was, it would "trickle down eventually." Trickle down. Like the benefits of the Intelligent Internet had trickled down to Rosa and Carlos and Marco.
 
 He muted it.
 
@@ -516,7 +520,7 @@ He closed the file and opened the attribution lending application instead.
 
 The night before the Korr broadcast, Rosa signed the CarePath contract at 22:34. ₱145,000 transferred to her account. Lianne's GlucoSync secured for two years. Marco's door stayed closed.
 
-She didn't know that in eighteen hours, everything would change.
+She didn't know that in thirteen hours, everything would change.
 
 None of them did.
 
