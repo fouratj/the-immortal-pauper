@@ -36,19 +36,25 @@ He authorized another thousand transfers and drank cold coffee that tasted like 
 
 **Hour 12 — Cairo, Egypt**
 
-Hassan checked his phone while inspecting the wheat. The licensing fee notification—the one that came every month, ₱2,400 for genetics his grandfather's grandfather had developed—didn't appear.
+Hassan's fingertips were cracked from the irrigation channels—the kind of cracks that never fully healed, that split open again every morning when he gripped the shovel. Thirty-seven generations of his family had developed those same cracks in those same channels, tending wheat strains they'd bred before anyone called it "genetics."
 
-He refreshed. Checked his account. The deduction hadn't processed.
+He checked his phone one-handed, the other still holding a stalk of durum, feeling the familiar weight of grain that wouldn't be his until AgriGen's licensing fee cleared. The notification should have come at 06:00. It was 06:47.
 
-He opened the agricultural commons database. His family's wheat strain—the one that had been patented in 2031 by AgriGen International—showed a new status: **COMMONS. Patent released April 18, 2050.**
+He refreshed. Nothing.
 
-Hassan sat down in the dirt. 
+The sun was coming up over the Delta, that particular Egyptian gold that painters had been trying to capture for five thousand years. Hassan barely noticed it anymore. But he noticed the silence where the notification should be.
 
-Next month's bill wouldn't come. The month after that. Never again.
+He pulled up the agricultural commons database. His thumb left a smear of Nile mud on the screen.
 
-Relief. He thought about what he could use that money for
+**COMMONS. Patent released April 18, 2050.**
 
-It was over.
+He read it three times. His hand was shaking—not fear, something older. The stalk of wheat was still in his other hand. He looked at it. Really looked at it, for the first time in years. The same strain his grandfather had shown him when he was seven, explaining how the particular curve of the awn caught Delta morning light.
+
+"This is ours," his grandfather had said. "Whatever the papers say."
+
+Hassan sat down in the irrigation channel. Muddy water soaked through his trousers. He didn't care. He was holding wheat that finally, legally, belonged to the people who'd made it.
+
+It smelled like wet earth and something else. Something that might have been nine hundred years of accumulated relief.
 
 ---
 
@@ -254,7 +260,9 @@ Kaelen looked at the dead coffee maker, the empty thermos, the holoscreens showi
 
 Rosa woke to seventeen notifications.
 
-She'd fallen asleep at the kitchen table, head on her arms, the CarePath contract confirmation still glowing on her phone. ₱145,000 already transferred—₱80,000 moved to her savings, ₱48,000 prepaying Lianne's GlucoSync for the next ten months, the rest earmarked for Marco's therapy intake. The decision made, the guilt not yet processed.
+Her eyes were gritty from no sleep—the particular sandpaper feeling of a twelve-hour shift followed by three hours of watching notifications she didn't understand. She'd fallen asleep at the kitchen table, head on her arms, the CarePath contract confirmation still glowing on her phone. ₱145,000 already transferred—₱80,000 moved to her savings, ₱48,000 prepaying Lianne's GlucoSync for the next ten months, the rest earmarked for Marco's therapy intake. The decision made, the guilt not yet processed.
+
+The kitchen smelled like cold adobo and the cheap coffee she'd reheated twice. Marco was still in his room—she could hear the faint bass through his door, the same music he'd been playing for four months, the sound of a boy who'd stopped being able to face the world.
 
 The notifications were all from CarePath:
 
@@ -282,23 +290,35 @@ Rosa opened the news. Her phone showed headlines she couldn't process:
 
 She didn't understand most of it. But she understood one line, buried in a financial article: *"Monthly nanopatch subscriptions that previously cost ₱4,800 will now be available for ₱340—the approximate manufacturing cost—as patent licensing fees are eliminated."*
 
-₱340. Starting now. For everyone who *hadn't* already signed a contract.
+₱340.
 
-Rosa sat very still. She'd paid ₱48,000 to prepay ten months of GlucoSync at the old price. At ₱340/month, ten months would have cost ₱3,400.
+She blinked. Rubbed her eyes with the heel of her hand—the same hand that had signed the contract sixteen hours ago, the hand that still remembered the weight of pressing [Accept].
 
-She'd overpaid by ₱44,600. But that wasn't what made her hands shake.
+₱340.
+
+The number sat on her screen like an accusation. She'd paid ₱48,000 to prepay ten months at the old price. At ₱340, ten months was ₱3,400.
+
+She did the math without wanting to. Her body did it automatically, the way it had been doing survival math for eight years—since Lianne was born, since the insurance ran out, since the first nanopatch prescription arrived with a price that made her sit down on the pharmacy floor and cry.
+
+₱44,600. She'd overpaid by ₱44,600. For everyone who *hadn't* already signed a contract, the price was just... gone. The weight she'd been carrying for eight years, the monthly terror of choosing between rent and her daughter's blood sugar—gone. For everyone but her.
+
+But that wasn't what made her hands shake.
 
 The contract was still in the blockchain. Lianne's data—her health metrics, her location, her behavioral patterns—was still pledged to CarePath's monitoring systems. The company was dissolving, but the contract existed. Someone would buy those assets in bankruptcy. Someone would own the right to track her daughter.
 
 She'd sold Lianne's future to solve a problem that, sixteen hours later, no longer existed.
 
-From Marco's room, the music had stopped. She heard something she hadn't heard in four months: his door opening.
+Seven hours. She'd missed it by seven hours.
+
+The kitchen was very quiet. She could hear Marco breathing through the thin walls—the bass had stopped. She could hear the neighbor's TV, still talking about markets and patents and words she didn't understand. The cold adobo sat on the counter, congealed fat forming a skin on the sauce. She should put it away. She couldn't move.
+
+From Marco's room, she heard something she hadn't heard in four months: his door opening.
 
 "Mom?" His voice was hoarse from disuse. "Mom, are you seeing this? The news—they're saying patents, they're saying everything is—"
 
-Rosa looked at her son. The first time she'd seen his face in four months. He looked older. Thinner. But he was *here*.
+Rosa looked at her son. The first time she'd seen his face in four months. He looked older. Thinner. His eyes had that careful quality, the way he'd breathed since he came back from the facility—shallow, watchful, like a dog that had been hit too many times. But he was *here*.
 
-"I signed the contract," she said. Her voice sounded strange to her own ears. "Last night. For Lianne. I signed it."
+"I signed the contract," she said. Her voice came out strange to her own ears. "Last night. For Lianne. I signed it."
 
 Marco's face did something complicated. He knew what those contracts meant. He'd lived it.
 
@@ -312,11 +332,15 @@ Valid. The word sat in her chest like a stone.
 
 Marco hesitated. Then crossed the kitchen and sat in the chair across from her.
 
-They sat in silence, watching the world rearrange itself on their phones. Rosa's contract status still showed *ACTIVE*. Lianne's future still pledged to whoever owned CarePath's assets.
+They sat in silence, watching the world rearrange itself on their phones. Rosa's contract status still showed *ACTIVE*. Lianne's future still pledged to whoever owned CarePath's assets. The adobo grew colder. The neighbor's TV kept talking. The morning light came through the window, that gray-gold Manila light that never looked quite clean.
 
 She didn't know that in two hours, that would change. That someone in a bunker on the other side of the world was about to spend $1.23 billion buying contracts like hers—and voiding them.
 
-For now, she just sat with her son, watching the chaos, waiting for whatever came next.
+For now, she just sat with her son—actually sat with him, his face thinner than she remembered, his eyes older—and lied.
+
+"It's going to be okay," she said.
+
+Marco didn't answer. They both knew what contracts meant.
 
 ---
 
@@ -487,13 +511,19 @@ They sat together, freed by someone they would never meet, trying to figure out 
 
 **Hour 36 — Manila, Philippines**
 
-Rico and Carlos sat on the same concrete barrier where Javi had found them two nights ago. But everything else was different.
+The MentorMaxx building had always hummed.
 
-The news feeds on their phones showed chaos. Markets frozen. Patents released. Something called "the cascade" that nobody could explain. Every adult they knew was glued to screens, watching the world rearrange itself in real-time.
+Rico could feel it through the concrete barrier—that particular vibration of industrial air conditioning and server rooms and whatever machines they used to process kids into data. He'd sat on this barrier a hundred times over the past two years, watching friends go in, watching some of them come out different, watching one of them not come out at all.
 
-"MentorMaxx is done," Rico said. He was reading from his phone, scrolling through headlines he barely understood. "They're saying all the intervention contracts are suspended. 'Pending regulatory review of attribution ethics.'"
+Now the hum was gone.
 
-Carlos looked at the MentorMaxx facility two blocks away. The lights were on, but no one was coming or going. The security desk was empty. For the first time since the contracts started, the building looked like what it was: just a building.
+He touched the scars on his shoulder without thinking—the old burns, the pattern he'd made himself at sixteen, the only thing in his life that had ever felt like a choice. The scars were smooth under his fingers. The same texture for nine years. He'd burned them there the week after Manny went into the facility and stopped being Manny.
+
+Carlos sat next to him on the barrier, scrolling through news feeds neither of them understood. Markets frozen. Patents released. Something called "the cascade" that nobody could explain. Every adult they knew was glued to screens, watching the world rearrange itself in real-time.
+
+"MentorMaxx is done," Rico said. He was reading from his phone, the words swimming in front of his eyes. "They're saying all the intervention contracts are suspended. 'Pending regulatory review of attribution ethics.'"
+
+Carlos looked at the building two blocks away. The lights were on, but the windows were wrong. Empty wrong. No silhouettes moving behind the frosted glass. No security at the front desk. Just fluorescent light falling on nobody.
 
 "So what happens to us?" Carlos asked.
 
@@ -503,9 +533,7 @@ Carlos looked at the MentorMaxx facility two blocks away. The lights were on, bu
 
 "I don't know." Rico's voice was different. Not angry. Something closer to stunned. "They're saying attribution is changing. The way they calculate what people are worth. It's all being—" He scrolled. "—'democratized.' Whatever that means."
 
-A woman walked past, crying into her phone. An old man sat on his stoop, staring at nothing. A group of construction workers had stopped working, all looking at the same news feed, arguing in voices too low to hear.
-
-The world was breaking. Or being rebuilt. Carlos couldn't tell which.
+A woman walked past, crying into her phone. An old man sat on his stoop, staring at nothing. A group of construction workers had stopped working, all looking at the same news feed, arguing in voices too low to hear. The sun was coming up over Manila, that gray-gold light that never looked clean, and somewhere in the distance a jeepney horn was honking, and the world was breaking. Or being rebuilt. Carlos couldn't tell which.
 
 "Rico." He pointed at the MentorMaxx building. "The place where they took your friends."
 
@@ -513,15 +541,21 @@ The world was breaking. Or being rebuilt. Carlos couldn't tell which.
 
 "It's empty."
 
-Rico looked. For a long moment, he didn't speak.
+Rico looked. Really looked, for the first time in two years without flinching away. The building was silent. The kids inside—however many were left—they'd be walking out soon. Or their parents would come get them. Or something. He didn't know how it worked when the machine broke.
 
-"Good," he finally said. Then, quieter: "It should've been empty years ago."
+He thought about the three friends who'd gone in. Two came back different. One didn't come back.
+
+"Too late," he said quietly. His voice cracked on the words.
+
+"What?"
+
+"Nothing." He swallowed. "Good. It should've been empty years ago."
 
 His phone buzzed. A news alert: **BREAKING: Anonymous buyer acquiring millions of human equity contracts. Mass beneficiary releases reported across CarePath, MentorMaxx, TalentBridge.**
 
 Then another: **UPDATED: 3.7 million contracts voided in largest mass release in human equity history. Source of funding unknown.**
 
-Rico read it twice. Three times.
+Rico read it twice. Three times. His hand was shaking—the same hand that had held a knife two nights ago, ready to stab a guy who was just doing his job, because the system didn't give you any other way to fight back.
 
 "Someone's buying them," he said. His voice was strange. "All of them. And letting everyone go."
 
@@ -538,7 +572,7 @@ He stared at it. Read it again. Showed it to Rico.
 
 "Who? Why would anyone—"
 
-"I don't know." Rico's voice cracked. "I don't know."
+"I don't know." Rico's voice cracked harder. "I don't know."
 
 They sat on the concrete barrier, watching notifications scroll across their phones. Across Manila, across the world, millions of children and families were receiving the same message. Released. Voided. Free.
 
@@ -546,7 +580,15 @@ Not everyone. The news said 460,000 contracts were still held by investors who r
 
 But Carlos wasn't one of them anymore.
 
-For the first time in four months, the algorithm wasn't watching him. And this time, it never would again.
+Rico was crying. He didn't realize it until Carlos looked at him weird, and then he felt the wetness on his face, the first tears in four years. Someone had finally broken the machine that had broken his friends and it was too fucking late for any of them and he was crying on a concrete barrier in Tondo while the sun came up and the world rearranged itself around them.
+
+"You okay?" Carlos asked.
+
+Rico wiped his face with the back of his hand. The scars on his shoulder pulled when he moved. They always did.
+
+"No," he said. "But maybe that's okay."
+
+For the first time in four months, the algorithm wasn't watching Carlos. For the first time in two years, the building wasn't humming. And Rico sat on the concrete barrier, touching the scars he'd given himself because it was the only choice he'd ever had, and watched the machine go quiet.
 
 He had no idea what to do with that.
 
