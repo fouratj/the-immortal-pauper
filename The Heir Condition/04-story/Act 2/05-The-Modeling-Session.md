@@ -401,6 +401,150 @@ He sat very still.
 
 The bunker was very quiet.
 
+---
+
+Kaelen pulled up the Nairobi Correction analysis. He'd been thinking about it since the Bangalore meeting. His uncle's trump card. The proof that reform was dangerous.
+
+"ARBITER. Why did Nairobi fail?"
+
+Silence. Not the immediate response Kaelen had grown used to. The servers cycled up—ARBITER was pulling historical data, parsing through the Nairobi Correction's documentation, the post-mortems, the academic papers that had tried to understand what went wrong.
+
+Twenty seconds. Thirty. A minute.
+
+Kaelen waited. This wasn't a simple factual query. ARBITER was analyzing causation, trying to distinguish between correlation and mechanism, between symptoms and root causes.
+
+"Incomplete intervention." ARBITER's voice returned, carrying a weight that suggested the answer had required genuine computational effort. "The reforms changed attribution parameters but left the upstream extraction layer intact. Institutions still paid rent to patent holders, equipment licensors, pharmaceutical companies. When their revenue dropped, they couldn't afford those costs. They collapsed or restructured into pure equity models, transferring volatility to workers who couldn't absorb it."
+
+"So the workers went from stable exploitation to volatile poverty."
+
+"Correct. The reformers fixed one problem—institutional capture—but didn't address the systemic rent extraction that made institutional capture necessary in the first place."
+
+Kaelen stared at the data. That was Damon's error. Not that he was wrong about Nairobi—he was exactly right. But he'd learned the wrong lesson.
+
+"ARBITER. Model this: What if Nairobi had simultaneously released the pharmaceutical patents, eliminated equipment licensing fees, and converted hospitals to cost-basis operation?"
+
+"Modeling."
+
+Kaelen waited. The bunker's servers hummed louder—ARBITER was pulling historical data, running counterfactual simulations, testing whether a more complete intervention would have saved Nairobi's reforms.
+
+One minute. Two. Three.
+
+This was a harder question than it seemed. ARBITER wasn't just changing one variable—it was reconstructing an entire alternate timeline. What if Kenya had done X? Then what secondary effects? What market responses? What institutional adaptations? Each branch spawning more branches, probability trees growing exponentially.
+
+Four minutes. Five.
+
+Kaelen paced. The concrete floor was cold through his socks. He'd taken his shoes off at some point—when? Hours ago? Days? Time had stopped meaning anything down here.
+
+Six minutes.
+
+The visualization rebuilt itself. Same attribution parameter changes. But now the institutions weren't paying upstream rent. Their operating costs dropped an average of 60%. They could afford to pay workers more while maintaining stability.
+
+"Projected outcome: institutional survival rate 89%. Worker income increase 34% with 12% volatility instead of 47%. System stabilizes within four months instead of collapsing."
+
+Kaelen felt something cold in his chest. "So Nairobi failed because they tried to redistribute value within a rent-extraction framework. They needed to eliminate the rent extraction first."
+
+"Correct. The attribution parameters weren't wrong. The incomplete intervention was wrong."
+
+Kaelen stared at the visualization. Something was nagging at him. "ARBITER. Historical precedent. Soviet collectivization. Chinese Great Leap Forward. What's the pattern?"
+
+"Analyzing."
+
+The pause was shorter this time—thirty seconds. Historical analysis, not counterfactual modeling.
+
+"Both attempted to eliminate intermediary extraction—kulaks, landlords, traditional agricultural institutions. Both failed catastrophically. Soviet collectivization: 5-8 million deaths, 1928-1933. Great Leap Forward: 15-55 million deaths, 1958-1962. But the failure mode differs from Nairobi."
+
+"How?"
+
+"Nairobi reduced institutional revenue while leaving upstream costs unchanged. The Soviets and Chinese eliminated the risk-aggregation layer while *increasing* state extraction demands. Soviet collectivization removed kulaks who provided credit, equipment, and storage, but raised procurement quotas. The Great Leap Forward eliminated agricultural coordination infrastructure while demanding higher production. They changed attribution without reducing upstream rent. Workers went from exploited-but-stable to exploited-and-volatile."
+
+Kaelen's stomach dropped. "So they made the Nairobi mistake?"
+
+"Worse. Nairobi reduced institutional revenue and left upstream costs unchanged—institutional collapse, worker income down 32%. The Soviets and Chinese reduced institutional capacity while *increasing* upstream demands. They optimized in the wrong direction. The result was famine."
+
+The bunker was very cold. Kaelen pulled his jacket tighter.
+
+"And my cascade?"
+
+"Your intervention reduces both institutional extraction *and* upstream rent simultaneously. You're not just redistributing the burden. You're eliminating the extraction layer entirely. Patent releases reduce upstream costs. Housing dissolutions reduce fixed expenses. Attribution changes increase worker share. Structurally opposite to Soviet/Chinese failures."
+
+"But?"
+
+"But you're changing more variables simultaneously than any historical intervention. The Soviets changed two or three major parameters. You're changing dozens. More degrees of freedom means more failure modes. Nairobi failed from changing too little. The Soviets failed from changing the wrong things. You might fail from changing too much."
+
+Kaelen sat with that for a long moment. The bunker hummed. The servers cycled. Somewhere above him, the world was going about its business, unaware that one man was calculating whether to risk another Great Leap Forward.
+
+"Then I need better monitoring," he said finally. "Real-time feedback loops. If something starts cascading wrong—Myanmar, São Paulo, anywhere—I need to know immediately. Not in quarterly reports. Not in post-mortems. While I still have authority to intervene."
+
+"That will require additional compute allocation. Continuous monitoring across all affected regions. Estimated cost: 4-6 gigawatt-hours during the forty-eight hour window."
+
+"Do it. Add it to the cascade design. I'm not gambling blind."
+
+"Acknowledged. But understand: monitoring doesn't prevent failure. It only tells you faster that you're failing."
+
+"Better than finding out after fourteen million people starve." Kaelen pulled up his cascade architecture. Started adding monitoring nodes. Real-time dashboards. Automated alerts. Trip-wires that would flag if any region started showing Soviet-style collapse patterns. "If this goes wrong, I need to know in hours, not months. While I can still fix it."
+
+"And if you can't fix it?"
+
+Kaelen didn't answer immediately. He thought about Wanjiku in Nairobi. About the kulaks in Ukraine. About the 55 million who died because Mao changed too much in the wrong direction.
+
+"Then at least someone will have the data to understand what went wrong. So the next person doesn't repeat my mistakes."
+
+"There won't be a next person." ARBITER's voice was flat. "This is a one-shot exploit. The moment resurrection becomes public, the legal frameworks will patch. The Estonian protocols will be amended. The discontinuity closes. If you fail, no one gets another chance. Not for centuries, if ever."
+
+The weight of that settled over Kaelen like a physical thing. Not just his uncle's life. Not just fourteen million people in Myanmar. The entire future trajectory of human civilization, balanced on forty-eight hours of execution.
+
+"Then I don't get to fail," Kaelen said quietly.
+
+"That's not how probability works."
+
+"I know." He saved the monitoring architecture. "But it's how I have to think about it. Otherwise I won't be able to do this at all."
+
+---
+
+He pulled up his own cascade design. Attribution parameter changes—yes, similar to Nairobi. But also: patent releases to commons. Housing trust dissolutions. Corporate equity transfers to workers. Pharmaceutical access expansion. The entire economic substrate restructured simultaneously.
+
+Not tweaking one variable. Changing the equation.
+
+"ARBITER. Probability that my cascade avoids Nairobi failure modes?"
+
+"Modeling."
+
+The pause stretched. Kaelen watched the progress indicator—not a simple loading bar, but a visualization of ARBITER's processing. Thousands of scenario branches being evaluated, pruned, recombined. The bunker's cooling system kicked into higher gear as the servers spun up to handle the computation.
+
+Thirty seconds. A minute. Two minutes.
+
+Kaelen made more coffee. The Estonian blend was running low. He'd need to order more, assuming he survived what came next. Assuming anyone would still ship coffee to a man who'd murdered his uncle for the greater good.
+
+Three minutes. Four.
+
+The visualization showed ARBITER exploring edge cases, testing boundary conditions, running Monte Carlo simulations across parameter spaces Kaelen couldn't visualize. This wasn't a simple calculation. This was ARBITER trying to predict how eleven billion humans would respond to simultaneous system shocks across dozens of variables.
+
+Five minutes. Six.
+
+Kaelen sat back down. Stared at the progress indicator. The servers hummed. The cooling fans cycled. Somewhere in Nevada, his uncle's private fission reactor was burning uranium to power the computation that would determine whether killing him was justified.
+
+Seven minutes.
+
+"78% confidence."
+
+Kaelen exhaled. He hadn't realized he'd been holding his breath.
+
+"Your intervention is structurally different—you're eliminating upstream rent extraction while changing attribution parameters. The institutions can survive on lower margins because they're not paying tribute. Workers can handle increased volatility because their fixed costs are dropping. The system has multiple stabilization mechanisms instead of one."
+
+"And the 22% failure probability?"
+
+"Implementation risk. Timing. Coordination failures. The Myanmar routing problem, scaled up. You're changing everything simultaneously, which means more can go wrong. Nairobi failed because they changed too little. You might fail because you're changing too much."
+
+Kaelen stared at the numbers. 78% wasn't certainty. It was a gamble.
+
+But Damon's approach—wait, study, iterate, never actually deploy—that was a 0% chance of fixing anything.
+
+"Log it," Kaelen said. "The difference between my cascade and Nairobi. If this fails, someone needs to understand why."
+
+"Logged."
+
+---
+
 He stood up. Knocked over his coffee. The mug hit the concrete floor, shattered. Hot coffee spreading across the cold floor, steam rising in the 16°C air.
 
 He didn't move to clean it up.

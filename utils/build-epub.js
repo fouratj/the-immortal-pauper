@@ -67,12 +67,21 @@ async function buildEpub() {
   // Create output directory
   await mkdir(OUTPUT_DIR, { recursive: true });
 
-  // Get all markdown files, sorted
-  const files = await readdir(STORY_DIR);
-  const mdFiles = files
-    .filter(file => file.endsWith('.md'))
-    .sort()
-    .map(file => join(STORY_DIR, file));
+  // Get all markdown files from all acts, sorted
+  const acts = ['Act 1', 'Act 2', 'Act 3', 'Appendix'];
+  const mdFiles = [];
+
+  for (const act of acts) {
+    const actDir = join(STORY_DIR, act);
+    if (existsSync(actDir)) {
+      const files = await readdir(actDir);
+      const actFiles = files
+        .filter(file => file.endsWith('.md'))
+        .sort()
+        .map(file => join(actDir, file));
+      mdFiles.push(...actFiles);
+    }
+  }
 
   if (mdFiles.length === 0) {
     console.error('❌ No markdown files found in story directory');
@@ -82,7 +91,13 @@ async function buildEpub() {
   console.log(`📂 Source: ${STORY_DIR}`);
   console.log(`📝 Files found: ${mdFiles.length}\n`);
   
+  let currentAct = '';
   mdFiles.forEach(file => {
+    const actName = basename(dirname(file));
+    if (actName !== currentAct) {
+      currentAct = actName;
+      console.log(`\n   ${actName}:`);
+    }
     console.log(`   • ${basename(file)}`);
   });
   console.log('');

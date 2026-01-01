@@ -51,85 +51,77 @@ Damon turned from the window. His voice had shifted—not defensive, but pedagog
 
 "With respect, sir, calling systematic underpayment an 'emergent property' doesn't make it less harmful—"
 
-"Harmful in the short term, possibly. But consider the institutional layer you want to constrain." Damon pulled up a different visualization. "Manila General Hospital isn't just capturing Rosa's attribution arbitrarily. It's aggregating risk. It provides stable wages when patient outcomes are uncertain. It maintains equipment, ensures training standards, coordinates complex care networks. That institutional function has *value*, Dr. Tanaka. Real value. The attribution it captures reflects real contribution."
+"You're right. It doesn't." Damon's tone shifted—less pedagogical now, more serious. "Which is why I want to show you something." He pulled up a different dataset. "Dr. Tanaka, have you studied the Nairobi Correction of 2047?"
 
-He advanced the slide. "If we reduce institutional capture to 70%, we're not just 'correcting' the algorithm. We're changing the incentive structure for institutions to aggregate risk on behalf of workers. Some of those institutions will stop offering stable employment. They'll move to pure equity models—workers bear all the downside volatility for potential upside gain."
+Tanaka's face shifted. "The healthcare attribution reforms."
 
-Tanaka's jaw tightened. "Some workers might prefer that option—"
+"Exactly. Kenya deployed almost identical parameter changes to what you're proposing. Individual attribution caps raised from 5% to 18%. Institutional capture limited to 65%. The reforms were mathematically sound, ethically justified, and democratically approved." He advanced the slide. "The reformers thought they were fixing a bug. They were actually breaking an emergent property. Want to know what happened?"
 
-"Might prefer *having the option*, yes. But look at the behavioral economics data." Another slide. Kaelen recognized the research—his uncle had cited it in congressional testimony. "When given the choice between stable wages and equity participation, 73% of workers in developing economies choose stability. Because they can't afford not to. They have children. They have rent. They need predictability."
+The visualization showed a cascade of institutional failures. Hospitals closing. Care networks fragmenting. Employment dropping.
 
-Damon's voice was warming now, gaining momentum. This was the voice Kaelen had heard at a hundred dinner tables, explaining why some policy that seemed obviously good was actually more complicated than it appeared.
+"Within eight months, forty-three percent of Nairobi's healthcare institutions had dissolved or restructured. Not because they were extractive—because they couldn't aggregate risk anymore. The attribution they'd been capturing wasn't pure rent. It was *insurance*. They paid workers stable wages during patient outcome uncertainty. They maintained equipment during low-utilization periods. They absorbed liability when treatments failed."
 
-"So if we deploy your patch—which, again, is technically correct—we create a perverse incentive. Institutions exit the market because they can't capture enough attribution to justify risk aggregation. Workers gain theoretical access to their 'full' attribution, but lose access to the institutional stability that let them sleep at night. We've *optimized* them into a more precarious position."
+He pulled up worker outcome data. "The care workers—the ones we 'liberated' from institutional extraction—their average income dropped thirty-two percent in the first year. Because they went from stable wages to pure equity participation. When patients recovered, they earned more. When patients died, they earned nothing. And they couldn't afford the volatility."
 
-"That's assuming institutions provide value proportional to what they capture—"
+Tanaka's jaw tightened. "That's a failure of implementation, not—"
 
-"Are you suggesting they don't?" Damon's eyebrows raised—not hostile, genuinely curious. "Because that would require much more evidence than what you have here, that institutional overhead is pure extraction rather than genuine coordination cost. Do you have that evidence?"
+"It's a failure of *modeling*," Damon interrupted. "The reformers saw extraction. They were right—institutions were capturing value. But they didn't model what institutions were *doing* with that value. They treated risk aggregation as a bug in the system. It turned out to be an emergent property—one that workers depended on, even if they didn't realize it."
 
-"I have 847 cases where workers generate measurably more value than they receive—"
+He zoomed into specific cases. "Wanjiku Kimani. Home health aide. Under the old system: 8,400 shillings monthly, stable. Under the new system: average 6,100 shillings, highly volatile. She had to take a second job. Her patient outcomes declined because she was exhausted. Her attribution score dropped. She ended up worse off than before the 'fix.'"
 
-"Cases where workers generate more *individual* uplift than their wages reflect, yes. But individual uplift isn't the same as systemic value creation. Rosa's care work has measurable impact on her patients. Wonderful. Crucial. But who coordinates the schedule that ensures she's matched with patients who need her specific skills? Who maintains the liability insurance that protects her if something goes wrong? Who standardizes care protocols so hospitals across the Philippines can exchange best practices?"
+Kaelen watched the data. The Nairobi Correction had been celebrated initially. The papers had called it "economic justice." Six months later, the stories stopped. He'd never followed up on why.
 
-He leaned forward, and Kaelen saw something in his uncle's eyes—absolute certainty. Not performance. Belief.
+"So what happened?" Kaelen asked quietly.
 
-"The institutional layer isn't parasitic, Dr. Tanaka. It's load-bearing. And the attribution it captures reflects real work that you're not measuring because it's *invisible*. The moment it stops happening, you'll see the gap. But by then, we'll have dismantled the infrastructure that was providing it."
+"Kenya rolled back the reforms eighteen months later. Raised institutional caps back to 75%. The system restabilized. But the workers who'd been hurt in the transition—they never fully recovered. Wanjiku left healthcare entirely. Last I checked, she was working retail."
 
-Kaelen watched Tanaka's face. She looked like someone trying to argue with a particularly sophisticated theorem that seemed wrong but kept defeating every counterargument.
+Damon turned to Tanaka. "Your patch is technically correct. The math is sound. But you're not modeling second-order effects. You're not accounting for the institutional functions that *look* like extraction but are actually load-bearing. The difference between a bug and an emergent property isn't just semantic—it's the difference between fixing a system and breaking it."
 
-"The patch has a second-order effect you haven't modeled," Damon continued. "It's not just Manila. If we admit the parameters overcredit institutions *there*, we're admitting they might overcredit institutions *everywhere*. Every employer in every late-adopter economy will face pressure to justify their attribution capture. Every labor constituency will demand the same parameter adjustments. We'll spend the next decade in jurisdictional fights about attribution."
+Tanaka stood very still. "So we do nothing? We let Rosa keep earning a quarter of her value because fixing it might be messy?"
 
-"So we don't fix the problem because fixing it is politically inconvenient—"
+"No. We study Nairobi. We understand *why* it failed. We design a patch that preserves risk aggregation while reducing extraction. We test it in controlled deployments. We iterate." His voice softened. "Dr. Tanaka, I'm not saying the problem isn't real. I'm saying your solution is incomplete. And incomplete solutions to complex systems create casualties."
 
-"We don't fix an *alleged* problem without understanding whether we're correcting a bug or breaking an emergent stabilization mechanism." Damon's voice was gentle now. Almost kind. "Dr. Tanaka, I appreciate the work you've put into this. The analysis is rigorous. The technical implementation is elegant. But optimization isn't just mathematics. It's understanding that sometimes the gap between theory and outcome exists because reality has constraints we haven't modeled yet."
-
-He picked up the tablet. "If you believe these parameters need adjustment, take it through the governance process. Build consensus with the II Global Council. Demonstrate that institutional attribution is systematically miscalibrated, not just in Manila but everywhere. Get democratic buy-in. That's how we make changes that stick."
-
-"That process will takes years—"
-
-"Then the change will have legitimacy when it happens. Or—" Damon paused, and his voice dropped to something almost conspiratorial, like he was letting her in on a secret. "Or the process will surface considerations you haven't thought of yet, and you'll discover why the current parameters exist."
-
-He closed the proposal with a gesture. "The Bangalore Patch introduces uncertainty into a system that depends on predictable value flows. I can't approve it unilaterally without understanding the full systemic impact. And neither should you want me to—because unilateral parameter changes are exactly the kind of concentrated authority we built democratic governance to prevent."
+He pulled up one more image. Wanjiku Kimani's face. "I don't want Rosa to become the next Wanjiku. Do you?"
 
 The room was very quiet.
 
-"Is there anything else?"
+"Take it through the governance process," Damon said. "Build consensus. Study the Nairobi failure modes. Design something that actually works. That's how we make changes that stick."
 
-Tanaka stood very still for a moment. Her hands were shaking slightly. Not with rage—with something worse. The look of someone who'd just been intellectually outmaneuvered and couldn't find the flaw in the logic.
+Tanaka left without another word.
 
-"No, sir. Thank you for your time."
+---
 
-She left. The door closed with a soft click.
+Kaelen sat frozen in his corner. His tablet was blank.
 
-Kaelen sat frozen in his corner. He was supposed to be taking estate planning notes. His tablet was blank.
+His uncle had just done something worse than dismissing the problem. He'd *acknowledged* it—validated that Rosa was being exploited—and then shown why fixing it was dangerous. The Nairobi data was real. Wanjiku was real. The casualties were real.
 
-Damon turned to him. Smiled the warm smile that had comforted him through a hundred childhood nightmares. "Estate planning notes?"
+Damon turned to him. "Estate planning notes?"
 
-"Nothing relevant." Kaelen's voice came out steady. How was his voice steady? "Standard observation. I'll file it with the others."
+"Nothing relevant." Kaelen's voice came out steady. How was his voice steady?
 
-"Good." Damon returned to his tablet, already moving on to the next item. "Dinner Thursday? I've found a new chess variant I want to try on you."
+"Good." Damon returned to his tablet. "Dinner Thursday?"
 
-"Thursday," Kaelen said. "I'll be there."
+"Thursday," Kaelen said.
 
-He walked out of the conference room on legs that felt like someone else's. Found a bathroom on the 44th floor. Locked the door.
+He walked out on legs that felt like someone else's. Found a bathroom on the 44th floor. Locked the door.
 
 And stood there for eleven minutes, staring at his reflection.
 
-His uncle wasn't lying. That was the thing that made Kaelen's hands shake. Damon believed every word. The institutional value. The emergent properties. The democratic process.
+His uncle wasn't lying. The Nairobi Correction had failed. Wanjiku had been hurt. The incomplete solution had created casualties.
 
-He'd taken a simple observation—*Rosa is being robbed*—and generated a sophisticated theoretical framework where robbing Rosa was actually protecting her. Where fixing the robbery would hurt her worse. Where the people doing the robbing were providing invisible essential services that would only become visible once they stopped.
+But here's what made Kaelen's hands shake: **Damon had used one failure to justify inaction on hundreds of cases.** Yes, Nairobi went wrong. But that meant the solution needed refinement, not abandonment. It meant you study the failure, understand it, design better.
 
-And the framework was *coherent*. Internally consistent. Defensible in peer review.
+Instead, Damon had weaponized Nairobi. Turned one implementation failure into a reason to never try again. Used Wanjiku's suffering to justify Rosa's continued exploitation.
 
-That was when Kaelen understood: his uncle wasn't refusing to see. His uncle was seeing perfectly clearly through a lens so sophisticated, so theoretically rigorous, so *complete* that it made systematic extraction look like benevolent optimization.
+And the worst part? His uncle believed it. This wasn't cynical rationalization. Damon genuinely thought he was protecting Rosa by refusing to fix the system that was robbing her. He'd seen reform fail once, and he'd learned the wrong lesson: not "we need better reform," but "reform is too dangerous to attempt."
 
-The best lies aren't the ones you tell others. They're the ones you tell yourself with such intellectual rigor that they become indistinguishable from truth.
+That was when Kaelen understood: his uncle wasn't refusing to see. He was using *sophisticated pattern-matching* to generate reasons why every solution was too risky. He'd found the one case where reform failed, and he'd made it the template for rejecting all reform.
 
-Kaelen looked at his reflection in the bathroom mirror and thought: *He's never going to change.*
+The best lies aren't the ones you tell others. They're the ones you tell yourself with such intellectual rigor—backed by *real data*, *real casualties*, *real complexity*—that they become indistinguishable from wisdom.
+
+Kaelen looked at his reflection and thought: *He's never going to fix this.*
 
 Not because he couldn't understand.
 
-Because understanding would require admitting that twenty years of his beautiful, elegant, globally-deployed optimization system was just sophisticated wealth extraction with better mathematics.
-
-And that was something Damon Korr's mind would generate infinite sophisticated arguments to avoid.
+Because he'd learned to use understanding as a weapon against change.
 

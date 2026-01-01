@@ -36,6 +36,32 @@ function formatDisplayDate(date = new Date()) {
 }
 
 /**
+ * Get all markdown files from story directory (recursively through Acts)
+ */
+async function getStoryFiles() {
+  const acts = ['Act 1', 'Act 2', 'Act 3', 'Appendix'];
+  const allFiles = [];
+
+  for (const act of acts) {
+    const actDir = join(STORY_DIR, act);
+    if (existsSync(actDir)) {
+      const files = await readdir(actDir);
+      const mdFiles = files
+        .filter(file => file.endsWith('.md'))
+        .sort()
+        .map(file => ({
+          path: join(actDir, file),
+          name: file,
+          act: act
+        }));
+      allFiles.push(...mdFiles);
+    }
+  }
+
+  return allFiles;
+}
+
+/**
  * Main concatenation function
  */
 async function concatenateStory() {
@@ -43,8 +69,8 @@ async function concatenateStory() {
     console.log('🚀 Starting story concatenation...\n');
 
     // Check if source directory exists
-    if (!existsSync(SHORT_DIR)) {
-      throw new Error(`Source directory not found: ${SHORT_DIR}`);
+    if (!existsSync(STORY_DIR)) {
+      throw new Error(`Source directory not found: ${STORY_DIR}`);
     }
 
     // Create date-stamped output directory
@@ -52,38 +78,42 @@ async function concatenateStory() {
     const outputDir = join(DRAFTS_DIR, dateStamp);
     await mkdir(outputDir, { recursive: true });
 
-    const outputFile = join(outputDir, 'The Incompleteness of Empire.md');
+    const outputFile = join(outputDir, 'The Heir Condition.md');
 
-    console.log(`📂 Source: ${SHORT_DIR}`);
+    console.log(`📂 Source: ${STORY_DIR}`);
     console.log(`📝 Output: ${outputFile}\n`);
 
-    // Read all markdown files from the source directory
-    const files = await readdir(SHORT_DIR);
-    const mdFiles = files
-      .filter(file => file.endsWith('.md'))
-      .sort(); // Natural sort works because files are prefixed with numbers
+    // Get all story files
+    const storyFiles = await getStoryFiles();
 
-    if (mdFiles.length === 0) {
-      throw new Error('No markdown files found in source directory');
+    if (storyFiles.length === 0) {
+      throw new Error('No markdown files found in story directory');
     }
 
     // Build the concatenated content
     let content = '';
 
     // Add header
-    content += '# The Incompleteness of Empire\n\n';
+    content += '# The Heir Condition\n\n';
     content += `Compiled: ${formatDisplayDate()}\n\n`;
     content += '---\n\n';
 
     // Process each file
-    for (const filename of mdFiles) {
-      console.log(`  ✓ Adding: ${filename}`);
+    let currentAct = '';
+    for (const file of storyFiles) {
+      // Add act header if we're entering a new act
+      if (file.act !== currentAct) {
+        currentAct = file.act;
+        content += `\n# ${currentAct}\n\n`;
+        console.log(`\n📖 ${currentAct}:`);
+      }
+
+      console.log(`  ✓ Adding: ${file.name}`);
       
-      const filePath = join(SHORT_DIR, filename);
-      const fileContent = await readFile(filePath, 'utf-8');
+      const fileContent = await readFile(file.path, 'utf-8');
       
       // Add source comment
-      content += `\n<!-- Source: ${filename} -->\n\n`;
+      content += `\n<!-- Source: ${file.act}/${file.name} -->\n\n`;
       
       // Add file content
       content += fileContent;
@@ -97,7 +127,7 @@ async function concatenateStory() {
 
     console.log('\n✨ Concatenation complete!');
     console.log(`📄 Output saved to: ${outputFile}`);
-    console.log(`📊 Total files processed: ${mdFiles.length}\n`);
+    console.log(`📊 Total files processed: ${storyFiles.length}\n`);
 
   } catch (error) {
     console.error('\n❌ Error:', error.message);

@@ -11,7 +11,7 @@ const __dirname = dirname(__filename);
 
 // Define paths
 const PROJECT_ROOT = dirname(__dirname);
-const SHORT_DIR = join(PROJECT_ROOT, 'The Incompleteness of Empire', '04-short');
+const STORY_DIR = join(PROJECT_ROOT, 'The Heir Condition', '04-story');
 
 /**
  * Count words in text (excludes markdown syntax, HTML comments)
@@ -156,6 +156,32 @@ function printDivider() {
 }
 
 /**
+ * Get all markdown files from story directory (recursively through Acts)
+ */
+async function getStoryFiles() {
+  const acts = ['Act 1', 'Act 2', 'Act 3', 'Appendix'];
+  const allFiles = [];
+
+  for (const act of acts) {
+    const actDir = join(STORY_DIR, act);
+    if (existsSync(actDir)) {
+      const files = await readdir(actDir);
+      const mdFiles = files
+        .filter(file => file.endsWith('.md'))
+        .sort()
+        .map(file => ({
+          path: join(actDir, file),
+          name: file,
+          act: act
+        }));
+      allFiles.push(...mdFiles);
+    }
+  }
+
+  return allFiles;
+}
+
+/**
  * Main statistics function
  */
 async function generateStats() {
@@ -163,25 +189,22 @@ async function generateStats() {
     console.log('\n📊 Generating Story Statistics...\n');
 
     // Check if source directory exists
-    if (!existsSync(SHORT_DIR)) {
-      throw new Error(`Source directory not found: ${SHORT_DIR}`);
+    if (!existsSync(STORY_DIR)) {
+      throw new Error(`Source directory not found: ${STORY_DIR}`);
     }
 
-    // Read all markdown files
-    const files = await readdir(SHORT_DIR);
-    const mdFiles = files
-      .filter(file => file.endsWith('.md'))
-      .sort();
+    // Get all story files
+    const storyFiles = await getStoryFiles();
 
-    if (mdFiles.length === 0) {
-      throw new Error('No markdown files found in source directory');
+    if (storyFiles.length === 0) {
+      throw new Error('No markdown files found in story directory');
     }
 
     // Analyze each file
     const stats = [];
-    for (const filename of mdFiles) {
-      const filePath = join(SHORT_DIR, filename);
-      const fileStats = await analyzeFile(filePath);
+    for (const file of storyFiles) {
+      const fileStats = await analyzeFile(file.path);
+      fileStats.act = file.act; // Add act information
       stats.push(fileStats);
     }
 
@@ -203,10 +226,17 @@ async function generateStats() {
     printRow('Chapter', 'Words', 'Paragraphs', 'Reading Time');
     printDivider();
 
+    let currentAct = '';
     stats.forEach(stat => {
+      // Print act header if we're entering a new act
+      if (stat.act !== currentAct) {
+        currentAct = stat.act;
+        console.log(`\n  ${currentAct}\n`);
+      }
+
       const shortName = stat.filename.replace('.md', '');
       printRow(
-        shortName,
+        '  ' + shortName,
         formatNumber(stat.words),
         formatNumber(stat.paragraphs),
         stat.readingTime

@@ -1,0 +1,31 @@
+{
+  "name": "the-heir-condition",
+  "version": "1.0.0",
+  "description": "Utilities for managing and building The Heir Condition story",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "concat": "node utils/concat-story.js",
+    "build": "node utils/concat-story.js",
+    "epub": "node utils/build-epub.js",
+    "stats": "node utils/stats.js",
+    "wc": "node utils/stats.js"
+  },
+  "bin": {
+    "concat-story": "./utils/concat-story.js",
+    "story-stats": "./utils/stats.js"
+  },
+  "keywords": [
+    "story",
+    "writing",
+    "utilities",
+    "epub",
+    "neal-stephenson"
+  ],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
+

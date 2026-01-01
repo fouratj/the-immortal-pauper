@@ -1,11 +1,12 @@
-# Pauper Story Utils
+# Story Utils
 
-Utilities for concatenating and managing story files for *The Incompleteness of Empire*.
+Utilities for concatenating and managing story files for *The Heir Condition*.
 
 ## Installation
 
+From the project root:
+
 ```bash
-cd utils
 npm install
 ```
 
@@ -13,7 +14,7 @@ npm install
 
 ### Concatenate Story Files
 
-Concatenates all story files from `04-short/` into a single file in a date-stamped folder within `drafts/`:
+Concatenates all story files from `The Heir Condition/04-story/` (across all Acts) into a single file in a date-stamped folder within `drafts/`:
 
 ```bash
 npm run concat
@@ -28,7 +29,7 @@ npm run build
 Or run directly:
 
 ```bash
-node concat-story.js
+node utils/concat-story.js
 ```
 
 ### Build EPUB
@@ -42,7 +43,7 @@ npm run epub
 Or run directly:
 
 ```bash
-node build-epub.js
+node utils/build-epub.js
 ```
 
 **Requirements:** [Pandoc](https://pandoc.org/installing.html) must be installed:
@@ -73,7 +74,7 @@ npm run wc
 Or run directly:
 
 ```bash
-node stats.js
+node utils/stats.js
 ```
 
 ### Global Installation (Optional)
@@ -97,14 +98,15 @@ story-stats
 
 The concat script:
 
-1. ✅ Reads all `.md` files from `The Incompleteness of Empire/04-short/`
-2. ✅ Sorts them in order (00- through 09-)
+1. ✅ Reads all `.md` files from `The Heir Condition/04-story/` across all Acts
+2. ✅ Sorts them in order (Act 1, Act 2, Act 3, Appendix)
 3. ✅ Creates a date-stamped folder in `drafts/` (format: DD-MM-YYYY)
 4. ✅ Concatenates all files with:
    - A title and compilation date header
+   - Act headers for each section
    - Source file comments between each chapter
    - Proper spacing between sections
-5. ✅ Outputs a single file: `The Incompleteness of Empire.md`
+5. ✅ Outputs a single file: `The Heir Condition.md`
 
 ### Statistics Script
 
@@ -127,7 +129,10 @@ The stats script provides:
 ```
 drafts/
   └── DD-MM-YYYY/
-      └── The Incompleteness of Empire.md
+      └── The Heir Condition.md
+
+builds/
+  └── The-Heir-Condition-DD-MM-YYYY.epub
 ```
 
 ## Requirements
@@ -143,12 +148,20 @@ drafts/
 ## File Structure
 
 ```
-utils/
-  ├── package.json          # Package configuration
-  ├── concat-story.js       # Main concatenation script
-  ├── build-epub.js         # EPUB build script
-  ├── stats.js              # Statistics script
-  └── README.md             # This file
+pauper/
+  ├── package.json                    # Package configuration (top level)
+  ├── utils/
+  │   ├── concat-story.js             # Main concatenation script
+  │   ├── build-epub.js               # EPUB build script
+  │   ├── stats.js                    # Statistics script
+  │   ├── concat_story.sh             # Legacy bash script
+  │   └── README.md                   # This file
+  └── The Heir Condition/
+      └── 04-story/
+          ├── Act 1/                  # Chapters 01-03
+          ├── Act 2/                  # Chapters 04-07
+          ├── Act 3/                  # Chapters 08-09
+          └── Appendix/               # Chapter 10
 ```
 
 
