@@ -11,7 +11,7 @@ const __dirname = dirname(__filename);
 
 // Define paths
 const PROJECT_ROOT = dirname(__dirname);
-const SHORT_DIR = join(PROJECT_ROOT, 'The Incompleteness of Empire', '04-short');
+const STORY_DIR = join(PROJECT_ROOT, 'The Heir Condition', '04-story');
 const DRAFTS_DIR = join(PROJECT_ROOT, 'drafts');
 
 /**
