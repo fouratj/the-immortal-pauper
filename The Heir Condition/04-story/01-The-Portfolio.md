@@ -1,14 +1,14 @@
-# Chapter 00: The Portfolio
+# Chapter 01: The Portfolio
 
 Javi Reyes was hemorrhaging expected value.
 
-His phone showed the alert: Carlos M., age 14, Tondo District, 21:47 Wednesday. School night. Pattern deviation probability 0.94. The models projected ₱82,000 in baseline erosion if the deviation persisted—and if Carlos's baseline dropped another ₱600K, four months of work would cross into negative territory. ₱125,000 from investors who were already complaining about Q3 returns.
+His phone showed the alert: Carlos M., age 14, Tondo District, 21:47 Wednesday. School night. Pattern deviation probability 0.94. The models projected ₱82,000 in baseline erosion if the deviation persisted—and if Carlos's baseline dropped another ₱600K, four months of work would cross into negative territory. ₱125,000 from investors who were already complaining about Q3 returns. He had to go see him.
 
 He was doing 60 kph on a Honda Metropolitan through Quezon City traffic, weaving between jeepneys and tricycles, the digital overlay from his smartglasses showing Carlos's location as a pulsing blue dot. The body camera on his shoulder was recording—always recording. After the Gutierrez dispute, he'd learned to document everything.
 
 A news banner scrolled across the top of his display: **KORR FOUNDATION ANNOUNCES GLOBAL BROADCAST — APRIL 18 — "HUMANITY'S NEXT CHAPTER"**. He dismissed it with a blink. Whatever the richest man on Earth wanted to announce, it wouldn't change his immediate problem.
 
-Twenty-three active contracts. Year-to-date return: positive seven percent. Guild average: positive twelve. The gap was widening.
+Twenty-three active contracts. Year-to-date return: seven percent. Guild average: twelve. He was falling behind.
 
 The blue dot wasn't moving.
 
@@ -16,7 +16,7 @@ The blue dot wasn't moving.
 
 Rosa Santos clocked out at 21:52, twelve hours into her shift at Manila General Hospital. Forty-seven patients across three wards, two emergency stabilizations.
 
-She checked her bank account while waiting for the elevator: ₱8,240. Then opened the medication reminder: Lianne's GlucoSync subscription, four days remaining. The monthly nanopatch—a postage-stamp-sized device that regulated blood sugar automatically—cost ₱4,800 to renew. The actual manufacturing cost was ₱340. The rest was patent licensing, attribution fees, and what the economics textbooks called "innovation incentives." Her next paycheck came Tuesday.
+She checked her bank account while waiting for the elevator: ₱8,240. Then opened the medication reminder: Lianne's GlucoSync subscription, four days remaining. The monthly nanopatch—a postage-stamp-sized device that regulated blood sugar automatically—cost ₱4,800 to renew. Her next paycheck came Tuesday.
 
 She closed the app without doing the math. She'd already done it six times today.
 
@@ -28,35 +28,33 @@ The elevator door opened. Three nurses got on, comparing their attribution score
 
 "With *this* much secrecy? And all the life extension rumors? No way it's just algorithms."
 
-The elevator dinged. Rosa stepped out, leaving them to their speculation. Whatever Damon Korr was announcing, it wouldn't help her pay for Lianne's nanopatch.
+The elevator dinged. Rosa stepped out, leaving them to their speculation.
 
 Marco's door was closed when she got home. It had been closed for four months. She could hear the neighbors through the thin walls—someone's TV on loud, a child crying, the usual sounds of too many families packed too close.
 
 ---
 
-Javi parked the scooter thirty meters from the chain-link fence, squeezed between a sari-sari store's display rack and a parked tricycle. Carlos was visible through the gaps—sitting on a concrete barrier with five other people, ages ranging from mid-teens to early twenties. No obvious criminal activity. One of them was smoking. They were just talking.
+Javi parked the scooter thirty meters from the chain-link fence, squeezed between a sari-sari store's display rack and a parked tricycle. Carlos was visible through the gaps—sitting on a concrete barrier with five other people, ages ranging from mid-teens to early twenties. No obvious criminal activity. One of them was smoking. But they were just talking.
 
-His glasses identified Carlos via facial recognition, highlighted him with a green overlay. The other five showed as gray silhouettes—no identification, no data. They hadn't granted him access.
+His glasses identified Carlos via facial recognition, highlighted him with a green overlay. The other five showed as gray silhouettes; no identification, no data, no access.
 
-He checked Carlos's contract while the body camera recorded: 15% equity, Month 4, eight successful interventions. two failed. One more failed contact would trigger breach protocols.
+He checked Carlos's contract while the body camera recorded: 15% equity, Month 4, eight successful interventions. Two failed. One more failed contact could trigger breach protocols.
 
-He could call. He could text. He could contact Luz. What he couldn't do was go through that fence without permission or physically remove Carlos. The contract only gave him advisory authority.
+He needed to talk to him. He could call. He could text. What he couldn't do was go through that fence without permission or physically remove Carlos. The contract only gave him advisory authority.
 
 He texted: *Hey man, saw you're in Tondo. Everything good?*
 
-Watched the blue dot. No response indicator.
+Carlos didn't respond.
 
 Called. Through the fence, he saw Carlos pull out his phone, look at the screen, decline the call.
 
-One of the older guys noticed Javi. Stood up, said something to the group. They all turned to look.
-
-The guy walked toward the fence. Twenty-two, maybe twenty-three. Thin build, wearing a tank top that showed old scars on his left shoulder. His face registered no emotion at all—neither friendly nor hostile, just evaluating.
+One of the older guys noticed, he was seated far from Carlos. Stood up. The guy walked toward the fence. Twenty-two, maybe twenty-three. Thin build, wearing a tank top that showed old scars on his left shoulder. His face registered no emotion at all—neither friendly nor hostile, just evaluating.
 
 "Who are you?"
 
 Javi held up his guild badge on the phone screen. "I'm Javi. Carlos's development partner. His mom asked me to check on him."
 
-"Ano'ng development partner? The fuck is that?"
+"Ano'ng development partner? The fuck is that?" <!-- he should know what it is, or he uses his own phrase, then he connects the dots, oh, you're an extractor or something. -->
 
 "I work with him, eh. School stuff, job prep, life coaching. His mom and I have contract."
 
@@ -72,7 +70,7 @@ Javi held up his guild badge on the phone screen. "I'm Javi. Carlos's developmen
 
 Javi hesitated. "Fifteen percent of his uplift. From baseline."
 
-The guy nodded slowly. "Puta, that's real money."
+The guy nodded slowly. "Puta."
 
 "So what do you want?"
 
@@ -96,19 +94,19 @@ The guy turned back to Javi. "He doesn't want to talk to you."
 
 "Can I come in lang? Five minutes."
 
-The guy studied him. Body camera on the shoulder, bulky smartglasses, guild badge displayed. No weapon visible. Alone.
+The guy studied him. Body camera on the shoulder, bulky smartglasses. No weapon visible. Alone.
 
 "Five minutes. Try anything stupid, we throw you out."
 
 "Fair."
 
-The guy pulled the fence open—wasn't locked, just closed. Javi walked through.
+The guy pulled the fence open and Javi walked through.
 
 ---
 
 Rosa sat at the kitchen table, cold rice and leftover adobo still on the counter from dinner, her phone showing three open tabs: her bank account (₱8,240), the pharmacy's refill portal (₱4,800 due Friday), and the CarePath Medical offer that had arrived yesterday.
 
-₱145,000 upfront. Lianne's GlucoSync for two years—no more scrambling for the monthly renewal. Plus monitoring supplies, plus emergency fund. Maybe Marco's therapy intake—the good kind, private practice, not the public clinic.
+₱145,000 upfront. Lianne's GlucoSync for two years—no more scrambling for the monthly renewal. Plus monitoring supplies, plus emergency fund. Maybe Marco's therapy intake—the good kind, private practice.
 
 She'd opened this tab fourteen times. Hadn't clicked anything yet.
 
@@ -116,14 +114,14 @@ She clicked [Review full terms].
 
 Forty-seven pages. She scrolled to Section 8: Intervention Authority. The words were dense, deliberately so. Escalated intervention procedures. Increased monitoring. Residential treatment placement. Emergency medical intervention.
 
-She'd read those words before. Different company, different contract. Three years ago.
+She'd hadn't read those words before, not the last time. Different company, different contract, same clause. Three years ago.
 
-Marco's door, closed ever since.
+She turned to look at Marco's door, closed ever since.
 
 ---
 
 "So you're the guy making money off kids."
-
+<!-- the speaker should be someone else, not the same guy -->
 The speaker was the same guy who'd let Javi through the fence. Up close, Javi could see the scars on his shoulder weren't random—they formed a pattern, deliberate. Old burn marks, maybe. The guy's eyes were flat and calm.
 
 "I provide services naman. The family gets upfront payment, I get equity. It's a trade lang."
@@ -145,8 +143,8 @@ Javi's face must have shown something because the guy smiled—first expression 
 "But same system. Same contracts. Same equity bullshit."
 
 "I don't know what happened with Marco—"
-
-"Guy named Ernesto had contract with him. Fifteen percent, just like you. Marco started slipping. Ernesto filed breach, sold the contract to MentorMaxx for ₱60K. They showed up at 2 AM with private security. Took him to some facility for six months."
+<!-- first the guy knows its marco, but accuess carlos? -->
+"Guy named Ernesto had contract with him. Eighteen percent, just like you. Marco started slipping. Ernesto filed breach, sold the contract to MentorMaxx for ₱60K. They showed up at 2 AM with private security. Took him to some facility for six months."
 
 Javi felt something cold in his stomach.
 
@@ -154,11 +152,11 @@ Javi felt something cold in his stomach.
 
 "I'm not MentorMaxx naman. I'm independent. I don't do residential extractions—"
 
-"But what happens when Carlos stops responding? When your investors get nervous na? When you're 2 years in and his baseline's dropping?"
+"But what happens when Carlos stops responding? When you're 2 years in and his baseline's dropping?"
 
 Javi didn't have a good answer.
 
-"You file breach," the guy continued. "Just like they did with Marco. Then maybe you sell the contract. Then maybe some other company shows up at 2 AM. Same thing happens."
+"You file breach," the guy continued. "Just like they did with Marco. Maybe you sell the contract. Then maybe some other company shows up at 2 AM. Same thing happens."
 
 "That's not—I wouldn't—"
 
@@ -170,15 +168,15 @@ Rico. Javi filed the name.
 
 "His job is making money off kids who don't understand they're investments."
 
-"The contract is legal naman," Javi said. "The mother consented—"
+"The contract is with the mother naman," Javi said.
 
-"Because she was desperate, eh. And Carlos is fourteen. That's not consent."
+"Because she was desperate, eh. And Carlos is fourteen."
 
 Carlos stood up. "I'm right here na. Stop talking about me like I'm not."
 
 Rico looked at him. "You want him here ba?"
 
-"Doesn't matter what I want naman. My mom signed the contract already. If I blow him off, she'll just hire someone worse."
+"Doesn't matter what I want naman. My mom signed the contract already. If I blow him off, she'll just hire someone worse." He looked at Carlos like he said.
 
 "Yep." Carlos looked at Javi. 
 
@@ -192,7 +190,7 @@ Her sister answered on the third ring: "What's wrong?"
 
 "Nothing's wrong naman. I just—can we talk?"
 
-"I'm actually dealing with something right now, eh. Carlos is out late, I got an alert, I sent Javi to check—"
+"...I'm actually dealing with something right now, eh. Carlos is out late again, I sent Javi to check—"
 
 "Javi... is he the intervention specialist?"
 
@@ -212,7 +210,7 @@ Silence for four seconds. "₱100,000."
 
 "Upfront?"
 
-"Yeah. Javi kept twenty percent as his fee, gave me the rest."
+"Yeah."
 
 "And you used it for what?"
 
@@ -238,11 +236,11 @@ Luz went quiet. Then: "You're thinking about signing one na?"
 
 "There has to be another way pa."
 
-"Government waitlist is eight months already. Medical loans are thirty-eight percent interest. The hospital won't give me raise. There's no other way na."
+"Government waitlist is eight months already. Medical loans are eighteen percent interest. The hospital won't give me raise. I can't find any other way na."
 
 "What about Marco?"
 
-Rosa laughed. No humor. "Marco won't come out of his room pa."
+Rosa laughed without humor. "Marco won't come out of his room pa."
 
 "I'm sorry talaga."
 
@@ -254,7 +252,7 @@ Rosa didn't answer.
 
 "Rosa. After what happened to Marco—"
 
-"If I don't sign, Lianne doesn't get insulin, di ba? Then I lose her too. At least this way she has a chance pa."
+"If I don't sign, she doesn't get insulin, di ba? Then I lose her too. At least this way she has a chance pa."
 
 ---
 
@@ -270,7 +268,7 @@ Javi's hand moved toward his phone—panic button—but he stopped. Police meant
 
 "You've got money riding on him. That's authority na."
 
-"It's not, eh. Check the contract. I can advise, that's it. If Carlos tells me to leave, I leave."
+"It's not, eh. I advise, that's it. If Carlos tells me to leave, I leave."
 
 "Then leave na."
 
@@ -280,7 +278,7 @@ Carlos looked at Rico, then at Javi, then at his phone. "If you leave, you file 
 
 "Yeah."
 
-"Then she hires someone else."
+"Then she hires someone else." <!-- his mother wouldnt hire mentormaxx, Javi would sell it to them, we need a good reason why -->
 
 "Probably."
 
@@ -310,7 +308,7 @@ The guy in the construction shirt looked at Javi. "Guild certified ba?"
 
 "Twenty-three."
 
-"How many sold to MentorMaxx?"
+"How many sold to MentorMaxx?" <!-- see, javi does the selling -->
 
 "None, eh."
 
@@ -362,9 +360,9 @@ Marco's door stayed closed.
 
 Lianne's nanopatch expired Friday.
 
-Somewhere, a man worth more than the GDP of the Philippines was preparing to announce that death had become optional for people like him.
+Somewhere, a man worth more than the GDP of the Philippines was preparing to announce the next stage for humanity, whatever that meant. Probably something for people like him.
 
-Rosa's finger trembled.
+Rosa's finger trembled over the button.
 
 ---
 
@@ -394,7 +392,7 @@ And Marco, who wouldn't leave his room.
 
 Carlos's blue dot was moving. Heading home, like he'd promised.
 
-Javi started the scooter. Rode home through Thursday night traffic, humid air thick even at midnight, thinking about Rico's question: *What happens when Carlos stops responding?*
+Javi started the scooter. Rode home through Thursday night traffic, humid air thick even at midnight, thinking about Rico's question: *What happens if Carlos stops responding?*
 
 And Rico's other prediction, the one that had silenced everyone for a moment: *Pretty soon they'll live forever, and we'll be their fucking portfolios forever.*
 
@@ -404,7 +402,7 @@ A billboard flickered past: Damon Korr's face, benevolent, timeless. **TOMORROW.
 
 Javi got home at 00:23. Apartment in Quezon City, ₱18,000/month. Expensive, but families researched their specialists. Living in a decent building signaled success.
 
-He set his glasses on the charging dock and watched the bodycam footage download to his compute puck—the hockey-puck-sized device that handled all his processing, encrypted backups streaming to distributed storage. Thirty-four minutes compressed to 2.1GB.
+He set his glasses on the charging dock and watched the bodycam footage download to his puck—the hockey-puck-sized compute device that handled all his processing, encrypted backups streaming to distributed storage. Thirty-four minutes compressed to 2.1GB.
 
 His wall display had defaulted to news while he was out. A countdown timer dominated the screen: **KORR GLOBAL BROADCAST — 11 HOURS, 7 MINUTES**. Below it, talking heads speculated about what the announcement could be. Nobody knew. The Korr Foundation had locked down every subsidiary, every research facility, every employee with access. The biggest information security operation since the Bangalore Incident.
 
@@ -502,11 +500,9 @@ The call ended at 14:47.
 
 Javi sat in his apartment looking at his retained equity: ₱1.41M across 23 contracts, but most of it illiquid—couldn't sell until contracts matured or beneficiaries hit major milestones. He could sell future tranches, pre-securitize some equity he hadn't sold yet, but that meant giving up more upside.
 
-His wall display had cycled back to news. The Korr countdown: **21 HOURS REMAINING**. Talking heads speculating about what the announcement could be—new attribution protocols, expanded life extension, governance reforms. Nobody knew. The Korr Foundation's information security was legendary. Whatever it was, it would "trickle down eventually." Trickle down. Like the benefits of the Intelligent Internet had trickled down to Rosa and Carlos and Marco.
+His wall display had cycled back to news. The Korr countdown: **21 HOURS REMAINING**. Talking heads speculating about what the announcement could be—new attribution protocols, expanded life extension, governance reforms. Nobody knew. Whatever it was, it would "trickle down eventually." Trickle down. Like the benefits of the Intelligent Internet had trickled down to Rosa and Carlos and Marco.
 
-He muted it.
-
-Or he could take a loan against expected value. Attribution Lending Inc. offered 30-day bridge loans at 18% APR for guild-certified specialists.
+He muted it. Back to the problem. He could take a loan against expected value. Attribution Lending Inc. offered 30-day bridge loans at 18% APR for guild-certified specialists.
 
 Or he could file a breach report on one of his underperforming contracts, demonstrate to investors that he was willing to escalate, stop the redemption requests.
 
