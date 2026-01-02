@@ -2,7 +2,7 @@
 
 Javi Reyes was hemorrhaging expected value.
 
-His phone showed the alert: Carlos M., age 14, Tondo District, 21:47 Wednesday. School night. Pattern deviation probability 0.94. The models projected ₱82,000 in baseline erosion if the deviation persisted—and if Carlos's baseline dropped another ₱600K, four months of work would cross into negative territory. ₱125,000 from investors who were already complaining about Q3 returns. He had to go see him.
+His phone showed the alert: Carlos M., age 14, Tondo District, 21:47 Wednesday. School night. Pattern deviation probability 0.94. The models projected ₱82,000 in baseline erosion if the deviation persisted—and if Carlos's baseline dropped another ₱600K, four months of work would cross into negative territory. ₱125,000 on the hook from investors. He had to go see him.
 
 He was doing 60 kph on a Honda Metropolitan through Quezon City traffic, weaving between jeepneys and tricycles, the digital overlay from his smartglasses showing Carlos's location as a pulsing blue dot. The body camera on his shoulder was recording—always recording. After the Gutierrez dispute, he'd learned to document everything.
 

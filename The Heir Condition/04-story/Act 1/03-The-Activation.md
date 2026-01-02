@@ -92,7 +92,7 @@ He found Kaelen's face in the crowd, just as he'd promised. Smiled at his nephew
 
 Kaelen smiled back.
 
-The nanobot found skin. Its surface proteins recognized human keratinocytes and triggered the next phase: a burst of hyaluronidase enzymes that softened the intercellular matrix, creating a path through the stratum corneum. It took four minutes to breach the epidermis—four minutes of blind, programmed burrowing through dead cells and lipid barriers. Then dermis. Then the wall of a capillary, thin as a soap bubble. The nanobot squeezed through the endothelial junction and tasted blood for the first time. Iron. Glucose. Oxygen. Fuel.
+The nanobot found skin. Its surface proteins recognized human keratinocytes and triggered the next phase: a burst of hyaluronidase enzymes that softened the intercellular matrix, creating a path through the stratum corneum. It took four minutes to breach the epidermis, burrowing through dead cells and lipid barriers. Then dermis. Then the wall of a capillary, thin as a soap bubble. The nanobot squeezed through the endothelial junction and tasted blood for the first time. Iron. Glucose. Oxygen. Fuel.
 
 "For fifty thousand years, our species has been defined by scarcity..."
 
