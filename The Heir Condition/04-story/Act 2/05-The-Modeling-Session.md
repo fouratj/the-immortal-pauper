@@ -45,13 +45,21 @@ He filled in the parameters. Immortality cost: $4.7 million. Eligible population
 
 The system calculated the allocation: 15 gigawatt-hours.
 
-He stared at the number. Fifteen gigawatt-hours. In a world that had finally achieved net-zero carbon in 2047, this was obscene. Most publicly funded researchers got 0.5 gigawatt-hours per month, if they were lucky. He was requesting thirty months' worth in one night.
+He stared at the number. Fifteen gigawatt-hours.
+
+Kaelen did the math. That was enough power to run a small city for a day. Or keep a million LED lightbulbs burning for a month. Or power every household and business in Palo Alto for three hours. Just to answer a question that had woken him up at 2 AM.
+
+In a world that had finally achieved net-zero carbon in 2047, this was obscene. Most publicly funded researchers got 0.5 gigawatt-hours per month, if they were lucky. He was requesting thirty months' worth in one night. Thirty months of some postdoc's entire compute budget, gone in the time it took to run a single query.
 
 But Kaelen had access. Family privilege. His uncle's private fission reactors—four of them, built before the Accords tightened permitting to impossibility. His uncle's carbon credits, purchased when they were cheap. His uncle's infrastructure, grandfathered into the old rules.
 
 He could burn dozens of gigawatt-hours in one night and the only consequence would be a line item on next month's report. His uncle probably wouldn't even notice, if he was being honest.
 
-The irony was thick: using aristocratic energy privilege to model what aristocratic privilege would become.
+The irony was thick enough to taste: using aristocratic energy privilege to model what aristocratic privilege would become. He was burning the fuel of the old aristocracy to calculate the fuel requirements of the new one. The reactors that had been built to power his uncle's empire would now power the calculation that might—
+
+Might what? He didn't know yet. That was the point of running the model.
+
+Fifteen gigawatt-hours to see what the future looked like when the people who owned everything stopped dying and death stopped being the circuit breaker.
 
 He clicked [Execute].
 
@@ -69,13 +77,23 @@ Just like he'd done with the Bangalore Patch.
 
 Kaelen realized: if the model showed nothing, he'd drop it. If the model confirmed his fears, he'd need to act. Either way, he needed to know.
 
-And if Damon asked about the compute usage? He'd tell the truth. Show him the results. Give him one more chance to see it.
-
-One more chance to prove Kaelen wrong.
-
 He clicked [Confirm].
 
-The progress bar appeared. His workstation's fans spun up, pulling power from the grid. Somewhere in Nevada, one of his uncle's private fission reactors adjusted its output ever so slightly—uranium rods sliding deeper into the reaction chamber, neutrons splitting atoms, heat converting to steam converting to electricity.
+The progress bar appeared. His workstation's fans spun up, pulling power from the grid.
+
+Somewhere in Nevada, in one of his uncle's four private fission reactors—built before the 2043 Accords tightened permitting to impossibility, grandfathered into the old rules—the control systems detected the load increase. Not much: 15 gigawatt-hours over the next several hours, distributed across the grid. But enough to trigger an automatic response.
+
+Control rods began their descent. Boron-carbide neutron absorbers sliding deeper into the reactor core, reducing the neutron flux, which reduced the fission rate, which reduced the thermal output. But the system was designed for stability, not shutdown. The rods stopped at the new equilibrium point—just enough moderation to maintain criticality at the higher power level.
+
+In the primary coolant loop, liquid sodium began flowing faster. The pumps—massive, silent, spinning at frequencies that would shatter human eardrums if not for the sound dampening—increased their RPM to compensate for the additional heat. The sodium, heated to 550°C by the fission reactions, flowed through heat exchangers where it transferred thermal energy to a secondary loop of superheated steam.
+
+The steam, pressurized to 16 megapascals, hit the turbine blades. Not one turbine—four of them, each connected to a 250-megawatt generator. The blades, forged from nickel-based superalloys designed to withstand temperatures that would melt steel, spun at 3600 RPM. The generators, their rotors wrapped in superconducting wire cooled by liquid helium, converted mechanical rotation into three-phase AC current at 60 hertz, 13.8 kilovolts.
+
+The electricity flowed through transformers, stepped up to 345 kilovolts for transmission, then through his uncle's private transmission lines—hundreds of miles of aluminum-conductor steel-reinforced cable strung across the Nevada desert, supported by towers that had been built when land was cheap and environmental review was fast.
+
+At the Palo Alto substation, the voltage was stepped back down. Through distribution lines. Through neighborhood transformers. Into his building's electrical panel. Into his workstation's power supply, which converted AC to DC, regulated the voltage, filtered the noise, and fed clean power to the processors that were now burning through 15 gigawatt-hours to answer a question that had woken him up at 2 AM.
+
+All of it—the control rods, the coolant pumps, the turbines, the generators, the transformers, the transmission lines—responding automatically to a single click of a mouse button. The infrastructure of the old aristocracy, built to power an empire, now powering the calculation that might destroy it.
 
 Kaelen made more coffee and waited.
 
@@ -432,49 +450,164 @@ Kaelen realized he was shaking.
 
 The mechanism revealed itself.
 
-Kaelen thought about the Gracchi brothers.
+"ARBITER. Historical examples. Legal exploits used against aristocracies. Cases where someone enforced existing law that the elite had ignored."
 
-133 BC. Rome was breaking. The Punic Wars had ended, Carthage was destroyed, and Roman soldiers were returning home to find their farms had been seized by aristocrats. The Senate—composed entirely of those same aristocrats—had spent decades consolidating land through legal mechanisms that looked legitimate but were systematically expropriating the small farmers who'd actually won the wars.
+The screen shifted. Results appeared: French Revolution. Russian Revolution. American Gilded Age. All too messy. Too violent. Too many variables.
 
-There was a law. The Lex Licinia Sextia of 367 BC. It limited individual land holdings to 500 iugera—about 300 acres. The law had been passed to prevent exactly this kind of concentration. But over two centuries, the aristocrats had found workarounds: holding land through family members, through clients, through legal fictions. The law existed. It just wasn't enforced.
+"Filter. Focus on cases where the mechanism was legal, not revolutionary. Where someone used the system's own rules against it."
 
-Tiberius Gracchus became Tribune of the Plebs in 133 BC. He didn't propose new legislation. He didn't try to reform the system. He just said: "Let's enforce the existing law. Strictly. Literally."
+The results narrowed. Constitutional amendments. Court cases. Parliamentary procedures.
 
-The Senate lost their minds.
+One entry stood out: Roman Republic, Tiberius Gracchus. 133 BC.
 
-Because enforcing the Lex Licinia Sextia meant seizing land from every aristocrat who exceeded the limit. Meant redistributing it to landless veterans. Meant breaking the concentration that had taken two centuries to build.
+"Expand that one."
 
-The aristocrats couldn't argue against it—the law was clear, democratically passed, constitutionally valid. They couldn't claim it was illegal. So they did what aristocrats do when legal mechanisms threaten their position.
+*Tiberius Gracchus, Tribune of the Plebs, 133 BC. Roman Republic. Context: Punic Wars ended, soldiers returning home to find farms seized by aristocrats.*
 
-They murdered him.
+Kaelen scrolled. "The Senate was doing the seizing?"
 
-Tiberius Gracchus was beaten to death with wooden clubs by Senators and their supporters. His body was thrown into the Tiber. No trial. No legal process. Just violence when the law stopped serving them.
+*The Senate—composed entirely of those same aristocrats—had spent decades consolidating land through legal mechanisms that appeared legitimate but systematically expropriated small farmers.*
 
-After Tiberius, the Senate patched the vulnerability. They changed the laws, added exceptions, created new legal mechanisms that made the Lex Licinia Sextia unenforceable. Made sure no one could use that mechanism again.
+"Legal mechanisms. What kind?"
 
-Tiberius's brother Gaius tried ten years later. Used different tactics, different laws. The Senate murdered him too. Then patched those vulnerabilities.
+*The Lex Licinia Sextia. Enacted 367 BC. Limited individual land holdings to 500 iugera—approximately 300 acres.*
 
-One shot per exploit. That's what Gödelian vulnerabilities gave you. One execution before the system adapted and closed the gap.
+Kaelen leaned forward. "That's ancient. How did the aristocrats get around it?"
 
-Tiberius Gracchus had seen the problem. Had the solution. Had the legal mechanism. But he'd been murdered before he could execute it.
+*Family members. Clients. Legal fictions. The law existed. It just wasn't enforced.*
 
-The execution of governance was slow. Tiberius had to propose the enforcement, build consensus, navigate the democratic process, implement the redistribution through bureaucratic channels. That gave the Senate time. Time to organize. Time to gather supporters. Time to murder him before the mechanism could complete.
+"Wait." Kaelen stopped scrolling. "So Gracchus didn't propose new legislation?"
 
-Tiberius had been vulnerable because governance was slow. The Senate could murder him because there was a gap between legal authority and actual execution—a gap that violence could exploit because violence was the first principle of governance itself. The law was just violence that had been ritualized, bureaucratized, made predictable. But when the gap appeared, when the ritualized forms of authority couldn't execute fast enough, the underlying force reasserted itself. The foundation showed through.
+*Correct. He didn't propose new legislation. He didn't try to reform the system. He simply said: "Let's enforce the existing law. Strictly. Literally."*
 
-Kaelen had the same problem. The same solution. The same legal mechanism. But he had two things Tiberius didn't.
+Kaelen's hand hovered over the screen. "Enforcing existing law. Not proposing new law."
 
-First: resurrection technology. The window between immortality announcement and legal patch. Once resurrection became public, once legal frameworks recognized that death could be temporary, the Estonian protocols would be amended. The discontinuity would close. Maybe weeks. Maybe days. But finite. One-time. Unrepeatable.
+*Correct.*
 
-Second: blockchain smart contracts. Once triggered, they executed automatically. Irreversibly. In minutes after death consensus, the inheritance protocols activated. Asset transfers began immediately. No democratic process. No bureaucratic delay. No time for intervention. The smart contracts didn't need consensus-building or implementation phases. They were consensus. They were implementation. They were the law, executing itself.
+"And the Senate—"
 
-Kaelen had no such gap. Once the death certificate was issued, the smart contracts executed. There was no window for intervention. No time to organize resistance. No way to stop it. No way to reverse it. The blockchain was immutable. The transfers were cryptographically locked. The system his uncle had built to be perfectly just and incorruptible would execute his own dispossession with perfect, incorruptible speed.
+*They lost their minds.*
+
+ARBITER's voice carried the slight dryness that meant it was understating something. Kaelen had learned to recognize that tone.
+
+"What does that mean, exactly?"
+
+*Enforcing the Lex Licinia Sextia meant seizing land from every aristocrat who exceeded the limit. Meant redistributing it to landless veterans. Meant breaking the concentration that had taken two centuries to build.*
+
+"They couldn't argue against it. The law was clear."
+
+*The law was clear. Democratically passed. Constitutionally valid. They couldn't claim it was illegal.*
+
+"So what did they do?"
+
+*They murdered him.*
+
+The words appeared on screen. Simple. Matter-of-fact.
+
+Kaelen sat back. "How?"
+
+*Tiberius Gracchus was beaten to death with wooden clubs by Senators and their supporters. His body was thrown into the Tiber. No trial. No legal process. Just violence when the law stopped serving them.*
+
+Kaelen stared at the screen. The bunker's cooling system hummed. Somewhere above him, the world was going about its business, unaware that one man was discovering how to kill his uncle using ancient Roman precedent.
+
+"Wait." Kaelen pulled up the broader context. "Rome's military strength came from its landed citizenry. Small farmers who could afford their own equipment. That's how they built the legions."
+
+*Correct. The Roman Republic's military power depended on a class of independent farmers who could equip themselves for service. Landless citizens couldn't serve. The land concentration that Gracchus tried to reverse had already hollowed out that class.*
+
+"So when they murdered him—"
+
+*They preserved the land concentration. But they also preserved the system that was destroying the foundation of their power. The Republic's strength came from distributed land ownership. By preventing redistribution, the Senate ensured that strength would continue eroding.*
+
+Kaelen scrolled through the timeline. "And after?"
+
+*The landless population grew. The legions became dependent on professional soldiers rather than citizen-farmers. The Republic's military structure shifted from citizen militia to standing army. Within a century, generals controlled armies loyal to them personally, not to the Republic. The Gracchi murders were the beginning of the end.*
+
+"The system killed the reformers, then killed itself."
+
+*The system optimized for short-term stability—preserving aristocratic wealth—at the cost of long-term viability. The correction mechanism was eliminated. The feedback loop broke. The Republic lasted another 106 years, but the foundation was gone.*
+
+Kaelen thought about his uncle's systems. The attribution algorithms. The extraction mechanisms. The way they optimized for efficiency while creating remainders that would eventually destabilize everything.
+
+"Afterward? What happened to the law?"
+
+*The Senate patched the vulnerability. They changed the laws, added exceptions, created new legal mechanisms that made the Lex Licinia Sextia unenforceable. Made sure no one could use that mechanism again.*
+
+"One shot per exploit."
+
+*Correct. Tiberius's brother Gaius tried ten years later. Used different tactics, different laws. The Senate murdered him too. Then patched those vulnerabilities. One execution before the system adapted and closed the gap.*
+
+Kaelen pulled up the Estonian protocols. Section 47.3. The resurrection clause. The window between death certificate and legal framework update.
+
+One shot.
+
+He stared at the text. Then pulled up the worldline visualization again—the chasm, the discontinuity, the four structural requirements ARBITER had identified.
+
+Concentrated authority. Temporal discontinuity. Bypass of governance. Legal ambiguity.
+
+Death certificate issuance → concentrated authority. The window between death and resurrection → temporal discontinuity. Automatic inheritance → bypass of governance. Resurrection not in legal framework → legal ambiguity.
+
+All four. In one event.
+
+"ARBITER. Why did Gracchus fail? He had the legal mechanism. He had the authority. What went wrong from first principles?"
+
+*Analysis: The execution of governance was slow. Tiberius had to propose the enforcement, build consensus, navigate the democratic process—*
+
+"The gap," Kaelen interrupted. "There was a gap between having authority and executing it."
+
+*Correct. But the deeper principle: governance is violence that has been ritualized. Law is violence with procedure. When the gap appears—when the protocol layer can't execute fast enough—the system experiences stress. That stress builds pressure. When the pressure exceeds the system's tolerance—when the protocol layer is bent beyond its breaking point—and when the opportunity presents itself—when the benefits of reverting to violence outweigh the risks—control reverts to the default state. The law is a protocol layer on violence. When the protocol layer fails beyond its breaking point, the default state reasserts itself.*
+
+Kaelen thought about it. "The Senate didn't need to argue the law. They just needed to exploit the gap."
+
+*Correct. In that window, the stress created pressure, the pressure exceeded tolerance, and the opportunity made violence's benefits outweigh its risks. The protocol layer failed, so the default state became the operational mechanism.*
+
+"And smart contracts eliminate the gap."
+
+*They eliminate the delay between authority and execution. The procedure becomes instantaneous. The gap never appears. The stress never builds. The pressure never exceeds tolerance. The opportunity never presents itself. The protocol layer executes before the system can be bent beyond its breaking point, before the conditions for reversion can emerge.*
+
+The screen shifted. Legal text scrolled past. Kaelen's eyes tracked through the dense language, confirming what he'd already recognized—the pattern he'd seen in the worldline visualization, the chasm, the discontinuity, and the exploit.
+
+*Section 47.3: Resurrection Clause. If a person declared dead returns to life within a reasonable period, their legal status may be retroactively amended from "deceased" to "temporarily incapacitated."*
+
+"Reasonable period?"
+
+*Ninety days. But the clause assumes resurrection is error correction. Medical mistake. Identity fraud. Not planned resurrection. Not technological resurrection.*
+
+Kaelen zoomed in on the timestamp fields. Death certificate issuance. Legal framework update. The window between them.
+
+"And during that window?"
+
+*During that window, the system exists in a state where existing rules don't clearly apply. The legal frameworks recognize death but haven't yet updated to account for resurrection. The state space is undefined.*
+
+Kaelen pulled up the worldline visualization again. The chasm. The discontinuity. The thin blue path that cut through the mountain range.
+
+"ARBITER. Map this understanding to the structural requirements. Estonian inheritance protocols, Section 47.3."
+
+The visualization shifted. The four abstract principles lit up with connections:
+
+```
+SECTION 47.3 ANALYSIS
+
+Death certificate issuance → Concentrated authority (heir gains control)
+Death to resurrection window → Temporal discontinuity (system in transition)  
+Inheritance is automatic → Bypass of governance (no democratic vote required)
+Resurrection not in legal framework → Legal ambiguity (undefined state)
+```
+
+All four principles. One event.
+
+Death. But not permanent death.
+
+Kaelen sat back. The bunker's cooling system hummed. The servers cycled. The concrete walls held the cold at 16°C.
+
+"ARBITER. Close the historical analysis."
+
+The screen cleared.
 
 The exploit only worked once. It had to be executed without hesitation. Without remorse. Without possibility of return. Because once triggered, it completed itself. No second thoughts. No changing your mind. No undoing what had been done.
 
 He could trigger the legal mechanism without permanent death. Cause the death that triggered inheritance, then let his uncle come back. Not dead. Not gone. Just... paused. Long enough to restructure the system.
 
-History had given him a third option that no revolutionary before him had ever had. He could fix the system without destroying the man he loved.
+History had given him a third option that no revolutionary had ever had. He could fix the system without destroying the man he loved. Or rather, he could try to.
 
 He sat very still.
 

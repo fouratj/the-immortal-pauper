@@ -4,7 +4,7 @@ Javi Reyes was hemorrhaging expected value.
 
 His phone showed the alert: Carlos M., age 14, Tondo District, 21:47 Wednesday. School night. Pattern deviation probability 0.94. The models projected ₱82,000 in baseline erosion if the deviation persisted—and if Carlos's baseline dropped another ₱600K, four months of work would cross into negative territory. ₱125,000 on the hook from investors. He had to go see him.
 
-He was doing 60 kph on a Honda Metropolitan through Quezon City traffic, weaving between jeepneys and tricycles, the digital overlay from his smartglasses showing Carlos's location as a pulsing blue dot. The body camera on his shoulder was recording—always recording. After the Gutierrez dispute, he'd learned to document everything.
+He was doing 60 kph on a Honda Metropolitan through Quezon City traffic, weaving between jeepneys and tricycles, the digital overlay from his Vizor Pro 3 smartglasses showing Carlos's location as a pulsing blue dot. The Axon Body 3 camera clipped to his shoulder strap was recording—always recording. After the Gutierrez dispute, he'd learned to document everything.
 
 A news banner scrolled across the top of his display: **KORR FOUNDATION ANNOUNCES GLOBAL BROADCAST — APRIL 18 — "HUMANITY'S NEXT CHAPTER"**. He dismissed it with a blink. Whatever the richest man on Earth wanted to announce, it wouldn't change his immediate problem.
 
@@ -16,7 +16,7 @@ The blue dot wasn't moving.
 
 Rosa Santos clocked out at 21:52, twelve hours into her shift at Manila General Hospital. Forty-seven patients across three wards, two emergency stabilizations.
 
-She checked her bank account while waiting for the elevator: ₱8,240. Then opened the medication reminder: Lianne's GlucoSync subscription, four days remaining. The monthly nanopatch—a postage-stamp-sized device that regulated blood sugar automatically—cost ₱4,800 to renew. Her next paycheck came Tuesday.
+She checked her bank account while waiting for the elevator: ₱8,240. Then opened the medication reminder: Lianne's GlucoSync subscription, four days remaining. The monthly nanopatch—a postage-stamp-sized device, matte gray with a subtle hexagonal pattern, that regulated blood sugar automatically—cost ₱4,800 to renew. It adhered to the skin with a cool, almost gel-like texture that Lianne said felt like a second layer of skin after the first hour. Her next paycheck came Tuesday.
 
 She closed the app without doing the math. She'd already done it six times today.
 
@@ -94,7 +94,7 @@ The guy turned back to Javi. "He doesn't want to talk to you."
 
 "Can I come in lang? Five minutes."
 
-The guy studied him. Body camera on the shoulder, bulky smartglasses. No weapon visible. Alone.
+The guy studied him. Axon Body 3 on the shoulder, bulky Vizor Pro 3 smartglasses. No weapon visible. Alone.
 
 "Five minutes. Try anything stupid, we throw you out."
 
@@ -104,7 +104,7 @@ The guy pulled the fence open and Javi walked through.
 
 ---
 
-Rosa sat at the kitchen table, cold rice and leftover adobo still on the counter from dinner, her phone showing three open tabs: her bank account (₱8,240), the pharmacy's refill portal (₱4,800 due Friday), and the CarePath Medical offer that had arrived yesterday.
+Rosa sat at the kitchen table, cold rice and leftover adobo still on the counter from dinner, her Prism 9 showing three open tabs: her bank account (₱8,240), the pharmacy's refill portal (₱4,800 due Friday), and the CarePath Medical offer that had arrived yesterday.
 
 ₱145,000 upfront. Lianne's GlucoSync for two years—no more scrambling for the monthly renewal. Plus monitoring supplies, plus emergency fund. Maybe Marco's therapy intake—the good kind, private practice.
 
@@ -402,7 +402,7 @@ A billboard flickered past: Damon Korr's face, benevolent, timeless. **TOMORROW.
 
 Javi got home at 00:23. Apartment in Quezon City, ₱18,000/month. Expensive, but families researched their specialists. Living in a decent building signaled success.
 
-He set his glasses on the charging dock and watched the bodycam footage download to his puck—the hockey-puck-sized compute device that handled all his processing, encrypted backups streaming to distributed storage. Thirty-four minutes compressed to 2.1GB.
+He set his Vizor Pro 3 glasses on the charging dock—the matte black base with its three magnetic contact points clicking into place—and watched the Axon Body 3 footage download to his Nexus Puck, the hockey-puck-sized compute device that handled all his processing. The puck was warm to the touch, its brushed aluminum surface showing the faint glow of its status LED as encrypted backups streamed to distributed storage. Thirty-four minutes compressed to 2.1GB.
 
 His wall display had defaulted to news while he was out. A countdown timer dominated the screen: **KORR GLOBAL BROADCAST — 11 HOURS, 7 MINUTES**. Below it, talking heads speculated about what the announcement could be. Nobody knew. The Korr Foundation had locked down every subsidiary, every research facility, every employee with access. The biggest information security operation since the Bangalore Incident.
 

@@ -4,38 +4,6 @@
 
 ---
 
-The chamber hummed with the precise frequency of molecular reassembly, a sound like ten thousand tuning forks struck in perfect unison. Damon Korr's clone lay motionless on the resurrection table, eighteen months of accelerated growth having produced a body identical to his original at age thirty-five—the age he'd specified for all future returns to life.
-
-Dr. Chen had been awake for forty-eight hours straight, and it showed. The technicians around her managed subsystems that had never been tested under combat conditions—because that's what unplanned resurrection was. Combat medicine for consciousness itself. What should have been a controlled demonstration of consciousness transfer technology had become humanity's first emergency resurrection, performed under global scrutiny.
-
-"Microtubule coherence at ninety-seven-six." Dr. Martinez's voice was hoarse from the forty-eight hour procedure. "Penrose-Hameroff orchestration patterns matching archived baseline."
-
-"Synaptic integration clear." Dr. Patel checked her displays. "No structural abnormalities. Quantum decoherence within tolerance."
-
-Dr. Chen monitored the consciousness emergence on her displays using the Mumbai Protocol—Srinivasan's breakthrough that had made all of this possible. But Srinivasan had never tested emergency resurrection. Only controlled transfers with weeks of preparation. The displays showed microtubule quantum states collapsing into classical neural firing patterns that looked right, but "looked right" wasn't the same as "were right," and Chen had been awake for forty-eight hours trying to tell the difference.
-
-The viewing gallery contained only twelve witnesses—no media, no government officials, no global broadcast as had been originally planned before Damon's unexpected death. The resurrection of humanity's first immortal had become a private medical procedure, attended by legal representatives and the BioGenesis board members who had witnessed his very public death. 
-
-Thomas Reeves sat in the front row, BioGenesis's general counsel, already mentally drafting the legal briefs that would be required if this worked. Or didn't. Beside him, Director Harrison from Corporate Security kept checking his tablet—threat assessments updating in real-time as eleven billion people waited to see if the dead could return. In the back, Sarah Okafor from Investor Relations was calculating market implications with the grim focus of someone who'd watched three trillion dollars evaporate in forty-eight hours.
-
-Notably absent were family members—a decision made for "security reasons".
-
-"Beginning consciousness integration sequence." Dr. Chen announced it to the smaller gallery. Her voice lacked the triumphant confidence of two days prior. "Neural pathway reconstruction commencing."
-
-The holographic displays showed familiar patterns: quantum storage accessing archived consciousness, memory pathways mapping to biological substrate, personality integration proceeding according to protocols that had worked perfectly once before.
-
-"Integration at forty percent." Dr. Martinez reported. "Nominal."
-
-"Sixty percent. Neural activity approaching baseline."
-
-"Eighty percent. Coherence maintained."
-
-"Ninety-nine percent... Integration complete."
-
-The body on the resurrection table stirred, chest rising and falling with programmed regularity. Eyelids fluttered with the same movements remembered from a previous life.
-
-Dr. Chen initiated the awakening sequence, her gesture activating embedded neural stimulation with the cautious precision warranted by the gravity of the moment.
-
 The body's eyes opened. But for three seconds—Chen counted them on the biometric display—nothing happened. The eyes stared at the ceiling with the blank expression of a machine waiting for input. Pupils dilated, contracted, dilated again as the visual cortex tried to calibrate. The chest rose and fell but the breathing pattern was wrong—too regular, too mechanical, like someone had programmed respiration but forgotten that humans don't breathe like metronomes.
 
 In the gallery, someone whispered something. Another person shushed them. The silence felt fragile.
@@ -52,17 +20,25 @@ Third attempt: "Sta—" The word caught, reformed. "Status report."
 
 His voice was identical to the one that had addressed the world forty-eight hours earlier—same timbre, same cadence, same unconscious habit of clipping consonants that three generations of Korrs had exhibited. Even in death, his first instinct was assessment and control. The man had died and returned and his personality had survived the transfer precisely because it was the kind of personality that wouldn't let death interfere with situational awareness. This was the trait that had made him the most powerful man in the world—not genius, not vision, but the pathological inability to accept any system he couldn't personally control. The kind of man who'd rather rebuild global infrastructure than delegate. Which was, Dr. Chen reflected, either the strongest possible validation of the Mumbai Protocol's efficacy or evidence that Korr's control-orientation was so deeply embedded in his neural architecture that it had survived being reduced to quantum state vectors and reconstituted from scratch.
 
-"Resurrection successful, Mr. Korr. Um, obviously." Dr. Chen replied, embarrassed. "All cognitive and physical parameters nominal. Coherence at ninety-seven-six, actually higher than baseline. OR patterns within point-oh-three sigma." She paused, realizing she was babbling technical details because she didn't know what else to say to someone who'd just returned from death. "Welcome back."
+"Resurrection successful, Mr. Korr. Um, obviously." Dr. Chen's voice was hoarse from the forty-eight hour procedure. She'd been awake since the collapse, managing subsystems that had never been tested under combat conditions—because that's what unplanned resurrection was. Combat medicine for consciousness itself. What should have been a controlled demonstration of consciousness transfer technology had become humanity's first emergency resurrection, performed under global scrutiny. "All cognitive and physical parameters nominal. Microtubule coherence at ninety-seven-six, actually higher than baseline. Penrose-Hameroff orchestration patterns matching archived baseline. OR patterns within point-oh-three sigma." She paused, realizing she was babbling technical details because she didn't know what else to say to someone who'd just returned from the dead. "Welcome back."
 
 Damon sat up slowly, and the new body responded with perfect precision. But something felt wrong. He examined his hands—smooth, unmarked, perfect. No callus on his right index finger. No scar on his left palm. No age spots. The fingers moved with a slight delay—not lag, exactly, but the microsecond gap between intention and execution that came from consciousness still calibrating to unfamiliar neural pathways.
 
 Everything felt *new*. The air was too cold on his skin. The resurrection table was too hard beneath him. His mouth tasted like copper and antiseptic, though he knew that was impossible—this body had never tasted anything. The sensations were memories, phantom experiences his consciousness was projecting onto virgin nerve endings.
 
-He flexed his hands. The joints moved smoothly, without the subtle ache he'd grown accustomed to over fifty-two years. His previous body had been fifty-two years old—maintained at the apparent age of thirty-five through Shimizu's Gen-6 cellular repair protocols, but still carried five decades of accumulated micro-damage, telomere wear, mitochondrial drift. This body was actually thirty-five. Genuinely, biologically young in a way he hadn't been since 2033. It felt like wearing someone else's clothes.
+The chamber hummed with the precise frequency of molecular reassembly, a sound like ten thousand tuning forks struck in perfect unison. Eighteen months of accelerated growth had produced a body identical to his original at age thirty-five—the age he'd specified for all future returns to life. But this body was actually thirty-five. Genuinely, biologically young in a way he hadn't been since 2033. It felt like wearing someone else's clothes.
+
+He flexed his hands. The joints moved smoothly, without the subtle ache he'd grown accustomed to over fifty-two years. His previous body had been fifty-two years old—maintained at the apparent age of thirty-five through Shimizu's Gen-6 cellular repair protocols, but still carried five decades of accumulated micro-damage, telomere wear, mitochondrial drift. This body remembered nothing.
+
+Damon looked up, taking in the viewing gallery. Only twelve witnesses—no media, no government officials, no global broadcast as had been originally planned before his unexpected death. The resurrection of humanity's first immortal had become a private medical procedure, attended by legal representatives and the BioGenesis board members who had witnessed his very public death.
+
+Thomas Reeves sat in the front row, BioGenesis's general counsel, already mentally drafting the legal briefs that would be required if this worked. Or didn't. Beside him, Director Harrison from Corporate Security kept checking his tablet—threat assessments updating in real-time as eleven billion people waited to see if the dead could return. In the back, Sarah Okafor from Investor Relations was calculating market implications with the grim focus of someone who'd watched three trillion dollars evaporate in forty-eight hours.
+
+Notably absent were family members—a decision made for "security reasons."
 
 "How long was I gone?"
 
-"Forty-eight hours, twelve minutes." Dr. Chen paused. "Complete cellular failure occurred at eleven fifty-five AM during your global address. We restored from yesterday's checkpoint."
+"Forty-eight hours, twelve minutes." Dr. Chen paused. "Complete cellular failure occurred at eleven fifty-five AM during your global address. We restored from yesterday's checkpoint using the Mumbai Protocol—Srinivasan's breakthrough that made all of this possible. But Srinivasan had never tested emergency resurrection. Only controlled transfers with weeks of preparation. The displays showed microtubule quantum states collapsing into classical neural firing patterns that looked right, but 'looked right' wasn't the same as 'were right,' and I've been awake for forty-eight hours trying to tell the difference."
 
 Damon nodded, processing the information with characteristic analytical detachment. But the nod felt wrong—the muscles in his neck responding differently than they should. "So I have no memory of dying, or my last day."
 

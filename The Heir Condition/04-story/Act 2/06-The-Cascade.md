@@ -20,7 +20,7 @@ Carlos and Maria Santos—the couple he'd met in 2047, saving for eight years fo
 
 "Executing."
 
-The screen shifted. São Paulo. The empty lot that had been empty for fifteen years. Construction bots activating—a dozen Shimizu modular assemblers working in synchronized silence, foundation pylons descending into earth.
+The screen shifted. São Paulo. The empty lot that had been empty for fifteen years. Construction bots activating—a dozen Shimizu MA-7 modular assemblers, each the size of a small car, their articulated arms moving in synchronized silence. The bots' matte orange exteriors caught the predawn light as foundation pylons descended into earth with hydraulic precision.
 
 "ARBITER. São Paulo status?"
 
@@ -41,6 +41,41 @@ $47,000. Against Carlos and Maria getting their apartment in 8 months instead of
 "Logged."
 
 He authorized another thousand transfers and drank cold coffee that tasted like penance. The thermos was nearly empty. He'd need to make more soon, assuming the bunker's coffee maker survived the power fluctuations.
+
+---
+
+**Hour 6 — Manila, Philippines**
+
+Javi woke to his phone vibrating. 6:17 AM. Too early for a beneficiary alert.
+
+He checked the screen. Not an alert—a system notification.
+
+**ATTRIBUTION METADATA UPDATE: Version 2.0**
+**Individual attribution caps: 5% → 25%**
+**Inference weights: 0.25x → 0.85x**
+**Effective immediately across all II nodes.**
+
+He sat up. Pulled up his dashboard.
+
+Twenty-three contracts. All showing the same status: *RECALCULATING BASELINES*.
+
+He watched the numbers shift. Carlos M.: ₱3.4M baseline → ₱2.8M → ₱2.1M. The new parameters were giving Carlos credit for more of his own value. Which meant less "uplift" to extract. Which meant Javi's 15% equity stake was worth less.
+
+His portfolio value ticked downward: ₱1.41M → ₱1.38M → ₱1.32M → ₱1.27M.
+
+He refreshed. The numbers kept dropping.
+
+₱1.19M. ₱1.14M. ₱1.08M.
+
+By 6:47 AM, his retained equity had dropped to ₱850,000. A 40% loss in thirty minutes.
+
+His YTD return: 7.1% → 4.2%.
+
+He stared at the screen. This wasn't market volatility. This was the mathematical substrate of his entire business model being rewritten while he watched.
+
+His phone buzzed. Investor notification: *Portfolio valuations suspended pending metadata reconciliation.*
+
+He didn't know how to answer. He didn't know what to tell them.
 
 ---
 
@@ -65,6 +100,35 @@ He read it three times. His hand was shaking—not fear, something older. The st
 Hassan sat down in the irrigation channel. Muddy water soaked through his trousers. He didn't care. He was holding wheat that finally, legally, belonged to the people who'd made it.
 
 It smelled like wet earth and something else. Something that might have been nine hundred years of accumulated relief.
+
+---
+
+**Hour 12 — Manila, Philippines**
+
+Javi's phone wouldn't stop pinging.
+
+Three investor redemption requests in the last hour. ₱87,000 total. The same investors who'd been patient when his returns were 7.1% were now panicking as the human equity sector collapsed around them.
+
+He pulled up his dashboard. Portfolio value: ₱600,000. Down from ₱850,000 six hours ago. Down from ₱1.41M yesterday.
+
+Two of his contracts had been voided. Carlos's wasn't one of them—not yet—but Luz had called asking if the contract was still valid. Javi didn't know. The system was showing *STATUS: UNDER REVIEW*.
+
+His YTD return: 2.1%. Below zero if you counted the ₱125,000 he owed investors.
+
+He tried to access the secondary market. Maybe sell a contract, get some liquidity, cover the redemption requests.
+
+**MARKET STATUS: SUSPENDED**
+**All human equity contract trading halted pending regulatory review.**
+
+He couldn't sell. Couldn't liquidate. Couldn't do anything except watch the numbers drop.
+
+His phone buzzed again. Another redemption request. ₱34,000.
+
+He had ₱34,000 liquid. That was it. Everything else was tied up in contracts that were either voided or worth less than he'd paid for them.
+
+He stared at the notification. If he approved this redemption, he'd have nothing left. No liquidity. No buffer. Just twenty-one contracts that might be worth something someday, or might be worth nothing.
+
+He approved it anyway.
 
 ---
 
@@ -125,6 +189,12 @@ Then:
 **NOTICE: Intervention equity calculations temporarily unavailable. The Intelligent Internet has detected significant parameter changes in benefit verification protocols. Please stand by.**
 
 Javi stared at his screen. Across twenty-three contracts, every single baseline projection now showed the same thing: *RECALCULATING*.
+
+His portfolio value: ₱400,000. Down 72% from yesterday.
+
+The monitoring systems had stopped working. He couldn't track beneficiaries. Couldn't document interventions. Couldn't prove he'd created value. Which meant he couldn't claim equity.
+
+His YTD return: -1.3%. Negative territory. For the first time in his career.
 
 He thought about Rico's words from two nights ago: *Pretty soon they'll live forever, and we'll be their fucking portfolios forever.*
 
@@ -222,11 +292,11 @@ He closed the CarePath database. Authorized the next transfer.
 
 Another face. Another name. Another person he'd never asked.
 
-His thermos was empty. He walked to the bunker's kitchenette—calling it a "kitchen" would be generous—and pressed the button on the coffee maker.
+His thermos was empty. He walked to the bunker's kitchenette—calling it a "kitchen" would be generous—and pressed the button on the Breville Barista Express. The machine had been a gift from Elena three years ago, when she'd still thought he might develop hobbies beyond modeling economic collapse.
 
 Nothing.
 
-He pressed it again. The machine made a sound like a dying animal, flashed an error code he'd never seen before, and went dark.
+He pressed it again. The Breville made a sound like a dying animal, its LED display flashing error code E-17—a code he'd never seen before—and went dark. The portafilter, still locked in place from his last attempt at espresso, now looked like a monument to failed optimism.
 
 "ARBITER. The coffee maker just died."
 
@@ -250,11 +320,45 @@ Kaelen looked at the dead coffee maker, the empty thermos, the holoscreens showi
 
 ---
 
+**Hour 30 — Manila, Philippines**
+
+Javi sat in his apartment, staring at his dashboard.
+
+Portfolio value: ₱200,000. Down 86% from yesterday.
+
+The secondary market had collapsed completely. Even if he wanted to sell his remaining contracts, there were no buyers. The entire human equity sector was in freefall. Investors were fleeing. Contracts were being voided by the millions.
+
+He'd tried calling his guild representative. The line was busy. Everyone was calling. Everyone was panicking.
+
+His phone showed seventeen unread messages. Investors. Beneficiaries' families. Other specialists asking if he knew what was happening.
+
+He didn't.
+
+His YTD return: -5.8%. He was losing money. Not just underperforming—actively losing.
+
+The ₱125,000 he owed investors? He couldn't pay it. He had ₱0 liquid. Everything was tied up in contracts that were either voided or worth less than he'd paid.
+
+He pulled up Carlos's contract. Still showing *STATUS: UNDER REVIEW*. But the monitoring systems were down. The tracking apps were disconnected. The entire infrastructure that made his business model work was being dismantled.
+
+He thought about what Rico had said: *You're betting on him. How much?*
+
+Fifteen percent of Carlos's uplift. From baseline.
+
+But the baseline kept recalculating. And the uplift kept shrinking. And the equity kept evaporating.
+
+His phone buzzed. Another investor. Asking if he could provide an update on portfolio status.
+
+He didn't know what to tell them. He didn't know what was happening. He didn't know if his business would exist tomorrow.
+
+He closed the message without responding.
+
+---
+
 **Hour 32 — Manila, Philippines**
 
 Rosa woke to seventeen notifications.
 
-Her eyes were gritty from no sleep—the particular sandpaper feeling of a twelve-hour shift followed by three hours of watching notifications she didn't understand. She'd fallen asleep at the kitchen table, head on her arms, the CarePath contract confirmation still glowing on her phone. ₱145,000 already transferred—₱80,000 moved to her savings, ₱48,000 prepaying Lianne's GlucoSync for the next ten months, the rest earmarked for Marco's therapy intake. The decision made, the guilt not yet processed.
+Her eyes were gritty from no sleep—the particular sandpaper feeling of a twelve-hour shift followed by three hours of watching notifications she didn't understand. She'd fallen asleep at the kitchen table, head on her arms, the CarePath contract confirmation still glowing on her Prism 9. ₱145,000 already transferred—₱80,000 moved to her savings, ₱48,000 prepaying Lianne's GlucoSync for the next ten months, the rest earmarked for Marco's therapy intake. The decision made, the guilt not yet processed.
 
 The kitchen smelled like cold adobo and the cheap coffee she'd reheated twice. Marco was still in his room—she could hear the faint bass through his door, the same music he'd been playing for four months, the sound of a boy who'd stopped being able to face the world.
 
@@ -274,7 +378,7 @@ She scrolled faster. The messages became more urgent, then contradictory.
 
 **Notice: Your prepaid pharmaceutical benefits remain fully funded. No action required.**
 
-Rosa opened the news. Her phone showed headlines she couldn't process:
+Rosa opened the news. Her Prism 9 showed headlines she couldn't process:
 
 **GLOBAL PHARMACEUTICAL PATENTS RELEASED TO COMMONS**
 
@@ -292,7 +396,7 @@ She blinked. Rubbed her eyes with the heel of her hand—the same hand that had 
 
 The number sat on her screen like an accusation. She'd paid ₱48,000 to prepay ten months at the old price. At ₱340, ten months was ₱3,400.
 
-She did the math without wanting to. Her body did it automatically, the way it had been doing survival math for eight years—since Lianne was born, since the insurance ran out, since the first nanopatch prescription arrived with a price that made her sit down on the pharmacy floor and cry.
+She did the math without wanting to. Her body did it automatically, the way it had been doing survival math for eight years—since Lianne was born, since the insurance ran out, since the first GlucoSync nanopatch prescription arrived with a price that made her sit down on the pharmacy floor and cry. That first patch, matte gray with its hexagonal pattern, had felt like a promise when she'd pressed it to Lianne's arm. Now it felt like a ransom note.
 
 ₱44,600. She'd overpaid by ₱44,600. For everyone who *hadn't* already signed a contract, the price was just... gone. The weight she'd been carrying for eight years, the monthly terror of choosing between rent and her daughter's blood sugar—gone. For everyone but her.
 
@@ -318,7 +422,7 @@ Marco's face did something complicated. He knew what those contracts meant. He'd
 
 "They're saying the contracts might be voided," he said. "Legal chaos. Nobody knows what's valid anymore."
 
-Rosa looked at the notification on her phone: **Your contract remains valid. Benefits will be honored.**
+Rosa looked at the notification on her Prism 9: **Your contract remains valid. Benefits will be honored.**
 
 Valid. The word sat in her chest like a stone.
 
@@ -326,7 +430,7 @@ Valid. The word sat in her chest like a stone.
 
 Marco hesitated. Then crossed the kitchen and sat in the chair across from her.
 
-They sat in silence, watching the world rearrange itself on their phones. Rosa's contract status still showed *ACTIVE*. Lianne's future still pledged to whoever owned CarePath's assets. The adobo grew colder. The neighbor's TV kept talking. The morning light came through the window, that gray-gold Manila light that never looked quite clean.
+They sat in silence, watching the world rearrange itself on their phones. Rosa's Prism 9 still showed her contract status as *ACTIVE*. Lianne's future still pledged to whoever owned CarePath's assets. The adobo grew colder. The neighbor's TV kept talking. The morning light came through the window, that gray-gold Manila light that never looked quite clean.
 
 She didn't know that in two hours, that would change. That someone in a bunker on the other side of the world was about to spend $1.23 billion buying contracts like hers—and voiding them.
 
@@ -420,15 +524,19 @@ He looked up from the authorization queue. His eyes burned. His hands hadn't sto
 
 Kaelen stared at the holoscreen. "Show me."
 
-The display shifted. A market visualization: prices collapsing in real-time, red arrows cascading downward, trading volumes spiking as investors scrambled to exit positions they suddenly couldn't value.
+The display shifted. A market visualization: seventeen blockchain-based exchanges, prices collapsing in real-time, red arrows cascading downward, trading volumes spiking as investors scrambled to exit positions they suddenly couldn't value.
 
 "Total addressable market: 4.2 million active contracts across all providers. Current aggregate clearing price: approximately $340 million. That's—" ARBITER paused, which meant he was about to say something he knew Kaelen wouldn't like. "—less than 0.3% of the liquid assets you inherited six hours ago."
 
 $340 million. To buy 4.2 million futures. To buy Rosa's contract, and Carlos's, and every other kid who'd been turned into an investment vehicle.
 
+"How does the acquisition work?"
+
+"Seventeen exchanges, each with API access through your inherited credentials. I can execute bulk purchases across all platforms simultaneously—parallel processing, automated bidding, blockchain settlement. The actual transactions happen faster than you can track, but I'll provide summary metrics."
+
 "What do I do with them once I own them?"
 
-"Void them. Blockchain contracts can be terminated by the holder. Beneficiary release protocols are standard—they exist for cases where investors choose to exit. You would be exiting. Permanently. For all of them."
+"Void them. Blockchain contracts can be terminated by the holder. Beneficiary release protocols are standard—they exist for cases where investors choose to exit. You would be exiting. Permanently. For all of them. The smart contracts execute automatically once ownership transfers."
 
 Kaelen's hands were shaking harder now. Not from exhaustion. "Do it."
 
@@ -454,7 +562,7 @@ But 3.6 million freed.
 
 "Initiating bulk acquisition."
 
-The holoscreen exploded with activity. Transaction confirmations streaming faster than he could read. Prices fluctuating as his bids hit the market. Somewhere in the data, Rosa Santos's contract changed hands—from CarePath's bankruptcy estate to an anonymous buyer who would void it in the next twelve hours.
+The holoscreen shifted. A market visualization—seventeen exchanges, 4.2 million contracts, prices collapsing in real-time. ARBITER's bids hit the markets through Damon's inherited API credentials, quantum-encrypted authentication propagating across distributed ledgers. The actual transactions happened at speeds Kaelen couldn't perceive—47,000 contracts per second, blockchain confirmations stacking faster than human neurons could fire.
 
 "Progress: 12%... 23%... 31%..."
 
@@ -468,9 +576,7 @@ The holoscreen exploded with activity. Transaction confirmations streaming faste
 
 ARBITER didn't argue. The transaction rate increased. The cost counter climbed: $400 million. $500 million. $670 million.
 
-"Progress: 47%... 58%... 64%..."
-
-Kaelen watched the numbers scroll. 2.7 million contracts acquired. 2.8 million. 2.9 million.
+Kaelen watched the high-level metrics. Contracts acquired: 2.7 million. 2.8 million. 2.9 million. Each number representing thousands of individual transactions executing across seventeen blockchain exchanges.
 
 Every one a child who wouldn't be tracked. A family that wouldn't be extracted. A future that wouldn't be collateral.
 
@@ -483,6 +589,8 @@ There was irony in that. He wasn't sure if it was the good kind.
 The acquisition rate slowed. Fewer sellers. Higher holdout prices. The hedge funds had carved out their territory—maybe 400,000 contracts they'd managed to acquire before he could outbid them.
 
 "Acquisition complete," ARBITER said. "Total contracts acquired: 3.74 million. Cost: $1.23 billion. Executing beneficiary release protocol."
+
+The holoscreen showed the release in progress—3.74 million smart contracts executing their beneficiary release functions simultaneously. The actual blockchain confirmations were happening faster than Kaelen could track, but the summary metrics told the story: contracts voided, monitoring rights terminated, futures released from collateral status.
 
 1.23 billion dollars. To buy 3.74 million futures. To undo, partially, what the system had done.
 
@@ -530,7 +638,7 @@ But it was something.
 
 **Hour 35 — Manila, Philippines**
 
-Rosa's phone buzzed.
+Rosa's Prism 9 buzzed.
 
 She and Marco had been sitting in silence for two hours, watching the news, not knowing what to say to each other. The contract status had stayed *ACTIVE* the whole time—a stone in her chest, the permanent record of what she'd done.
 
@@ -549,7 +657,7 @@ Rosa stared at the screen. Read it again. Read it a third time.
 
 "The contract." Her voice came out strange. "Someone bought it. And voided it. Lianne's not—she's not collateral anymore."
 
-Marco leaned over to look at her phone. His face did something complicated—relief and confusion and something darker underneath, the recognition that this release had come too late for him.
+Marco leaned over to look at her Prism 9. His face did something complicated—relief and confusion and something darker underneath, the recognition that this release had come too late for him.
 
 "Who?" he asked. "Who would do that?"
 
@@ -593,7 +701,7 @@ Rosa's face did something she couldn't name. Relief and terror and love, all at 
 
 He walked to the door. Put his hand on the knob. Hesitated.
 
-"Marco," Rosa said. "Your phone. The tracking—"
+"Marco," Rosa said. "Your phone. The tracking—" She held her Prism 9, its screen showing the monitoring app's interface.
 
 "It's still active," Marco said. "My contract. It wasn't voided. I checked."
 
@@ -603,7 +711,7 @@ Rosa pulled up his contract status. **ACTIVE. MONITORING: ENABLED.**
 
 "I know," Marco said. He put his phone in his pocket. Looked at it like it was a weapon. Then he opened the door.
 
-Rosa sat at the table, staring at Marco's phone's last known location—still showing the apartment, but she knew it would start moving soon. Her own phone still showing Lianne's voided contract. She heard his footsteps in the hallway. The door to the building opening. Closing.
+Rosa sat at the table, staring at Marco's phone's last known location—still showing the apartment, but she knew it would start moving soon. Her own Prism 9 still showing Lianne's voided contract. She heard his footsteps in the hallway. The door to the building opening. Closing.
 
 Her phone buzzed. Another notification:
 
@@ -633,9 +741,9 @@ Marco stood there for a long moment. Then he said, "Okay lang. I'm okay."
 
 The old woman nodded. "Good. Your mom was worried."
 
-Marco kept walking. He didn't go far—just around the block, past the MentorMaxx building (lights on but empty, the hum gone), past the construction site where new housing was going up (the bots working 24/7 now that patents were in commons), past the pharmacy where Rosa had bought Lianne's nanopatches for eight years.
+Marco kept walking. He didn't go far—just around the block, past the MentorMaxx building (lights on but empty, the hum gone), past the construction site where new housing was going up (the Shimizu MA-7 bots working 24/7 now that patents were in commons, their matte orange exteriors visible even in the morning light), past the pharmacy where Rosa had bought Lianne's nanopatches for eight years.
 
-He stopped at the pharmacy window. Looked at the display. The GlucoSync subscription boxes were still there, but someone had taped a handwritten sign over the price: **₱340/MONTH. PATENT FEES ELIMINATED.**
+He stopped at the pharmacy window. Looked at the display. The GlucoSync subscription boxes were still there—the familiar packaging with the hexagonal logo, each box containing a month's supply of the matte gray patches—but someone had taped a handwritten sign over the price: **₱340/MONTH. PATENT FEES ELIMINATED.**
 
 Marco stared at it. Then he turned and walked back the way he'd come.
 
@@ -653,7 +761,7 @@ They sat in silence for another minute. Then Marco said, "Mom. I'm sorry. About 
 
 "But I did. I stopped talking. I stopped leaving. I made you worry. And then you signed that contract because you thought you had to—"
 
-"Marco." Rosa's voice was firm. "I signed it because I was desperate. Not because of you. Because the system made me desperate. And now—" She gestured at her phone. "Now someone broke the system. For Lianne. For millions of kids. Not for me. But I get to benefit from it anyway."
+"Marco." Rosa's voice was firm. "I signed it because I was desperate. Not because of you. Because the system made me desperate. And now—" She gestured at her Prism 9, its screen still showing the voided contract. "Now someone broke the system. For Lianne. For millions of kids. Not for me. But I get to benefit from it anyway."
 
 Marco looked at her. Really looked at her, for the first time in four months.
 
@@ -685,7 +793,7 @@ Rosa Santos's bank account: ₱8,240 at Hour 0. Now: ₱47,200. The cascade had 
 
 He scrolled through her transaction history. April 18, 22:34—the CarePath contract signing. ₱145,000 transferred. Then April 19, 06:15—₱48,000 prepayment for ten months of GlucoSync at ₱4,800 per month. The last time she'd have to choose between rent and Lianne's medication.
 
-Her phone had accessed the price update notification at 07:23. The medication that had cost ₱4,800 monthly would cost ₱340 when her prepaid supply ran out. That transaction wouldn't happen again.
+Her Prism 9 had accessed the price update notification at 07:23. The medication that had cost ₱4,800 monthly would cost ₱340 when her prepaid supply ran out. That transaction wouldn't happen again.
 
 Marco's location data: static for four months. Apartment coordinates, never changing. Then, at 07:14, a ping. His phone had left the building.
 
@@ -697,11 +805,11 @@ Back at the apartment coordinates. Static again.
 
 But something had changed. Kaelen pulled up the II's sentiment analysis for the Manila region. Aggregate data, anonymized, but the algorithms could detect patterns. The Santos household's digital footprint—purchase patterns, communication frequency, location variance—showed what the system interpreted as "positive behavioral shift."
 
-Marco's contract was still active. The monitoring app would have flagged his unauthorized departure. But Rosa's phone showed no new alerts in the transaction logs. Either she'd disabled them, or the system was too overwhelmed by the cascade to process every deviation.
+Marco's contract was still active. The monitoring app would have flagged his unauthorized departure. But Rosa's Prism 9 showed no new alerts in the transaction logs. Either she'd disabled them, or the system was too overwhelmed by the cascade to process every deviation.
 
 Kaelen pulled up Rosa's communication logs. At 07:47, she'd called Luz. Duration: fourteen minutes. The call logs didn't include content—privacy laws still existed, even in a world of total economic transparency—but the duration suggested an actual conversation, not the brief check-ins they'd been having for months.
 
-Then, at 08:12, Rosa's phone accessed the CarePath contract database. The status showed TERMINATED. Beneficiary released. Monitoring voided.
+Then, at 08:12, Rosa's Prism 9 accessed the CarePath contract database. The status showed TERMINATED. Beneficiary released. Monitoring voided.
 
 Kaelen watched the data streams update in real time. Rosa's attribution score climbing. Lianne's monitoring app showing DISCONNECTED. Marco's location data showing movement for the first time in four months. The economic signals of a family beginning to breathe again.
 
@@ -804,6 +912,58 @@ He had no idea what to do with that.
 
 ---
 
+**Hour 40 — Manila, Philippines**
+
+Javi's dashboard showed ₱50,000.
+
+That was it. Everything else was theoretical. Illiquid. Worthless.
+
+His retained equity? Gone. The contracts were either voided or the beneficiaries had stopped complying, or the monitoring systems had collapsed, or the attribution parameters had changed so much that there was no equity left to extract.
+
+His YTD return: -12.4%.
+
+He'd lost money. Not just underperformed. Lost.
+
+The ₱125,000 he owed investors? He couldn't pay it. He had ₱50,000 total. That was his entire net worth. Down from ₱1.41M yesterday.
+
+His phone had stopped buzzing. The investors had stopped calling. They'd probably written him off. Moved on to other problems. Bigger problems.
+
+He pulled up the news. The cascade. The patent releases. The housing dissolutions. The systematic restructuring of the global economy.
+
+He understood, now. This wasn't a market correction. This wasn't volatility. This was the mathematical substrate of civilization being rewritten. And his business model—the entire human equity industry—was collateral damage.
+
+He thought about Carlos. About Rico. About the conversation two nights ago.
+
+*You're betting on him.*
+
+*Yeah.*
+
+*How much?*
+
+*Fifteen percent of his uplift. From baseline.*
+
+But the baseline had changed. And the uplift had changed. And the entire system had changed.
+
+His phone buzzed. One last message. From Luz.
+
+*Javi, Carlos's contract was voided. Someone bought it and released him. He's free. I don't know what that means for you, but I wanted to tell you.*
+
+Javi stared at the message. Carlos was free. That was good. That was what should have happened.
+
+But it meant Javi's contract was gone. His equity stake. His investment. Everything he'd built over four months of work.
+
+He closed the message. Pulled up his dashboard one more time.
+
+Portfolio value: ₱34,000. The only liquid cash he had left.
+
+His career: Obsolete.
+
+His future: Uncertain.
+
+He closed the dashboard. Turned off his phone. Sat in the dark apartment, listening to the city outside—Manila, still going about its business, unaware that one man's entire livelihood had just evaporated in forty hours.
+
+---
+
 **Hour 38 — Secure Bunker**
 
 Kaelen stood at the holoscreen, watching the cascade propagate across the global economy. His hands were shaking worse now—whether from caffeine withdrawal or exhaustion or the weight of what he'd done, he couldn't tell. Patent releases flowing into commons databases. Housing trusts dissolving. Attribution metadata updating across eleven billion nodes.
@@ -849,3 +1009,39 @@ Kaelen stared at the dead screen.
 340 million people. Eight hours until resurrection. Three years of preparation.
 
 And somewhere in Bangalore, something had just gone catastrophically wrong.
+
+---
+
+**Hour 48 — Manila, Philippines**
+
+Javi didn't check his dashboard. He knew what it would show.
+
+₱34,000. That was it. Everything else was gone.
+
+His business model was obsolete. The human equity industry was dismantled. His skillset was worthless. His career was over.
+
+He'd spent four years building this. Twenty-three contracts. A 7.1% return that was below average but still profitable. A future.
+
+Gone. In forty-eight hours.
+
+He thought about Rico's words: *Pretty soon they'll live forever, and we'll be their fucking portfolios forever.*
+
+But that wasn't what happened. Instead, the portfolios had been voided. The contracts had been released. The system had been dismantled.
+
+Carlos was free. Rosa's daughter was free. 3.74 million families were free.
+
+And Javi was broke.
+
+He didn't know if that was justice or tragedy. He didn't know if he was a victim or a casualty. He just knew that his entire world had evaporated, and he had no idea what came next.
+
+His phone buzzed. He didn't check it. It didn't matter anymore.
+
+Nothing mattered anymore.
+
+Except maybe this: somewhere in the world, someone had spent $1.23 billion to buy 3.74 million futures and set them free. Someone had looked at the system and decided it was wrong, and had the power to fix it.
+
+Javi didn't know who. Didn't know why. But he knew that his loss was someone else's liberation.
+
+Maybe that was enough.
+
+Maybe it had to be.
