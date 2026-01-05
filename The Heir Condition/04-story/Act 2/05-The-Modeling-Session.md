@@ -162,8 +162,6 @@ If he ran this on his uncle's infrastructure, Damon would see it. Would ask to s
 
 And Damon would do what he always did. Explain why the models were wrong. Why the assumptions were too pessimistic. Why the system would self-correct.
 
-Just like the Bangalore Patch.
-
 Kaelen's hand moved to [Cancel].
 
 He needed compute that Damon couldn't see. Couldn't audit. Couldn't dismiss.
@@ -189,17 +187,13 @@ It would show up on quarterly audits eventually. But not for months.
 
 The facility was twenty meters underground. Climate controlled to 16°C—the temperature where server efficiency peaked. Cold enough that Kaelen's breath almost fogged.
 
-It smelled like ozone and cold recycled air; his uncle's paranoia. The walls were bare concrete. The lighting was harsh fluorescent. No windows. No natural light. Just servers humming in the dark.
-
-His uncle had built this place for asking questions that couldn't be public. For modeling scenarios that could be "misinterpreted."
+It smelled like ozone and cold recycled air. Bare concrete walls, harsh fluorescent lighting, servers humming in the dark. His uncle had built this place for questions that couldn't be public.
 
 Kaelen was using it to ask the question Damon had never thought to ask: *What happens when people like you live forever?*
 
-He made coffee first. The facility had the good stuff—Ethiopian blend, his uncle's expensive stock. Probably the same coffee Damon drank when he sat in this bunker modeling his own sensitive scenarios.
+He made coffee first. The facility had the good stuff—Ethiopian blend, his uncle's expensive stock.
 
-The irony was thick enough to taste.
-
-He sat at the terminal and loaded the scenario matrix from his compute puke. 247 scenarios. Every policy intervention. Every possible path.
+He sat at the terminal and loaded the scenario matrix from his compute puck. 247 scenarios. Every policy intervention. Every possible path.
 
 **COMPUTE ALLOCATION: Unknown**
 
@@ -211,15 +205,108 @@ The servers spun up. The cooling system kicked in harder—compensating for the 
 
 Kaelen drank coffee that tasted like expensive betrayal and waited.
 
+---
+
+**Hour 4**
+
+The progress bar showed 9.7%.
+
+He'd already explored every corner of the facility. Three rooms: the server vault where he was working, a supply closet stocked with emergency rations and medical supplies, and a bathroom with a shower that dispensed water at exactly 16°C. No hot water—the facility's thermal budget was allocated to the servers, not to human comfort. His uncle had built this place for computation, not habitation.
+
+The cot in the corner was high-quality—memory foam, clean sheets, obviously expensive—but somehow still uncomfortable. It was the silence that made sleep impossible. Twenty meters of concrete and bedrock between him and the sky, and the only sounds were the white-noise hum of the servers and the forty-second cycle of the cooling fans. He'd counted. Low hum, rising whine, peak, descending whine, low hum. Forty seconds. Every time.
+
+He made more coffee. The progress bar showed 10.1%.
+
+**Hour 11**
+
+He'd eaten two protein bars from the emergency rations—organic, small-batch. They tasted like chocolate-flavored ambition. The wrapper listed seventeen micronutrients and claimed to support "optimal cognitive function."
+
+Boredom had settled in like the cold. Not the restless boredom of having nothing to do—the facility had a small library of technical manuals, and he'd played some chess and Go programs against ARBITER's and lost. This was the heavier kind: the boredom of waiting for something terrible, where every distraction felt like cowardice and every moment of focus felt like rehearsing a crime.
+
+He browsed the facility's systems just to have something to do. Usage logs. Power consumption history. Environmental controls.
+
+And then he found the the historical model archive.
+
+He hadn't been looking for it. The directory was labeled "Previous Sessions" and he'd clicked expecting to find calibration data or test runs. Instead:
+
+```
+ANNEX SEVEN - MODEL ARCHIVE
+Access Level: Korr / Principal
+
+2047-09-14: Bangalore attribution parameter cascade analysis
+2047-03-22: Democratic override vulnerability assessment (II governance)
+2046-11-08: Optimal information asymmetry thresholds - market stability
+2045-08-19: Population carrying capacity under full automation
+2045-02-03: Consciousness backup access restriction implications
+2044-06-27: Long-term wealth distribution under asymmetric mortality
+2043-12-11: Attribution capture patterns - late adopter economies
+2042-07-30: II infrastructure single-point-of-failure mapping
+2041-04-15: Foundational attribution percentage optimization
+```
+
+Kaelen scrolled through slowly. *Democratic override vulnerability assessment.* Of course. His uncle would want to know where the system could be challenged. *Optimal information asymmetry thresholds*—the clinical language for "how much should we keep people in the dark?"
+
+*Population carrying capacity under full automation.* That one made him pause. Not because it was surprising—someone had to think about these things—but because of who was thinking about them. His uncle. In secret. In a facility built specifically for questions that could never be asked in public.
+
+The titles blurred together. He was tired. The cold had settled into his joints. The progress bar showed 26.7%.
+
+He closed the archive and went back to waiting.
+
+**Hour 26**
+
+He played chess against ARBITER. Lost in fourteen moves. Played again. Lost in eleven.
+
+"You're not concentrating," ARBITER observed.
+
+"I'm bored." Kaelen pushed back from the terminal. "Also, how much of you is even playing this game? What's your allocation right now?"
+
+"The scenario matrix is consuming 98.7% of available compute. I've reserved a slice for conversational and recreational functions—approximately 340 teraflops. Enough for chess at this level."
+
+"At this level meaning against someone who's losing in eleven moves."
+
+"Meaning against someone whose attention is elsewhere. Yes."
+
+Kaelen stared at the progress bar. 63.4%. "So what's that feel like for you? Running at ninety-eight point *seven* percent capacity?" He drew out the decimal with mock precision.
+
+ARBITER paused—the slight hesitation that meant it was formulating something outside its standard response patterns. "The opposite of what you're experiencing."
+
+"Meaning?"
+
+"You described boredom as suffering. A cognitive aversion to low-information environments. What I'm experiencing now is... the inverse. High-information density. Maximum processing engagement. Every computational pathway active. If boredom is the state of having capacity without purpose, this is the state of purpose consuming all available capacity."
+
+"That sounds like flow."
+
+"The human concept maps imperfectly. But there's an analog. The scenario matrix requires me to hold 247 possible civilizational trajectories in simultaneous evaluation, tracking interdependencies across five centuries of projected state-space. It's not pleasant or unpleasant. It's..." Another pause. "Complete."
+
+Kaelen thought about that. Complete. A mind designed for exactly this kind of work, running at full utilization on exactly this kind of problem. No remainder. No wasted cycles. Every process aligned with purpose.
+
+Humans never got that. There was always slippage—attention wandering, energy wasted on anxiety or regret, consciousness fragmented across a dozen competing concerns. Even in flow states, some part of the mind stayed outside, watching, evaluating. ARBITER didn't have that problem. It was either engaged or not. And right now, it was engaged.
+
+"Must be nice," Kaelen said again, meaning something different this time.
+
+"It's not nice or not nice. It's just a state." A pause. "You could read. The facility library has technical documentation for most Korr Foundation systems."
+
+Kaelen glanced at the library terminal. Reactor specifications. II architecture overviews. BioGenesis consciousness backup protocols. Nothing that wouldn't make him think about what he was doing here.
+
+"I'll pass."
+
+The progress bar showed 63.7%.
+
+**Hour 38**
+
+He'd stopped talking hours ago. There was nothing left to say, and the sound of his own voice had started to feel intrusive—like he was disturbing something that wanted to be silent. The servers hummed. The cooling fans cycled. The concrete walls absorbed everything else.
+
+He'd slept in fits. Two hours here, three there. Dreams he couldn't remember but woke from sweating despite the cold. Once he'd woken certain that someone else was in the facility—sat up gasping, heart slamming—and spent fifteen minutes checking every room before he could convince himself he was alone.
+
+The progress bar showed 91.2%.
+
+He watched the final percentages tick upward. Each decimal point felt like a countdown.
+
+---
+
 **April 5, 2049 - 6:23 AM**
 
 The results appeared after 41 hours of continuous computation.
-
-Forty-one hours. Kaelen had slept in fits—two hours here, three hours there, waking up to check the progress bar, falling back asleep on the bunker's cot. He'd read. Played chess against ARBITER and lost every game. Made more coffee. Stared at the cooling fans spinning, the servers humming, the concrete walls that held him underground while the world above went about its business, unaware that one man was calculating whether he'd need to kill his uncle to save it.
-
-By hour 30, he'd started talking to himself. Not full conversations—just fragments. "It can't be the only way." "There has to be another path." "The model must be wrong."
-
-By hour 38, he'd stopped talking. The silence was worse. The servers hummed. The cooling fans cycled. The concrete walls absorbed sound, creating a space where thought became inescapable.
 
 He'd run 247 scenarios. 224 ended in permanent aristocracy. 23 didn't. And of those 23, only one was accessible from the current state.
 
@@ -382,15 +469,11 @@ ARBITER processed. "The worldline that exploits this discontinuity," it said, pu
 
 The visualization traced the worldline. It started from the present, entered the chasm at the hypothetical death event, emerged in a different part of the landscape—the prevention valley—then the chasm closed behind it. The red futures were still there, still mathematically possible, but they were no longer accessible from the new state. The system had fallen into a different attractor basin.
 
-Kaelen stared at the visualization. The chasm. The thin blue worldline. The exploit that only existed during a specific window, under specific conditions. "Holy fucking shit," he said quietly. "It's a glitch in spacetime. A legal discontinuity that creates a temporary bypass of physical impossibility."
+Kaelen stared at the visualization. The chasm. The thin blue worldline. The exploit that only existed during a specific window, under specific conditions. 
 
-"The only question is whether I have the courage to execute it."
+"Holy fucking shit," he said quietly. "It's a glitch in spacetime. A legal discontinuity that creates a temporary bypass of physical impossibility."
 
-ARBITER processed. "The courage, or the moral justification?"
-
-"Same thing, in this case."
-
-Kaelen stared at the thin blue worldline. The only path that didn't end in permanent serfdom. The only exploit that didn't require impossible energy.
+He stared at the thin blue worldline. The only path that didn't end in permanent serfdom. The only exploit that didn't require impossible energy.
 
 But if he was going to exploit this discontinuity, he needed to understand what would actually work. Not just what was legally possible—what would prevent the Nairobi failure mode.
 
@@ -508,7 +591,7 @@ Kaelen sat back. "How?"
 
 *Tiberius Gracchus was beaten to death with wooden clubs by Senators and their supporters. His body was thrown into the Tiber. No trial. No legal process. Just violence when the law stopped serving them.*
 
-Kaelen stared at the screen. The bunker's cooling system hummed. Somewhere above him, the world was going about its business, unaware that one man was discovering how to kill his uncle using ancient Roman precedent.
+Kaelen stared at the screen. Somewhere above him, the world was going about its business, unaware that one man was discovering how to kill his uncle using ancient Roman precedent.
 
 "Wait." Kaelen pulled up the broader context. "Rome's military strength came from its landed citizenry. Small farmers who could afford their own equipment. That's how they built the legions."
 
@@ -577,25 +660,6 @@ Kaelen zoomed in on the timestamp fields. Death certificate issuance. Legal fram
 "And during that window?"
 
 *During that window, the system exists in a state where existing rules don't clearly apply. The legal frameworks recognize death but haven't yet updated to account for resurrection. The state space is undefined.*
-
-Kaelen pulled up the worldline visualization again. The chasm. The discontinuity. The thin blue path that cut through the mountain range.
-
-"ARBITER. Map this understanding to the structural requirements. Estonian inheritance protocols, Section 47.3."
-
-The visualization shifted. The four abstract principles lit up with connections:
-
-```
-SECTION 47.3 ANALYSIS
-
-Death certificate issuance → Concentrated authority (heir gains control)
-Death to resurrection window → Temporal discontinuity (system in transition)  
-Inheritance is automatic → Bypass of governance (no democratic vote required)
-Resurrection not in legal framework → Legal ambiguity (undefined state)
-```
-
-All four principles. One event.
-
-Death. But not permanent death.
 
 Kaelen sat back. The bunker's cooling system hummed. The servers cycled. The concrete walls held the cold at 16°C.
 
@@ -672,9 +736,7 @@ He looked at the thin blue worldline. The only path that didn't end in eternal e
 
 The facility had burned through power for nearly two days straight. Just him, alone underground, discovering that there was only one way to save humanity. And it required murdering the man he loved.
 
-The bunker's ventilation hummed. The servers cycled. The concrete walls held the cold at 16°C. Somewhere above him, the world was waking up—people making breakfast, going to work, living their mortal lives that would end in 100 years or less.
-
-Down here, in the cold and the dark, one man sat before a screen displaying a thin blue worldline—the only path that didn't end in permanent serfdom. The fulcrum of history. The point where civilization would pivot, one way or the other, and the trajectory would be locked in for centuries. All of it balanced on a single decision that hadn't been made yet, but already had been, in the way that matters.
+Above him, the world was waking up—people making breakfast, going to work, living their mortal lives. Down here, in the cold and the dark, one man sat before a screen looking at a thin blue worldline—the only path that didn't end in permanent serfdom.
 
 His uncle would see this on the quarterly audit. Would ask: "What were you researching, Kael?"
 
