@@ -274,11 +274,11 @@ The nanopatch patents had hit commons three days ago. The medication that cost �
 
 Damon pulled up the timestamp log. His jaw tightened as he read.
 
-April 21, 2049, 14:32. Rosa Santos purchased insulin refill. First time in eighteen months she'd bought it before the supply ran out. No more rationing. No more choosing which week Marco got his medication and which week he didn't.
+April 21, 2050, 14:32. Rosa Santos purchased insulin refill. First time in eighteen months she'd bought it before the supply ran out. No more rationing. No more choosing which week Marco got his medication and which week he didn't.
 
-April 22, 08:15. Marco's door opened. He'd left the apartment for the first time in four months. The II's ambient sensors had logged it—door sensor, hallway camera, elevator usage. A twelve-year-old boy who'd been trapped by his mother's impossible choice, now walking outside because the choice no longer existed.
+April 22, 2050, 08:15. Marco's door opened. He'd left the apartment for the first time in four months. The II's ambient sensors had logged it—door sensor, hallway camera, elevator usage. A seventeen-year-old boy who'd been trapped by his mother's impossible choice, now walking outside because the choice no longer existed.
 
-April 22, 19:47. Rosa quit the night shift at Manila General. Her attribution score had jumped from 34th percentile to 67th. The cascade had given her back her evenings. Given her back her son.
+April 22, 2050, 19:47. Rosa quit the night shift at Manila General. Her attribution score had jumped from 34th percentile to 67th. The cascade had given her back her evenings. Given her back her son.
 
 Damon stared at the timestamps. His throat worked like he was trying to swallow something that wouldn't go down.
 
