@@ -208,10 +208,6 @@ The silence stretched. Kaelen found he couldn't look at his uncle's face anymore
 
 "I chose the mathematics. One death against—"
 
-"And you chose the strangers."
-
-"I chose the mathematics. One death against—"
-
 "Don't." Damon held up his hand. "Don't give me that utilitarian calculus. I taught you that framework. I don't need to hear my own philosophy weaponized against me."
 
 He walked to the window. Stood with his back to Kaelen, looking out at the bay.
@@ -240,7 +236,7 @@ Damon looked at him for a long moment. Then he turned back to the holographic di
 
 His finger hovered over the signature field.
 
-"You're murdered your own uncle for the greater good and almost failed because you didn't have the competence to match your ideology."
+"You murdered your own uncle for the greater good and almost failed because you didn't have the competence to match your ideology."
 
 But he didn't sign. Not yet.
 

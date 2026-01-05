@@ -114,7 +114,7 @@ She clicked [Review full terms].
 
 Forty-seven pages. She scrolled to Section 8: Intervention Authority. The words were dense, deliberately so. Escalated intervention procedures. Increased monitoring. Residential treatment placement. Emergency medical intervention.
 
-She'd hadn't read those words before, not the last time. Different company, different contract, same clause. Three years ago.
+She hadn't read those words before, not the last time. Different company, different contract, same clause. Three years ago.
 
 She turned to look at Marco's door, closed ever since.
 
@@ -148,7 +148,7 @@ Javi's face must have shown something because the guy smiled—first expression 
 
 Javi felt something cold in his stomach.
 
-"Marco came back na. He doesn't leave the house now. Doesn't talk pa. His baseline's probably close to zero." The guy's voice went flat. "So when I see you here, checking on Carlos, talking about your equity stake, I think about Marco, eh."
+"Marco came back na. He doesn't leave the house now. Doesn't talk pa. His baseline's probably close to zero." Rico paused. "So when I see you here, checking on Carlos, talking about your equity stake, I think about Marco, eh."
 
 "I'm not MentorMaxx naman. I'm independent. I don't do residential extractions—"
 
@@ -176,11 +176,7 @@ Carlos stood up. "I'm right here na. Stop talking about me like I'm not."
 
 Rico looked at him. "You want him here ba?"
 
-"Doesn't matter what I want naman. My mom signed the contract already. If I blow him off, she'll just hire someone worse." He looked at Carlos like he said.
-
-"Yep." Carlos looked at Javi. 
-
-"We're both stuck na."
+"Doesn't matter what I want naman. My mom signed the contract already. If I blow him off, someone worse shows up." Carlos looked at Javi. "We're both stuck na."
 
 ---
 

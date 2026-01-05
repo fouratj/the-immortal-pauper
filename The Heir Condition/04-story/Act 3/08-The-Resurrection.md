@@ -106,7 +106,7 @@ Damon absorbed this like a quarterly earnings report. "Time frame for market sta
 
 From the gallery, Sarah Okafor asked, "What about additional security measures? If someone can cause undetectable cellular failure—"
 
-"No additional measures," Damon cut him off. "Security is reactive. Instead, we move to daily archiving. Dr. Chen, I want twenty-four hour backup intervals instead of weekly. If someone kills me again, we lose a day instead of a week." He paused. "The diagnostic telemetry from the attack—every failure pattern, every countermeasure. Start training models on it. War game the scenarios."
+"No additional measures," Damon cut her off. "Security is reactive. Instead, we move to daily archiving. Dr. Chen, I want twenty-four hour backup intervals instead of weekly. If someone kills me again, we lose a day instead of a week." He paused. "The diagnostic telemetry from the attack—every failure pattern, every countermeasure. Start training models on it. War game the scenarios."
 "Dr. Chen," Damon continued, "status on the remaining clone reserves?"
 
 "Two additional clones remain in accelerated maturation," she replied. "Clone Three is at sixteen months development, Clone Four at twelve months."

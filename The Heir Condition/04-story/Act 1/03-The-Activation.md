@@ -17,7 +17,7 @@ The amphitheater hummed around them. Eighteen minutes left. Three years of work.
 
 "Access list was revised this morning." The officer checked his tablet. "Security protocols tightened after the São Paulo incident last week. Direct access requires Mr. Korr's personal authorization, which—" He scrolled. "—wasn't requested."
 
-Because Kaelen hadn't known he'd need to request it. Because six weeks ago, when he'd mapped every security checkpoint and access protocol, alongside every possible failure point, "family" had meant automatic backstage access. Because he'd planned for everything except a last-minute protocol change triggered by some unrelated threat on another continent. "Fuck" he thought to himself.
+Because Kaelen hadn't known he'd need to request it. Because six weeks ago, when he'd mapped every security checkpoint and access protocol, alongside every possible failure point, "family" had meant automatic backstage access. Because he'd planned for everything except a last-minute protocol change triggered by some unrelated threat on another continent. *Fuck*, he thought.
 
 His hand went to the pin on his lapel. Forty-seven grams of platinum and sapphire. Seventy-seven million jailbroken nanobots suspended in biocompatible gel, waiting for skin contact that might never happen.
 
@@ -45,7 +45,7 @@ He turned when Kaelen entered. That familiar face. The charcoal adaptive-fiber s
 
 He embraced his uncle.
 
-The pin pressed between them. Kaelen felt it shift, felt the substrate layer make contact with the fabric of Damon's suit, felt the warmth of the Uncle he loved. Damon's cologne reached him—sandalwood and something synthetic underneath, the same scent he'd worn to Kaelen's mother's funeral, to every family gathering since Kaelen was twelve. The smell of safety. The smell of the man who'd stepped in when his father was gone.
+The pin pressed between them. Kaelen felt it shift, felt the substrate layer make contact with the fabric of Damon's suit, felt the warmth of the uncle he loved. Damon's cologne reached him—sandalwood and something synthetic underneath, the same scent he'd worn to Kaelen's mother's funeral, to every family gathering since Kaelen was twelve. The smell of safety. The smell of the man who'd stepped in when his father was gone.
 
 "Good luck," he said into his uncle's shoulder. "I'm proud of you."
 
@@ -131,8 +131,6 @@ Damon's voice dropped to intimate register: "But one constraint remained. The bi
 Someone three rows back whispered too loudly: "Here it comes."
 
 The nanobot had reached the heart. It felt the pressure change first—the rhythmic surge of blood expelled from the left ventricle at nearly five liters per minute. The current here was violent, chaotic, nothing like the gentle drift of the peripheral veins. The nanobot's navigation system locked onto a chemical beacon: the elevated concentration of low-density lipoproteins that marked arterial walls. It fought across the current, flagellum spinning at twelve thousand RPM, until it reached the entrance to the left anterior descending artery. The widowmaker. Three million of its siblings just behind it.
-
-The nanobots should be approaching the heart now, swimming through the warm darkness of his uncle's circulatory system.
 
 "Tonight, I stand before you to announce that immortality is no longer theoretical."
 

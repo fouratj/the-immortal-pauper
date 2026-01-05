@@ -6,7 +6,7 @@ Kaelen's hands wouldn't stop shaking. He watched them tremble around the coffee 
 
 The bunker smelled like ozone and stale recycled air, with an undertone of his own sweat. Three days underground and the ventilation system was struggling. Or maybe that was just him.
 
-He sipped the Estonian coffee. It tasted like burnt wood and regret—which was either the roast or his state of mind. The Tallinn team had given him a five-pound bag as a gift. "For the long nights," they'd said, not knowing he'd be spending those nights dismantling the rent seeking suffocating global capitalism.
+He sipped the Estonian coffee. It tasted like burnt wood and regret—which was either the roast or his state of mind. The Tallinn team had given him a five-pound bag as a gift. "For the long nights," they'd said, not knowing he'd be spending those nights dismantling the rent-extraction layer suffocating global capitalism.
 
 "ARBITER. São Paulo housing trusts. Status on dissolution."
 
