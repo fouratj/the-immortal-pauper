@@ -1,4 +1,4 @@
-# Chapter 01: The Portfolio
+# Chapter 1: The Portfolio
 
 Javi Reyes was hemorrhaging expected value.
 

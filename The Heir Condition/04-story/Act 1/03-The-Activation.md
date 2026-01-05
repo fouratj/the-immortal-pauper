@@ -1,5 +1,5 @@
-## The Activation
-**April 18, 2050 - 11:12 AM Coordinated Global Time**
+# Chapter 3: The Activation
+*April 18, 2050 - 11:12 AM Coordinated Global Time*
 
 ***
 

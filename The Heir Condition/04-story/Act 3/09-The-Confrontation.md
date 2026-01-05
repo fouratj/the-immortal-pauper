@@ -1,6 +1,5 @@
-# The Confrontation
-
-*April 23, 2050 - 2:17 PM Pacific Time*  
+# Chapter 9: The Confrontation
+*April 23, 2050 - 2:17 PM Pacific Time*
 *Korr Estate Legal Office, San Francisco*
 
 ---
@@ -352,7 +351,7 @@ He signed.
 
 The biometric pad flashed green. His fingerprint, retinal scan, and neural signature captured simultaneously. The authorization propagated instantly—cryptographic signature verified, legal authority confirmed, emergency override accepted. 
 
-In Myanmar, frozen accounts began unlocking. The process was cascading: first the regional II nodes validated the override, then the local banking algorithms processed the authentication, then fourteen million individual transfers resumed execution. The whole process would take eight minutes. By 2:47 PM, the 0.3% incomplete would become 100% complete. The revolution would be finished.
+In Myanmar, frozen accounts began unlocking. The process was cascading: first the regional II nodes validated the override, then the local banking algorithms processed the authentication, then 14.2 million individual transfers resumed execution. The whole process would take eight minutes. By 2:47 PM, the 0.3% incomplete would become 100% complete. The revolution would be finished.
 
 Kaelen watched the propagation visualization—a map of Myanmar lighting up green as transfers completed. Yangon first, then spreading outward through the provinces. Mandalay. Bagan. The Irrawaddy Delta. Each green dot representing thousands of people whose lives had just changed because a dead man had come back to life and signed a form.
 

@@ -1,4 +1,5 @@
-## The Cost
+# Chapter 7: The Cost
+*April 19-20, 2050*
 
 **Hour 41 — Secure Bunker, Undisclosed Location**
 

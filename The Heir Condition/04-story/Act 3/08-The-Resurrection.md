@@ -1,5 +1,6 @@
-*April 20, 2050 - 3:47 PM Pacific Time*  
-*Transcribed from Security Footage, BioGenesis Resurrection Chamber One*  
+# Chapter 8: The Resurrection
+*April 20, 2050 - 3:47 PM Pacific Time*
+*Transcribed from Security Footage, BioGenesis Resurrection Chamber One*
 *San Francisco, California*
 
 ---

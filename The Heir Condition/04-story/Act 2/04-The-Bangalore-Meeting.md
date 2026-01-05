@@ -1,4 +1,4 @@
-# Chapter 3: The Bangalore Meeting
+# Chapter 4: The Bangalore Meeting
 *March 3, 2049 - Korr Foundation, San Francisco*
 
 ---
