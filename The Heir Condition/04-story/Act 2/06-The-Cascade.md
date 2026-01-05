@@ -359,9 +359,9 @@ He closed the message without responding.
 
 Rosa woke to seventeen notifications.
 
-Her eyes were gritty from no sleep—the particular sandpaper feeling of a twelve-hour shift followed by three hours of watching notifications she didn't understand. She'd fallen asleep at the kitchen table, head on her arms, the CarePath contract confirmation still glowing on her Prism 9. ₱145,000 already transferred—₱80,000 moved to her savings, ₱48,000 prepaying Lianne's GlucoSync for the next ten months, the rest earmarked for Marco's therapy intake. The decision made, the guilt not yet processed.
+Her eyes were gritty from no sleep—the particular sandpaper feeling of a twelve-hour shift followed by three hours of watching notifications she didn't understand. She'd fallen asleep at the kitchen table, head on her arms, the plastic tablecloth stuck to her cheek. The CarePath contract confirmation still glowing on her Prism 9. ₱145,000 already transferred—₱80,000 moved to her savings, ₱48,000 prepaying Lianne's GlucoSync for the next ten months, the rest earmarked for Marco's therapy intake. The decision made, but the guilt not yet processed.
 
-The kitchen smelled like cold adobo and the cheap coffee she'd reheated twice. Marco was still in his room—she could hear the faint bass through his door, the same music he'd been playing for four months, the sound of a boy who'd stopped being able to face the world.
+The kitchen smelled like cold adobo and the Nescafé 3-in-1 she'd reheated twice—the particular staleness of instant coffee gone cold and then microwaved, which somehow tasted worse than just cold. Outside, the familiar sounds of the building waking: water running through old pipes, the downstairs neighbor's radio playing *Wish 107.5*, a baby crying somewhere on the third floor. Marco was still in his room—she could hear the faint bass through his door, the same BTS song he'd been playing for four months, the sound of a boy who'd stopped being able to face the world.
 
 The notifications were all from CarePath:
 
@@ -413,31 +413,31 @@ The kitchen was very quiet. She could hear Marco breathing through the thin wall
 
 From Marco's room, she heard something she hadn't heard in four months: his door opening.
 
-"Mom?" His voice was hoarse from disuse. "Mom, are you seeing this? The news—they're saying patents, they're saying everything is—"
+"Ma?" His voice was hoarse from disuse. "Ma, are you seeing this? The news—patents, they're saying everything is—"
 
-Rosa looked at her son. The first time she'd seen his face in four months. He looked older. Thinner. His eyes had that careful quality, the way he'd breathed since he came back from the facility—shallow, watchful, like a dog that had been hit too many times. But he was *here*.
+Rosa looked at her son. He looked older. Thinner. His eyes had that careful quality, the way he'd breathed since he came back from the facility—shallow, watchful, like a dog that had been hit too many times. But he was *here*. Standing in the kitchen doorway in the same faded Uniqlo shirt he'd been wearing when they took him, baggy now on his frame.
 
-"I signed the contract," she said. Her voice came out strange to her own ears. "Last night. For Lianne. I signed it."
+"I signed a contract," she said. Her voice came out strange to her own ears. "Last night. For Lianne."
 
 Marco's face did something complicated. He knew what those contracts meant. He'd lived it.
 
-"They're saying the contracts might be voided," he said. "Legal chaos. Nobody knows what's valid anymore."
+"They're saying the contracts might get voided," he said. "Legal chaos. Nobody knows what's valid anymore."
 
 Rosa looked at the notification on her Prism 9: **Your contract remains valid. Benefits will be honored.**
 
-Valid. The word sat in her chest like a stone.
+*Valid.* The word sat in her chest like a stone.
 
-"Come sit with me," she said. "Please. Just—sit with me."
+"Sit with me," she said. "Please. Just—sit with me."
 
-Marco hesitated. Then crossed the kitchen and sat in the chair across from her.
+Marco hesitated. Then crossed the kitchen—three steps, that's all it was, three steps he hadn't taken in four months—and sat in the chair across from her.
 
-They sat in silence, watching the world rearrange itself on their phones. Rosa's Prism 9 still showed her contract status as *ACTIVE*. Lianne's future still pledged to whoever owned CarePath's assets. The adobo grew colder. The neighbor's TV kept talking. The morning light came through the window, that gray-gold Manila light that never looked quite clean.
+They sat in silence, watching the world rearrange itself on their phones. Rosa's Prism 9 still showed her contract status as *ACTIVE*. Lianne's future still pledged to whoever owned CarePath's assets. The adobo grew colder. The neighbor's radio switched to news—the announcer's voice rapid, excited, saying words like "historic" and "unprecedented." The morning light came through the window, that gray-gold Manila light filtered through the haze of ten million people breathing the same air.
 
 She didn't know that in two hours, that would change. That someone in a bunker on the other side of the world was about to spend $1.23 billion buying contracts like hers—and voiding them.
 
 For now, she just sat with her son—actually sat with him, his face thinner than she remembered, his eyes older—and lied.
 
-"It's going to be okay," she said.
+"It'll be okay, naman," she said.
 
 Marco didn't answer. They both knew what contracts meant.
 
@@ -652,23 +652,23 @@ Then:
 **Future attribution claims: NULLIFIED**
 **Effective immediately.**
 
-Rosa stared at the screen. Read it again. Read it a third time.
+Rosa stared at the screen. Read it again. Read it a third time. The words didn't change.
 
-"Mom?" Marco was looking at her face. "What?"
+"*Ma?*" Marco was looking at her face. "*Ano 'yun?*"
 
-"The contract." Her voice came out strange. "Someone bought it. And voided it. Lianne's not—she's not collateral anymore."
+"The contract." Her voice came out strange. "*May bumili.* And voided it. *Hindi na collateral si Lianne.*"
 
 Marco leaned over to look at her Prism 9. His face did something complicated—relief and confusion and something darker underneath, the recognition that this release had come too late for him.
 
-"Who?" he asked. "Who would do that?"
+"*Sino?*" he asked. "*Bakit may gagawa niyan?*"
 
 Rosa scrolled through the notification. The buyer was listed as an anonymous blockchain address. No name. No explanation.
 
-"I don't know," she said. "I don't know."
+"*Hindi ko alam,*" she said. "*Hindi ko alam.*"
 
 But then she pulled up the news feed. The headlines she'd been reading for hours: **3.7 MILLION CONTRACTS VOIDED. ANONYMOUS BUYER SPENDS $1.23 BILLION. LARGEST MASS RELEASE IN HUMAN EQUITY HISTORY.**
 
-She looked at Marco. "It wasn't just Lianne. It was everyone. Millions of them."
+She looked at Marco. "*Hindi lang si Lianne.* It was everyone. *Milyun-milyon.*"
 
 Marco's face changed. The careful watchfulness Rosa had seen for four months—the way he'd looked after coming back from the facility, like a dog that had been hit too many times—it shifted. Not gone. But different.
 
@@ -730,39 +730,47 @@ Marco's phone buzzed. Rosa looked at it. A notification from his monitoring app:
 
 Rosa stared at it. Then she picked up Marco's phone. Deleted the notification. Set it back down.
 
-On the street, Marco stood at the corner, looking both ways like he'd forgotten which direction led where. A jeepney passed. He flinched. Then he took a step. Another. Walking down the street, hands in his pockets, head down, the way he'd walked before the facility.
+On the street, Marco stood at the corner, looking both ways like he'd forgotten which direction led where. The morning light was that particular Manila gray-gold, filtered through haze and humidity. A jeepney passed—Cubao-Divisoria route, the driver leaning on the horn, passengers hanging off the back step. Marco flinched at the electric whine, then took a step. Another. Walking down the street, hands in his pockets, head down, the way he'd walked before the facility.
 
-A sari-sari store owner called out: "Oy, Marco! Long time no see!"
+The smell hit him first: fried *tocino* from someone's breakfast, the particular sweetness of it mixing with jeepney exhaust and the green-rot smell of the open *kanal* running along the curb. He'd forgotten how the street smelled. Four months of recycled apartment air, and he'd forgotten.
 
-Marco stopped. Turned. The store owner was an old woman, maybe seventy, who'd known him since he was a child. She was smiling.
+"Oy, Marco! Long time, ha! Kumusta ka?"
 
-"Kumusta ka?" she asked. How are you?
+Marco stopped. Turned. The sari-sari store owner—Aling Nena, seventy-something, who'd been selling Marlboros and *yosi* singles and sachets of Nescafé from the same window since before he was born. She was smiling, her face creased with the kind of wrinkles you got from decades of Manila sun.
 
-Marco stood there for a long moment. Then he said, "Okay lang. I'm okay."
+"How are you, anak?"
 
-The old woman nodded. "Good. Your mom was worried."
+Marco stood there for a long moment. Her voice felt strange in his ears after four months of nothing but K-pop and the muffled sound of his mother crying through the walls.
 
-Marco kept walking. He didn't go far—just around the block, past the MentorMaxx building (lights on but empty, the hum gone), past the construction site where new housing was going up (the Shimizu MA-7 bots working 24/7 now that patents were in commons, their matte orange exteriors visible even in the morning light), past the pharmacy where Rosa had bought Lianne's nanopatches for eight years.
+"Okay lang po."
 
-He stopped at the pharmacy window. Looked at the display. The GlucoSync subscription boxes were still there—the familiar packaging with the hexagonal logo, each box containing a month's supply of the matte gray patches—but someone had taped a handwritten sign over the price: **₱340/MONTH. PATENT FEES ELIMINATED.**
+Aling Nena nodded. "Good. Your mother worries, you know."
 
-Marco stared at it. Then he turned and walked back the way he'd come.
+Marco kept walking. He didn't go far—just around the block, past the MentorMaxx building (lights on but empty, the hum gone, the security desk abandoned), past the construction site where new housing was going up (the Shimizu MA-7 bots working 24/7 now that patents were in commons, their matte orange exteriors bright against the weathered concrete of the old buildings), past the Mercury Drug where Rosa had bought Lianne's nanopatches for eight years.
 
-Back in the apartment, Rosa was still at the table. She'd pulled up the news again. Reading about the cascade. The patent releases. The housing trusts dissolving. Trying to understand what had happened to her world in sixteen hours.
+He stopped at the pharmacy window. Looked at the display. The GlucoSync subscription boxes were still there—the familiar packaging with the hexagonal logo, each box containing a month's supply of the matte gray patches—but someone had taped a handwritten sign over the price, ballpoint pen on cardboard: **₱340/MONTH. PATENT FEES ELIMINATED.**
 
-The door opened. Marco came back in. Set his keys on the table. Sat down across from her.
+Marco stared at it. The number didn't make sense. ₱340. His mother had been paying ₱4,800. Had been choosing between Lianne's blood and the electricity bill, between the nanopatch and his therapy, between keeping one child alive and keeping another child sane.
 
-"Did you see it?" Rosa asked. "The pharmacy. The price—"
+₱340.
 
-"Yeah," Marco said. "I saw it."
+He turned and walked back the way he'd come, faster now, like he had somewhere to be.
 
-They sat in silence for another minute. Then Marco said, "Mom. I'm sorry. About the last four months. I just—"
+Back in the apartment, Rosa was still at the table. She'd pulled up the news again. Reading about the cascade. Trying to understand what had happened to her world in sixteen hours. The cold adobo was still on the counter. She should put it away. She couldn't move.
+
+The door opened. Marco came back in. Set his keys on the table—the same plastic *Jollibee* keychain he'd had since he was twelve, faded now to pale red. Sat down across from her.
+
+"You saw?" Rosa asked. "The pharmacy. The price—"
+
+"Yeah." Marco said. "I saw."
+
+They sat in silence for another minute. Then Marco said, "Ma. I'm sorry. The last four months. I just—"
 
 "Don't," Rosa said. "You don't have to apologize. You didn't do anything wrong."
 
-"But I did. I stopped talking. I stopped leaving. I made you worry. And then you signed that contract because you thought you had to—"
+"But I did. I stopped talking. Stopped going outside. I made you worry. And then you signed that contract because you thought you had to—"
 
-"Marco." Rosa's voice was firm. "I signed it because I was desperate. Not because of you. Because the system made me desperate. And now—" She gestured at her Prism 9, its screen still showing the voided contract. "Now someone broke the system. For Lianne. For millions of kids. Not for me. But I get to benefit from it anyway."
+"Marco." Rosa's voice was firm. "I signed it because I was desperate. Not because of you. Because of the system. And now—" She gestured at her Prism 9, its cracked screen protector catching the morning light. "Now someone broke the system. For Lianne. For millions of kids. Not for me. But I get to benefit from it anyway."
 
 Marco looked at her. Really looked at her, for the first time in four months.
 
@@ -770,19 +778,19 @@ Marco looked at her. Really looked at her, for the first time in four months.
 
 Rosa shook her head. "I don't know. Someone with money. Someone who saw what the system was doing and decided to stop it."
 
-"Or someone who built the system and finally realized what it was doing," Marco said quietly.
+"Or maybe the person who built the system," Marco said quietly. "And realized what it was doing."
 
 Rosa stared at him. "What?"
 
 "Nothing. Just—" Marco stood up. Walked to the window. "The timing. Damon Korr dies. His empire collapses. Patents get released. Contracts get voided. All in forty-eight hours."
 
-"You think it was planned?"
+"You're saying it was planned?"
 
-"I think someone saw an opportunity and took it." Marco turned back to her. "And I think we should be grateful, whoever it was. Because Lianne's free. And you're not choosing between her medication and rent anymore. And maybe—" He stopped. "Maybe I can leave the apartment now. Maybe I can try again."
+"I'm saying someone saw an opportunity and took it." Marco turned back to her. "And I think we should be grateful, whoever it was. Because Lianne's free. And you're not choosing between her medication and rent anymore. And maybe—" He stopped. "Maybe I can start going outside again. Maybe I can try again."
 
 Rosa stood up. Crossed the kitchen. Put her arms around her son.
 
-They held each other. Marco's shoulders shaking. Rosa's face buried in his hair. The relief so profound it looked like pain.
+They held each other. Marco's shoulders shaking. Rosa's face buried in his hair—he'd gotten taller in four months, or she'd gotten shorter, or maybe she'd just forgotten what it felt like to hold him. The relief so profound it looked like pain.
 
 ---
 
@@ -836,25 +844,27 @@ Rico could feel it through the concrete barrier—that particular vibration of i
 
 Now the hum was gone.
 
-He touched the scars on his shoulder without thinking—the old burns, the pattern he'd made himself at sixteen, the only thing in his life that had ever felt like a choice. The scars were smooth under his fingers. The same texture for nine years. He'd burned them there the week after Manny went into the facility and stopped being Manny.
+The morning was already hot, that wet heat that crawled under your skin by seven AM. The usual sounds of Tondo waking up: tricycle engines coughing to life, vendors setting up, someone's fighting rooster crowing three streets over. But underneath all of it—silence. The silence where the hum used to be.
 
-Carlos sat next to him on the barrier, scrolling through news feeds neither of them understood. Markets frozen. Patents released. Something called "the cascade" that nobody could explain. Every adult they knew was glued to screens, watching the world rearrange itself in real-time.
+Rico touched the scars on his shoulder without thinking—the old burns, the pattern he'd made himself at sixteen, the only thing in his life that had ever felt like a choice. The scars were smooth under his fingers. The same texture for nine years. He'd burned them there the week after Manny went into the facility and stopped being Manny.
 
-"MentorMaxx is done," Rico said. He was reading from his phone, the words swimming in front of his eyes. "They're saying all the intervention contracts are suspended. 'Pending regulatory review of attribution ethics.'"
+Carlos sat next to him on the barrier, scrolling through news feeds neither of them understood. Markets frozen. Patents released. Something called "the cascade" that nobody could explain. Every adult they knew was glued to screens, watching the world rearrange itself in real-time. Even Aling Nena at the sari-sari store had her phone out, squinting at headlines instead of counting change.
+
+"MentorMaxx is done," Rico said. He was reading from his phone, the words swimming in front of his eyes. "They're saying all the intervention contracts are suspended. '*Pending regulatory review of attribution ethics.*'"
 
 Carlos looked at the building two blocks away. The lights were on, but the windows were wrong. Empty wrong. No silhouettes moving behind the frosted glass. No security at the front desk. Just fluorescent light falling on nobody.
 
-"So what happens to us?" Carlos asked.
+"What happens to us?" Carlos asked.
 
 "I don't know."
 
-"The contracts. My mom's contract with Javi. Is it just... gone?"
+"The contracts. My mom's contract with Javi. Gone, or what?"
 
-"I don't know." Rico's voice was different. Not angry. Something closer to stunned. "They're saying attribution is changing. The way they calculate what people are worth. It's all being—" He scrolled. "—'democratized.' Whatever that means."
+"I don't know." Rico's voice was different. Not angry. Something closer to stunned. "They're saying attribution is changing. How they calculate what people are worth. It's all being—" He scrolled. "—'democratized.' But wasn't it already supposed to be."
 
-A woman walked past, crying into her phone. An old man sat on his stoop, staring at nothing. A group of construction workers had stopped working, all looking at the same news feed, arguing in voices too low to hear. The sun was coming up over Manila, that gray-gold light that never looked clean, and somewhere in the distance a jeepney horn was honking, and the world was breaking. Or being rebuilt. Carlos couldn't tell which.
+A woman walked past, crying into her phone—"I don't know, I don't know"—the same words over and over. An old man sat on his stoop, staring at nothing, a cigarette burning down to his fingers unnoticed. A group of construction workers in Megawide shirts had stopped working, all looking at the same news feed, arguing in rapid Tagalog too low to hear. The sun was coming up over Manila, that gray-gold light filtered through haze and exhaust, and somewhere in the distance a jeepney horn was honking its particular three-note pattern, and the world was breaking. Or being rebuilt. Carlos couldn't tell which.
 
-"Rico." He pointed at the MentorMaxx building. "The place where they took your friends."
+"Rico." He pointed at the MentorMaxx building. "Where they took your friends."
 
 "Yeah."
 
@@ -864,19 +874,19 @@ Rico looked. Really looked, for the first time in two years without flinching aw
 
 He thought about the three friends who'd gone in. Two came back different. One didn't come back.
 
-"Too late," he said quietly. His voice cracked on the words.
+"Too late, naman." His voice cracked on the words.
 
 "What?"
 
-"Nothing." He swallowed. "Good. It should've been empty years ago."
+"Nothing." He swallowed. "Good. That building should have been empty a long time ago."
 
-His phone buzzed. A news alert: **BREAKING: Anonymous buyer acquiring millions of human equity contracts. Mass beneficiary releases reported across CarePath, MentorMaxx, TalentBridge.**
+His phone buzzed. A news alert: **BREAKING NEWS: Anonymous buyer acquiring millions of human equity contracts. Mass beneficiary releases reported across CarePath, MentorMaxx, TalentBridge.**
 
 Then another: **UPDATED: 3.7 million contracts voided in largest mass release in human equity history. Source of funding unknown.**
 
 Rico read it twice. Three times. His hand was shaking—the same hand that had held a knife two nights ago, ready to stab a guy who was just doing his job, because the system didn't give you any other way to fight back.
 
-"Someone's buying them," he said. His voice was strange. "All of them. And letting everyone go."
+"Someone's buying them," he said. His voice was strange. "All of them. And then releasing everyone."
 
 Carlos's phone buzzed. A notification he'd never seen before:
 
@@ -887,9 +897,9 @@ Carlos's phone buzzed. A notification he'd never seen before:
 
 He stared at it. Read it again. Showed it to Rico.
 
-"That's you," Rico said. "You're out. Someone bought your contract and—"
+"That's you," Rico said. "You're free. Someone bought your contract and—"
 
-"Who? Why would anyone—"
+"Who? Why would—"
 
 "I don't know." Rico's voice cracked harder. "I don't know."
 
@@ -905,7 +915,7 @@ Rico was crying. He didn't realize it until Carlos looked at him weird, and then
 
 Rico wiped his face with the back of his hand. The scars on his shoulder pulled when he moved. They always did.
 
-"No," he said. "But maybe that's okay."
+"No," he said. "But maybe that's okay, naman."
 
 For the first time in four months, the algorithm wasn't watching Carlos. For the first time in two years, the building wasn't humming. And Rico sat on the concrete barrier, touching the scars he'd given himself because it was the only choice he'd ever had, and watched the machine go quiet.
 
