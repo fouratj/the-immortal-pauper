@@ -54,11 +54,11 @@ One of the older guys noticed, he was seated far from Carlos. Stood up. The guy 
 
 Javi held up his guild badge on the phone screen. "I'm Javi. Carlos's development partner. His mom asked me to check on him."
 
-"Ano'ng development partner? The fuck is that?" <!-- he should know what it is, or he uses his own phrase, then he connects the dots, oh, you're an extractor or something. -->
+"Development partner." The guy repeated the phrase like he was tasting something rotten. "That what they're calling it now? Back in my day we just said 'equity extractor.'"
 
-"I work with him, eh. School stuff, job prep, life coaching. His mom and I have contract."
+Javi kept his face neutral. "I work with him, eh. School stuff, job prep, life coaching. His mom and I have a contract."
 
-"You're getting paid to follow him around?"
+"Right. You're getting paid to follow him around."
 
 "I get paid if he does well, talaga. If he graduates, gets a job."
 
@@ -121,8 +121,8 @@ She turned to look at Marco's door, closed ever since.
 ---
 
 "So you're the guy making money off kids."
-<!-- the speaker should be someone else, not the same guy -->
-The speaker was the same guy who'd let Javi through the fence. Up close, Javi could see the scars on his shoulder weren't random—they formed a pattern, deliberate. Old burn marks, maybe. The guy's eyes were flat and calm.
+
+The speaker was younger—maybe nineteen, sitting on an upturned crate near Carlos. But the guy who'd let Javi through the fence answered before Javi could respond, stepping closer. Up close, Javi could see the scars on his shoulder weren't random—they formed a pattern, deliberate. Old burn marks, maybe. The guy's eyes were flat and calm.
 
 "I provide services naman. The family gets upfront payment, I get equity. It's a trade lang."
 
@@ -143,8 +143,8 @@ Javi's face must have shown something because the guy smiled—first expression 
 "But same system. Same contracts. Same equity bullshit."
 
 "I don't know what happened with Marco—"
-<!-- first the guy knows its marco, but accuess carlos? -->
-"Guy named Ernesto had contract with him. Eighteen percent, just like you. Marco started slipping. Ernesto filed breach, sold the contract to MentorMaxx for ₱60K. They showed up at 2 AM with private security. Took him to some facility for six months."
+
+"Let me tell you what happened to Marco, then. So you know what you're part of." The guy's voice went flat, reciting facts like a police report. "Guy named Ernesto had contract with him. Eighteen percent, just like you. Marco started slipping. Ernesto filed breach, sold the contract to MentorMaxx for ₱60K. They showed up at 2 AM with private security. Took him to some facility for six months."
 
 Javi felt something cold in his stomach.
 
@@ -278,15 +278,13 @@ Carlos looked at Rico, then at Javi, then at his phone. "If you leave, you file 
 
 "Yeah."
 
-"Then she hires someone else." <!-- his mother wouldnt hire mentormaxx, Javi would sell it to them, we need a good reason why -->
+"Then you sell my contract to someone else. To cover your losses."
 
-"Probably."
+Javi didn't answer. Which was answer enough.
 
-"Someone like MentorMaxx."
+"Someone like MentorMaxx." Carlos's voice was flat. He'd done the research. "They buy distressed contracts at 40 cents on the peso. Then they extract."
 
-Javi didn't answer.
-
-"So if I tell you to leave," Carlos said, "someone worse shows up lang."
+"So if I tell you to leave," Carlos said, "someone worse shows up. Not because my mom chose them. Because you sold me to them."
 
 Rico's hand tightened on the knife. "Puta, that's fucked up."
 
@@ -308,7 +306,7 @@ The guy in the construction shirt looked at Javi. "Guild certified ba?"
 
 "Twenty-three."
 
-"How many sold to MentorMaxx?" <!-- see, javi does the selling -->
+"How many sold to MentorMaxx?"
 
 "None, eh."
 

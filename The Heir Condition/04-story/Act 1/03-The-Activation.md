@@ -118,13 +118,11 @@ She didn't let go of his arm. Her grip was surprisingly strong, her perfume sudd
 
 Kaelen folded his hands in his lap and pressed them together until his knuckles went white. Damon was describing the Intelligent Internet's systematic achievements. All true. Every word. In democracies with oversight. Less true everywhere else.
 
-Somewhere in his uncle's bloodstream, the jailbroken nanobots were spreading. His uncle's existing Gen-7s saw them as friendly units—same authentication, same molecular signature—and let them pass unchallenged. <!-- we should move this down where we actualyl narrate the encounter. Combine them -->
-
 He thought of Rosa in Manila. Hassan in Cairo. Amara's daughter burning with fever because patents made antibiotics expensive.
 
 *That's why you're doing this.*
 
-In the inferior vena cava—the body's largest vein, a river three centimeters wide—the nanobot encountered its first Gen-7. The legitimate medical unit was larger, more sophisticated, running continuous diagnostics on the blood chemistry around it. It pinged the newcomer with a standard authentication request. The nanobot responded with stolen credentials: valid cryptographic signatures harvested from a Gen-7 that Kaelen had extracted from a medical waste facility in Singapore eighteen months ago. The Gen-7 accepted the handshake. Logged a routine contact with a fellow unit. Continued its patrol. The nanobot swam past, carrying its payload of synthetic death, officially welcomed into Damon Korr's body.
+In the inferior vena cava—the body's largest vein, a river three centimeters wide—a nanobot encountered its first Gen-7. The legitimate medical unit was larger, more sophisticated, running continuous diagnostics on the blood chemistry around it. It pinged the newcomer with a standard authentication request. The nanobot responded with stolen credentials: valid cryptographic signatures harvested from a Gen-7 that Kaelen had extracted from a medical waste facility in Singapore eighteen months ago. The Gen-7 accepted the handshake—same authentication, same molecular signature, no reason to suspect anything. It logged a routine contact with a fellow unit. Continued its patrol. The nanobot swam past, carrying its payload of synthetic death, officially welcomed into Damon Korr's body.
 
 The holographic displays showed global viewing numbers: 10.3 billion. Almost every conscious human with access to a screen. The largest simultaneous shared experience in human history.
 
@@ -224,4 +222,16 @@ The liberation had begun.
 
 And Kaelen sat alone in a locked room, systematically dismantling his uncle's empire, crying so hard he could barely see the screen, wondering if the mathematics of suffering had any term for what was currently happening inside his chest.
 
-<!-- from here, when we see him again in the cascade, he's in a different location. We need to show this somehow -->
+---
+
+At Hour 4, he moved.
+
+The bunker was three hours away by private aircraft—a facility in the Nevada desert that his uncle had built for "sensitive projects requiring operational security." Separate power grid. Separate reporting structure. The kind of place where you could burn seventy gigawatt-hours modeling the end of civilization and no one would notice until the quarterly audit.
+
+Kaelen had booked it two weeks ago under "estate planning simulations." By the time anyone questioned the allocation, the cascade would be irreversible.
+
+He landed at 3:47 AM local time. The bunker smelled like ozone and cold recycled air. The servers were already spinning up, pulling power from his uncle's private fission reactors—built before the 2043 Accords, grandfathered into the old rules.
+
+The irony was thick enough to taste.
+
+He made coffee. Sat down. And continued the work of destroying everything his uncle had built.
