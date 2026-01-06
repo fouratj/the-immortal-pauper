@@ -352,6 +352,8 @@ She thought about the night they came for him. 2 AM. Private security in unmarke
 
 Her thumb was still on the screen.
 
+She thought, absurdly, of the nursing school talent show. 2038. She'd sung "Ang Huling El Bimbo" and won second place. The prize was a gift certificate to National Bookstore, which she'd used to buy anatomy flashcards. Even then she'd been practical. Even then she'd traded what she wanted for what she needed. She'd been good at singing. She'd been better at giving it up.
+
 Through the thin walls, she could hear the neighbor's television—switched now from *Eat Bulaga* to the late news: "—the Korr Foundation remains tight-lipped about the content of tomorrow's global broadcast. Security analysts report unprecedented information lockdowns across all Korr subsidiaries. Whatever 'humanity's next chapter' means, Damon Korr is determined to control the narrative—"
 
 The button waited.
