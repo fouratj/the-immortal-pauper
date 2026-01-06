@@ -312,7 +312,7 @@ He'd run 247 scenarios. 224 ended in permanent aristocracy. 23 didn't. And of th
 
 One path. One exploit. One temporary death.
 
-The mathematics were clean. The physics were sound. The legal mechanism existed.
+The equations balanced. The physics held. The legal mechanism existed.
 
 The only question was whether he had the courage to execute it.
 
@@ -523,9 +523,9 @@ But Damon's approach—wait, study, iterate, never actually deploy—that was a 
 
 Then he thought: Damon teaching him chess at age seven. Damon's hand on his shoulder after his first public failure. Damon's voice, patient, explaining why the Bangalore Patch couldn't be deployed—not because he was wrong, but because he was right, and being right was dangerous.
 
-The mathematics were clean. The physics were sound. The legal mechanism existed.
+The logic was airtight. The physics held. The legal exploit was real.
 
-But mathematics didn't have a face. Physics didn't have a voice that said "I'm proud of you, Kael." The legal mechanism didn't hug you backstage after a performance.
+But logic didn't have a face. Physics didn't have a voice that said "I'm proud of you, Kael." Legal exploits didn't hug you backstage after a performance.
 
 He would have to look his uncle in the eyes and—what? Inject him? Poison him? Trigger the death that would save humanity and destroy the only family he had left?
 

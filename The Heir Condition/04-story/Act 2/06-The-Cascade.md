@@ -485,7 +485,7 @@ But she'd lost $75,000. The math still didn't work. Not for her.
 
 "Modeling." The pause was deliberate. "Approximately 340,000 households will face immediate financial crisis before benefits materialize. Estimated evictions: 47,000. Estimated medical care deferrals: 89,000. Estimated premature deaths from financial stress: 12,000-18,000."
 
-Kaelen stared at the numbers. 1.2 million would be better off. 340,000 would struggle. 12,000-18,000 would die before the math worked out.
+Kaelen stared at the numbers. 1.2 million would be better off. 340,000 would struggle. 12,000-18,000 would die before the benefits materialized.
 
 "Log it," he said. "The ones who have to survive the gap."
 
@@ -505,7 +505,7 @@ The math said she'd be better off. The math didn't pay her rent for the next 12 
 
 Kaelen closed his eyes. The math was clean. The cost was not.
 
-"Log this too," he said. "The ones who have to survive until the math works out. The ones who won't."
+"Log this too," he said. "The ones who have to survive the gap. The ones who won't."
 
 "Logged."
 
@@ -828,7 +828,7 @@ For Rosa. For Lianne. For Marco.
 
 And for 3.74 million other families whose contracts he'd voided.
 
-The math was clean.
+The numbers added up. For once, in his direction.
 
 He closed the Manila data streams. Pulled up the next transfer authorization. His hands were shaking. Not from exhaustion—from the weight of watching lives change through numbers on a screen, knowing he'd caused it, knowing he'd never meet them, knowing they'd never know his name.
 
