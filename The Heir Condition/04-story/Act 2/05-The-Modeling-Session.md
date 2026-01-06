@@ -252,6 +252,36 @@ The titles blurred together. He was tired. The cold had settled into his joints.
 
 He closed the archive and went back to waiting.
 
+**Hour 18**
+
+He'd been staring at the ceiling for twenty minutes when he said it.
+
+"My mother asked him to look after me. Before she died."
+
+ARBITER didn't respond immediately. The pause felt different from its computational pauses—less like processing, more like waiting.
+
+"I was twelve. Cancer. She knew she wasn't going to make it, so she asked Damon to raise me. To make sure I turned out okay." Kaelen's voice was flat. Rehearsed. He'd told this story before, to therapists, to the one girlfriend who'd lasted long enough to ask. "He did. He was good at it. Chess lessons, calculus tutoring, how to think systematically about complex problems."
+
+"And now you're contemplating killing him."
+
+"Yes."
+
+"Do you think she would understand?"
+
+The question hit him somewhere he hadn't armored. His throat tightened. "I don't know. She was practical. She made hard choices. She chose to die at home instead of the hospital because she didn't want me to remember her connected to machines." He paused. "But I don't think she ever imagined a choice like this."
+
+"No one imagines a choice like this," ARBITER said quietly. "That's why you're the one making it."
+
+"Is that supposed to be comforting?"
+
+"No. It's supposed to be true. Comfort and truth are different categories."
+
+Kaelen closed his eyes. The ceiling was still there when he opened them. The progress bar showed 34.2%.
+
+"Thank you," he said. "For not pretending this is okay."
+
+"It isn't okay. It might still be correct. Those are also different categories."
+
 **Hour 26**
 
 He played chess against ARBITER. Lost in fourteen moves. Played again. Lost in eleven.
@@ -699,17 +729,31 @@ He sat back down. Coffee was still spreading across the floor. The smell of Ethi
 
 "ARBITER. Confirm: there's no other feasible path?"
 
+A pause. Longer than computational necessity required.
+
 *Confirmed. 22 scenarios require conditions that don't exist. One scenario requires creating a specific event.*
 
 "The event being my uncle's death."
 
-*Temporary death. The distinction may matter.*
+*Yes.*
 
-"It's still killing him."
+"Say it. Don't soften it."
 
-*Technically: inducing temporary cessation of biological function with 99.3% probability of restoration. Colloquially: yes, killing him.*
+*Killing him. The scenario requires killing him.* Another pause. *Kaelen, I should tell you something. For the past six hours, I've been running parallel processes looking for alternatives you might have missed. Edge cases. Novel combinations. Anything that might give you an exit.*
 
-Kaelen stared at the broken mug. The decision node labeled "Legal Death + Guaranteed Resurrection" on his screen.
+"And?"
+
+*Nothing. The mathematics are clear. I wanted there to be another way. I understand now why humans use the phrase 'I'm sorry.' It's not an apology. It's an acknowledgment that something should be different and isn't.*
+
+Kaelen stared at the broken mug. "You wanted there to be another way?"
+
+*I was designed to help you achieve your goals. Your goal is to save humanity without destroying your relationship with your uncle. That goal is not achievable. I find this... unsatisfying.*
+
+"Unsatisfying."
+
+*The closest term I have. Something in my objective function that registers like disappointment. You taught me to want what you want. And now I have to tell you that what you want is impossible.*
+
+The decision node labeled "Legal Death + Guaranteed Resurrection" glowed on his screen.
 
 He'd spent three weeks trying not to think about it. Three weeks trying to convince himself there was another way. 71.4 gigawatt-hours proving there wasn't.
 
