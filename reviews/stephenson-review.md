@@ -95,3 +95,85 @@ But your ending works because it respects the internal logic of the world you've
 The Mars colonies detail is particularly smart—it shows you understand that technological transcendence isn't an endpoint but a new starting point for human complexity.
 
 —N.S.
+
+---
+
+## James Wood Review & Revision Suggestions
+*New Yorker-style Critical Assessment*
+*January 2026*
+
+---
+
+### Summary of Central Critique
+
+The novel's intellectual machinery is more successful than its human rendering. Kaelen's interiority is rendered with loving attention; Rosa's is summarized. The mathematics favor Kaelen's decision too readily, collapsing genuine moral complexity into cost-benefit analysis. The confrontation scene resolves too neatly—Damon's acceptance of Kaelen's analysis functions as absolution even as the text insists it is not.
+
+---
+
+### Revision Option 1: Give Rosa Genuine Interiority
+
+The asymmetry is not merely page count but *access*. We are inside Kaelen's head in ways we never enter Rosa's. When she signs the contract, we get:
+
+> Rosa's finger trembled over the button.
+
+A trembling finger is observation from outside. What does signing *feel* like from inside?
+
+**Suggestion**: Give Rosa at least one scene of genuine interiority—not just suffering, but *thinking*. The talent show memory ("She'd been good at singing. She'd been better at giving it up.") could open into real consciousness. Let her *stay* with that memory. What if she thought about all the things she'd given up—and wondered if Lianne would inherit this capacity for sacrifice?
+
+---
+
+### Revision Option 2: Kaelen's Doubt Must Produce Action
+
+The author has given Kaelen every physiological marker of distress: shaking hands, vomiting, bleeding palm. But these are *symptoms*, and symptoms can coexist with certainty. What the novel lacks is a moment where Kaelen's doubt actually *threatens* his plan.
+
+**Suggestion**: What if Kaelen spent a day—or a week—genuinely unable to proceed? What if he actually *tried* to tell Damon what he'd discovered, and the scene went badly—not because Damon dismissed him, but because Damon *listened*, and said something that almost changed his mind? The reader must feel the genuine possibility of the road not taken.
+
+---
+
+### Revision Option 3: The Confrontation Should Not Resolve
+
+Chapter 9 is too successful. Damon studies the data, recognizes his systems were extractive, signs the Myanmar override. This is emotionally satisfying but morally evasive.
+
+**Suggestion A**: What if Damon *refused* to sign? Force Kaelen—and the reader—to confront a version where the mathematics were correct but the world did not cooperate.
+
+**Suggestion B**: What if Damon signed for reasons that undercut Kaelen's self-understanding? Not because he recognized justice, but because *any* system is better than chaos. This would give Kaelen his practical victory while denying him his moral one.
+
+---
+
+### Revision Option 4: Reconsider the Epilogue
+
+The "Confession" fragments allow Kaelen to explain himself without accountability. The corrupted audio gestures at depths without providing them.
+
+**Option A**: Cut the epilogue entirely. Let the novel end with Kaelen alone in the conference room. The silence would be more powerful than the fragments.
+
+**Option B**: Expand into a genuine final chapter set years later. Show Kaelen—under a different name—encountering someone whose life was changed by the cascade. Perhaps a child who benefited. Perhaps a retiree who lost everything. Let the encounter be ambiguous.
+
+---
+
+### Revision Option 5: Let the Mathematics Fail Somewhere
+
+The novel's deepest evasion is that the cascade *works*. The casualties are logged and absorbed into successful revolution.
+
+**Suggestion**: What if one of the keystone patent releases triggered unforeseen collapse—a pharmaceutical supply chain that depended on rent extraction, a hospital system that couldn't function without the margins? What if Kaelen's analysis were correct in aggregate but wrong in specific cases that mattered? This would not invalidate his choice but would complicate his certainty.
+
+---
+
+### Prose Note
+
+The Stephensonian digressions (nanobot deployment, quantum consciousness) are virtuosic but occasionally prioritize information over experience. 
+
+**Suggestion**: *Interrupt* technical passages more often with Kaelen's consciousness. Let the nanobot traverse Damon's bloodstream while Kaelen's attention flickers between the technical process and the human face. Let erudition and anguish contaminate each other.
+
+---
+
+### Core Tension Identified
+
+The novel wants both the armor and the wound. Kaelen's guilt is relentlessly narrated but rarely shown producing genuine reconsideration. The phrase "His voice was flat. Rehearsed" acknowledges that even in private confession he cannot access unmediated emotion—but this self-awareness intensifies rather than resolves the problem.
+
+**The Question**: Can a man who has "rehearsed" his mother's death still be moved by it? The novel wants yes. Whether it earns that yes remains the central challenge.
+
+---
+
+*"The novel may be a thought experiment. But it is a thought experiment that has learned how to hurt."*
+
+—J.W.

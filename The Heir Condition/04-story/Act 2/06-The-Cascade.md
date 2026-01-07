@@ -15,7 +15,23 @@ He sipped the Estonian coffee. It tasted like burnt wood and regret—which was 
 
 Kaelen pulled up the holoscreen. São Paulo. Rua Cardoso de Almeida. 3:47 AM local time.
 
-Carlos and Maria Santos—the couple he'd met in 2047, saving for eight years for an apartment that would cost 80% of their income for thirty years. Two blocks away, they were probably sleeping.
+His mind slipped sideways, the way it did when he was exhausted. São Paulo. He'd been there once, with Damon. 2044. A conference on II governance standards. They'd stayed at a hotel overlooking Paulista Avenue, and after the final session Damon had insisted on finding authentic feijoada. They'd walked for an hour through unfamiliar neighborhoods, Damon navigating by some internal compass that Kaelen never understood, until they found a hole-in-the-wall place with plastic chairs and paper napkins and a grandmother in the kitchen who didn't speak English.
+
+The feijoada had been incredible. Damon had eaten three bowls.
+
+"This is what I mean about systems," Damon had said, wiping his mouth. "The algorithms would never have sent us here. No reviews. No ratings. No optimization. Just—" He'd gestured at the grandmother, at the steaming pot, at the locals eating elbow-to-elbow. "Just people who know what they're doing, passing it down."
+
+Kaelen had laughed. "So you're saying algorithms are bad?"
+
+"I'm saying they're incomplete. They optimize for what's measurable. But the best things—" Damon had looked at the grandmother, who was scolding someone in rapid Portuguese. "The best things resist measurement."
+
+*Like love*, Kaelen thought now. *Like family. Like the thing I'm about to destroy.*
+
+Carlos and Maria Santos—the couple he'd met in 2047, saving for eight years for an apartment that would cost 80% of their income for thirty years. Two blocks away, they were probably sleeping. They didn't know Damon. Had never eaten feijoada with him. Didn't know that the man who'd built the system crushing them was also the man who'd walked an hour through an unfamiliar city to find a grandmother's cooking.
+
+People were complicated. Systems weren't.
+
+That was the problem.
 
 "Authorize dissolution. Release construction patents to commons."
 
@@ -143,7 +159,11 @@ Or he could convert it to non-profit. Eliminate profit extraction. Attribution c
 
 *One death versus a trillion lives* had been clean mathematics. This wasn't. This was: *fourteen thousand livelihoods versus slightly cheaper computation for eleven billion people.*
 
-He thought about the woman in Toledo. The pension funds. The remainders everywhere.
+His left thumb was pressing into his palm again. The crescent-shaped mark from this morning was still there, white against the pink of stressed skin. He forced himself to stop. Started again without noticing.
+
+He thought about the woman in Toledo. Margaret. He'd pulled up her file an hour ago, and now he couldn't stop seeing her face. Seventy-three years old. Forty years of work. Pharmaceutical holdings in a diversified portfolio, exactly what the financial advisors recommended. She'd done everything right. And in three hours, when the cascade hit her sector, she'd lose sixty percent of her retirement.
+
+The remainders were everywhere. They had faces now.
 
 "ARBITER. How much does Option B reduce global attribution costs?"
 
@@ -151,17 +171,35 @@ He thought about the woman in Toledo. The pension funds. The remainders everywhe
 
 $30 per person. Against 14,700 workers losing profit participation.
 
-"Option B," he said. "Convert to non-profit. Compensate workers with—" He did the math. "$127 billion in holdings, 14,700 workers. Give each worker $500,000 severance. Remainder endows the non-profit's operating fund."
+Thirty dollars. That was the math. That was what he was optimizing for. Thirty dollars per person per year, times eleven billion people, times however many years the human race had left. Against 14,700 specific humans with names and families and expectations he was about to betray.
+
+Damon would have said: *You can't make policy for eleven billion people based on fourteen thousand anecdotes.*
+
+Damon would have been right.
+
+Damon was also the man who'd walked an hour through São Paulo to find a grandmother's feijoada, because algorithms were incomplete.
+
+*The best things resist measurement.*
+
+"Option B," he said. His voice came out hoarse. He hadn't spoken in three hours. "Convert to non-profit. Compensate workers with—" He did the math. "$127 billion in holdings, 14,700 workers. Give each worker $500,000 severance. Remainder endows the non-profit's operating fund."
 
 "Executing. Note: this is $7.35 billion in severance, leaving $119.65 billion for non-profit endowment. Acknowledged?"
 
 "Acknowledged."
 
-Somewhere, data center workers would wake to find their company had been restructured overnight. They'd receive half a million dollars each—more than most would see in a lifetime—and lose the profit-sharing that would have generated millions over careers.
+*Acknowledged.* Such a clean word. Like signing a form. Like checking a box. Like it didn't mean *I've decided that fourteen thousand people's careers matter less than thirty dollars per person per year*.
 
-Was it fair? Was it optimal? He'd never know.
+Somewhere—he didn't know where, the data centers were distributed across seven continents—workers would wake to find their company had been restructured overnight. They'd receive half a million dollars each—more than most would see in a lifetime—and lose the profit-sharing that would have generated millions over careers. Some would be relieved. Some would be furious. Some would never understand why their world changed while they slept.
 
-He authorized the transfer and tried not to think about the faces.
+Was it fair? Was it optimal? He'd never know. That was the thing about playing god: you never got to see how the alternatives would have turned out. You just made the choice and carried the weight and wondered, forever, if you'd been wrong.
+
+He authorized the transfer. His thumb left the keyboard and immediately pressed into his palm again.
+
+*Don't let being smart make you cruel.*
+
+Was this cruel? Was optimization cruelty? Was every choice that treated people as numbers a kind of murder?
+
+He didn't know. The math said this was correct. The math didn't account for the faces.
 
 ---
 
@@ -213,6 +251,36 @@ Kaelen had been dreading this one. The company that made resurrection possible. 
 
 BioGenesis. $94 billion. 4,200 employees. 67% owned by Damon.
 
+The name brought back a memory he hadn't thought about in years. December 2046. Damon had taken him to the San Francisco facility—"I want you to see what we're building"—and they'd stood together in the observation gallery above Resurrection Chamber One. The chamber had been empty then, still in testing, but the cloning vats were already growing the first generation of backup bodies.
+
+"This changes everything," Damon had said. His voice had been quiet, almost reverent. "Two hundred thousand years of human history, and we've finally solved the fundamental problem."
+
+"Death?"
+
+"Worse than death. *Loss.*" Damon had put his hand on the glass, looking down at the vats. "Every time someone dies, we lose everything they knew. Every insight, every hard-won lesson, every pattern they'd learned to recognize. The species has been hemorrhaging knowledge since the first human drew breath. We learn, we teach, we die, and the next generation has to start over."
+
+"That's what writing is for. Books. The internet."
+
+"Explicit knowledge transfers. But the implicit knowledge—the intuitions, the pattern recognition, the things you can only learn by living—that dies with the person." Damon had turned to look at him. "Imagine if Newton hadn't died at 84. If Darwin had lived to 300. If every genius who ever contributed to human progress was still here, still thinking, still building on what they'd learned."
+
+Kaelen had looked at the vats. At the shapes floating in them—not quite human yet, but getting there. "What about everyone else? The non-geniuses?"
+
+Damon had smiled. The teaching smile. "Everyone contributes something. The question is how much. The resurrection protocols are expensive—consciousness mapping, quantum coherence maintenance, clone maturation. We can't give it to everyone. Not yet. But we can start with the people who contribute the most. And over time, as costs fall—"
+
+"It trickles down?"
+
+"It *expands*. The way all technology expands. Cars used to be for millionaires. Now they're everywhere. This will be the same."
+
+Kaelen had wanted to believe it. Had wanted to believe that his uncle, standing in the cathedral he'd built for conquering death, was right about how the benefits would spread.
+
+But the models had told a different story. The models had shown the trickle going the wrong direction—pooling at the top instead of spreading down. The models had shown immortal billionaires compounding forever while mortal workers stayed mortal, stayed poor, stayed temporary.
+
+The models had shown that Damon was wrong. And Damon would never accept that.
+
+Now Kaelen stood alone in a bunker, twenty-two hours into murdering his uncle, about to dismantle the company that Damon had built to save humanity from death.
+
+BioGenesis. $94 billion. 4,200 employees. 67% owned by a dead man who would be resurrecting in twenty-six hours.
+
 If he released the patents to commons, resurrection would become affordable—from $4.7 million to $180,000. From 2 million humans who could afford it to 48 million.
 
 But if he released the patents first, the workers' equity would become worthless. If he transferred equity first, they'd own a company that could charge millions indefinitely. They'd resist commons release.
@@ -220,6 +288,8 @@ But if he released the patents first, the workers' equity would become worthless
 Four thousand people. Versus forty-eight million people who could now afford immortality.
 
 *The mathematics don't let you hide.*
+
+Neither did the memory of his uncle's hand on that glass, looking down at the vats with something like hope in his eyes.
 
 "ARBITER. What happens to resurrection costs if patents move to commons?"
 
@@ -267,15 +337,23 @@ Twelve million lives. 2.31 million households watching their retirements evapora
 
 A pause. "Why?"
 
+Why. Good question. He didn't know why. He just—needed to see. Needed to know if anyone had signed while he was killing his uncle, while the cascade was beginning, while everything was already too late.
+
 "Just show me."
 
 The holoscreen shifted. A list of names, timestamps, contract values. Kaelen scrolled through them, not sure what he was looking for. Then he saw it:
 
 **Santos, Rosa M. | Contract signed: April 18, 2050, 22:34 | Beneficiary: Santos, Lianne (age 8) | Value: ₱145,000 | Status: ACTIVE**
 
-He stared at the entry. Rosa had been sitting in her kitchen last night, finger hovering over that button, while he was backstage with his uncle. While he was transferring nanobots. While he was committing murder.
+He stared at the entry. The timestamp burned into his retinas. 22:34. 
 
-She'd clicked it. She'd signed her daughter into the same system that destroyed her son.
+At 22:34, he'd been in the secure room on the third floor, vomiting onto industrial carpet, his hands shaking so badly he could barely type his confirmation codes. The cascade had been running for nearly three hours. Attribution metadata was already propagating. The pharmaceutical patents would hit commons in six hours.
+
+And Rosa—who he'd interviewed three years ago, whose exhausted eyes he still remembered, whose voice saying *I just want my kids to be okay* still echoed in his head—Rosa had been sitting in her kitchen in Manila, finger hovering over a button, about to sell her daughter's future to solve a problem that was already disappearing.
+
+She'd clicked it. She'd signed her daughter into the same system that had destroyed her son.
+
+Seven hours. She'd missed it by seven hours.
 
 "ARBITER. What happens to this contract under the new attribution parameters?"
 
@@ -285,11 +363,23 @@ Fourteen months. Then Rosa would be on her own again. But by then, the GlucoSync
 
 But she'd still have sold it. Still have that contract in the blockchain. Still have signed away Lianne's privacy, autonomy, future—for a problem that would cease to exist before the contract term ended.
 
-"Log this too," Kaelen said quietly. "Rosa Santos. She signed it. She didn't know I was about to make it unnecessary."
+He thought about calling her. Messaging her. *Rosa, it's going to be okay, you didn't need to sign that, I'm fixing it right now, I'm sorry I couldn't fix it seven hours earlier—*
+
+He couldn't. He couldn't contact anyone. The cascade required anonymity. The legal architecture required that no one know who was doing this until it was too late to stop.
+
+Rosa would find out in a few hours that the medication was getting cheaper. Would find out in a few days that the contract had been voided by some anonymous buyer. Would never know that the person who made it all unnecessary was the same person who'd sat across from her three years ago, taking notes on her suffering, planning to use her story as fuel for murder.
+
+"Log this too," Kaelen said quietly. His voice cracked. "Rosa Santos. She signed it. She didn't know I was about to make it unnecessary."
 
 "Logged."
 
-He closed the CarePath database. Authorized the next transfer.
+He closed the CarePath database. Stared at the blank screen for a moment.
+
+*I just want my kids to be okay.*
+
+He was trying. God, he was trying. But the math had remainders. The cascade had timing. And Rosa's daughter was in a blockchain, forever, because Kaelen couldn't save everyone and couldn't tell anyone and couldn't do anything except log the faces and carry the weight.
+
+He authorized the next transfer.
 
 Another face. Another name. Another person he'd never asked.
 
