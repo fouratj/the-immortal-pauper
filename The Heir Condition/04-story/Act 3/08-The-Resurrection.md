@@ -67,11 +67,13 @@ Dr. Chen hesitated. "There's one theory that fits the data, but it's..." She tra
 
 "Say it."
 
-"Same-type infiltration. If someone introduced *additional* Gen-7s into your bloodstream—jailbroken units with modified firmware but identical authentication—your existing nanobots wouldn't recognize them as threats. Same molecular signature. Same trusted-network credentials. Like a compromised immune cell that other immune cells can't attack because it still carries the right markers." 
+"Same-type infiltration. Additional Gen-7s introduced into your bloodstream—jailbroken but with identical authentication. Your existing nanobots wouldn't recognize them as threats. Same molecular signature. Same trusted-network credentials."
 
-She paused. "But I consulted with Dr. Okonkwo from Shimizu's security division. He laughed when I described it. Said same-type infiltration is theoretically possible but practically absurd. You'd need to acquire Gen-7s—which are individually serialized and tracked—then reverse-engineer Shimizu's authentication protocols without triggering any of their honeypot traps. Then jailbreak the firmware without bricking the units. Then culture them to sufficient population and deliver them through dermal contact without the target's own medical systems detecting the population spike." She looked up. "Dr. Okonkwo estimated the attack would require a team of at least eight specialists, six months of preparation, and access to fabrication equipment that maybe five facilities on Earth possess. He called it 'the kind of heist you'd need a nation-state behind to pull off.'"
+She hesitated. "Dr. Okonkwo at Shimizu called it 'the kind of heist you'd need a nation-state behind.' Six months minimum. Fabrication equipment maybe five facilities on Earth possess."
 
-She looked up. "The attacking nanobots replicate until they reach critical mass, overwhelm your legitimate systems' command channels, and execute. Then they purge their modified firmware and revert to factory baseline. Forensics finds nothing because the murder weapons erased themselves and became indistinguishable from your own medical systems."
+"But possible."
+
+"Possible. The attacking units replicate to critical mass, overwhelm your command channels, execute. Then purge their modified firmware and revert to factory baseline. Forensics finds nothing—the murder weapons erased themselves."
 
 A pause. "The problem is, this would require physical delivery. Someone would have had to make skin contact with you—transfer the nanobots directly—within about twenty minutes of the collapse." She checked her notes. "Did anyone touch you before you went on stage?"
 

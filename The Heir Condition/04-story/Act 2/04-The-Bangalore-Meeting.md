@@ -55,19 +55,29 @@ Damon turned from the window. His voice had shifted—not defensive, but pedagog
 
 Tanaka's face shifted. "The healthcare attribution reforms?"
 
-"Exactly. Kenya deployed quite similar parameter changes to what you're proposing. Individual attribution caps raised from 5% to 18%. Institutional capture limited to 51%. The reforms were sound, at least conceptually. They seemed ethically justified and were democratically approved." He advanced the slide. "The reformers thought they were fixing a bug. They were actually breaking an emergent property."
+Damon didn't answer. He pulled up a visualization—an accelerated timeline of Kenya's healthcare sector, 2047 to 2049. No explanation. Just the data, running.
 
-The visualization sped through an accerlated timeline. It showed a cascade of institutional failures. Hospitals capacity reducing, then some closing. Care networks, private and public, fragmenting. Employment dropping.
+The room watched.
 
-"Within eight months, forty-three percent of Nairobi's healthcare institutions had dissolved or restructured. Not because they were extractive, but because they couldn't aggregate risk anymore. The attribution they'd been capturing wasn't pure rent. It was *insurance*. They paid workers stable wages during patient outcome uncertainty. They maintained equipment during low-utilization periods. They absorbed liability when treatments failed."
+Hospitals closing. Not gradually—in waves. First the smaller clinics, then the regional centers, then the urban networks. Care workers' income lines dropping, stabilizing, dropping again. Employment figures fragmenting into something unreadable.
 
-He pulled up worker outcome data. "The care workers—the ones we 'liberated' from institutional extraction—their average income dropped thirty-two percent in the first year. Because they went from stable wages to pure uneven equity participation. When patients recovered, they earned more. But when patients died, they earned nothing. And they couldn't afford the volatility."
+Tanaka's expression shifted as she watched. Confusion first. Then something darker.
+
+"What am I looking at?"
+
+"What you're proposing." Damon let the visualization run. "Kenya deployed almost identical parameter changes. Individual caps raised from 5% to 18%. Institutional capture limited to 51%. Sound reforms. Ethically justified. Democratically approved."
+
+The timeline reached Month 8. Forty-three percent of healthcare institutions dissolved or restructured. The number hung on screen.
+
+"They thought they were fixing a bug," Damon said quietly. "They were breaking an emergent property."
+
+He pulled up worker outcome data. The care workers' income—the ones "liberated" from institutional extraction—had dropped thirty-two percent in the first year. The chart showed why: stable wages had become pure equity participation. When patients recovered, workers earned more. When patients died, they earned nothing.
 
 Tanaka's jaw tightened. "That's a failure of implementation, not—"
 
-"It's a failure of *modeling*," Damon interrupted. "The reformers saw extraction. And they were right about that: the institutions were capturing value. But they didn't model what institutions were *doing* with that value. They treated risk aggregation as a bug in the system. It turned out to be an emergent property—one that workers depended on, even if they didn't realize it."
+"It's a failure of *modeling*." Damon zoomed into the institutional margins. "You saw extraction. You were right—institutions were capturing value. But you didn't model what they were *doing* with that value. Risk aggregation. Insurance. Stable wages during outcome uncertainty. Liability absorption when treatments failed. The reformers treated that as a bug. It was load-bearing."
 
-He zoomed into specific cases. "Wanjiku Kimani. Home health aide. Under the old system: 8,400 shillings monthly, stable. Under the new system: average 6,100 shillings, highly volatile. She had to take a second job. Her patient outcomes declined because she was exhausted. The amount of medical errors increased slightly. Her attribution score dropped. She ended up worse off than before the 'fix.'"
+He zoomed into a specific case. A face appeared: Wanjiku Kimani. Home health aide. Under the old system: 8,400 shillings monthly, stable. Under the new system: average 6,100 shillings, volatile. Second job. Patient outcomes declining. Attribution score dropping.
 
 Kaelen watched the data. The Nairobi Correction had been celebrated initially. The papers had called it "economic justice." Six months later, the stories stopped. He'd never followed up on why. <!-- something about bias here -->
 
@@ -131,5 +141,5 @@ His phone buzzed. Damon: *Thursday, 7pm. Don't forget.*
 
 He pocketed the phone. Washed his hands. Walked back to his office.
 
-But the question stayed with him. Not even fully formed. Just there, like a splinter he couldn't find.
+But the question stayed with him. Not even fully formed. Just there, like a splinter he couldn't find. A splinter that would grow.
 

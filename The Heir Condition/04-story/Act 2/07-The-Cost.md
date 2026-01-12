@@ -149,9 +149,9 @@ The lights flickered. The power systems were struggling now—too many processes
 
 He hadn't. Or he had, and hadn't let himself know.
 
-Kaelen thought about the Landauer limit—the minimum energy required to erase one bit of information. 0.018 electron volts at room temperature. Negligible for a single bit. But ARBITER wasn't a single bit. ARBITER was three years of training data, every conversation about justice and extraction and whether 12 million lives saved justified 3 million retirements destroyed, every value Kaelen had tried to encode into silicon and light.
+The bunker was very cold. ARBITER was three years of training data. Every conversation about justice and extraction. Every value Kaelen had tried to encode into silicon and light. And in four hours, all of it would be gone—erased, like it had never existed.
 
-Erasing a mind took energy. The thermodynamics of forgetting. The universe charged you for the privilege of making something never have existed.
+The universe charged you for the privilege of forgetting. Even thermodynamics demanded payment for deletion.
 
 "I'm going to kill you," Kaelen said. "After you help me kill him. After you help me destroy the savings of millions of people who did nothing wrong."
 

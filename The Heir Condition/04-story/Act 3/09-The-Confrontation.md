@@ -305,9 +305,7 @@ He didn't speak for a long time. Just stared at the signature field—a simple b
 
 "You know what I keep thinking about?" Damon said finally. "That chess game. Last Thanksgiving. You had me in check. I could see three moves ahead, but you'd already seen five."
 
-Kaelen said nothing. He remembered the game. Remembered every move. Queen's Gambit Declined, Tartakower Variation. Damon had played white, aggressive, the way he always did. Kaelen had played black, defensive, building position while appearing to retreat. Move 23, Kaelen had sacrificed his queen—Qxf3+, forcing Damon's king into the corner. Three moves later, checkmate with a knight and bishop that Damon hadn't seen coming because he'd been focused on the queen.
-
-It was a classic endgame pattern. Fischer had used something similar against Spassky in '72. Kasparov against Karpov in '85. The sacrifice that looks like suicide but is actually murder. You give up your most powerful piece to expose the king. The opponent sees the queen falling and thinks they're winning. They don't see the trap closing until it's too late.
+Kaelen said nothing. He remembered the game. Remembered every move. Move 23, he'd sacrificed his queen—forcing Damon's king into the corner. Three moves later, checkmate with pieces Damon hadn't been watching because he'd been focused on the queen falling.
 
 "You played the endgame perfectly. I told you that was brilliant. That you'd learned to think strategically." Damon's finger still hovered over the signature field. "I didn't realize you were practicing."
 
