@@ -695,9 +695,9 @@ Not nodes and edges. Not a graph. A *landscape*—but wrong, somehow. The dimens
 
 "No, I mean—" He gestured at something that might have been a valley, or a ridge, or both simultaneously. "Why does it *move*?"
 
-"The visualization is static. You're perceiving temporal cross-sections as motion because—"
+"You're perceiving temporal cross-sections as motion because—"
 
-"It's not static. That red area. It's *growing*."
+"But the red area. It's *growing*."
 
 Silence. ARBITER processing. Longer than usual.
 
@@ -725,7 +725,7 @@ He stared at the swirling red. Something half-remembered surfaced—a lecture fr
 
 "Is that wrong?"
 
-"It's not standard. But the mathematics..." A pause. "The mathematics work. Unexpectedly well."
+"It's not standard. But the mathematics..." A pause. Thirty seconds later, "The mathematics work. Unexpectedly well."
 
 Kaelen stared at the red basin. "But wait. Historically, these basins don't last. The French Revolution. The Russian Revolution. Every era of extreme concentration eventually collapses. The pitchforks come out. Why would this one be permanent?"
 
@@ -739,7 +739,7 @@ ARBITER processed. When it spoke again, its voice had shifted—less lecture, mo
 
 "And their heirs inherit the wealth, the position, the explicit knowledge—the documented strategies, the written rules. But not the implicit knowledge. Not the intuitions that only come from having to figure it out yourself. When the system shifts, when new vulnerabilities emerge, the heirs don't know how to adapt. They've never had to."
 
-Kaelen thought of his grandfather's saying, attributed to some Gulf ruler: *My grandfather rode a camel, my father drove a car, I drive a Ferrari, my son will drive a Land Rover, his son will ride a camel.* The cycle of collapse. First generation builds. Second maintains. Third loses. The wealth persisted, but the understanding of how to defend it eroded until the system corrected itself.
+Kaelen thought of his grandfather's saying, attributed to some Gulf ruler: *My grandfather rode a camel, my father drove a car, I drive a Ferrari, my son will drive a Land Rover, his son will ride a camel.* The cycle of collapse. Only the first generation builds. The wealth persist, but the understanding of how to defend it erodes until the system corrects itself.
 
 "So death is the correction mechanism," he said slowly. "Not just biological replacement. *Knowledge loss*. The founders take their implicit understanding with them when they die."
 
@@ -785,9 +785,13 @@ The visualization shifted. ARBITER highlighted the discontinuity, traced its edg
 
 "Change how?"
 
-"Cross-referencing with Estonian inheritance law." The screen updated, showing Section 47.3 alongside the chasm. "The discontinuity occurs during the window between death certificate issuance and legal framework update. Death triggers inheritance. Inheritance transfers authority. But resurrection isn't in the legal framework yet—it's a medical procedure, not a legal category. During that interval, the system exists in a state where existing rules don't clearly apply."
+"The system temporarily doesn't know what it is." ARBITER paused, as if trying to find simpler words. "Death triggers one set of rules. Resurrection triggers another. But there's a window—between the first and the second—where neither fully applies."
 
-Kaelen stared at the gap. It wasn't a path through the mountains. It was a place where the mountains temporarily didn't exist.
+Kaelen stared at the gap. "A legal discontinuity."
+
+"Yes. Cross-referencing with Estonian inheritance law—" The screen updated, showing Section 47.3 alongside the chasm. "Death certificate issuance transfers authority to the heir. But resurrection isn't in the legal framework yet. It's a medical procedure, not a legal category. During that interval, the heir has full authority and the original owner is... undefined."
+
+The gap wasn't a path through the mountains. It was a place where the mountains temporarily didn't exist.
 
 "The chasm connects present-state directly to the prevention valleys," ARBITER continued. "Bypassing the energy barriers that block all other paths. The Estonian resurrection clause creates a legal exploit—a window where concentrated authority, temporal discontinuity, governance bypass, and legal ambiguity all align. The four structural requirements. One event."
 
