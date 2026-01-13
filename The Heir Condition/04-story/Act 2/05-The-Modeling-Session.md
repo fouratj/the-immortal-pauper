@@ -1176,11 +1176,9 @@ He began typing.
 
 Somewhere above him, the world continued. People made breakfast, went to work, lived their mortal lives. His uncle was probably awake by now, probably reviewing speech drafts, probably thinking about the announcement that would change human history.
 
-He didn't know. Couldn't know. That his nephew was forty meters underground, alone in the cold, beginning the research that would end his life.
+He didn't know. Couldn't know. Kaelen typed until his fingers ached. Until the words blurred. Until the cold became background and the only thing left was the work.
 
-Kaelen typed until his fingers ached. Until the words blurred. Until the cold became background and the only thing left was the work.
-
-The threshold had been crossed.
+The rubicon had been crossed.
 
 There was no going back.
 
