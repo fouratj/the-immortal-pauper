@@ -67,7 +67,7 @@ Damon hugged him tighter. The kind of hug they hadn't shared since Kaelen's moth
 
 "Thank you, Kael. That means more than you know."
 
-They separated. Kaelen managed a smile. The transfer was complete. The nNanobots migrating from the pin's substrate through the suit fabric, seeking skin, pores, then blood. Somewhere in Damon's circulatory system, seventy-seven million assassins were beginning their work.
+They separated. Kaelen managed a smile. The transfer was complete. The nanobots migrating from the pin's substrate through the suit fabric, seeking skin, pores, then blood. Somewhere in Damon's circulatory system, seventy-seven million assassins were beginning their work.
 
 And Kaelen was smiling. Looking at his uncle with an expression of pride and love that wasn't fake—that was the worst part, it wasn't fake at all—while the murder he'd authorized colonized Damon's bloodstream.
 

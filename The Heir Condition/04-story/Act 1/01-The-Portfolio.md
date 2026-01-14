@@ -400,9 +400,6 @@ Javi started the scooter. Rode home through Thursday night traffic—EDSA at mid
 
 He thought about Rico's question: *What happens if Carlos stops responding?*
 
-And Rico's other prediction, the one that had silenced everyone for a moment: *Pretty soon they'll be immortal, and we'll be their fucking portfolios forever.*
-
-A billboard flickered past above the Guadalupe overpass: Damon Korr's face, benevolent, timeless, digitally smoothed to agelessness. **TOMORROW. HUMANITY'S NEXT CHAPTER.** The letters ten meters tall, visible from Makati to Mandaluyong, promising something to people who would never be able to afford it.
 
 ---
 
@@ -410,17 +407,13 @@ Javi got home at 00:23. Studio apartment in a mid-rise off Timog Avenue, Quezon 
 
 He set his Vizor Pro 3 glasses on the charging dock—the matte black base with its three magnetic contact points clicking into place—and watched the Axon Body 3 footage download to his Nexus Puck, the hockey-puck-sized compute device that handled all his processing. The puck was warm to the touch, its brushed aluminum surface showing the faint glow of its status LED as encrypted backups streamed to distributed storage. Thirty-four minutes compressed to 2.1GB. His whole night, reducible to data.
 
-The wall display had defaulted to news while he was out—the cheap TCL unit that came with the apartment, its colors slightly off, Damon Korr's face tinted faintly green. A countdown timer dominated the screen: **KORR GLOBAL BROADCAST — 11 HOURS, 7 MINUTES**. Below it, talking heads speculated about what the announcement could be. Nobody knew. The Korr Foundation had locked down every subsidiary, every research facility, every employee with access. The biggest information security operation since the Bangalore Incident.
+The wall display had defaulted to news while he was out—the cheap TCL unit that came with the apartment, its colors slightly off, Damon Korr's face tinted faintly green. A countdown timer dominated the screen: **KORR GLOBAL BROADCAST — 11 HOURS, 7 MINUTES**. Below it, talking heads speculating about what the announcement could be. Nobody knew. Didn't stop them from talking.
 
 He switched it off. Didn't help him with his immediate problems.
 
 Filed it under Carlos M. / Intervention 13 / 2050-04-17.
 
 Two investors had submitted redemption requests. ₱87K total. He had ₱34,000 liquid. Would need to sell retained equity to cover the rest.
-
-Or take a loan.
-
-Or sell a contract.
 
 Ernesto probably faced the same decision.
 
@@ -432,6 +425,7 @@ His phone buzzed: Carlos's blue dot had stopped. Home. 00:47.
 
 He wouldn't have to update the intervention status. Small win.
 
+<!-- how does he have access? Do development partners have a kind of cartel or something with information sharing? Only need a throw-away line that makes sense -->
 He opened Marco Santos's file. Ernesto's final note before filing breach: *Pattern deviation probability 0.91. Baseline projected to drop ₱800K-₱1.2M. Recommend escalated intervention or contract termination.*
 
 Three days later: breach filed.
