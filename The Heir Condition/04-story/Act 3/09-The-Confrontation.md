@@ -277,7 +277,13 @@ April 22, 2050, 19:47. Rosa quit the night shift at Manila General. Her attribut
 
 Damon stared at the timestamps. His throat worked like he was trying to swallow something that wouldn't go down.
 
-Damon stared at Rosa's data. His breathing had changed—shallower, faster. The new body responding to stress in ways the old one had learned to suppress.
+Rosa Santos. The test case. The woman he'd acknowledged was being underpaid—*the analysis is sound*—before explaining why fixing it would break the system.
+
+And now—three days in—she wasn't suffering. Marco's door had opened. The prices had dropped. The institutions hadn't collapsed *yet*.
+
+Nairobi had looked fine at day three too.
+
+His breathing had changed—shallower, faster. The new body responding to stress in ways the old one had learned to suppress.
 
 Then Hassan's data. The wheat farmer in Cairo who'd stopped paying tribute on genetics his grandfather's grandfather had developed. Attribution score: 41st percentile to 73rd. First profitable harvest in seven years.
 
@@ -315,9 +321,9 @@ Kaelen waited. His heart was doing something irregular—skipping beats, adding 
 
 His hand moved toward the signature field. Stopped an inch away.
 
-"The system worked." Damon stared at the data. "That's what makes this so fucked up. It actually worked. For twenty years, it worked. The attribution algorithms lifted billions out of poverty. The II infrastructure created abundance. The mathematics were sound."
+"It worked." Damon stared at the data. "That's what makes this so fucked up. It actually worked. For twenty years, it worked. The attribution algorithms lifted billions out of poverty. The II infrastructure created abundance. The maths fucking worked!"
 
-He pulled up Rosa's data again. Her face. Her son. The choice that shouldn't exist. "And then somewhere—I don't know when—it stopped working. Started producing remainders. Edge cases. People falling through gaps. Rosa choosing between insulin and therapy. Hassan paying tribute on his grandfather's wheat. Amara's daughter almost dying from a fever."
+He looked at Rosa's data again. Her face. Her son. The choice that shouldn't exist. "And then somewhere, it stopped working. Started producing remainders. Edge cases. People falling through gaps."
 
 His hand was shaking—the new hand, the one that had never shaken before because it had never experienced anything worth shaking about. "And you showed me. You showed me for three years. And I saw it. I understood the math. But I couldn't fix it."
 

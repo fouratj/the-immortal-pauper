@@ -214,6 +214,14 @@ In the gallery, no one spoke. Thomas Reeves had stopped looking at his tablet. S
 
 The silence stretched. Damon's jaw worked, like he was trying to form words and couldn't find any that fit.
 
+And then something strange happened. He felt it building in his chest—the pressure that should have become tears. Fifty-two years of accumulated grief responses, muscle memory for sorrow, the particular burn behind the eyes that meant something was breaking inside. His old body would have known what to do with this feeling. Would have produced tears, or a sob, or at least the choked sound of a man trying not to cry.
+
+This body did nothing.
+
+The tear ducts didn't respond. The throat didn't tighten. He was experiencing what should have been the worst moment of his new life, and the machinery he inhabited didn't know what grief felt like. The emotion was there—vast, oceanic, threatening to drown him—but it had nowhere to go. No outlet. No release. Just pressure building against walls that wouldn't break.
+
+He stood perfectly still, a man drowning in feelings his body couldn't express, while the graph showed humanity celebrating his absence.
+
 "Continue with the financial analysis," he said finally, his voice flat.
 
 Harrison cleared his throat, glancing at the graph before hurriedly minimizing it. "The forty-eight hour window—your designated heir gained full access upon death confirmation. Sir, your primary accounts have been emptied." He consulted his screens with visible discomfort. "Foundation operational: zero. Patent escrow: zero. Real estate trusts: dissolved. BioGenesis equity: transferred. Shimizu Medical stake: liquidated. The satellite network holdings: sold. Infrastructure bonds: redeemed. Even the art collection—" He paused. "Everything liquidable has been liquidated. Everything transferable has been transferred."
@@ -267,6 +275,8 @@ Dr. Chen frowned. "Calluses, sir?"
 Damon flexed his fingers again. Nothing. "Modify the protocols. I want the next body to remember."
 
 "Remember what, sir?"
+
+He thought of the pressure in his chest that had nowhere to go. The grief that couldn't become tears. All the accumulated responses his old body had learned over fifty-two years—how to cry, how to rage, how to feel—erased and replaced with pristine machinery that didn't know what sorrow felt like.
 
 "The life it's lived." He looked up. "Even if it means imperfection."
 
