@@ -393,7 +393,7 @@ Boredom had settled in like the cold. Not the restless boredom of having nothing
 
 He browsed the facility's systems just to have something to do. Usage logs. Power consumption history. Environmental controls.
 
-And then he found the the historical model archive.
+And then he found the historical model archive.
 
 He hadn't been looking for it. The directory was labeled "Previous Sessions" and he'd clicked expecting to find calibration data or test runs. Instead:
 
@@ -446,7 +446,7 @@ A long pause. The monitor beeped. Outside the window, San Francisco was doing wh
 
 "A curse?"
 
-"A shortcut." She'd found his eyes. Held them. "Don't let being smart make you cruel. Promise me that. Don't let being smart make you think that people are just... problems to solve. Puzzles to figure out. They're not. They're—" She'd stopped. Coughed. The monitor spiked something that made the nurse look up from her station. "They're *people*, Kaelen. Even when they don't make sense. Even when they're inefficient. Even when optimizing them would make everything better."
+"A shortcut." She'd found his eyes. Held them. "Don't let being smart make you cruel. Promise me that. Don't let being smart make you think that people are just... problems to solve. Puzzles to figure out. They're not. They're—" She'd stopped. Coughed. The monitor spiked something that made the nurse look up from her station. "They're *people*, Kaelen. Even when they don't make sense."
 
 Kaelen had nodded. He didn't understand. He was twelve.
 
@@ -478,7 +478,7 @@ ARBITER didn't respond immediately. The pause felt different from its computatio
 
 "I was twelve. Cancer. She knew she wasn't going to make it, so she asked Damon to raise me. To make sure I turned out okay." Kaelen's voice was flat. Rehearsed. He'd told this story before, to therapists, to the one girlfriend who'd lasted long enough to ask. "He did. He was good at it. Chess lessons, calculus tutoring, how to think systematically about complex problems."
 
-"And now you're contemplating killing him."
+"And now you're contemplating killing him." <!-- he's not contemplating this yet, we need something else here. Maybe just going behind his back to undermine his legacy? -->
 
 "Yes."
 
