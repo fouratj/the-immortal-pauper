@@ -23,7 +23,7 @@ Damon set down the tablet. His face loking defensive. Processing. Testing it for
 
 "The proposed fix?"
 
-"We'd liek to propose parameter adjustments to the attribution metadata." Tanaka pulled up the next slide. "Three changes: First, raise individual attribution caps from 5% to 15% of calculated uplift. Second, increase inference weight for non-institutional contributions from 0.25x to 0.5x. Third, add minimum worker attribution floors so that employers cannot capture more than 70% through contracts."
+"We'd like to propose parameter adjustments to the attribution metadata." Tanaka pulled up the next slide. "Three changes: First, raise individual attribution caps from 5% to 15% of calculated uplift. Second, increase inference weight for non-institutional contributions from 0.25x to 0.5x. Third, add minimum worker attribution floors so that employers cannot capture more than 70% through contracts."
 
 She advanced the slide. "Implementation cost: 2% of our annual operating budget. Attribution correction across 47 countries in the Asian region would affect approximately 340 million primary laborers. We call it the Bangalore Patch. Virtual test deployment showed workers salaries increasing around 35-40% above control."
 
