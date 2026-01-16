@@ -65,7 +65,7 @@ Tanaka's expression shifted as she watched. Confusion first. Then something dark
 
 "What am I looking at?"
 
-"What you're proposing." Damon let the visualization run. "Kenya deployed almost identical parameter changes. Individual caps raised from 5% to 18%. Institutional capture limited to 51%. Sound reforms. Ethically justified. Democratically approved."
+"What you're proposing." Damon let the visualization run. "Kenya deployed almost identical parameter changes. Individual caps raised from 5% to 18%. Institutional capture limited to 51%. Sound reforms, seemingly ethically justified, and democratically approved."
 
 The timeline reached Month 8. Forty-three percent of healthcare institutions dissolved or restructured. The number hung on screen.
 
@@ -129,11 +129,9 @@ What if you changed both simultaneously? What if the lesson from Nairobi wasn't 
 
 He didn't know what that would look like. He didn't have the models. But somewhere in that direction was a question his uncle hadn't asked—or hadn't wanted to ask.
 
-Popper's old observation surfaced from somewhere in his undergraduate philosophy reading: *all facts are theory-laden*. You couldn't just look at data—you looked at data through a framework that told you what the data meant. Damon's framework said: complex systems are fragile, interventions are dangerous, patience is wisdom. Through that lens, Nairobi proved caution. But through a different framework—one that said: extraction compounds, delay has costs, costs increase as societal pressure, and inaction is a choice. That could prove something else entirely.
+But you couldn't just look at data—you looked at data through a framework that gave context to data. Damon's was complex systems are fragile, therefore interventions are dangerous and patience is wisdom. Through that lens, Nairobi proved caution. But through a different framework—one that said: extraction compounds, delay has costs, and those costs increase as societal pressure, with inaction as a choice. That could prove something else entirely.
 
-The interpretation was doing all the work.
-
-Which framework was correct? He didn't know. He just had his uncle's interpretation, presented as if the data spoke for itself—when data never spoke for itself, when someone was always choosing what questions to ask and what patterns to see.
+The interpretation was load-bearing.
 
 Kaelen looked at his reflection and thought: *I don't know what's—*
 
