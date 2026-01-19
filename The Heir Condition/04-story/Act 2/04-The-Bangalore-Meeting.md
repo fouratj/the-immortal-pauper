@@ -79,7 +79,9 @@ Tanaka's jaw tightened. "That's a failure of implementation, not—"
 
 He zoomed into a specific case. A face appeared: Wanjiku Kimani. Home health aide. Under the old system: 8,400 shillings monthly, stable. Under the new system: average 6,100 shillings, volatile. Second job. Patient outcomes declining. Attribution score dropping.
 
-Kaelen watched the data. The Nairobi Correction had been celebrated initially. The papers had called it "economic justice." Six months later, the stories stopped. He'd never followed up—told himself he was busy. But Damon had followed up. Damon had commissioned the post-mortem, documented every failure, catalogued every Wanjiku. The data existed. It just wasn't public. The reformers who might learn from Nairobi didn't have access. Only the man arguing against reform got to cite the evidence.
+Kaelen watched the data. The Nairobi Correction had been celebrated initially. The papers had called it "economic justice." Six months later, the stories stopped—not because nothing happened, but because failure wasn't a story the way hope had been. The ongoing extraction that made reform necessary had never been a story either. Just background. Just how things were.
+
+He'd never followed up—told himself he was busy. But Damon had followed up. Damon had commissioned the post-mortem, documented every failure, catalogued every Wanjiku. The data existed. It just wasn't public. The reformers who might learn from Nairobi didn't have access. Only the man arguing against reform got to cite the evidence.
 
 "So what happened?" Kaelen asked quietly.
 
