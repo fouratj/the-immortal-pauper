@@ -74,6 +74,16 @@ function estimateReadingTime(wordCount) {
 }
 
 /**
+ * Estimate page count based on word count
+ * Industry standard: ~250 words per page for manuscripts
+ * ~300 words per page for published paperbacks
+ */
+function estimatePageCount(wordCount, format = 'manuscript') {
+  const wordsPerPage = format === 'published' ? 300 : 250;
+  return Math.ceil(wordCount / wordsPerPage);
+}
+
+/**
  * Count paragraphs
  */
 function countParagraphs(text) {
@@ -121,6 +131,8 @@ async function analyzeFile(filePath) {
   const avgWordsPerSentence = averageWordsPerSentence(words, sentences);
   const readingTime = estimateReadingTime(words);
   
+  const pageCount = estimatePageCount(words);
+  
   return {
     filename,
     words,
@@ -128,7 +140,8 @@ async function analyzeFile(filePath) {
     paragraphs,
     sentences,
     avgWordsPerSentence,
-    readingTime
+    readingTime,
+    pageCount
   };
 }
 
@@ -219,6 +232,8 @@ async function generateStats() {
     const totalReadingTime = estimateReadingTime(totals.words);
     const avgWordsPerFile = Math.round(totals.words / stats.length);
     const avgWordsPerSentence = averageWordsPerSentence(totals.words, totals.sentences);
+    const manuscriptPages = estimatePageCount(totals.words, 'manuscript');
+    const publishedPages = estimatePageCount(totals.words, 'published');
 
     // Print individual file stats
     console.log('📄 Individual Chapter Statistics\n');
@@ -256,6 +271,8 @@ async function generateStats() {
     console.log(`  Average Words/Chapter:     ${formatNumber(avgWordsPerFile)}`);
     console.log(`  Average Words/Sentence:    ${avgWordsPerSentence}`);
     console.log(`  Estimated Reading Time:    ${totalReadingTime}`);
+    console.log(`  Est. Pages (Manuscript):   ~${formatNumber(manuscriptPages)} pages (250 words/page)`);
+    console.log(`  Est. Pages (Published):    ~${formatNumber(publishedPages)} pages (300 words/page)`);
     console.log();
 
     // Print progress towards common word count milestones
