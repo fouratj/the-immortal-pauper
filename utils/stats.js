@@ -75,12 +75,17 @@ function estimateReadingTime(wordCount) {
 
 /**
  * Estimate page count based on word count
- * Industry standard: ~250 words per page for manuscripts
+ * ~250 words per page for manuscripts (double-spaced)
  * ~300 words per page for published paperbacks
+ * ~200 words per page for ePub/Kindle (larger fonts, smaller screens)
  */
 function estimatePageCount(wordCount, format = 'manuscript') {
-  const wordsPerPage = format === 'published' ? 300 : 250;
-  return Math.ceil(wordCount / wordsPerPage);
+  const wordsPerPage = {
+    'manuscript': 250,
+    'published': 300,
+    'epub': 200
+  };
+  return Math.ceil(wordCount / (wordsPerPage[format] || 250));
 }
 
 /**
@@ -234,6 +239,7 @@ async function generateStats() {
     const avgWordsPerSentence = averageWordsPerSentence(totals.words, totals.sentences);
     const manuscriptPages = estimatePageCount(totals.words, 'manuscript');
     const publishedPages = estimatePageCount(totals.words, 'published');
+    const epubPages = estimatePageCount(totals.words, 'epub');
 
     // Print individual file stats
     console.log('📄 Individual Chapter Statistics\n');
@@ -271,8 +277,9 @@ async function generateStats() {
     console.log(`  Average Words/Chapter:     ${formatNumber(avgWordsPerFile)}`);
     console.log(`  Average Words/Sentence:    ${avgWordsPerSentence}`);
     console.log(`  Estimated Reading Time:    ${totalReadingTime}`);
-    console.log(`  Est. Pages (Manuscript):   ~${formatNumber(manuscriptPages)} pages (250 words/page)`);
-    console.log(`  Est. Pages (Published):    ~${formatNumber(publishedPages)} pages (300 words/page)`);
+    console.log(`  Est. Pages (Kindle/ePub):  ~${formatNumber(epubPages)} pages`);
+    console.log(`  Est. Pages (Manuscript):   ~${formatNumber(manuscriptPages)} pages`);
+    console.log(`  Est. Pages (Paperback):    ~${formatNumber(publishedPages)} pages`);
     console.log();
 
     // Print progress towards common word count milestones

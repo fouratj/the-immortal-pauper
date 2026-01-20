@@ -2,7 +2,9 @@
 
 Javi Reyes was hemorrhaging expected value.
 
-His phone showed the alert: Carlos M., age 14, Tondo District, 21:47 Wednesday. School night. Pattern deviation probability 0.94. The models projected ₱82,000 in baseline erosion if the deviation persisted—and if Carlos's baseline dropped another ₱600K, four months of work would cross into negative territory. ₱125,000 on the hook from investors. He had to go see him.
+He owned fifteen percent of a fourteen-year-old's future earnings. His home cluster had pinged his glasses: Carlos M., third incident this week, negative deviation probability at 80%. Recommend intervention.
+
+He ran the numbers himself while he rode. You didn't survive in this business by letting the algorithms do all your thinking. Three incidents in one week: pattern, not noise. Pattern meant baseline erosion — the models would start projecting Carlos's lifetime earnings downward. His 15% of a ₱4M baseline was ₱600K on paper, but paper burned fast when the underlying asset started making decisions like *hanging out around Tondo on a school night*. Another month of this and he'd be underwater. ₱125K from investors. Four months of work. All of it riding on a kid who was currently ignoring his calls.
 
 He was doing 60 kph on a Honda Metropolitan through Quezon City traffic, weaving between jeepneys painted in competing shades of chrome and rust—a Cubao-Quiapo route bus belching diesel two meters to his left, its side panels advertising San Miguel Beer and some Korean skincare brand in faded decals. The digital overlay from his Vizor Pro 3 smartglasses showed Carlos's location as a pulsing blue dot. The Axon Body 3 camera clipped to his shoulder strap was recording—always recording. After the Gutierrez dispute, he'd learned to document everything.
 
