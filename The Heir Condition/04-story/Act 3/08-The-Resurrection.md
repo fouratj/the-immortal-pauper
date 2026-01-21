@@ -346,6 +346,4 @@ Damon stared at the message. The nephew who'd borrowed his death and rebuilt the
 
 "He just sent me a message. He wants to talk." Damon looked up from the tablet. "So we'll talk."
 
-The car merged onto the highway, carrying the world's first resurrected man toward a confrontation with the nephew who'd killed him, inherited everything, given it all away, and then invited him back to see what he'd done.
-
-*[End of archived footage reconstruction]*
+The car merged onto the highway, carrying the first immortal toward the architect of the first deicide.

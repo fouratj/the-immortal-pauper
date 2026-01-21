@@ -504,7 +504,19 @@ Javi sat in his twelve-square-meter apartment looking at his retained equity: �
 
 Outside, a motorcycle courier was arguing with someone in the parking lot, voices rising in rapid Tagalog. The AC unit rattled. The wall display had cycled back to news—the Korr countdown: **21 HOURS REMAINING**. Talking heads speculating about what the announcement could be—new attribution protocols, expanded life extension, governance reforms. Nobody knew. Whatever it was, it would "trickle down eventually." Trickle down. Like the benefits of the Intelligent Internet had trickled down to Rosa and Carlos and Marco.
 
-He muted it. Back to the problem. He could take a loan against expected value. Attribution Lending Inc. offered 30-day bridge loans at 18% APR for guild-certified specialists.
+He muted it.
+
+His dashboard showed 23 contracts. Twenty-three kids whose futures he'd bought pieces of. He scrolled past the red flags — Carlos, two others trending down — and stopped on the first green.
+
+Maria R., age 16, Month 11. Baseline trending up 16%. Her photo showed a girl in a blue Ateneo Senior High uniform — she'd tested into the scholarship program three months ago. Her mom had sent him a message last week: a photo of Maria's midterm grades, all blues, with a single word: *Salamat*.
+
+He remembered the intake. Single mom, father in Saudi, remittances irregular. Maria had been skipping school, hanging with older kids, baseline eroding. The ₱90K upfront had covered rent arrears and a year of tutoring. Javi had spent hours on video calls going over her college applications, connecting her with a study group, talking her through the interview process.
+
+Now she was on track for a UP scholarship. If she got it, her projected lifetime earnings jumped ₱3.2M. His 12% stake would be worth almost ₱400K.
+
+He looked at the message again. *Salamat.* One word. Almost as good as the ₱400K.
+
+Back to the problem. He could take a loan against expected value. Attribution Lending Inc. offered 30-day bridge loans at 18% APR for guild-certified specialists.
 
 Or he could file a breach report on one of his underperforming contracts, demonstrate to investors that he was willing to escalate, stop the redemption requests.
 
