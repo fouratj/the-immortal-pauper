@@ -3,143 +3,512 @@
 
 ---
 
-The conference room on the 47th floor overlooking San Francisco Bay had been designed to make visitors feel small. Floor-to-ceiling windows framing the Pacific. A table of polished obsidian that cost more than most houses. Twelve empty chairs arranged around a man who needed no entourage to fill a room.
+The conference room on the 47th floor overlooking San Francisco Bay had been designed to make visitors feel small. Floor-to-ceiling windows framing the Pacific, the glass so clean it seemed like absence—as if you could step through and fall forty-seven stories into the churning gray water below. A table of polished obsidian that cost more than most houses, its surface reflecting the overhead lights like a dark mirror. Twelve empty chairs arranged around a man who needed no entourage to fill a room. The climate control held the temperature at precisely 19°C—cool enough to keep executives alert, warm enough that no one could claim discomfort. The air smelled like nothing at all, which was its own kind of expense.
 
-Damon Korr sat at the head of the table, reviewing the proposal on his tablet. Dr. Tanaka stood at the presentation display, hands clasped, waiting. In the corner, taking notes he would never file, Kaelen watched.
+Damon Korr sat at the head of the table, reviewing the proposal on his tablet. Dr. Tanaka stood at the presentation display, hands clasped, waiting. She'd been waiting for seven minutes now, while Damon read with the particular slowness of someone who wanted you to know he was reading carefully. In the corner, tablet open, Kaelen watched—theoretically taking estate planning notes. Actually documenting everything.
 
-"Ok, walk me through it," Damon said. "The edge case."
+"Walk me through it," Damon said. "The edge case."
 
 Dr. Tanaka pulled up the visualization—a cascade tree showing attribution flows in late-adopter economies. "The backpropagation algorithm over-credits intermediary nodes in regions with fragmented infrastructure. When institutional layers are dense—multiple contractors, licensing aggregators, verification services—the algorithm over-attributes value to the intermediation itself rather than the underlying labor."
 
 "Example."
 
-"Care work in Manila. A home health aide named Rosa Dela Cruz." Tanaka highlighted a single node in the tree. "The II calculates her uplift contribution—the measurable increase in her patients' economic output after recovery, attributed back to her care. Forty thousand pesos monthly. But her employment contract assigns 100% of that attribution to Manila General Hospital. The standard clause these days. She receives a fixed wage: 9,000 pesos."
+Tanaka paused. Her fingers hovered over the display controls, and something shifted in her posture—the particular tension of someone about to make things personal.
+
+"Care work in Manila. A home health aide named Rosa Dela Cruz." She highlighted a single node in the tree, and a face appeared. A woman in her late thirties, exhaustion carved into the lines around her eyes, wearing hospital scrubs that had been washed too many times. "I interviewed her. Three weeks in Manila, last November. Thirty-seven home visits across eleven barangays. Rosa was the fourth interview."
+
+She let that sit. The photograph stayed on screen.
+
+"The II calculates her uplift contribution—the measurable increase in her patients' economic output after recovery, attributed back to her care. Forty thousand pesos monthly. But she receives a fixed wage: 9,000 pesos."
+
+Kaelen watched his uncle's face. Nothing moved. The photograph of Rosa hung in the air between them, looking out at the room with eyes that had seen too many twelve-hour shifts.
 
 "And the hospital?"
 
-"Keeps her attribution, and pays it upstream to intermediaries. Equipment licensing. Training certification. Administrative overhead." Tanaka paused. "The same pattern appears across tens of thousands documented cases in our late-adopter sample, we've done detailed write-ups on 847 specific workers. Care workers, agricultural laborers, artisanal manufacturers. Employers capture worker attribution through standard contracts. The algorithm enables it by making individual attribution claims easy to waive—and caps them at 5% of total output even when not waived."
+"Keeps her attribution, pays it upstream. Equipment licensing. Training certification. Administrative overhead." Tanaka paused. Her eyes went to Rosa's photograph, still floating in the display. "When I interviewed her, she was making dinner. Her kitchen smelled like vinegar and pork fat—adobo, she said, her mother's recipe. She kept apologizing for the mess."
 
-Damon set down the tablet. His face loking defensive. Processing. Testing it for flaws.
-
-"The proposed fix?"
-
-"We'd like to propose parameter adjustments to the attribution metadata." Tanaka pulled up the next slide. "Three changes: First, raise individual attribution caps from 5% to 15% of calculated uplift. Second, increase inference weight for non-institutional contributions from 0.25x to 0.5x. Third, add minimum worker attribution floors so that employers cannot capture more than 70% through contracts."
-
-She advanced the slide. "Implementation cost: 2% of our annual operating budget. Attribution correction across 47 countries in the Asian region would affect approximately 340 million primary laborers. We call it the Bangalore Patch. Virtual test deployment showed workers salaries increasing around 35-40% above control."
-
-Silence. Damon stood. Walked to the window.
-
-Kaelen had seen this before—his uncle pacing while processing complex problems. The slight frown. The fingers drumming against his leg. But there was something else now. Something Kaelen couldn't quite name.
-
-"You're absolutely right," Damon said finally.
-
-Tanaka blinked unexpectedly, not expecting it to be so easy.
-
-"The algorithm does overcredit intermediation in these specific cases. Rosa Dela Cruz seems to reliably generates closer to forty thousand than nine thousand in salary she receives. Your analysis is sound."
-
-Kaelen felt something unclench in his chest. His uncle saw it. Of course he saw it—
-
-"But you're solving the wrong problem."
-
-The room temperature seemed to drop.
-
-Damon turned from the window. His voice had shifted—not defensive, but pedagogical. The tone he used when explaining complex systems to visiting dignitaries. "Dr. Tanaka, what's the difference between a bug and an emergent property?"
-
-"I... uh. Sorry?"
-
-"A bug is when the system fails to execute its design. An emergent property is when the system executes perfectly but produces unexpected results." He walked back to the table. "You're treating Manila's attribution gap as a bug. But I'm quite sure it's be an emergent property we don't fully understand yet."
-
-"With respect, sir, calling systematic underpayment an 'emergent property' doesn't make it less harmful—"
-
-"You're right. It doesn't." Damon's tone shifted, more serious. "Which is why I want to show you something." He pulled up a different dataset from his compute puke and gestured towards the screen. "Dr. Tanaka, have you studied the Nairobi Correction of 2047?"
-
-Tanaka's face shifted. "The healthcare attribution reforms?"
-
-Damon didn't answer. He pulled up a visualization—an accelerated timeline of Kenya's healthcare sector, 2047 to 2049. No explanation. Just the data, running.
-
-The room watched.
-
-Hospitals closing. Not gradually—in waves. First the smaller clinics, then the regional centers, then the urban networks. Care workers' income lines dropping, stabilizing, dropping again. Employment figures fragmenting into something unreadable.
-
-Tanaka's expression shifted as she watched. Confusion first. Then something darker.
-
-"What am I looking at?"
-
-"What you're proposing." Damon let the visualization run. "Kenya deployed almost identical parameter changes. Individual caps raised from 5% to 18%. Institutional capture limited to 51%. Sound reforms, seemingly ethically justified, and democratically approved."
-
-The timeline reached Month 8. Forty-three percent of healthcare institutions dissolved or restructured. The number hung on screen.
-
-"They thought they were fixing a bug," Damon said quietly. "They were breaking an emergent property."
-
-He pulled up worker outcome data. The care workers' income—the ones "liberated" from institutional extraction—had dropped thirty-two percent in the first year. The chart showed why: stable wages had become pure equity participation. When patients recovered, workers earned more. When patients died, they earned nothing.
-
-Tanaka's jaw tightened. "That's a failure of implementation, not—"
-
-"It's a failure of *modeling*." Damon zoomed into the institutional margins. "You saw extraction. You were right—institutions were capturing value. But you didn't model what they were *doing* with that value. Risk aggregation. Insurance. Stable wages during outcome uncertainty. Liability absorption when treatments failed. The reformers treated that as a bug. It was load-bearing."
-
-He zoomed into a specific case. A face appeared: Wanjiku Kimani. Home health aide. Under the old system: 8,400 shillings monthly, stable. Under the new system: average 6,100 shillings, volatile. Second job. Patient outcomes declining. Attribution score dropping.
-
-Kaelen watched the data. The Nairobi Correction had been celebrated initially. The papers had called it "economic justice." Six months later, the stories stopped—not because nothing happened, but because failure wasn't a story the way hope had been. The ongoing extraction that made reform necessary had never been a story either. Just background. Just how things were.
-
-He'd never followed up—told himself he was busy. But Damon had followed up. Damon had commissioned the post-mortem, documented every failure, catalogued every Wanjiku. The data existed. It just wasn't public. The reformers who might learn from Nairobi didn't have access. Only the man arguing against reform got to cite the evidence.
-
-"So what happened?" Kaelen asked quietly.
-
-"Kenya rolled back the reforms eighteen months later. Raised institutional caps to 75%, overcompensating to ensure rapid economic recovery. The system restabilized. But the workers who'd been hurt in the transition—they never fully recovered. Wanjiku left healthcare entirely. Last I checked, she was working retail."
-
-Damon turned to Tanaka. "Your patch is technically correct. The math is sound when modelling first order effects. But you're not modeling second-order effects. You're not accounting for the institutional functions that *look* like extraction but are actually load-bearing. The difference between a bug and an emergent property isn't just semantic—it's the difference between fixing a system and breaking it."
-
-Tanaka stood very still. "So we do nothing? We let Rosa keep earning a quarter of her value because fixing it might be messy?"
-
-"No. We study Nairobi. We understand *why* it failed. We design a patch that preserves risk aggregation while reducing extraction. We test it in controlled deployments. We iterate." His voice softened. "Dr. Tanaka, I'm not saying the problem isn't real. I'm saying your solution is incomplete. And incomplete solutions to complex systems create casualties."
-
-He pulled up one more image. Wanjiku Kimani's face. "I don't want Rosa to become the next Wanjiku. Do you?"
+She looked back at Damon. "I asked her what she wanted for her children. She said, 'I just want them to be okay.' Like wanting that much was already asking too much."
 
 The room was very quiet.
 
-"Take it through the governance process," Damon said. "Build consensus. Study the Nairobi failure modes. Design something that actually works. That's how we make changes that stick."
+"The same pattern appears across tens of thousands of documented cases. Care workers, agricultural laborers, artisanal manufacturers. Employers capture worker attribution through standard contracts. The algorithm enables it." Tanaka's voice had gone flat—clinical again, retreating into data. "But I wanted you to know that 'the algorithm enables it' means Rosa. It means a woman who counts coins for her daughter's medication while the II calculates her value at four times her wage."
 
-Tanaka left without another word.
+Damon set down the tablet. "The proposed fix?"
+
+"Three parameter adjustments." Tanaka pulled up the next slide. "Raise individual attribution caps from 5% to 15%. Increase inference weight for non-institutional contributions. Add minimum worker attribution floors—employers cannot capture more than 70% through contracts. We call it the Bangalore Patch. Virtual deployment showed worker salaries increasing 35-40%."
+
+Silence.
+
+Damon stood. Walked to the window. Stayed there longer than felt comfortable.
+
+"Have you ever been to Shropshire?" he asked finally.
+
+Tanaka blinked. "I'm sorry?"
+
+"Shropshire. County in England. The Welsh Marches, technically—that borderland where England bleeds into Wales. Rolling hills, sheep, not much else." He was still facing the Pacific. "There's a village there called Coalbrookdale. Population of a few hundred, maybe less now. Mostly tourists."
+
+Tanaka glanced at Kaelen. Kaelen's face gave nothing.
+
+"I went there in 2038," Damon continued. "Off-site planning retreat. The board wanted Barcelona. I wanted to see where it all started."
+
+"Where what started?"
+
+Damon turned. Something in his face had shifted—not defensive, not pedagogical. Something almost... fond.
+
+"There's a man who runs the museum gift shop. Derek. His family's been in that valley for nine generations. I bought a replica of the Iron Bridge—little pewter thing, sits on my desk somewhere—and he asked if I wanted to see something. Took me to a church. St. Mary's. Beautiful building, paid for by the Darby family. And in the churchyard..."
+
+He paused. Walked slowly back toward the table.
+
+"You know why I'm telling you this?"
+
+"I don't."
+
+"Neither did I, at first." A faint smile. "Derek showed me a section of the graveyard where the headstones get very small. Very close together. Children's graves. Workers' children. Dozens of them."
+
+His hand had gone still on the table—the hand that was always moving, always gesturing, always illustrating some point about systems and incentives. Kaelen noticed. Tanaka didn't.
+
+"The stones are limestone, mostly. Soft stone—it weathers fast in the Welsh rain. Some of them you can barely read anymore. 'Thomas Darby, aged 8 years. Mary Ellis, aged 6. 'John Simmons and Edward Simmons, twins, aged 5 years 3 months.' Derek took me there at dusk. The light was—" He paused. "The light was exactly the shade of iron at forge temperature. Which seemed deliberate on the part of the universe."
+
+The room was very quiet.
+
+"The mortality rate for foundry workers under ten was about forty percent. These weren't accidents—well, some were accidents. Cave-ins, burns, the usual. But mostly it was the work itself. Fourteen-hour shifts. Air so thick with coal dust that the children coughed black phlegm. The heat near the furnaces blistered skin from ten feet away. They'd wrap their hands in wet rags that dried out in minutes. Bodies not meant to do what foundries required."
+
+Tanaka's jaw tightened. "Mr. Korr, I'm not sure what—"
+
+He held up a hand. "Stay with me."
+
+He sat down. Leaned back.
+
+"Let me tell you about charcoal."
+
+Another pause. Tanaka shifted her weight.
+
+"Before 1709, if you wanted to smelt iron, you needed charcoal. Charcoal comes from trees. Trees grow slowly. Which means your iron production was limited by?"
+
+"By how fast trees grow," Kaelen said.
+
+"By how fast trees grow. Britain in 1700 was running out of forests. They were burning their navy to make nails. Literally—decommissioned ships, broken up for timber, turned into charcoal. The constraint on industrialization wasn't demand, wasn't labor, wasn't ingenuity. It was wood. Biology."
+
+Kaelen's pen had stopped moving.
+
+"Then a Quaker named Abraham Darby figured out you could use coke instead. Coke comes from coal. Coal is geology—millions of years of compressed sunlight, just sitting underground. Britain had more coal than anyone knew what to do with."
+
+Damon leaned forward.
+
+"Darby didn't invent a better process. He *unlocked a resource that was already there*. Changed the constraint from biology to geology. From renewable-but-slow to finite-but-massive. And suddenly everything was possible."
+
+He let that sit.
+
+"By 1750, Coalbrookdale was the Silicon Valley of its age. Inventors, engineers, financiers—all converging on this little valley in Shropshire. The Iron Bridge. The steam engine improvements. The rails that would eventually connect continents."
+
+"And the children," Tanaka said quietly.
+
+"And the children." Damon nodded. "Hundreds of them. Some as young as five. Dragging ore carts through tunnels too small for adults—the carts were designed for their size, which tells you something about intention. Working the bellows until their arms gave out, and then working them more because the iron couldn't wait for a child's muscles to recover." 
+
+He paused. Something in his voice had shifted—not the lecture-voice anymore. Something rawer.
+
+"Derek's ancestor—the first one they have records for—started in the foundries at seven. His name was William. He lost three fingers to a gear mechanism by twelve—the index, middle, and ring finger of his left hand, crushed and then amputated without anesthetic because the foundry surgeon was drunk and the alternative was gangrene. He worked another thirty-four years with that hand. Developed a technique for gripping tools with his thumb and pinky that other workers copied. Lived to forty-six, which was considered a good run." Another pause. "Derek showed me a sketch someone made of him in 1803. He's holding a hammer. You can see the missing fingers. He's smiling."
+
+Silence.
+
+"Here's what interests me about Coalbrookdale." Damon's voice dropped. "Every year, reformers would come. Good people. Quakers, many of them—same as Darby himself. They'd document the conditions. Write pamphlets. Demand change. And every year, the foundry owners would say the same thing."
+
+He paused.
+
+"We can't afford it."
+
+Another pause.
+
+"'If we raise wages, if we shorten hours, if we stop using children, the foundries close. The iron doesn't get made. The Industrial Revolution stops here.'"
+
+He looked directly at Tanaka.
+
+"And they were right."
+
+The words landed like stones.
+
+"Not morally right. Economically right. The margins were that thin. The capital requirements were that demanding. The productivity gains hadn't accumulated yet. The foundries operated on the edge of viability. And the children—those dead children in St. Mary's churchyard—they were what made the edge survivable."
+
+Kaelen's pen stopped moving. *Our industrial age was built on the backs of innocent children.* The thought arrived unbidden, in a voice that sounded like his own but older, more tired. The voice of the person he might become if he kept sitting in rooms like this, taking notes.
+
+Tanaka opened her mouth. Closed it.
+
+"That's—" she started. "That's a historical observation," she said carefully. "Not an argument."
+
+"Is it?"
+
+"Are you arguing that Rosa Dela Cruz should keep earning a quarter of her value because two hundred years ago children died in English foundries?"
+
+"No."
+
+"Then what are you arguing?"
+
+Damon didn't answer. He looked at Kaelen.
+
+"Estate planning notes?"
+
+"Extensive ones."
+
+"What do you think I'm arguing?"
+
+Kaelen set down his tablet. The room seemed to contract.
+
+"The development ladder," he said.
+
+Damon's eyes narrowed. Waiting.
+
+"Every economy climbs the same rungs. Brutal early industrialization. Capital accumulation. Productivity gains. Rising wages. Then reform." Kaelen met his uncle's gaze. "Britain, America, Germany, Japan, Korea, China. Same pattern, different timelines. The Factory Acts that banned child labor came *after* Britain had industrialized—after the productivity gains made reform affordable. We didn't ban child labor and get rich. We got rich enough that child labor became economically obsolete, and then we formalized what was already happening."
+
+Silence.
+
+"And the implication?"
+
+"That Manila, Dhaka, Lagos—they're climbing the same ladder. That what Dr. Tanaka calls 'extraction' is actually the mechanism of development. The same mechanism that built the British middle class out of foundry workers' grandchildren."
+
+Damon's face went flat.
+
+"That's what you think I'm arguing."
+
+"Isn't it?"
+
+"Tell me what you think the *implication* is."
+
+Kaelen hesitated. "That reform is dangerous. That we should let extraction continue because—"
+
+"No." Sharp. "That's not the implication. That's the *strawman* of the implication. The thing a critic would say to avoid engaging with the actual argument."
+
+A long beat.
+
+Kaelen felt the weight of it. His uncle's attention—that precise, measuring attention—focused entirely on him. Not on Tanaka. On him.
+
+"That the *timing* of reform matters," he said slowly. "That interventions which seem equivalent can have completely different effects depending on when they happen. That the same policy applied at the wrong point in the development curve creates casualties instead of progress."
+
+Pause.
+
+"And that we're bad at knowing when is when."
+
+*Now* Damon smiled. Not warmly—appreciatively. The way a chess player smiles when their opponent makes an unexpected move.
+
+"Go on."
+
+"The Coalbrookdale reformers weren't wrong about the conditions. They were wrong about the *consequences* of intervention. They saw extraction. They were right. But they didn't-couldn't-model what the extracted value was *doing*. Capital formation. Productivity investment. The surplus that would eventually become wages, education, the reforms they wanted."
+
+"And?"
+
+"And if they'd succeeded—if they'd forced the foundries to raise wages in 1750—the foundries would have closed. The iron doesn't get made. The Industrial Revolution stops there. And a century later, Britain looks like..."
+
+He trailed off.
+
+"Looks like what?"
+
+"I don't know. That's the counterfactual we can't run."
+
+"Exactly." Damon stood. Walked toward him. "That's the problem. We can't run the counterfactual. We have one sample path through history, and we're trying to derive general laws from it. The Coalbrookdale reformers would have said: 'Saving children is always right.' The foundry owners would have said: 'Closing foundries kills more children in the long run.' And neither of them could prove it."
+
+He stopped in front of Kaelen.
+
+"But here's what we *can* do. We can look at cases where reformers succeeded in changing the parameters before the development curve was ready for it. We can study what happened. We can count the bodies."
+
+Tanaka's posture shifted—something involuntary, a pulling-back that she tried to suppress and couldn't quite. Kaelen felt it too: a threshold being crossed. They'd been talking about history, about abstraction, about the theoretical shape of suffering two centuries dead. *Count the bodies* was something else. It was a promise of specifics.
+
+Damon noticed. He always noticed. His eyes tracked Tanaka's reaction with the particular attention of someone cataloging data points—and then, deliberately, he let the silence stretch.
+
+He walked back to his tablet. Pulled up a different dataset.
+
+"Kenya. 2047."
+
+The room temperature seemed to drop.
+
+Tanaka stepped forward. "The healthcare attribution reforms?"
+
+Damon didn't answer. He pulled up a visualization—Kenya's healthcare sector, 2047 to 2049. Accelerated timeline. No explanation. Just the data, running.
+
+The room's temperature didn't change, but Kaelen felt something cold settle in his chest anyway. He knew this data existed. He'd never seen it presented like this.
+
+Hospitals closing. Not gradually—in waves. First the smaller clinics, marked in amber, blinking out one by one across the map of Nairobi and its suburbs. Then the regional centers in orange. Then the urban networks in red—Kenyatta National, Nairobi Hospital, Aga Khan—their status indicators shifting from green to yellow to that particular shade of gray that meant *ceased operations*.
+
+Care workers' income lines dropping, stabilizing, dropping again. Employment figures fragmenting into something unreadable—the smooth curves of formal employment dissolving into the static of gig work and cash-in-hand and the particular desperation of people who used to have careers.
+
+Kaelen watched Tanaka's face change as she processed it. Confusion first. Then something darker—the particular expression of someone watching their own work turn into a weapon.
+
+"What am I looking at?"
+
+"Kenya's post-mortem data. I commissioned it personally." Damon's voice was neutral. "Private analysis firm. The kind that doesn't publish."
+
+She knew about Kenya. Everyone in attribution research knew about Kenya—the bullet points, the aggregate numbers, the conference-paper abstracts that mentioned "implementation challenges" and "transition costs." But this wasn't a summary. This was the social fabric itself bleeding out, institution by institution.
+
+The realization settled across her face: she'd walked into a knife fight with a research proposal.
+
+"What you're proposing."
+
+The timeline kept running. Damon let it run. Let the numbers accumulate. Let the silence do the work.
+
+"Kenya deployed almost identical parameter changes," he said finally. "Individual caps raised from 5% to 18%. Institutional capture limited to 51%. Sound reforms. Seemingly ethically justified. Democratically approved. The newspapers called it 'economic justice.' The hashtag trended for three days."
+
+Month 8. Forty-three percent of healthcare institutions dissolved or restructured.
+
+The number hung on screen. Kaelen did the math without wanting to: forty-three percent of institutions meant hundreds of facilities. Thousands of workers. Tens of thousands of patients whose care was suddenly in question.
+
+"They thought they were fixing a bug," Damon said quietly. "They were breaking an emergent property."
+
+He zoomed into worker outcome data. The care workers' income—the ones "liberated" from institutional extraction—had dropped thirty-two percent in the first year. The chart showed why: stable wages had become more weighted towards equity participation. When patients recovered, workers earned more. When patients didn't recover or died, they earned nothing. The volatility was visible in the data—income lines that looked like cardiac arrhythmia, spiking and crashing, never finding a rhythm.
+
+"The reformers saw extraction. They were right—extraction was real. But they didn't model what institutions were *doing* with the extracted value."
+
+"Which was?"
+
+"Risk aggregation. Insurance. Stable wages during outcome uncertainty. Liability absorption when treatments failed. Training pipelines. Equipment maintenance. The margin that looked like pure rent was actually—"
+
+"Load-bearing." Kaelen said it before he could stop himself.
+
+Damon looked at him. Something flickered across his face—pride, maybe, or recognition. The chess-player's appreciation for an opponent who saw the trap before stepping into it.
+
+"Load-bearing," he repeated. "The reformers treated it as a bug. It was infrastructure. And when they removed it, the structure collapsed."
+
+He zoomed into a specific case. A face appeared on screen—and Kaelen felt his stomach turn, because he knew what his uncle was doing. The same thing Tanaka had done with Rosa. Making it personal. Making it *real*.
+
+"Wanjiku Kimani. Home health aide, Nairobi. Under the old system: 8,400 shillings monthly. Stable. Predictable. She could plan. Under the 'reformed' system: average 6,100 shillings. But averages lie. Some months she made 11,000. Some months she made 2,400. She never knew which until the end of the month."
+
+The face on screen was younger than Rosa's. Brighter. The photograph had been taken before the reforms, Kaelen realized. Before the income volatility taught her to stop smiling.
+
+"She took a second job. Then a third. Exhaustion set in. Patient outcomes declined—her patients, specifically. Her attribution score dropped—which meant her income dropped further. Negative feedback loop. The system punished her for the consequences of its own design."
+
+The data ran. The lines kept falling.
+
+"Last I checked, she'd left healthcare entirely. Works retail now. Folding clothes at a shop in Westlands. She was good at keeping people alive. Now she's good at organizing inventory." A pause. "The economy optimized her out of the thing she was best at."
+
+Silence. The kind of silence that has weight.
+
+"You know what she told the post-mortem team?" Damon's voice was very quiet—almost gentle, which made it worse. "'I believed them. The reformers. They said it would make things better. They had data. They had charts. They seemed so *certain*.'"
+
+He paused. Let that land.
+
+"And then, when pressed: 'I should have known. The people who suffer are never the people who decide.'"
+
+Kaelen looked at Tanaka. Her face had gone pale. Her hands, which had been clasped in professional composure, were now gripping the edge of the presentation podium hard enough to whiten her knuckles.
+
+She was looking at Wanjiku's face. And behind Wanjiku's face, Kaelen knew, she was seeing Rosa's.
+
+The room was absolutely still.
+
+Tanaka's voice came out tight. "So the lesson is don't reform? Let Rosa keep earning a quarter of her value because Kenya tried something similar and it failed?"
+
+"That's one lesson you could take."
+
+"What lesson do *you* take?"
+
+"That incomplete solutions to complex systems create casualties."
+
+Kaelen stood. The movement surprised him—his body had decided before his mind caught up.
+
+"Nairobi failed because the reform was *partial*," he said. "They changed attribution without touching upstream costs. Revenue dropped while expenses stayed fixed. Of course institutions collapsed."
+
+Damon turned to face him fully. The intellectual pleasure was back—that sharpening of attention.
+
+"Go on."
+
+"It's equally proof that *incomplete* reform is dangerous. What if they'd reduced extraction *and* reduced the costs that made extraction necessary? What if they'd lowered the stakes enough that workers didn't need as much institutional insurance—and institutions didn't need to capture as much margin to buffer against it?"
+
+"What if, what if." Damon's voice took on an edge. "You're describing comprehensive restructuring of late-adopter economies. Simultaneous changes to attribution, liability, insurance markets, institutional structures, training pipelines. The coordination requirements alone—"
+
+"Would require governance mechanisms that don't exist yet."
+
+"Exactly."
+
+"So build them."
+
+The words hung in the air.
+
+"Build them," Damon repeated.
+
+"Yes."
+
+"Just—build new global governance mechanisms. Capable of coordinating simultaneous reforms across two hundred and seventeen countries. While ensuring error correction. While preserving institutional functions we don't fully understand. While not creating the kind of centralized power that historically gets captured or corrupted."
+
+"I didn't say it was easy."
+
+"No, you said it like it was an alternative." Damon walked toward him. "It's not an alternative. It's a fantasy. A thought experiment dressed up as policy."
+
+"And 'take it through governance' isn't?"
+
+The room went very quiet.
+
+Damon stopped. His face did something complicated.
+
+"Meaning?"
+
+"Meaning you have unilateral power." Kaelen's voice was steady. He wasn't sure how. "The kill codes still work—I've seen the logs. One decision, 340 million workers' lives changed. You *could* implement the Bangalore Patch. Tomorrow. You won't—but you could."
+
+"Yes."
+
+"So when you say 'take it through governance,' you're not describing a constraint. You're describing a choice."
+
+Silence.
+
+The Kenya data sat in Kaelen's chest. He couldn't dismiss it—the numbers were real, the collapse was real, Wanjiku was real. His uncle had just demonstrated what happened when reformers moved before understanding the system they were disrupting.
+
+But something was wrong with the framing. Something underneath.
+
+"Kenya failed," Kaelen said slowly. "That's data. One data point."
+
+"A data point with fourteen million casualties."
+
+"Yes. And what did we learn from it?"
+
+Damon's expression flickered—the particular micro-expression of someone who'd expected a different response.
+
+"We learned that premature reform—"
+
+"We learned that *that specific reform* failed *for specific reasons*. Upstream costs. Institutional overhead. Risk aggregation mechanisms that the reformers didn't account for." Kaelen leaned forward. "Those are *solvable problems*. They're not laws of physics. They're engineering failures."
+
+"Engineering failures that destroyed a healthcare system."
+
+"Engineering failures that we now understand. Which means the next attempt can account for them." He paused. "Unless there isn't a next attempt. Unless Kenya becomes the reason we never try again."
+
+The room went very quiet.
+
+"You're using Kenya as a stop sign," Kaelen said. "But it's a data point. The scientific response to a failed experiment is to refine the hypothesis—not to stop experimenting."
+
+Damon's hand moved toward his glass. Stopped. The mask flickered.
+
+"And if the next experiment fails too? Another fourteen million?"
+
+"Then we learn from that one. And try again. That's how knowledge works. That's how *you* built everything you built." Kaelen held his uncle's gaze. "You didn't get the build the II's core algorithms right the first time. You iterated. You refined. You learned from failures. But when it comes to Rosa—when it comes to the system you already control—suddenly the only acceptable approach is infinite patience."
+
+He let that word land. *Infinite.*
+
+Something changed in Damon's face. A sharpening of attention. A glance—brief, almost involuntary—toward Tanaka.
+
+"Patience," Kaelen continued, his voice carefully neutral, "is cheaper for some people than others. Depending on their... planning horizons."
+
+The temperature in the room dropped three degrees. Damon's expression went flat—not the flatness of composure, but the flatness of someone reassessing a threat.
+
+"That's an interesting framing," he said slowly. His eyes hadn't left Kaelen's face, but Kaelen could feel him tracking Tanaka in his peripheral vision. Calculating what she'd heard. What she might infer. "From someone whose *planning horizon* is entirely dependent on decisions I haven't made yet."
+
+A warning. Dressed as observation.
+
+Kaelen held his ground. "I'm just noting that the cost of waiting isn't distributed evenly. Rosa's timeline isn't yours."
+
+Damon's jaw tightened. For a moment, Kaelen thought he'd pushed too far—that his uncle would end the meeting, invoke some security protocol, do something to contain whatever Kaelen had just implied.
+
+Instead, Damon turned back to the display. His voice was cool. Controlled. But something underneath had shifted.
+
+"You're *delaying*," Kaelen said.
+
+Another silence. Longer this time.
+
+
+"Let me tell you something about Derek," he said quietly. "The man from the gift shop. We had dinner, the night I visited Coalbrookdale. I asked him about his ancestors—the ones in the foundry. Whether he resented them. The Darbys. The system that ground them up."
+
+He turned.
+
+"You know what he said? 'My great-great-grandfather lost three fingers so his grandson could become a schoolteacher. My grandfather taught history so my father could become an engineer. My father built bridges so I could choose to run a gift shop.'"
+
+Pause.
+
+"'The suffering was real. But it's also why I'm here. Those aren't separate things.'"
+
+"That's the trap, Kaelen. The suffering is real. The pathway is also real. And the intervention that ends the suffering might also end the pathway. We don't know. We *can't* know. That's why we build institutions that can learn—that can iterate—that can correct errors we can't foresee."
+
+Tanaka stepped forward. "And in the meantime? While the institutions learn?"
+
+"In the meantime, Rosa earns 9,000 pesos." Damon's voice was heavy. "That's the cost. I'm not pretending there isn't a cost."
+
+"But you've decided it's acceptable."
+
+"I've decided it's *lower than the alternative*." He looked at her directly. "140 million Wanjikus. That's what your patch risks. If you're wrong at the same rate Kenya was wrong."
+
+"And if we're right?"
+
+"Then you need to prove it. Test it. Iterate. Build the evidence base so that governance mechanisms can make informed decisions."
+
+"That takes time."
+
+"Time Rosa's *grandchildren* might have. If we get this right."
+
+Tanaka's jaw tightened. "You're asking her to sacrifice for a future she won't see."
+
+"I'm asking you to not sacrifice that future for a present you might break." He paused. "Derek's great-great-grandfather didn't choose to lose his fingers. But his grandchildren benefited from it. That's the shape of development. It's ugly. It's not fair. And every attempt to make it fair before the system can absorb it has made it worse."
+
+Silence.
+
+"Take it through governance," Damon said finally. "Build consensus. Study the Nairobi failure modes. Model the second-order effects. Design something that preserves risk aggregation while reducing extraction."
+
+He pulled up Wanjiku's face. Then Rosa's. Side by side.
+
+"St. Mary's churchyard, Dr. Tanaka. That's what incomplete solutions look like. Smaller headstones. I don't want Rosa to become the next Wanjiku." He paused. "Do you?"
+
+Tanaka didn't answer. 
+
+She gathered her materials with the particular precision of someone refusing to show emotion—tablet into bag, stylus into pocket, each movement deliberate and controlled. But Kaelen caught the moment when her hand hesitated over the display controls. Rosa's face was still on screen, side by side with Wanjiku's. Two women who'd never met, connected by the mathematics of extraction. Tanaka's finger hovered over the button that would dismiss them.
+
+She pressed it. The faces disappeared. The cascade tree returned.
+
+"Thank you for your time, Mr. Korr." Her voice was flat. Professional. The voice of someone who'd learned to bury things while they were still moving. "I'll take your feedback under advisement."
+
+She left. The door closed behind her with a soft click that somehow managed to sound like a verdict.
 
 ---
 
-Kaelen sat frozen in his corner. His tablet was blank.
-
-His uncle had just done something he couldn't parse. Damon had *acknowledged* the problem—validated that Rosa was being exploited—and then shown, with real data, why the obvious fix was dangerous. The Nairobi numbers were real. Wanjiku was real. The casualties were real.
-
-But so was Rosa. So were the 340 million workers Tanaka had documented.
+Kaelen sat frozen in his corner.
 
 Damon turned to him. "Estate planning notes?"
 
-"Nothing relevant." Kaelen's voice came out steady. How was his voice steady?
+"Extensive."
 
-"Good." Damon returned to his tablet. "Dinner Thursday?"
+"I imagine they are."
 
-"Thursday," Kaelen said.
+Pause.
 
-He walked out on legs that felt like someone else's. Found a bathroom on the 44th floor. Locked the door.
+"You didn't answer my question," Kaelen said.
 
-And stood there for four minutes, staring at his reflection like it belonged to someone else, trying to think clearly.
+"Which one?"
 
-Damon's argument: incomplete solutions create casualties. Tanaka's patch was incomplete—it didn't model risk aggregation, the insurance function, the upstream costs that made institutional margins necessary. Therefore the patch would hurt the people it meant to help.
+"Why you won't use unilateral power. You gave me a theory—institutional learning, error correction, all of that. But there's a simpler answer."
 
-Valid. But was it sound?
+Damon's eyes narrowed. Waiting.
 
-He couldn't tell. That was the problem. The Nairobi data supported Damon's caution—but it also supported a different conclusion: that Nairobi failed because the reform was *partial*. They'd changed attribution without touching upstream rent extraction. Of course institutions collapsed. Their revenue dropped while their costs stayed the same.
+"You won't use it because once you do, the precedent exists. Maybe your successor exercises it. Maybe Vanessa. Maybe me." Kaelen closed his tablet. "It's not that unilateral power is wrong. It's that unilateral power, once exercised, can't be un-exercised. The norm dies the first time it's broken."
 
-What if you changed both simultaneously? What if the lesson from Nairobi wasn't "don't reform" but "reform completely or don't reform at all"? The institutions collapsed because their costs stayed fixed while their revenue dropped. But what if you could reduce the costs and the extraction at the same time? What if you could lower the stakes enough that workers didn't need as much insurance in the first place—and institutions didn't need to capture as much margin to buffer against it?
+A long pause.
 
-He didn't know what that would look like. He didn't have the models. But somewhere in that direction was a question his uncle hadn't asked—or hadn't wanted to ask.
+"Is that what you think?"
 
-But you couldn't just look at data—you looked at data through a framework that gave context to data. Damon's was complex systems are fragile, therefore interventions are dangerous and patience is wisdom. Through that lens, Nairobi proved caution. But through a different framework—one that said: extraction compounds, delay has costs, and those costs increase as societal pressure, with inaction as a choice. That could prove something else entirely.
+"I think it's part of it."
 
-The interpretation was load-bearing.
+"What's the other part?"
 
-Kaelen looked at his reflection and thought: *I don't know what's—*
+Kaelen hesitated.
+
+"I think you're not sure you're right."
+
+Something shifted in Damon's face. Something that looked almost like relief.
+
+"No," he said quietly. "I'm not."
+
+The room was very still.
+
+Kaelen walked out. Found a bathroom on the 44th floor—far enough from the conference room that his uncle wouldn't follow. Locked the door. Stood at the sink with his hands braced against the cold porcelain.
+
+The fluorescent light was brutal. It showed every line, every shadow, every place where exhaustion had started to carve itself into his face. He looked older than twenty-seven. He looked like someone who'd been carrying something heavy for a long time.
+
+His uncle hadn't won. Not cleanly. Nairobi had failed, Coalbrookdale's children had died, Derek's ancestor William had lost three fingers and kept working for thirty-four years with a smile that the sketch captured and the history books forgot.
+
+But Kaelen had landed blows too. He'd watched his uncle's mask slip when he said *infinite patience*. He'd seen the glance toward Tanaka, the recalculation, the moment when Damon realized his nephew was playing a longer game than estate planning notes.
+
+And underneath Damon's arguments—the development ladder, the Kenya data, the careful framework of institutional learning—there was something that wouldn't let go. His uncle's position wasn't wrong. It was incomplete in a way that looked like completeness. The Nairobi data was real. The development ladder was real. The risk of premature reform was real.
+
+But somewhere in all of it was a gap.
+
+Not a flaw in the logic. A *choice* disguised as a constraint.
+
+Kaelen stared at his reflection. The face looking back at him had his uncle's bone structure. The same Korr jawline, the same particular set to the eyes.
+
+What else had he inherited?
 
 His phone buzzed. Damon: *Thursday, 7pm. Don't forget.*
 
-He pocketed the phone. Washed his hands. Walked back to his office.
+He pocketed the phone. Washed his hands—the water was too cold, the soap smelled like industrial mint, everything about this building was designed to be forgettable. Dried his hands on paper towels that dissolved at the first touch of moisture.
 
-But the question stayed with him. Not even fully formed. Just there, like a splinter he couldn't find. A splinter that would grow.
+Walked back to his office. A splinter in his mind.
 
