@@ -1,6 +1,6 @@
 # Chapter 1: The Portfolio
 
-Javi Reyes was hemorrhaging expected value.
+Javi was hemorrhaging expected value.
 
 He owned fifteen percent of a fourteen-year-old's future earnings. His home cluster had pinged his glasses: Carlos M., third incident this week, negative deviation probability at 80%. Recommend intervention.
 
