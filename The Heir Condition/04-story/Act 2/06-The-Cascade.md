@@ -409,5 +409,3 @@ Kaelen looked at the dead coffee maker, the empty thermos, the holoscreens showi
 
 "It's gotten humanity this far."
 
----
-
