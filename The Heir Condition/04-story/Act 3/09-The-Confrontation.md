@@ -44,7 +44,7 @@ His hands were shaking. They'd been shaking since he dry heaved in the bathroom,
 
 *Request*. That was the word the message had used. "I'm requesting a meeting." As if this were a calendar conflict. As if Kaelen could decline.
 
-The thermos in his hand—Baltic birch, the last civilized object in a conversation that was about to become barbaric—felt absurdly heavy. He didn't know why he'd even bought it. Some demented instinct toward hospitality. *I murdered you but I brought coffee*. The thought made him want to laugh and vomit simultaneously, which was a sensation he'd grown familiar with over the past week.
+The thermos in his hand, Baltic birch, felt absurdly heavy. He didn't know why he'd even bought it. Some demented instinct toward hospitality. *I murdered you but I brought coffee*. The thought made him want to laugh and vomit simultaneously.
 
 He set it on the conference table. Wood on glass. A small sound that didn't belong in a room about to contain this much grief.
 
