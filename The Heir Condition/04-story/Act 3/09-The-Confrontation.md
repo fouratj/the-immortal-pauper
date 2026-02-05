@@ -10,9 +10,7 @@ Damon stood in the elevator, watching the floor numbers climb, and catalogued th
 
 Thirty-seven. Thirty-eight. Thirty-nine.
 
-He'd rehearsed this conversation a hundred times. In the car. In the shower. At three AM when the new body wouldn't sleep because it had never learned how. He'd prepared devastating arguments, elegant condemnations, the precise logical frameworks that would expose his nephew's utilitarian calculus as the dressed-up murder it was.
-
-None of it felt adequate.
+He'd rehearsed this conversation a hundred times. In the car. In the shower. At three AM when the new body wouldn't sleep because it had never learned how. He'd prepared devastating arguments, elegant condemnations, the precise logical frameworks that would expose his nephew's utilitarian calculus as the dressed-up murder it was. None of it felt adequate.
 
 The problem—and he'd been circling this problem for five days, approaching it and retreating, approaching and retreating—the problem was that he didn't know what he wanted from this conversation. Justice? Revenge? Understanding? An apology that would somehow unmurder him? He'd built systems for forty years because systems didn't require you to know what you wanted; they just optimized for specified objectives. But there was no objective function for *my nephew killed me and I still love him and I want him to suffer and I want to understand and I want it all to unhappen and none of those things are compatible*.
 
@@ -29,8 +27,6 @@ And underneath the philosophical questions, a more practical terror: he didn't k
 He was going to walk into that room and confront the person who'd murdered him, and he didn't know if his body would let him feel it.
 
 He'd been murdered into being wrong.
-
-And now he had to walk into a room and face the person who'd done it.
 
 He opened the door. Crossed to the window without looking at the figure that was already there. Needed the moment. Needed to be a silhouette first, an abstraction, before he had to be the man who'd been murdered by the boy he raised.
 
@@ -62,11 +58,11 @@ He noticed—and tried not to notice, and noticed himself trying not to notice�
 
 "Show me."
 
-Not "hello." Not "how could you." Just: *show me*. The systems architect demanding a post-mortem on his own destruction.
+Not "hello." Not "how could you." Just: *show me*.
 
 Kaelen's hands shook harder as he activated the holographic display. Three years of work materialized in the air between them—cascades and transfers and patent releases, the systematic dismemberment of everything his uncle had built. Color-coded by jurisdiction. Time-stamped to the microsecond. The evidence of what he'd done while his uncle was dead.
 
-The display rotated slowly in the afternoon light. Kaelen watched his uncle study it and felt something complicated—pride and horror and desperate hope.
+The display rotated slowly in the afternoon light.
 
 ---
 
@@ -183,8 +179,6 @@ Something in the air changed. Kaelen felt it before he understood it—a pressur
 
 ---
 
-The words hit Kaelen somewhere he hadn't armored.
-
 Not the accusation itself—he'd expected that, prepared for it, built elaborate frameworks for why "killed" was imprecise, why "paused" or "temporarily discontinued" captured the reality better. What he hadn't prepared for was the *voice*. The crack in it. The rawness being dragged up from somewhere that voice had never gone before.
 
 His uncle was shaking. The hands that had never held anything were clenched into fists. The face that had no history was contorted into something that looked like it was trying to be rage and grief simultaneously and couldn't quite achieve either.
@@ -193,8 +187,6 @@ His uncle was shaking. The hands that had never held anything were clenched into
 "You *killed* me!"
 
 "I was *dead*, Kaelen. Do you understand what that means? Not backed up to some server. Not sleeping. Not unconscious. *Gone*." His voice broke on the word. "And the last thing I remember is standing on that stage telling the whole FUCKING WORLD I'd conquered death!"
-
-The irony. That was what his face was doing, Kaelen realized. The expression that couldn't quite form was trying to communicate the cosmic irony of it—murdered in the middle of announcing his immortality, killed by the person he trusted most, with the word "eternal" on his lips.
 
 ---
 
@@ -278,9 +270,9 @@ Kaelen became aware of his own breathing. Too fast. Too shallow. The same dysreg
 
 He looked at his uncle. Really looked, for the first time since Damon had turned from the window. The face was the same—every feature, every proportion—but there was something missing underneath it. Some accumulated quality of *lived-in-ness* that couldn't be replicated. Damon looked like a photograph of himself. Perfect. Preserved. Empty in some fundamental way that had nothing to do with the expression he was wearing.
 
-*I did this*, Kaelen thought again. *I made him into this.*
+*I did this*, Kaelen thought. *I made him into this.*
 
-And underneath that thought, the one he'd been avoiding: *Was it worth it?*
+*Was it worth it?*
 
 Rosa had her evenings back. Marco was walking outside. Eleven billion humans were living in a world where extraction had been dramatically reduced, where patents were in commons, where the mathematics of suffering had been rewritten.
 
@@ -320,7 +312,7 @@ He couldn't finish. The sentence was too heavy.
 
 "—had created exactly what you said it created. Extraction. Suffering. A system that ground people into fuel."
 
-The admission hung in the air between them. Heavier than the cascade visualization. Heavier than the Myanmar override form. The first honest thing either of them had said since the door closed.
+The admission hung in the air between them.
 
 ---
 
@@ -356,8 +348,6 @@ His hands had stopped shaking. Or maybe this body had given up trying to express
 
 ---
 
-Kaelen felt something shift in his chest.
-
 He'd spent three years hating his uncle for refusing to see. Had built an entire moral architecture on the foundation of *he knows and won't act, which makes him complicit, which makes the murder justified*. Had needed Damon to be the villain because the alternative—that Damon was a flawed human caught in his own frameworks, blinded by the same cognitive limitations that afflicted everyone—the alternative made the murder something else. Something worse. Something that couldn't be justified by clean utilitarian calculus.
 
 But here was Damon, admitting it. Saying the words Kaelen had spent three years waiting to hear.
@@ -385,8 +375,6 @@ His voice broke.
 "Even when I still love them."
 
 ---
-
-The words landed somewhere Damon hadn't armored.
 
 *Even when I still love them.*
 
@@ -464,7 +452,7 @@ The revolution was complete. Completed by the man it had killed.
 
 Damon walked toward the door.
 
-Each step deliberate. Controlled. The new body carrying him away from his nephew with the same mannerisms as the old one—but something had broken behind his eyes. Something that would take decades to heal, if it healed at all.
+Each step deliberate. Controlled. The new body carrying him away from his nephew with the same mannerisms as the old one—but something had broken behind his eyes.
 
 He stopped with his hand on the doorknob.
 
@@ -530,8 +518,6 @@ The truth was that he'd been right.
 
 The truth was that being right hadn't made him good.
 
-The truth was that some things couldn't be calculated, and some costs couldn't be optimized away, and some remainders you carried forever.
-
 He sat in the cold leather chair, in the empty conference room, with the taste of bitter coffee on his tongue and the ghost of his uncle's voice in his ears. The revolution was complete. The extraction was ended. Eleven billion people would wake up tomorrow in a slightly better world.
 
 And Kaelen would wake up tomorrow with the same weight he'd carried for three years. Heavier now. Permanent.
@@ -540,36 +526,11 @@ His mother's voice, from very far away: *Don't let being smart make you cruel.*
 
 He'd tried. He'd really tried.
 
-He'd failed in ways the mathematics couldn't describe.
-
 The afternoon light was fading. The ferries kept crossing. The Berkeley hills caught the last of the sun. And somewhere in the city, a man in a borrowed body was choosing to die like everyone else, because his nephew had loved him enough to kill him.
 
 Kaelen sat alone.
 
 The revolution was complete.
 
-The cost was permanent.
 
----
 
-*[Note: This meeting lasted approximately forty-seven minutes. Damon Korr departed the building at 3:04 PM and returned to BioGenesis, where he authorized the cessation of consciousness backup protocols. His remaining clones were maintained but not activated; his neural archiving schedule was terminated.*
-
-*Three weeks later, on May 14, 2050, Damon released a single-paragraph statement through the Korr Foundation's legal office:*
-
-*"I am withdrawing all cooperation with litigation efforts seeking to reverse the April 18th modifications. Kaelen's method was criminal. His analysis was correct. I will not use the law to perpetuate extraction that the data proves was unjust. To those harmed by this transition: your losses are real and were necessary. That is the tragedy of progress—that some must bear costs they did not choose so that others might flourish. I bore this cost myself. It does not feel like justice. It feels like loss. Perhaps that is all justice ever is. This is my final public statement."*
-
-*The lawsuits collapsed within six weeks. Damon Korr lived for another thirty-one years, dying of natural causes in 2081 at the age of eighty-three. He did not resurrect.*
-
-*When asked in 2058 whether he had forgiven his nephew, he replied: "Forgiveness is a category error. What Kaelen did was correct. Correctness and forgiveness exist in different dimensions. You can acknowledge one without granting the other. I have acknowledged. I have not forgiven. I don't know if I ever will. I don't know if that matters."*
-
-*When pressed on whether he still loved his nephew despite everything, he was silent for a long time. Then: "Love isn't something you choose to stop. That's what makes it love and not preference. I loved him before he killed me. I loved him while he was killing me—though I didn't know it at the time. I love him now. None of that changes what he did. None of what he did changes that."*
-
-*He did not speak publicly again.*
-
-*Kaelen Korr disappeared from all records within days of this meeting and has never been located. The Myanmar override remained the only documented case of Damon Korr using his post-resurrection authority—a single signature that completed the revolution designed to eliminate him.*
-
-*The thermos, found during the building's renovation in 2067, was donated to the Smithsonian's collection of artifacts from the Cascade Period. The museum's placard reads: "Baltic birch thermos, Estonian craftsmanship. Present during the April 23rd meeting between Damon and Kaelen Korr. Contents unknown. Significance unclear."*
-
-*The significance is not unclear to anyone who knows the story. The significance is that someone brought coffee to a confrontation about murder, and neither of them drank it, and the thermos sat on the table the whole time—a small gesture of civilization in a room that had become a war zone.*
-
-*Sometimes that's all we can offer each other: the intention of kindness, even when kindness is no longer possible.]*

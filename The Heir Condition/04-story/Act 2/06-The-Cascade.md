@@ -408,4 +408,3 @@ Kaelen stared at the dead machine. Thirty-six hours into dismantling crony capit
 Kaelen looked at the dead coffee maker, the empty thermos, the holoscreens showing a world in transformation. "Spite and moral conviction. Great."
 
 "It's gotten humanity this far."
-
