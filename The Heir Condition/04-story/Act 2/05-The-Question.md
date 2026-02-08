@@ -25,15 +25,15 @@ The fire crackled. Outside, San Francisco was doing whatever San Francisco did o
 
 "Those were legitimate concerns." Damon's voice was careful now. Measured. "The Nairobi data—"
 
-"I know the Nairobi data. I've heard you cite it four times this month." Kaelen kept his voice flat. "What I don't know is what happens when the modeling is done. Because Cairo's modeling finished eight months ago. Lagos finished six months ago. And São Paulo has been 'under review' for a year and a half."
+"I remember the details." Kaelen kept his voice flat. "What I don't know is what happens when the modeling is done. Because Cairo's modeling finished eight months ago. Lagos finished six months ago. And São Paulo has been 'under review' for a year and a half."
 
-Damon didn't answer. The fire popped. Neither of them moved.
+Damon didn't answer. Neither of them moved.
 
 "Eight hundred forty-seven workers," Kaelen said. "That's what Tanaka documented. Not edge cases. Pattern. The same extraction mechanism in every late-adopter economy she studied. You told her the analysis was sound. And then you told her to take it through governance."
 
 "Governance is how we ensure—"
 
-"Governance is where proposals go to die." Kaelen heard something crack in his own voice and forced it steady. "I've watched it happen. Cairo, Lagos, São Paulo, now Bangalore. Someone shows you evidence that the system is extracting. You acknowledge the evidence is valid. And then you ask for more modeling."
+"Governance is where proposals go to die." Kaelen heard something crack in his own voice and forced it steady. "Someone shows you evidence that the system is extracting."
 
 "The data is *public*, Kael." Damon's voice sharpened—CEO-voice now, the one that had faced down Senate committees. "Every transaction on-chain. Every attribution algorithm open-source. Every parameter change logged and timestamped. If governments wanted to model extraction patterns, they could. Lagos has PhD economists. Cairo has the MENA Regional Development Bank. São Paulo has—"
 
@@ -43,7 +43,7 @@ The fire popped. Damon stopped mid-sentence.
 
 "They don't have access to the upstream model weights," Kaelen continued. "The ones that feed the attribution system. They can see the results on-chain. The attribution flowing to early-adopter credential holders, but they can't see the *mechanism*. The parameter choices that made it inevitable. That's all proprietary. Locked in ValidAI's infrastructure layer."
 
-"What if Nairobi failed because the reform was partial?" Kaelen pressed, quieter now. "They changed attribution without touching upstream rent extraction. The institutions collapsed because their revenue dropped while their costs stayed fixed. What if the lesson isn't 'don't reform' but 'reform completely or don't reform at all'?"
+"What if Nairobi failed because the reform was partial?" Kaelen pressed, quieter now. "They changed attribution without touching upstream rent extraction. What if the lesson isn't 'don't reform' but 'reform completely or don't reform at all'?"
 
 The fire popped. Damon stared at him.
 
@@ -53,7 +53,7 @@ He looked tired. Not the tiredness of overwork. Something deeper. Something that
 
 The words came out flat. Not defensive. Not bitter. Just... tired.
 
-"You have," Kaelen said.
+"Yeah," Kaelen said.
 
 Damon looked at his hands. The firelight caught the gray at his temples, the lines around his eyes that life extension couldn't quite erase. For a moment—just a moment—something flickered behind those eyes. Not understanding. Not even agreement. Recognition. The look of someone who'd made a calculation and was exhausted by having to defend it.
 
@@ -65,37 +65,35 @@ Damon looked at his hands. The firelight caught the gray at his temples, the lin
 
 He paused. Let that sink in.
 
-"It's easy to want revolution when you're twenty-eight and have a trust fund. When you know that no matter how the cards fall—reform, collapse, chaos—you'll land on your feet. You want me to risk billions of lives on coordinated global reform? Fine. But don't pretend you're taking the same risk they are. You're not Rosa. You're not the worker in Bangalore who loses everything if the institutions fail. You're my nephew. And if it all burns down, you'll be fine too."
+"It's easy to want revolution when you're twenty-eight and have a trust fund. When you know that no matter how the cards fall—reform, collapse, chaos—you'll land on your feet. You want me to risk billions of lives on coordinated global reform? Fine. But don't pretend you're taking the same risk they are. You're not Rosa. You're my nephew. And if it all burns down, you'll be fine too."
 
 His hand trembled. Just slightly. Then he set the glass down. Carefully.
 
 "The coordination problem," he said. His voice was almost steady. Almost. "If you wanted to change upstream extraction and attribution simultaneously..." He paused. Stared into the fire. "The political capital required would be astronomical. You'd need buy-in from every major economy. The implementation risks alone—"
 
-Damon looked at him. The firelight caught his face—the lines around his eyes that life extension couldn't quite erase, the gray at his temples that he'd stopped bothering to eliminate. He looked tired. Not the tiredness of overwork. Something deeper.
+Damon looked at him. The firelight made him look older than he was—older than he'd ever have to be again.
 
 "You're asking me to restructure the global economy," he said quietly. "Based on a hypothesis."
 
-"Based on evidence. Eight hundred forty-seven documented cases. A pattern Tanaka can replicate across every late-adopter economy. That's not a hypothesis. That's data."
+"Based on evidence."
 
 "All observations are theory-laden." Damon's voice was quiet but steady. "You know that. Popper. The data you see as evidence of structural extraction—I see as evidence of implementation failure. We're both filtering the same reality through different frameworks. And yes—" He held up a hand before Kaelen could interrupt. "—I know what you're thinking. That my framework protects my interests. That I'm seeing coordination failures because I need to see coordination failures. And maybe you're right. But your framework protects your self-image too. The revolutionary nephew. The one who saw what his uncle couldn't."
 
 He looked at the fire. "We're both trapped in our frameworks, Kael. The difference is, I'm not willing to bet billions of lives on whose trap is closer to truth."
 
-"You told Tanaka the analysis was sound."
+"Then why did you tell Tanaka the analysis was sound?"
 
-Silence. The fire crackled.
+Silence.
 
-Damon looked at him. Something flickered behind his eyes—not quite anger, not quite fear. Recognition, maybe. That Kaelen had been paying closer attention than he'd realized.
+Damon's jaw tightened. He hadn't expected Kaelen to quote him back verbatim.
 
 "Her methodology was sound," he said finally. "The statistical analysis, the variable selection, the replication protocol—all sound. That doesn't mean her *interpretation* is the only one. Sound analysis can support multiple frameworks. That's the whole problem with theory-ladenness. The same rigorous work that points you toward structural extraction could just as easily point me toward systematic implementation gaps." He paused. "I told her the analysis was worth taking seriously. I didn't tell her it was proof."
-
-"You told her it was sound. I was in the room. I heard the words you used."
 
 Damon's hand closed into a fist. He pulled it back. Looked at the fire.
 
 "What do you want me to say, Kael?" His voice was quiet now. Flat. "That I'll deploy an unproven patch that could destabilize institutions affecting three billion people? That I'll restructure forty years of infrastructure on the basis of a correlation study? That I'll—" He stopped. Swallowed. "I need more data. That's not obstruction. That's responsibility."
 
-"And how much data is enough?"
+He needed something concrete. A number. A date. Anything he could hold Damon to. "So how much data is enough?"
 
 Damon didn't answer for a long time. The fire continued to dwindle to embers.
 
@@ -105,14 +103,11 @@ Damon didn't answer for a long time. The fire continued to dwindle to embers.
 
 "After the announcement. When the governance transition settles. When I have the bandwidth to focus."
 
-
-Damon looked at him. Something flickered behind his eyes—recognition, maybe. Or fear. The look of a man who understood exactly what Kaelen was saying and was chose not to follow the logic.
-
 "After the announcement," he said again. Firmer now. The CEO-voice reasserting itself. "I promise. We'll look at it together. Properly. With full institutional support."
 
 Kaelen knew a deflection when he heard one. He'd grown up watching his uncle deflect congressional inquiries and board challenges and regulatory probes. The technique was always the same: acknowledge the concern, reframe it as something manageable, promise future attention, move on. The voice was warmer now—uncle-voice bleeding through CEO-voice—but the mechanism was identical.
 
-The moment had passed. The tremor in Damon's hand had stopped. The crack in the framework had sealed itself. Whatever recognition had flickered behind his eyes—whatever uncomfortable truth he'd almost had to articulate—it was gone now, buried under layers of "additional modeling" and "proper investigation" and "after the announcement."
+The moment had passed. Whatever had almost cracked open was gone now, buried under layers of "additional modeling" and "proper investigation" and "after the announcement."
 
 "Okay," Kaelen said. His voice came out flat. "After the announcement."
 
