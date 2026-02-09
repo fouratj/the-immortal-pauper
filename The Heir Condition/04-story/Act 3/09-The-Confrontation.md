@@ -98,16 +98,13 @@ The systems architect voice. Not uncle-voice. The voice that dissected failure w
 
 "Hour 41. Temporary outage. The satellite uplink—"
 
-"You routed through commercial satellites. Expensive. Traceable." Damon was pulling up detailed logs now, his expression unreadable. "And you didn't monitor the downstream propagation."
+"You routed through commercial satellites. Expensive. Traceable." Damon was pulling up detailed logs now, his expression unreadable. "And you didn't build in the reconciliation layer. No anomaly detection on the reroute. No failsafe to hold transfers until propagation verified. The Myanmar authority's fraud filters took one look at the volume and the routing path and flagged the whole batch. Of course they froze the accounts—from their perspective it looked like a heist."
 
 "The redundancy protocols—"
 
-"Failed."
+"Didn't exist. You had redundancy for the *path*. Not for the *protocol*." Damon expanded the status window, and Kaelen saw what he'd missed—what he'd been too exhausted and too guilty to catch—the timestamp showing the Bangkok hub offline, the automated fraud alerts that had triggered when unverified bulk transfers hit a region that hadn't been in the original cascade schedule, the accounts frozen pending investigation because he'd never implemented the handshake that would have told Myanmar's systems the reroute was legitimate.
 
-The word landed like a verdict. Damon expanded the status window, and Kaelen saw what he'd missed—what he'd been too exhausted and too guilty to catch—the timestamp showing the Bangkok hub offline, the Myanmar regional authority flagging irregular transaction patterns, the accounts frozen pending investigation.
-
-<!-- maybe make it more like fraud avoidance techniques he didnt do that trigger failsafes -->
-Fourteen million people. Stuck in legal limbo. Because he'd burned through commercial satellites instead of waiting for the fiber repair.
+Fourteen million people. Stuck in legal limbo. Because he'd burned through commercial satellites instead of building the safeguards that would have either prevented the freeze or triggered early enough to fix it.
 
 The shame was immediate and total, and underneath the shame was something worse: the recognition that he'd wanted his uncle to find this. Had wanted to be caught. Had wanted—and this was the part he couldn't look at directly—had wanted Damon to prove that the cascade was flawed, that the murder had been premature, that there was still some way for this to have been a mistake rather than what it was.
 

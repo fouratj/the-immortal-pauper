@@ -304,8 +304,8 @@ At Hour 4, he moved.
 
 The bunker was three hours away by private aircraft—a facility in the Nevada desert that his uncle had built for "sensitive projects requiring operational security." Separate power grid. Separate reporting structure. The kind of place where you could computationally model the end of civilization and no one would notice until the quarterly audit.
 
-Kaelen had booked it two weeks ago under "estate planning simulations." By the time anyone questioned the allocation, the cascade would be irreversible.
-<!-- we should add a little aside that the aircraft was automated, no body knew he went -->
+Kaelen had booked it two weeks ago under "estate planning simulations." By the time anyone questioned the allocation, the cascade would be irreversible. The aircraft was fully automated—no pilot, no manifest to file, no one to ask where he'd gone.
+
 He landed at 3:47 AM local time. The bunker smelled like ozone and cold recycled air. The servers were already spinning up, pulling power from his uncle's private fission reactors—built before the 2043 Accords, grandfathered into the old rules.
 
 The irony was thick enough to taste.
