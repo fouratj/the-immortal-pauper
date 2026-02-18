@@ -18,19 +18,25 @@ The blue dot wasn't moving.
 
 ---
 
-Rosa Santos clocked out at 21:52, twelve hours into her shift at Manila General Hospital. Forty-seven patients across three wards, two emergency stabilizations. Her scrubs smelled like iodine and the particular staleness of recirculated hospital air—the AC units working overtime against April, never quite winning.
+Rosa Santos clocked out at 21:52, twelve hours into her shift at Manila General Hospital. Forty-seven patients across three wards, two emergency stabilizations. The second one had been Mrs. Reyes in Ward C—sixty-eight, cardiac arrhythmia that the night resident had misread as anxiety. Rosa had caught it from the doorway. Something in the rhythm of the woman's breathing, the particular gray around her lips that she'd learned to read years before any algorithm could flag it. She'd called the code before the monitors alarmed. The resident—Dr. Aquino, three months in, still confusing confidence with competence—had looked at her afterward with that expression they all got when a nurse saved them from killing someone: half gratitude, half resentment, entirely unable to say *thank you* without it sounding like an admission. He'd learn. They all did, eventually. Or they didn't, and the nurses caught the ones they missed, and the system credited the catches to medicine rather than to the woman who'd been watching the patient's face while the doctor watched the chart.
+
+She was good at this. That was the thing nobody's algorithm captured and Rosa herself rarely thought about directly—not as pride, which was a luxury, but as fact. She knew what dying looked like. She knew what almost-dying looked like. She knew the difference between the gray of exhaustion and the gray of a heart forgetting its rhythm, and she knew it the way she knew Tagalog, in the body, without translation. Eight years of twelve-hour shifts had given her that. The II's attribution system valued it at 34th percentile—below Dalisay, who'd been on ward for three months and still mixed up the cardiac drip rates, but who'd published a case study with Dr. Aquino's name on it. The algorithm saw the publication. It didn't see Rosa in the doorway, reading Mrs. Reyes's lips.
+
+Her scrubs smelled like iodine and the particular staleness of recirculated hospital air—the AC units working overtime against April, never quite winning.
 
 She checked her bank account while waiting for the elevator, her Prism 9's cracked screen protector catching the fluorescent light. The case was held together with a rubber band where the clip had broken six months ago. ₱8,240. Then opened the medication reminder: Lianne's GlucoSync subscription, four days remaining. The monthly nanopatch—a postage-stamp-sized device, matte gray with a subtle hexagonal pattern, that regulated blood sugar automatically—cost ₱4,800 to renew. It adhered to the skin with a cool, almost gel-like texture that Lianne said felt like a second layer of skin after the first hour. Her next paycheck came Tuesday.
 
 She closed the app without doing the math. She'd already done it six times today.
 
-The elevator door opened. Three nurses got on, comparing their attribution scores. Rosa's was 34th percentile. She'd disabled public visibility last week.
+The elevator door opened. Three nurses got on, comparing their attribution scores. Rosa had disabled public visibility on hers last week. Not out of shame. Out of something closer to refusal—a small, private act of not-looking that felt like the one thing the system couldn't make her do.
 
 "—biggest announcement since the II rollout," one of them was saying. "My cousin works security for BioGenesis—they've been on lockdown for months. Nobody knows what it is."
 
 "Korr's been promising 'next chapters' for twenty years. It's probably just another attribution algorithm."
 
 "With *this* much secrecy? And all the life extension rumors? No way it's just algorithms."
+
+Rosa had seen Damon Korr's face on a billboard once, riding the MRT home after a double shift—that smooth, unlined face looking down at the commuters with an expression of serene competence, like a doctor who'd diagnosed the entire species from across the room and was quietly confident in the prognosis. She'd thought, with a sharpness that surprised her: *Ikaw, naghintay ka na ba sa elevator na amoy bleach?* Have you ever waited for an elevator that smells like bleach? She wasn't usually bitter. Bitterness was expensive, like everything else. But something about that face—the absolute certainty of it, the calm assumption that the world was a system being optimized rather than a place where women counted coins for medication—had found a nerve she normally kept buried under twelve-hour shifts and survival arithmetic.
 
 The elevator dinged. Rosa stepped out, leaving them to their speculation.
 
@@ -112,6 +118,10 @@ The guy pulled the fence open and Javi walked through.
 
 Rosa sat at the kitchen table, the plastic tablecloth sticky under her elbows. Cold rice and leftover adobo still on the counter from dinner—the pork fat had gone white, congealed in the brown vinegar sauce. The kitchen fan rattled overhead, one blade slightly bent, producing a rhythmic *tick-tick-tick* that she'd stopped hearing years ago.
 
+Marco's door was closed. Through the thin walls she could hear the bass from his speakers—the same BTS song, "Spring Day," the one he'd been playing on repeat for weeks, the one from before the facility. He used to sing it in the kitchen while she cooked—badly, loudly, doing a thing with his voice on the high notes that made Lianne laugh so hard she'd slide off her chair. He'd pretend to be offended. *Ate*, he'd say to his sister, *I'm an artist*, and Lianne would shriek *You're a disaster* and Rosa would stand at the stove thinking: *this. This is the thing. This is what I'm working for.* Not the money. Not the career. This exact sound, her children's laughter layered over a pop song in a kitchen that smelled like garlic and vinegar.
+
+The song was the same. The kitchen was the same. But Marco sang it behind a closed door now, if he sang at all, and the sound that came through the plywood was just bass, just vibration, just the bones of a melody with the life stripped out.
+
 Her Prism 9 showed three open tabs: her bank account (₱8,240), the Mercury Drug refill portal (₱4,800 due Friday), and the CarePath Medical offer that had arrived yesterday.
 
 ₱145,000 upfront. Lianne's GlucoSync for two years—no more scrambling for the monthly renewal. Plus monitoring supplies, plus emergency fund. Maybe Marco's therapy intake—the good kind, private practice, not the government clinic where you waited three hours to talk to someone for fifteen minutes.
@@ -120,11 +130,11 @@ She'd opened this tab fourteen times. Hadn't clicked anything yet.
 
 She clicked [Review full terms].
 
-Forty-seven pages. She scrolled to Section 8: Intervention Authority. The words were dense, deliberately so. Escalated intervention procedures. Increased monitoring. Residential treatment placement. Emergency medical intervention.
+Forty-seven pages. She scrolled to Section 8: Intervention Authority. The words were dense, deliberately so—the particular density of language designed to be technically accurate and functionally unreadable, the kind of prose that only existed to protect the people who wrote it from the people who signed it. Rosa read it anyway. She was a nurse. She'd spent eight years reading clinical language that hid ugly realities behind polysyllabic Latin, and she recognized the technique. *Escalated intervention procedures* meant someone else decides. *Increased monitoring* meant your child is watched. *Residential treatment placement* meant they take them. *Emergency medical intervention* meant they take them at night.
 
-She hadn't read those words before, not the last time. Different company, different contract, same clause. Three years ago.
+She knew what those words meant because she'd seen what they meant. Different company, different contract, same clause. Three years ago.
 
-She turned to look at Marco's door, closed ever since. The bass from his speakers vibrated faintly through the cheap plywood—some K-pop song he'd been playing on repeat, the same one, for weeks.
+She turned to look at Marco's door. The bass vibrated through the plywood. "Spring Day." The song about missing someone. She wondered if he knew that's what it was about, or if he just liked the melody, or if the meaning had changed for him the way it had changed for her—from a pop song to a frequency, a proof of life, the sound of her son being present in the apartment without being present in the world.
 
 ---
 
@@ -354,7 +364,11 @@ She thought about the night they came for him. 2 AM. Private security in unmarke
 
 Her thumb was still on the screen.
 
-She thought, absurdly, of the nursing school talent show. 2038. She'd sung "Ang Huling El Bimbo" and won second place. The prize was a gift certificate to National Bookstore, which she'd used to buy anatomy flashcards. Even then she'd been practical. Even then she'd traded what she wanted for what she needed. She'd been good at singing. She'd been better at giving it up.
+She thought, absurdly, of the nursing school talent show. 2038. She'd sung "Ang Huling El Bimbo"—the Eraserheads version, not the cover—and something had happened to her voice that night that had never happened before or since. She'd hit the bridge and felt her throat open in a way that wasn't technique, wasn't practice, was just the song finding the exact shape of her body and pouring through it. The auditorium had gone quiet. Not polite-quiet. *Listening*-quiet. The particular silence of a room full of people who'd stopped thinking about themselves. She'd felt it on her skin, that silence—felt it like warmth, like being seen by two hundred people at once, and for three minutes and forty-seven seconds she wasn't Rosa Santos, nursing student, practical, tired, already calculating how many extra shifts she'd need to cover tuition. She was just a voice in a room. She was just the song.
+
+Second place. The prize was a gift certificate to National Bookstore. She'd used it to buy anatomy flashcards.
+
+She hadn't sung in front of anyone since. Not because she'd decided to stop—there was no decision, no dramatic renunciation. Just the shifts getting longer and the margins getting thinner and the singing becoming one of those things that lived in the category of *someday, when things settle down*. Things never settled down. The category filled up: singing, the watercolor set she'd wanted, the trip to Baguio with her sister, the version of her life where she had time to find out what her voice could do. The category became a room with a closed door, and after a while she stopped noticing the door was there.
 
 Through the thin walls, she could hear the neighbor's television—switched now from *Eat Bulaga* to the late news: "—the Korr Foundation remains tight-lipped about the content of tomorrow's global broadcast. Security analysts report unprecedented information lockdowns across all Korr subsidiaries. Whatever 'humanity's next chapter' means, Damon Korr is determined to control the narrative—"
 
