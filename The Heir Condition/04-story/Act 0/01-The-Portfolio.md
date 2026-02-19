@@ -368,7 +368,7 @@ She thought, absurdly, of the nursing school talent show. 2038. She'd sung "Ang 
 
 Second place. The prize was a gift certificate to National Bookstore. She'd used it to buy anatomy flashcards.
 
-She hadn't sung in front of anyone since. Not because she'd decided to stop—there was no decision, no dramatic renunciation. Just the shifts getting longer and the margins getting thinner and the singing becoming one of those things that lived in the category of *someday, when things settle down*. Things never settled down. The category filled up: singing, the watercolor set she'd wanted, the trip to Baguio with her sister, the version of her life where she had time to find out what her voice could do. The category became a room with a closed door, and after a while she stopped noticing the door was there.
+She hadn't sung in front of anyone since. The shifts just got longer and the margins thinner and the singing became one of those things that lived in the category of *someday, when things settle down*. Things never settled down. The category filled up: singing, the watercolor set she'd wanted, the trip to Baguio with her sister, the version of her life where she had time to find out what her voice could do. The category became a room with a closed door, and after a while she stopped noticing the door was there.
 
 Through the thin walls, she could hear the neighbor's television—switched now from *Eat Bulaga* to the late news: "—the Korr Foundation remains tight-lipped about the content of tomorrow's global broadcast. Security analysts report unprecedented information lockdowns across all Korr subsidiaries. Whatever 'humanity's next chapter' means, Damon Korr is determined to control the narrative—"
 
@@ -398,7 +398,7 @@ Submitted.
 
 His dashboard updated. Anticipated YTD return: +7.1%. One successful intervention today. The needle barely moved.
 
-Then he saw the flagged account: Carlos M. Family connection to Rosa Santos. Active CarePath contract for daughter Lianne, age 8. Prior contract terminated—Marco Santos, age 17. FAILED.
+Then he saw the flagged account: Carlos M. Family connection to Rosa Santos. Pending CarePath offer for daughter Lianne, age 8. Prior contract terminated—Marco Santos, age 17. FAILED.
 
 Javi stared at the screen.
 
@@ -441,8 +441,9 @@ His phone buzzed: Carlos's blue dot had stopped. Home. 00:47.
 
 He wouldn't have to update the intervention status. Small win.
 
-<!-- how does he have access? Do development partners have a kind of cartel or something with information sharing? Only need a throw-away line that makes sense -->
-He opened Marco Santos's file. Ernesto's final note before filing breach: *Pattern deviation probability 0.91. Baseline projected to drop ₱800K-₱1.2M. Recommend escalated intervention or contract termination.*
+He opened Marco Santos's file—public record, post-breach. Guild policy required all terminated contracts to be visible to active specialists in the same region, ostensibly for risk assessment. In practice, it meant you could see exactly how your predecessors had failed.
+
+Ernesto's final note before filing breach: *Pattern deviation probability 0.91. Baseline projected to drop ₱800K-₱1.2M. Recommend escalated intervention or contract termination.*
 
 Three days later: breach filed.
 

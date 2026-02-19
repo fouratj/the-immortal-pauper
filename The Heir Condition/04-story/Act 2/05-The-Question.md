@@ -47,7 +47,7 @@ The fire popped. Damon stopped mid-sentence.
 
 The fire popped. Damon stared at him.
 
-He looked tired. Not the tiredness of overwork. Something deeper. Something that had been accumulating for years.
+He looked tired. Something deeper than overwork. Something that had been accumulating for years.
 
 "Well," he said quietly. "I've chosen one of those, haven't I?"
 

@@ -94,27 +94,56 @@ He didn't know how to answer. He didn't know what to tell them.
 
 ---
 
-**Hour 12 — Cairo, Egypt**
+**Hour 6 — Seoul National University Hospital, Bundang**
 
-Hassan's fingertips were cracked from the irrigation channels—the kind of cracks that never fully healed, that split open again every morning when he gripped the shovel. Thirty-seven generations of his family had developed those same cracks in those same channels, tending wheat strains they'd bred before anyone called it "genetics."
+The notification arrived at 06:17 KST, the same time it arrived everywhere else, though Seo-jin didn't know that yet. She was in the middle of an intubation—elderly woman, respiratory failure, the particular gray of lungs that had been working too hard for too long—when her phone buzzed against her thigh.
 
-He checked his phone one-handed, the other still holding a stalk of durum, feeling the familiar weight of grain that wouldn't be his until AgriGen's licensing fee cleared. The notification should have come at 06:00. It was 06:47.
+She finished the intubation. Checked the tube placement. Confirmed bilateral breath sounds. Told the respiratory tech to start the ventilator settings. Then pulled out her phone.
 
-He refreshed. Nothing.
+**ATTRIBUTION METADATA UPDATE: Version 2.0**
+**Individual attribution caps: 5% → 25%**
+**Inference weights: 0.25x → 0.85x**
+**Effective immediately across all II nodes.**
 
-The sun was coming up over the Delta, that particular Egyptian gold that painters had been trying to capture for five thousand years. Hassan barely noticed it anymore. But he noticed the silence where the notification should be.
+She read it twice. The numbers were familiar—she'd seen them in policy proposals, in conference presentations, in the kind of academic papers that argued for exactly these changes and were dismissed as impractical. Individual caps at 25% meant workers received five times more credit for their direct contributions. Inference weights at 0.85x meant the algorithms weighted actual human judgment—nunchi, clinical intuition, the things that lived in the body—nearly as heavily as measured outputs.
 
-He pulled up the agricultural commons database. His thumb left a smear of Nile mud on the screen.
+Her phone buzzed again. Then again. Then continuously—the hospital's internal messaging system flooding with questions nobody could answer.
 
-**COMMONS. Patent released April 18, 2050.**
+**DR. YOON — Emergency department reimbursement rates recalculating. Please standby.**
 
-He read it three times. His hand was shaking—not fear, something older. The stalk of wheat was still in his other hand. He looked at it. Really looked at it, for the first time in years. The same strain his grandfather had shown him when he was seven, explaining how the particular curve of the awn caught Delta morning light.
+**ALL STAFF: Budget projections suspended pending metadata reconciliation.**
 
-"This is ours," his grandfather had said. "Whatever the papers say."
+**DEPARTMENT HEADS: Mandatory meeting, Conference Room 4B, 07:00.**
 
-Hassan sat down in the irrigation channel. Muddy water soaked through his trousers. He didn't care. He was holding wheat that finally, legally, belonged to the people who'd made it.
+She went to the meeting. The hallway was wrong—the usual morning-shift calm replaced by the particular energy of people who didn't know if their world was ending or being reborn. Nurses clustered around phones. A resident was crying in the stairwell—whether from fear or exhaustion or something else, Seo-jin couldn't tell and didn't ask, because asking required stopping and stopping wasn't available.
 
-It smelled like wet earth and something else. Something that might have been nine hundred years of accumulated relief.
+Conference Room 4B was standing room only. Every department head, plus the chief medical officer, plus three administrators Seo-jin had never seen before who were presumably from the consortium's financial division. Dr. Kwon—the CMO, a transplant surgeon in his sixties with the particular authority of a man who'd been cutting people open since before most of his staff were born—stood at the front with a tablet he was trying not to drop.
+
+"The attribution updates are global," he said. "Every II node. Every hospital, every clinic, every facility on the network. The reimbursement algorithms are recalculating in real-time."
+
+"What does that mean for us?" Dr. Choi from dermatology. His voice was tight. Seo-jin noticed his hands—clenched around his own tablet, knuckles white. She knew what the metadata update meant for dermatology. The old attribution parameters had generously valued cosmetic procedures—the result of decades of political lobbying that had embedded itself into the II's foundational weighting, creating the exact incentive structure that had driven Korea's doctor allocation crisis. High reimbursement for procedures that made people look better. Low reimbursement for procedures that kept people alive.
+
+The update inverted the weighting.
+
+"I don't have final numbers yet," Kwon said carefully. "But preliminary projections show—" He paused. Looked at his tablet. Looked up. "Emergency medicine reimbursement rates are up approximately 40%. Pediatrics up 35%. Obstetrics up 28%. General surgery up 22%."
+
+Silence.
+
+"And dermatology?" Choi's voice was barely audible.
+
+"Down approximately 55%."
+
+The room erupted. Seo-jin stood against the back wall and felt two things simultaneously: the visceral satisfaction of seeing her specialty valued the way she'd always known it should be valued—a satisfaction so sharp it felt almost like vengeance, which horrified her—and genuine empathy for Choi, who was a decent doctor, a good clinician, who had chosen dermatology not out of greed but because the system had made it rational. The system had told him: this is where the money is, this is where the chaemyeon is, this is what a successful doctor looks like. And he'd listened. And now the system was saying something different, and his entire career was being recalculated while he stood in a conference room trying not to drop his tablet.
+
+Chaemyeon. The word arrived in her mind with her father's voice attached to it. Her father—Dr. Yoon Tae-hyun, retired orthopedic surgeon, currently playing golf at the Anyang Country Club because retired Korean surgeons of a certain generation played golf the way they performed surgery: with precision, intensity, and an unwillingness to admit they were tired. He'd wanted her to do dermatology. Had said *응급의학? 미쳤어?*—*Emergency medicine? Are you crazy?*—with the particular disappointment of a Korean father whose daughter had chosen competence over status.
+
+The II had made her choice viable. Had correctly attributed emergency medicine and funded it properly and turned her career from martyr's calling into professional success. But her father had never fully adjusted. Still introduced her at dinners as *우리 딸, 분당서울대병원*—*my daughter, Bundang Seoul National*—emphasizing the hospital's prestige rather than her specialty. The chaemyeon of the institution substituting for the chaemyeon he wished her specialty carried.
+
+If the attribution update held—if emergency medicine rates stayed at +40%—her father would recalculate. Not his love. His introduction.
+
+She went back to the ER. Patients were arriving—the cascade's human cost, translated into bodies. A man with chest pain who turned out to be having a panic attack after watching his stock portfolio disintegrate. A woman who'd fallen down stairs while rushing to check her banking app. An elderly man—not Park Jae-won, a different elderly man, a different version of the same isolation—who'd called an ambulance because the news had scared him and he had no one else to call.
+
+The II logged each arrival. Attributed each intervention. Generated data that would feed into next month's metrics. The system was still working. The system was *always* working. That was the thing about systems—they didn't panic. They recalculated.
 
 ---
 
@@ -155,7 +184,7 @@ He could transfer it to the workers—they'd own it, but profit motive would rem
 
 Or he could convert it to non-profit. Eliminate profit extraction. Attribution costs drop 68%. But 14,700 workers lose equity.
 
-*One death versus a trillion lives* had been clean mathematics. This wasn't. This was: *fourteen thousand livelihoods versus slightly cheaper computation for eleven billion people.*
+*One death versus a trillion lives* had been a clean abstraction. This wasn't. This was: *fourteen thousand livelihoods versus slightly cheaper computation for eleven billion people.*
 
 His left thumb was pressing into his palm again. The crescent-shaped mark from this morning was still there, white against the pink of stressed skin. He forced himself to stop. Started again without noticing.
 
@@ -243,6 +272,68 @@ He didn't know how to answer. Nothing about this was normal.
 
 ---
 
+**Hour 20 — Bundang ER**
+
+Seo-jin had been on shift for fourteen hours. She was supposed to have left at noon. She hadn't left.
+
+The cardiac cases were spiking—not from any medical cause but from stress. Financial stress did specific things to the cardiovascular system: cortisol surged, blood pressure climbed, the heart worked harder to perfuse tissues that were preparing for a threat that wasn't physical. The body couldn't distinguish between a tiger and a collapsing pension fund. It responded to both with the same ancient machinery: fight, flight, or cardiac failure.
+
+She'd treated nine stress-induced presentations since the cascade began. Two genuine cardiac events—both in men over sixty, both living alone, both with social connection indices below the 20th percentile. The correlation was not subtle. Isolation plus financial shock equaled cardiac vulnerability. The II's wellness algorithms should have flagged them. Maybe they had. Maybe the flags were lost in the same system-wide recalculation that was turning every number into a question mark.
+
+Her phone buzzed. She checked it between patients—standing in the hallway outside Bay 4, her back against the wall, the particular exhaustion of emergency medicine settling into her joints like cold water.
+
+News headlines: **GLOBAL PATENT RELEASES CONTINUE. PHARMACEUTICAL SECTOR IN FREEFALL. "THE CASCADE" — WHAT IS HAPPENING?**
+
+Then: **Research consortium funding models under review. Grant disbursements suspended pending metadata reconciliation.**
+
+Her cardiac treatment. Phase III trial funding. Suspended.
+
+She stared at the notification. Three years of research. The nanoscale delivery mechanism that could reduce cardiac mortality by 60% in late-adopter countries. The science was done—the breakthrough was real, published, replicated. What remained was the clinical trial that would prove it at scale. The clinical trial that required funding. The funding that had just been suspended because the attribution metadata that determined how research grants were allocated had been rewritten six hours ago by someone she didn't know, for reasons she didn't understand, while she was intubating a woman whose lungs had given up.
+
+She felt something cold move through her stomach. Something more like the recognition that the ground she'd been standing on was not, in fact, solid. Had never been solid. Had been a surface maintained by the continuous agreement of systems that were now, suddenly, disagreeing.
+
+She called halmeoni. The phone rang three times.
+
+"서진아." Her grandmother's voice was calm. The particular calm of someone who had survived enough that a global economic crisis registered as *weather*. "뉴스 봤어."
+
+"할머니, 괜찮아요?" *Are you okay?*
+
+"괜찮지. 여기 다 괜찮아. 은지가 아침에 수정과 갖다줬어." *I'm fine. Everything's fine here. Eunji brought sujeonggwa this morning.* 
+
+Of course she had. Tuesday. Grandfather died on a Tuesday. Eunji remembered.
+
+"서진아, 무서워?" *Seo-jin-ah, are you scared?*
+
+Seo-jin didn't answer immediately. She was standing in a hospital hallway, her back against the wall, fourteen hours into a shift that was supposed to be eight, treating the cardiac fallout of an economic earthquake while her research funding evaporated. Was she scared?
+
+"좀요." *A little.*
+
+"전쟁 때도 이랬어." Her grandmother's voice softened. *It was like this during the war too.* "모든 게 무너지는 것 같았어. 정부, 군대, 은행, 다. 근데 알잖아—"
+
+Seo-jin closed her eyes. She knew what came next. Had heard it a hundred times. Needed to hear it again.
+
+"그래도 살았지." *But still, I lived.*
+
+The words landed in her chest and did what they always did—not comfort exactly, but *orientation*. A compass reading. The reminder that the ground had been unstable before, and that the response to unstable ground was not paralysis but movement. One foot, then the other. One patient, then the next. One bowl of doenjang-jjigae, then another. The system was shaking. The 그래도 was not.
+
+"할머니, 나 다시 가봐야 해요." *I have to go back.*
+
+"알아. 서진아—" A pause. "밥 먹었어?"
+
+She hadn't. Of course she hadn't.
+
+"아직요."
+
+"미쳤어. 밥 먹어. 그리고 다 구해." *You're crazy. Eat. Then save everyone.*
+
+Seo-jin laughed—the first laugh in fourteen hours, hoarse, exhausted, the sound of a person who was not okay but who was also not going to stop. She hung up. Walked to the vending machine. Bought a triangle kimbap—the convenience store kind, rice and tuna and processed seaweed, ₩1,500 of compressed sustenance that halmeoni would have considered an insult to the concept of food.
+
+She ate it standing in the hallway. The attribution system logged nothing. The rice was adequate. The act of eating was everything.
+
+She went back to the ER.
+
+---
+
 **Hour 22 — Secure Bunker**
 
 Kaelen had been dreading this one. The company that made resurrection possible. His uncle's crown jewel.
@@ -285,7 +376,7 @@ But if he released the patents first, the workers' equity would become worthless
 
 Four thousand people. Versus forty-eight million people who could now afford immortality.
 
-*The mathematics don't let you hide.*
+*The explanations don't let you hide.*
 
 Neither did the memory of his uncle's hand on that glass, looking down at the vats with something like hope in his eyes.
 

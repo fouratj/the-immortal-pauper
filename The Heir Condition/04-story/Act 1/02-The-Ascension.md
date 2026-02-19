@@ -22,7 +22,7 @@ He paused, letting the weight of global attention settle around him like a mantl
 
 "There comes a moment in the life of any civilization when it must choose between the comfort of familiar limitations and the uncertainty of progress. Tonight, we stand at such a moment. What I am about to share with you will challenge every assumption you hold about the nature of humanity, the boundaries of technological achievement, and the future of humanity itself."
 
-Another pause. In São Paulo, Maria Santos leaned forward. In Lagos, Amara held her breath. In Beijing, an elderly man set down his tea cup without taking his eyes from the screen.
+Another pause. In São Paulo, Maria Santos leaned forward. In Manila, a nurse on her break looked up from her phone. In Beijing, an elderly man set down his tea cup without taking his eyes from the screen.
 
 "I could speak to you of algorithms and quantum mechanics, of the mathematical frameworks that have revolutionized governance, of the systematic optimizations that have brought unprecedented prosperity to our species. But tonight calls for something more fundamental than technical exposition. Tonight calls for truth."
 
@@ -74,7 +74,7 @@ The camera pulled back to show the amphitheater from above—five thousand witne
 
 "What I offer humanity tonight is not just eternal life, but life unburdened by its own ending. The choice to preserve consciousness when that consciousness serves the greater advancement of our species."
 
-In São Paulo, Maria Santos gripped her husband's hand as they watched from a public plaza. In Cairo, Hassan Al-Masri set down his coffee, unable to process what he was hearing. In Lagos, Amara held her daughter closer, feeling the world shift beneath her feet in ways she couldn't articulate.
+In São Paulo, Maria Santos gripped her husband's hand as they watched from a public plaza. In Manila, Rosa Santos sat in the break room at Manila General, watching the broadcast on a phone held together with a rubber band. In Seoul, Seo-jin stood between the vending machine and the microwave, holding a cup of coffee she'd forgotten to drink.
 
 "I have asked you here tonight not to witness personal triumph but to participate in collective transcendence. The systems we have built, these systems now have continuity beyond biological accident."
 

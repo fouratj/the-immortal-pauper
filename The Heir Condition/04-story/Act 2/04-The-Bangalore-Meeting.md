@@ -15,7 +15,7 @@ Dr. Tanaka pulled up the visualization—a cascade tree showing attribution flow
 
 Tanaka paused. Her fingers hovered over the display controls, and something shifted in her posture—the particular tension of someone about to make things personal.
 
-"Care work in Manila. A home health aide named Rosa Dela Cruz." She highlighted a single node in the tree, and a face appeared. A woman in her late thirties, exhaustion carved into the lines around her eyes, wearing hospital scrubs that had been washed too many times. "I interviewed her. Three weeks in Manila, last November. Thirty-seven home visits across eleven barangays. Rosa was the fourth interview."
+"Care work in Manila. A nurse named Rosa Santos." She highlighted a single node in the tree, and a face appeared. A woman in her late thirties, exhaustion carved into the lines around her eyes, wearing hospital scrubs that had been washed too many times. "I interviewed her. Three weeks in Manila, last November. Thirty-seven interviews across eleven barangays. Rosa was the fourth."
 
 She let that sit. The photograph stayed on screen.
 

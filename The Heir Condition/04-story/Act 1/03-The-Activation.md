@@ -146,9 +146,7 @@ Kaelen folded his hands in his lap and pressed them together until his knuckles 
 
 He thought of Rosa in Manila—her hands, the calluses from twelve-hour shifts, the way she'd looked at him when he'd interviewed her for the attribution study. The exhaustion in her eyes that went deeper than tiredness. The way she'd said *I just want my kids to be okay* like it was a confession, like wanting that much was already asking too much.
 
-Of Hassan in Cairo, the wheat farmer whose ancestors had bred the strains that fed half of Egypt, paying tribute on genetics his grandfather's grandfather had developed. The way he'd laughed when Kaelen asked about his percentage. *You sound like my grandfather. He asked the same question about the Turkish tax collectors.*
-
-He thought of Amara's daughter burning with fever because patents made antibiotics cost three weeks' salary. The medicine cosings pennies to manufacture. Seventeen patents between the molecule and her lungs.
+Of her son Marco, who'd come back from the MentorMaxx facility and hadn't left his room in four months. Of Lianne's nanopatch, costing fourteen times what it cost to manufacture, the difference extracted in licensing fees from a mother who earned nine thousand pesos a month. Of the eight hundred and forty-seven workers Tanaka had documented, each one a Rosa, each one paying for the privilege of being seen by a system that calculated their value at four times their wage.
 
 *That's why you're doing this. That's the calculation. One temporary death versus a trillion lives.*
 
@@ -240,7 +238,7 @@ That was the worst part. That was the thing that made him want to tear his own s
 
 He wouldn't. He couldn't
 
-The math was clear.
+The explanation was the best he had. And the window was closing.
 
 *I killed him because I loved him too much to let him become a monster. I killed him because I loved the world more than I loved being a good nephew. I killed him because love isn't enough, was never enough, can never be enough when the fate of humanity is on the line.*
 
@@ -304,8 +302,8 @@ At Hour 4, he moved.
 
 The bunker was three hours away by private aircraft—a facility in the Nevada desert that his uncle had built for "sensitive projects requiring operational security." Separate power grid. Separate reporting structure. The kind of place where you could computationally model the end of civilization and no one would notice until the quarterly audit.
 
-Kaelen had booked it two weeks ago under "estate planning simulations." By the time anyone questioned the allocation, the cascade would be irreversible.
-<!-- we should add a little aside that the aircraft was automated, no body knew he went -->
+Kaelen had booked it two weeks ago under "estate planning simulations." By the time anyone questioned the allocation, the cascade would be irreversible. The aircraft was fully automated—no pilot, no flight crew, no one to report that the heir to the Korr estate had left San Francisco at midnight heading for a facility in the desert.
+
 He landed at 3:47 AM local time. The bunker smelled like ozone and cold recycled air. The servers were already spinning up, pulling power from his uncle's private fission reactors—built before the 2043 Accords, grandfathered into the old rules.
 
 The irony was thick enough to taste.
