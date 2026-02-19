@@ -5,7 +5,7 @@
 
 The conference room on the 47th floor overlooking San Francisco Bay had been designed to make visitors feel small. Floor-to-ceiling windows framing the Pacific, the glass so clean it seemed like absence—as if you could step through and fall forty-seven stories into the churning gray water below. A table of polished obsidian that cost more than most houses, its surface reflecting the overhead lights like a dark mirror. Twelve empty chairs arranged around a man who needed no entourage to fill a room. The climate control held the temperature at precisely 19°C—cool enough to keep executives alert, warm enough that no one could claim discomfort. The air smelled like nothing at all, which was its own kind of expense.
 
-Damon Korr sat at the head of the table, reviewing the proposal on his tablet. Dr. Tanaka stood at the presentation display, hands clasped, waiting. She'd been waiting for seven minutes now, while Damon read with the particular slowness of someone who wanted you to know he was reading carefully. In the corner, tablet open, Kaelen watched—theoretically taking estate planning notes. Actually documenting everything.
+Damon Korr sat at the head of the table, reviewing the proposal on his tablet. Dr. Tanaka stood at the presentation display, hands clasped, waiting. She'd been waiting for seven minutes now, while Damon read with the deliberate slowness of someone who wanted you to know he was reading carefully. In the corner, tablet open, Kaelen watched—theoretically taking estate planning notes. Actually documenting everything.
 
 "Walk me through it," Damon said. "The edge cases."
 
@@ -13,7 +13,7 @@ Dr. Tanaka pulled up the visualization—a cascade tree showing attribution flow
 
 "Example."
 
-Tanaka paused. Her fingers hovered over the display controls, and something shifted in her posture—the particular tension of someone about to make things personal.
+Tanaka paused. Her fingers hovered over the display controls, and something shifted in her posture—the tension of someone about to make things personal.
 
 "Care work in Manila. A nurse named Rosa Santos." She highlighted a single node in the tree, and a face appeared. A woman in her late thirties, exhaustion carved into the lines around her eyes, wearing hospital scrubs that had been washed too many times. "I interviewed her. Three weeks in Manila, last November. Thirty-seven interviews across eleven barangays. Rosa was the fourth."
 
@@ -53,7 +53,7 @@ Tanaka glanced at Kaelen. Kaelen's face gave nothing.
 
 "Where what started?"
 
-Damon turned. Something in his face had shifted—not defensive, not pedagogical. Something almost... fond.
+Damon turned. His face had softened. Almost fond.
 
 "There's a man who runs the museum gift shop. Derek. His family's been in that valley for nine generations. I bought a replica of the Iron Bridge—little pewter thing, sits on my desk somewhere—and he asked if I wanted to see something. Took me to a church. St. Mary's. Beautiful building, paid for by the Darby family. And in the churchyard..."
 
@@ -105,7 +105,7 @@ He let that sit.
 
 "And the children." Damon nodded. "Hundreds of them. Some as young as five. Dragging ore carts through tunnels too small for adults—the carts were designed for their size, which tells you something about intention. Working the bellows until their arms gave out, and then working them more because the iron couldn't wait for a child's muscles to recover." 
 
-He paused. Something in his voice had shifted—not the lecture-voice anymore. Something rawer.
+He paused. His voice had gone raw.
 
 "Derek's ancestor—the first one they have records for—started in the foundries at seven. His name was William. He lost three fingers to a gear mechanism by twelve—the index, middle, and ring finger of his left hand, crushed and then amputated without anesthetic because the foundry surgeon was drunk and the alternative was gangrene. He worked another thirty-four years with that hand. Developed a technique for gripping tools with his thumb and pinky that other workers copied. Lived to forty-six, which was considered a good run." Another pause. "Derek showed me a sketch someone made of him in 1803. He's holding a hammer. You can see the missing fingers. He's smiling."
 
@@ -219,9 +219,9 @@ The room's temperature didn't change, but Kaelen felt something unease run throu
 
 Hospitals closing. Not gradually—in waves. First the smaller clinics, marked in amber, blinking out one by one across the map of Nairobi and its suburbs. Then the regional centers in orange. Then the urban networks in red—Kenyatta National, Nairobi Hospital, Aga Khan—their status indicators shifting from green to yellow to that particular shade of gray that meant *ceased operations*.
 
-Care workers' income lines dropping, stabilizing, dropping again. Employment figures fragmenting into something unreadable—the smooth curves of formal employment dissolving into the static of gig work and cash-in-hand and the particular desperation of people who used to have careers.
+Care workers' income lines dropping, stabilizing, dropping again. Employment figures fragmenting into something unreadable—the smooth curves of formal employment dissolving into the static of gig work and cash-in-hand and the desperation of people who used to have careers.
 
-Kaelen watched Tanaka's face change as she processed it. Confusion first. Then something darker—the particular expression of someone watching their own work turn into a weapon.
+Kaelen watched Tanaka's face change as she processed it. Confusion first. Then horror—the expression of someone watching their own work turn into a weapon.
 
 "What am I looking at?"
 
@@ -253,7 +253,7 @@ He zoomed into worker outcome data. The care workers' income—the ones "liberat
 
 "Load-bearing." Kaelen said it before he could stop himself.
 
-Damon looked at him. Something flickered across his face—pride, maybe, or recognition. The appreciation for an opponent who saw the trap before stepping into it.
+Damon looked at him. Pride flickered across his face, or recognition. The appreciation for an opponent who saw the trap before stepping into it.
 
 "Load-bearing," he repeated. "Yes, it was infrastructure. And when they removed it, the structure collapsed."
 
@@ -345,7 +345,7 @@ But something was wrong with the framing. Something underneath.
 
 "Yes. And what did we learn from it?"
 
-Damon's expression flickered—the particular micro-expression of someone who'd expected a different response.
+Damon's expression flickered—the micro-expression of someone who'd expected a different response.
 
 "We learned that premature reform—"
 
@@ -367,7 +367,7 @@ Damon's hand moved toward his glass. Stopped. The mask flickered.
 
 He let that word land. *Infinite.*
 
-Something changed in Damon's face. A sharpening of attention. A glance—brief, almost involuntary—toward Tanaka.
+Damon's face sharpened. A glance—brief, almost involuntary—toward Tanaka.
 
 "Patience," Kaelen continued, his voice carefully neutral, "is cheaper for some people than others. Depending on their... planning horizons."
 
@@ -381,7 +381,7 @@ Kaelen held his ground. "I'm just noting that the cost of waiting isn't distribu
 
 Damon's jaw tightened. For a moment, Kaelen thought he'd pushed too far—that his uncle would end the meeting, invoke some security protocol, do something to contain whatever Kaelen had just implied.
 
-Instead, Damon turned back to the display. His voice was cool. Controlled. But something underneath had shifted.
+Instead, Damon turned back to the display. His voice was cool. Controlled. But the register underneath had changed.
 
 "You're *delaying*," Kaelen said.
 
@@ -472,7 +472,7 @@ Kaelen hesitated.
 
 "I think you're not sure you're right."
 
-Something shifted in Damon's face. Something that looked almost like relief.
+Relief crossed Damon's face. Brief, almost involuntary.
 
 "No," he said quietly. "I'm not."
 
@@ -501,4 +501,118 @@ His phone buzzed. Damon: *Thursday, 7pm. Don't forget.*
 He pocketed the phone. Washed his hands—the water was too cold, the soap smelled like industrial mint, everything about this building was designed to be forgettable. Dried his hands on paper towels that dissolved at the first touch of moisture.
 
 Walked back to his office. A splinter in his mind.
+
+---
+
+**One week later. Pacific Heights.**
+
+He'd spent those seven days trying to prove his uncle right. If the extraction Tanaka documented was implementation failure—Damon's explanation, Damon's framework—there should be a pattern: specific policy gaps, identifiable deployment errors, fixable parameters. He'd pulled every late-adopter dataset he could access. Manila, São Paulo, Lagos, Cairo. Attribution graphs, intermediary density maps, institutional layering across a dozen economies. Looking for the implementation failure that would make the data cohere.
+
+He found a pattern. Just the wrong one. The algorithm worked differently in late-adopter economies. And the gap was widening. Three notebooks filled with graphs and the same question circled on every page: *Why is extraction getting worse instead of better?*
+
+---
+
+Just him and his uncle, alone in the study where they'd played chess for fifteen years, the fire dying because neither of them would break eye contact to add wood.
+
+"Why did you really dismiss Tanaka's proposal?" Kaelen said. "Not the public answer. The real one."
+
+Damon set down his whiskey, Macallan 25. The amber liquid caught the firelight. He was quiet for a long moment.
+
+"Sit down," he said finally. "Let me show you something."
+
+Kaelen sat. Damon pulled up his tablet, opened a file Kaelen had never seen before.
+
+"Tanaka showed us extraction," Damon said. "She's right that the pattern is real. But she's wrong about what's causing it."
+
+He pulled up a visualization—a cascade tree for a hospital hiring a nurse in São Paulo. Denser than Manila's had been. More nodes, more edges, more layers of intermediation.
+
+"In Tallinn, this transaction has three nodes: nurse, hospital, payment. In São Paulo, it has eleven." He split the display. Tallinn on the left: clean, almost naive. São Paulo on the right: tangled with dependencies. "Same job. Same work. Eight additional intermediaries—training certifiers, license aggregators, contract notaries, equipment validators, facility accreditors."
+
+"Show me Manila," Kaelen said quietly.
+
+Nine nodes. Lagos: twelve. Cairo: ten.
+
+"Every late-adopter economy. Dense. The same algorithm, wildly different outcomes. In Tallinn, attribution reaches workers. In São Paulo, it flows to intermediaries. Why?"
+
+He turned back. "It's not the algorithm. It's low-trust social topology."
+
+"The nodes aren't random," he continued. "They're verification layers. When people don't trust each other—when employers don't trust employees, when workers don't trust contracts, when nobody trusts the courts—they build machinery to de-risk every transaction. Notaries. Certifiers. Aggregators. Validators. Each one serving a real function: making trust unnecessary."
+
+He gestured at the São Paulo graph. "In Tallinn, you hire someone with a handshake and a contract. In São Paulo, try hiring someone without three notarized stamps and you'll end up in labor court for eighteen months. The notary is load-bearing. The friction is infrastructure."
+
+"Because Estonian institutions are better," Kaelen said.
+
+"Because Estonian *culture* is different." Damon leaned back. The teaching voice. "I visited Tallinn in 2037. Met the team that built their e-residency platform. And the thing everyone gets wrong about Estonia is they think it's a technology story. Digital IDs, paperless government, the little country that coded its way to modernity. That's wrong."
+
+He stared into the fire. "1.3 million people. Fifty years of Soviet occupation. When they got independence in '91, they had nothing—no functioning institutions, no capital, and no army worth the name. What they had was a cultural memory of what happens when someone else controls your records. The Soviets had used bureaucracy as a weapon. Registries, permits, files that could make you disappear. So when the Estonians built their own systems, they built them transparent. Auditable. Every citizen can see who accessed their data and why. Not because they were technologically advanced. Because they were *traumatized*. The digital ID wasn't a tech project. It was a cultural response to occupation."
+
+He turned to the São Paulo graph. "And Brazil? Different history. Different trauma. Portuguese colonial administration was designed to extract. From the land, from the people, from the gold and sugar and coffee. The institutions that survived independence were extraction machinery with new flags. Three centuries of that, and the culture adapted. People learned: don't trust the system. The system exists to take from you. So you build your own verification. Your own intermediaries. Your own notaries who stamp your papers because the court won't protect you and the registry might lose your records and the only thing standing between you and dispossession is a man with a stamp."
+
+He sat down across from Kaelen. "I met one of them. Eduardo, in Copacabana. Stamps forty contracts per day. Four minutes each. Makes 400,000 reais per year for putting ink on paper. He's not a parasite. He's a cultural fossil—the living residue of a colonial trust deficit that no algorithm can dissolve. His clients don't use him because they're stupid. They use him because their grandparents got burned, and their grandparents were right."
+
+"But the II rewards that friction," Kaelen said.
+
+"The II attributes value to enablement. And in São Paulo, the intermediaries *do* enable transactions." Damon pulled up the attribution breakdown. "Nurse: 23%. Hospital: 18%. The other 59% flows to the verification stack. That looks like extraction. But it's actually the cost of trust in a society that can't yet afford to trust without intermediaries."
+
+He leaned forward. "You can't engineer trust, Kael. Trust is cultural. Culture is generational. The intermediaries exist because the culture produced them, and the culture produced them because the history demanded them. You want to fix this? Fix the culture. Build civic norms. Strengthen courts. Educate three generations. Flatten the graph organically. Then the II works the way it's supposed to."
+
+"How long does that take?"
+
+"Generations. Which is exactly my point."
+
+Kaelen was quiet for a long moment. Then, carefully:
+
+"The II was supposed to *be* the cultural intervention."
+
+Damon blinked.
+
+"That's the whole premise. Algorithmic verification substituting for cultural trust. You don't need a notary if the II can verify the contract. You don't need a certifier if the II can validate the credential. Estonia's digital ID worked because their culture was ready for it—fine. But the II was supposed to bring that readiness everywhere. Trustless verification. The algorithm as substitute for the civic norms that take generations to build."
+
+He leaned forward. "And it *worked*. In Tallinn, Copenhagen, Singapore—places where the culture was already there—the II thinned the intermediary layer because it was redundant. But in São Paulo, Lagos, Manila, the intermediaries got there first. They captured the II's attribution system before it could replace them. Eduardo doesn't stamp contracts because his clients need him. He stamps them because the law requires it, and the law requires it because Eduardo's professional association lobbied for it, and they could afford to lobby because the II's attribution revenue funded the campaign."
+
+"You're describing a feedback loop," Damon said quietly.
+
+"I'm describing a cultural mutation that was intercepted. The II was the thing that could have broken the cycle—algorithmic trust replacing cultural distrust, the way Estonia's digital ID replaced Soviet bureaucracy. But the intermediaries used the II's own revenue to prevent the mutation from taking hold. They killed digital signature reform last year—seventy percent public support, dead in committee. That's not historical low trust. That's a cultural immune response, funded by the system that was supposed to cure the disease."
+
+Kaelen leaned forward. "You say fix the culture first. But the algorithm is why the culture won't change. Maybe can't change. You're not just reflecting the topology. You're *freezing* it."
+
+Silence. The fire crackled.
+
+Damon looked at his hands. The firelight caught the gray at his temples, the lines around his eyes that life extension couldn't quite erase. For a moment—just a moment—recognition flickered behind those eyes. The look of someone who'd heard an explanation that fit the data better than his own framework.
+
+Then the mask came back.
+
+"It's easy to want revolution when you're twenty-eight and have a trust fund." His voice was quiet but steady. "You want me to risk billions of lives on coordinated global reform? Fine. But don't pretend you're taking the same risk they are. You're not Rosa. You're my nephew. And if it all burns down, you'll be fine too."
+
+His hand trembled. Just slightly. Then he set the glass down.
+
+"After the announcement," he said. Firmer now. The CEO-voice reasserting itself. "Once the governance transition settles. I'll commission a full study—the feedback loop hypothesis, intermediary capture, the cultural entrenchment argument. All of it. We'll model it properly."
+
+"When?"
+
+"After the announcement. I promise."
+
+Kaelen knew the shape of that promise. Had watched it land on Tanaka. On Cairo. On Lagos. The same mechanism every time: acknowledge the concern, reframe it as something manageable, defer to a future that would never arrive. The voice was warmer now—uncle-voice bleeding through CEO-voice—but the architecture was identical.
+
+"Okay," Kaelen said. His voice came out flat. "After the announcement."
+
+He left an hour later. Drove home through the fog, the San Francisco streets slick and empty, the city lights bleeding through the mist. His hands were shaking on the steering wheel.
+
+He'd seen it. For one moment, he'd seen his uncle's hand tremble. Seen recognition flicker behind his eyes—the look of someone who'd heard an explanation that fit the data better than his own framework and was choosing, consciously, not to follow the logic.
+
+And then the mask came back. The familiar phrases. Additional modeling. Proper study. After the announcement. After the announcement. Always after.
+
+Kaelen pulled over on Divisadero. Sat in the dark car, fog condensing on the windows. His hands wouldn't stop shaking.
+
+The question that had brought him to his uncle's study—*is he right or is he rationalizing?*—wasn't the question anymore. He'd watched the answer play out in real time. Damon knew. Some part of him understood that the system was extracting, that the framework was incomplete, that the data pointed somewhere uncomfortable. And he was choosing not to follow it. Actively. Consciously.
+
+Not because he was evil. Because he was human. Because looking would mean seeing. And seeing would mean acting. And acting would mean dismantling forty years of work. And that was a weight he couldn't bear—not even for the billions of people paying for his refusal to look.
+
+The new question was worse: *What do you do when persuasion doesn't work?*
+
+When someone can see the truth and choose not to act on it. When someone has all the power and all the information and all the capacity to fix what's broken—and won't. Not can't. Won't.
+
+Kaelen sat in his car on Divisadero for thirty-seven minutes. Watching the fog. Counting his breaths. Trying to think of another path. Failing.
+
+Then he drove home and didn't sleep.
 

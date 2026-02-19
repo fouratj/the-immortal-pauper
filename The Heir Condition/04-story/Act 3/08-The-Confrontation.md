@@ -14,7 +14,7 @@ He'd rehearsed this conversation a hundred times. In the car. In the shower. At 
 
 The problem—and he'd been circling this problem for five days, approaching it and retreating, approaching and retreating—the problem was that he didn't know what he wanted from this conversation. Justice? Revenge? Understanding? An apology that would somehow unmurder him? He'd built systems for forty years because systems didn't require you to know what you wanted; they just optimized for specified objectives. But there was no objective function for *my nephew killed me and I still love him and I want him to suffer and I want to understand and I want it all to unhappen and none of those things are compatible*.
 
-The elevator reached forty-two. The doors opened onto industrial carpet and recessed lighting—the particular aesthetic of buildings designed for decisions that couldn't be unmade. Damon walked toward the conference room with steps that were too light, too responsive, a body that didn't remember the accumulated weight of living.
+The elevator reached forty-two. The doors opened onto industrial carpet and recessed lighting—the aesthetic of buildings designed for decisions that couldn't be unmade. Damon walked toward the conference room with steps that were too light, too responsive, a body that didn't remember the accumulated weight of living.
 
 He thought about what he'd say. Thought about the chess games. Thought about his sister's funeral when he'd promised to take care of her son. The son who was waiting in that room.
 
@@ -148,7 +148,7 @@ But the words wouldn't come. Because he knew—they both knew—that this wasn't
 
 He looked at the thermos on the table. Baltic birch, untouched. The coffee inside was probably cold by now. He'd brought it thinking—what? That they'd sit down like civilized people and discuss murder over Ethiopian blend?
 
-The absurdity of it hit him suddenly, and he felt something that might have been laughter trying to escape, and he swallowed it down because laughing right now would be insane, and not laughing felt equally insane, and he was trapped in a room with the man he'd murdered and a thermos of cold coffee and neither option seemed connected to anything resembling appropriate human behavior.
+The absurdity of it hit him suddenly, and he felt laughter trying to escape, and he swallowed it down because laughing right now would be insane, and not laughing felt equally insane, and he was trapped in a room with the man he'd murdered and a thermos of cold coffee and neither option seemed connected to anything resembling appropriate human behavior.
 
 ---
 
@@ -170,7 +170,7 @@ His finger hovered over the signature field. Not touching. Not signing. Holding 
 
 "Yes."
 
-Something in the air changed. Kaelen felt it before he understood it—a pressure shift, like the moment before a thunderstorm, like the atmosphere itself was recoiling from what was about to happen.
+The air changed. Kaelen felt it before he understood it—a pressure shift, like the moment before a thunderstorm, like the atmosphere itself was recoiling from what was about to happen.
 
 "YOU FUCKING KILLED ME!!"
 
@@ -178,7 +178,7 @@ Something in the air changed. Kaelen felt it before he understood it—a pressur
 
 What he hadn't prepared for was the *voice*. He'd expected the accusation—had prepared for it, built elaborate frameworks for why "killed" was imprecise. The crack in Damon's voice wasn't in any of them. The rawness being dragged up from somewhere that voice had never gone before.
 
-His uncle was shaking. The hands that had never held anything were clenched into fists. The face that had no history was contorted into something that looked like it was trying to be rage and grief simultaneously and couldn't quite achieve either.
+His uncle was shaking. The hands that had never held anything were clenched into fists. The face that had no history was contorted into rage and grief simultaneously, achieving neither fully.
 
 
 "You *killed* me!"
@@ -199,7 +199,7 @@ His own teaching, reflected back.
 
 "And you used it to kill me."
 
-"I used it to fix what you built." Kaelen's voice was steadier now. Something in his nephew had shifted—the defensiveness hardening into something more combative. "Because you wouldn't or couldn't."
+"I used it to fix what you built." Kaelen's voice was steadier now. The defensiveness had hardened into combativeness. "Because you wouldn't or couldn't."
 
 "Three years," Damon heard himself saying. "You sat at my table for three years. Christmas dinners. Thanksgiving. My birthday—you gave me that chess set, the hand-carved one from Moscow. You looked me in the eye and gave me a gift while you were mapping every asset I owned so you could take it the second my heart stopped."
 
@@ -289,7 +289,7 @@ Damon couldn't speak.
 
 "She resigned six weeks later. You know that? She resigned. Because you looked at a woman being robbed by your mathematics and you explained why the robbery was optimal."
 
-The words kept coming. Kaelen's face twisted with something that wasn't quite anger—something sadder, more complicated.
+The words kept coming. Kaelen's face twisted with grief.
 
 "You had your chance. You had it handed to you by your own Chief Attribution Architect, with the math already done and the patch already built. You chose not to take it."
 
@@ -331,7 +331,7 @@ He looked at the cascade visualization. At the eleven billion nodes. At the math
 
 "What was the real reason?"
 
-The question landed in the silence between them. Damon felt his new chest doing something strange—tightening, loosening, not quite knowing how to process what he was about to say.
+The question landed in the silence between them. Damon felt his new chest tightening, loosening, not quite knowing how to process what he was about to say.
 
 "I didn't want to be wrong," he said finally. "Forty years. Forty years of building systems, optimizing structures, telling myself I was serving human welfare. If Tanaka was right—if the extraction was structural—then I wasn't a systems architect. I was a systems extractor. I wasn't building a better world. I was building a more efficient mechanism for taking from the people I claimed to be helping."
 
@@ -345,7 +345,7 @@ His hands had stopped shaking. Or maybe this body had given up trying to express
 
 ---
 
-He'd spent three years hating his uncle for refusing to see. Had built an entire moral architecture on the foundation of *he knows and won't act, which makes him complicit, which makes the murder justified*. Had needed Damon to be the villain because the alternative—that Damon was a flawed human caught in his own frameworks, blinded by the same cognitive limitations that afflicted everyone—the alternative made the murder something else. Something worse. Something that couldn't be justified by clean utilitarian calculus.
+He'd spent three years hating his uncle for refusing to see. Had built an entire moral architecture on the foundation of *he knows and won't act, which makes him complicit, which makes the murder justified*. Had needed Damon to be the villain because the alternative—that Damon was a flawed human caught in his own frameworks, blinded by the same cognitive limitations that afflicted everyone—the alternative made the murder unjustifiable. Not righteous. Just necessary and terrible, which couldn't be justified by clean utilitarian calculus.
 
 But here was Damon, admitting it. Saying the words Kaelen had spent three years waiting to hear.
 
@@ -391,7 +391,7 @@ He'd failed. Obviously. Spectacularly. Had taught Kaelen to see systems instead 
 
 But here was Kaelen, crying in a conference room, saying *I still love them*.
 
-Maybe he hadn't failed entirely. Maybe there was something underneath the calculations. Something that survived the optimization.
+Maybe he hadn't failed entirely. Maybe there was love underneath the calculations. Love that survived the optimization.
 
 ---
 
@@ -429,7 +429,7 @@ His hand descended toward the signature field.
 
 "Signing this doesn't mean I forgive you."
 
-Damon's voice was quiet. Steady. Something had shifted in his face—the rage settling into something colder, more permanent. Or maybe not more permanent. Maybe just more honest.
+Damon's voice was quiet. Steady. The rage had settled into clarity. Or maybe just honesty.
 
 "It doesn't mean I absolve you. It means I acknowledge that you were right about the extraction, and that being right doesn't make what you did forgivable, and that fourteen million people shouldn't suffer because two men can't reconcile their worldviews."
 
@@ -501,7 +501,7 @@ And Damon was walking out that door, choosing mortality, choosing to die like ev
 
 That was the worst part. That was the thing Kaelen would carry for the rest of his life: it had *mostly worked*. The murder had achieved most of what it was designed to achieve. His uncle had seen the truth and acknowledged it and even signed the override form. The explanation had been vindicated—imperfectly, incompletely, the way all explanations met reality. With remainders.
 
-But explanations couldn't tell you what it felt like to watch your uncle walk away. Couldn't quantify the particular quality of silence in a room after a door closes. Couldn't account for the way Damon's voice had cracked on the word "dead," or the way his new hands had shaken because they didn't know how to express grief, or the way he'd said *I won't be coming back* like it was a sentence and a gift and a condemnation all at once.
+But explanations couldn't tell you what it felt like to watch your uncle walk away. Couldn't quantify the silence in a room after a door closes. Couldn't account for the way Damon's voice had cracked on the word "dead," or the way his new hands had shaken because they didn't know how to express grief, or the way he'd said *I won't be coming back* like it was a sentence and a gift and a condemnation all at once.
 
 The explanation could tell you why one death versus a trillion lives was the right choice to make.
 

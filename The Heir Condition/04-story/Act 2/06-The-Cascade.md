@@ -96,7 +96,7 @@ He didn't know how to answer. He didn't know what to tell them.
 
 **Hour 6 — Seoul National University Hospital, Bundang**
 
-The notification arrived at 06:17 KST, the same time it arrived everywhere else, though Seo-jin didn't know that yet. She was in the middle of an intubation—elderly woman, respiratory failure, the particular gray of lungs that had been working too hard for too long—when her phone buzzed against her thigh.
+The notification arrived at 06:17 KST, the same time it arrived everywhere else, though Seo-jin didn't know that yet. She was in the middle of an intubation—elderly woman, respiratory failure, the gray of lungs that had been working too hard for too long—when her phone buzzed against her thigh.
 
 She finished the intubation. Checked the tube placement. Confirmed bilateral breath sounds. Told the respiratory tech to start the ventilator settings. Then pulled out her phone.
 
@@ -115,9 +115,9 @@ Her phone buzzed again. Then again. Then continuously—the hospital's internal 
 
 **DEPARTMENT HEADS: Mandatory meeting, Conference Room 4B, 07:00.**
 
-She went to the meeting. The hallway was wrong—the usual morning-shift calm replaced by the particular energy of people who didn't know if their world was ending or being reborn. Nurses clustered around phones. A resident was crying in the stairwell—whether from fear or exhaustion or something else, Seo-jin couldn't tell and didn't ask, because asking required stopping and stopping wasn't available.
+She went to the meeting. The hallway was wrong—the usual morning-shift calm replaced by the energy of people who didn't know if their world was ending or being reborn. Nurses clustered around phones. A resident was crying in the stairwell—whether from fear or exhaustion or something else, Seo-jin couldn't tell and didn't ask, because asking required stopping and stopping wasn't available.
 
-Conference Room 4B was standing room only. Every department head, plus the chief medical officer, plus three administrators Seo-jin had never seen before who were presumably from the consortium's financial division. Dr. Kwon—the CMO, a transplant surgeon in his sixties with the particular authority of a man who'd been cutting people open since before most of his staff were born—stood at the front with a tablet he was trying not to drop.
+Conference Room 4B was standing room only. Every department head, plus the chief medical officer, plus three administrators Seo-jin had never seen before who were presumably from the consortium's financial division. Dr. Kwon—the CMO, a transplant surgeon in his sixties with the authority of a man who'd been cutting people open since before most of his staff were born—stood at the front with a tablet he was trying not to drop.
 
 "The attribution updates are global," he said. "Every II node. Every hospital, every clinic, every facility on the network. The reimbursement algorithms are recalculating in real-time."
 
@@ -135,7 +135,7 @@ Silence.
 
 The room erupted. Seo-jin stood against the back wall and felt two things simultaneously: the visceral satisfaction of seeing her specialty valued the way she'd always known it should be valued—a satisfaction so sharp it felt almost like vengeance, which horrified her—and genuine empathy for Choi, who was a decent doctor, a good clinician, who had chosen dermatology not out of greed but because the system had made it rational. The system had told him: this is where the money is, this is where the chaemyeon is, this is what a successful doctor looks like. And he'd listened. And now the system was saying something different, and his entire career was being recalculated while he stood in a conference room trying not to drop his tablet.
 
-Chaemyeon. The word arrived in her mind with her father's voice attached to it. Her father—Dr. Yoon Tae-hyun, retired orthopedic surgeon, currently playing golf at the Anyang Country Club because retired Korean surgeons of a certain generation played golf the way they performed surgery: with precision, intensity, and an unwillingness to admit they were tired. He'd wanted her to do dermatology. Had said *응급의학? 미쳤어?*—*Emergency medicine? Are you crazy?*—with the particular disappointment of a Korean father whose daughter had chosen competence over status.
+Chaemyeon. The word arrived in her mind with her father's voice attached to it. Her father—Dr. Yoon Tae-hyun, retired orthopedic surgeon, currently playing golf at the Anyang Country Club because retired Korean surgeons of a certain generation played golf the way they performed surgery: with precision, intensity, and an unwillingness to admit they were tired. He'd wanted her to do dermatology. Had said *응급의학? 미쳤어?*—*Emergency medicine? Are you crazy?*—with the disappointment of a Korean father whose daughter had chosen competence over status.
 
 The II had made her choice viable. Had correctly attributed emergency medicine and funded it properly and turned her career from martyr's calling into professional success. But her father had never fully adjusted. Still introduced her at dinners as *우리 딸, 분당서울대병원*—*my daughter, Bundang Seoul National*—emphasizing the hospital's prestige rather than her specialty. The chaemyeon of the institution substituting for the chaemyeon he wished her specialty carried.
 
@@ -280,7 +280,7 @@ The cardiac cases were spiking—not from any medical cause but from stress. Fin
 
 She'd treated nine stress-induced presentations since the cascade began. Two genuine cardiac events—both in men over sixty, both living alone, both with social connection indices below the 20th percentile. The correlation was not subtle. Isolation plus financial shock equaled cardiac vulnerability. The II's wellness algorithms should have flagged them. Maybe they had. Maybe the flags were lost in the same system-wide recalculation that was turning every number into a question mark.
 
-Her phone buzzed. She checked it between patients—standing in the hallway outside Bay 4, her back against the wall, the particular exhaustion of emergency medicine settling into her joints like cold water.
+Her phone buzzed. She checked it between patients—standing in the hallway outside Bay 4, her back against the wall, the exhaustion of emergency medicine settling into her joints like cold water.
 
 News headlines: **GLOBAL PATENT RELEASES CONTINUE. PHARMACEUTICAL SECTOR IN FREEFALL. "THE CASCADE" — WHAT IS HAPPENING?**
 
@@ -290,7 +290,7 @@ Her cardiac treatment. Phase III trial funding. Suspended.
 
 She stared at the notification. Three years of research. The nanoscale delivery mechanism that could reduce cardiac mortality by 60% in late-adopter countries. The science was done—the breakthrough was real, published, replicated. What remained was the clinical trial that would prove it at scale. The clinical trial that required funding. The funding that had just been suspended because the attribution metadata that determined how research grants were allocated had been rewritten six hours ago by someone she didn't know, for reasons she didn't understand, while she was intubating a woman whose lungs had given up.
 
-She felt something cold move through her stomach. Something more like the recognition that the ground she'd been standing on was not, in fact, solid. Had never been solid. Had been a surface maintained by the continuous agreement of systems that were now, suddenly, disagreeing.
+She felt the ground shift. The recognition that the ground she'd been standing on was not, in fact, solid. Had never been solid. Had been a surface maintained by the continuous agreement of systems that were now, suddenly, disagreeing.
 
 She called halmeoni. The phone rang three times.
 

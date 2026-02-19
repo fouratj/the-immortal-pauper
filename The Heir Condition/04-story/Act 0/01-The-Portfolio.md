@@ -8,7 +8,7 @@ He ran the numbers himself while he rode. You didn't survive in this business by
 
 He was doing 60 kph on a Honda Metropolitan through Quezon City traffic, weaving between jeepneys painted in competing shades of chrome and rust—a Cubao-Quiapo route bus belching diesel two meters to his left, its side panels advertising San Miguel Beer and some Korean skincare brand in faded decals. The digital overlay from his Vizor Pro 3 smartglasses showed Carlos's location as a pulsing blue dot. The Axon Body 3 camera clipped to his shoulder strap was recording—always recording. After the Gutierrez dispute, he'd learned to document everything.
 
-The night air was thick, the particular April humidity that coated your skin before the monsoon broke—not quite rain, not quite sweat, just *wet*. Somewhere nearby, a *lugaw* vendor's cart was producing that specific smell of rice porridge and fried garlic that meant street food and 2 AM and being young and broke. Javi wasn't young anymore. Still broke.
+The night air was thick, the April humidity that coated your skin before the monsoon broke—not quite rain, not quite sweat, just *wet*. Somewhere nearby, a *lugaw* vendor's cart was producing that specific smell of rice porridge and fried garlic that meant street food and 2 AM and being young and broke. Javi wasn't young anymore. Still broke.
 
 A news banner scrolled across the top of his display: **KORR FOUNDATION ANNOUNCES GLOBAL BROADCAST — APRIL 18 — "HUMANITY'S NEXT CHAPTER"**. He dismissed it with a blink. Whatever the richest man on Earth wanted to announce, it wouldn't change his immediate problem.
 
@@ -18,11 +18,11 @@ The blue dot wasn't moving.
 
 ---
 
-Rosa Santos clocked out at 21:52, twelve hours into her shift at Manila General Hospital. Forty-seven patients across three wards, two emergency stabilizations. The second one had been Mrs. Reyes in Ward C—sixty-eight, cardiac arrhythmia that the night resident had misread as anxiety. Rosa had caught it from the doorway. Something in the rhythm of the woman's breathing, the particular gray around her lips that she'd learned to read years before any algorithm could flag it. She'd called the code before the monitors alarmed. The resident—Dr. Aquino, three months in, still confusing confidence with competence—had looked at her afterward with that expression they all got when a nurse saved them from killing someone: half gratitude, half resentment, entirely unable to say *thank you* without it sounding like an admission. He'd learn. They all did, eventually. Or they didn't, and the nurses caught the ones they missed, and the system credited the catches to medicine rather than to the woman who'd been watching the patient's face while the doctor watched the chart.
+Rosa Santos clocked out at 21:52, twelve hours into her shift at Manila General Hospital. Forty-seven patients across three wards, two emergency stabilizations. The second one had been Mrs. Reyes in Ward C—sixty-eight, cardiac arrhythmia that the night resident had misread as anxiety. Rosa had caught it from the doorway. Something in the rhythm of the woman's breathing, the gray around her lips that she'd learned to read years before any algorithm could flag it. She'd called the code before the monitors alarmed. The resident—Dr. Aquino, three months in, still confusing confidence with competence—had looked at her afterward with that expression they all got when a nurse saved them from killing someone: half gratitude, half resentment, entirely unable to say *thank you* without it sounding like an admission. He'd learn. They all did, eventually. Or they didn't, and the nurses caught the ones they missed, and the system credited the catches to medicine rather than to the woman who'd been watching the patient's face while the doctor watched the chart.
 
 She was good at this. That was the thing nobody's algorithm captured and Rosa herself rarely thought about directly—not as pride, which was a luxury, but as fact. She knew what dying looked like. She knew what almost-dying looked like. She knew the difference between the gray of exhaustion and the gray of a heart forgetting its rhythm, and she knew it the way she knew Tagalog, in the body, without translation. Eight years of twelve-hour shifts had given her that. The II's attribution system valued it at 34th percentile—below Dalisay, who'd been on ward for three months and still mixed up the cardiac drip rates, but who'd published a case study with Dr. Aquino's name on it. The algorithm saw the publication. It didn't see Rosa in the doorway, reading Mrs. Reyes's lips.
 
-Her scrubs smelled like iodine and the particular staleness of recirculated hospital air—the AC units working overtime against April, never quite winning.
+Her scrubs smelled like iodine and the staleness of recirculated hospital air—the AC units working overtime against April, never quite winning.
 
 She checked her bank account while waiting for the elevator, her Prism 9's cracked screen protector catching the fluorescent light. The case was held together with a rubber band where the clip had broken six months ago. ₱8,240. Then opened the medication reminder: Lianne's GlucoSync subscription, four days remaining. The monthly nanopatch—a postage-stamp-sized device, matte gray with a subtle hexagonal pattern, that regulated blood sugar automatically—cost ₱4,800 to renew. It adhered to the skin with a cool, almost gel-like texture that Lianne said felt like a second layer of skin after the first hour. Her next paycheck came Tuesday.
 
@@ -40,7 +40,7 @@ Rosa had seen Damon Korr's face on a billboard once, riding the MRT home after a
 
 The elevator dinged. Rosa stepped out, leaving them to their speculation.
 
-Marco's door was closed when she got home. It had been closed for four months. Through the thin walls she could hear the neighbor's TV—*Eat Bulaga* reruns, the hosts' manic laughter bleeding through the concrete—and somewhere down the hall a baby crying, and the particular creak of the building settling into night. The apartment smelled like the adobo she'd left in the pot, pork fat going cold, vinegar sharp in the humid air.
+Marco's door was closed when she got home. It had been closed for four months. Through the thin walls she could hear the neighbor's TV—*Eat Bulaga* reruns, the hosts' manic laughter bleeding through the concrete—and somewhere down the hall a baby crying, and the creak of the building settling into night. The apartment smelled like the adobo she'd left in the pot, pork fat going cold, vinegar sharp in the humid air.
 
 ---
 
@@ -94,7 +94,7 @@ The guy nodded slowly. "*Putangina.*" The word needed no translation.
 
 The guy turned back toward the group. "Oy, Carlos. You know this guy?"
 
-Carlos' face did something complicated—not quite annoyance, not quite fear. Something closer to resignation.
+Carlos' face did something complicated. Resignation, mostly.
 
 "Yeah."
 
@@ -130,7 +130,7 @@ She'd opened this tab fourteen times. Hadn't clicked anything yet.
 
 She clicked [Review full terms].
 
-Forty-seven pages. She scrolled to Section 8: Intervention Authority. The words were dense, deliberately so—the particular density of language designed to be technically accurate and functionally unreadable, the kind of prose that only existed to protect the people who wrote it from the people who signed it. Rosa read it anyway. She was a nurse. She'd spent eight years reading clinical language that hid ugly realities behind polysyllabic Latin, and she recognized the technique. *Escalated intervention procedures* meant someone else decides. *Increased monitoring* meant your child is watched. *Residential treatment placement* meant they take them. *Emergency medical intervention* meant they take them at night.
+Forty-seven pages. She scrolled to Section 8: Intervention Authority. The words were dense, deliberately so—the density of language designed to be technically accurate and functionally unreadable, the kind of prose that only existed to protect the people who wrote it from the people who signed it. Rosa read it anyway. She was a nurse. She'd spent eight years reading clinical language that hid ugly realities behind polysyllabic Latin, and she recognized the technique. *Escalated intervention procedures* meant someone else decides. *Increased monitoring* meant your child is watched. *Residential treatment placement* meant they take them. *Emergency medical intervention* meant they take them at night.
 
 She knew what those words meant because she'd seen what they meant. Different company, different contract, same clause. Three years ago.
 
@@ -164,7 +164,7 @@ Javi's face must have shown something because the guy smiled—first expression 
 
 "Let me tell you what happened to Marco, then. So you know what you're part of." The guy's voice went flat, reciting facts like a police report. "Guy named Ernesto had contract with him. Eighteen percent, just like you. Marco started slipping. Ernesto filed breach, sold the contract to MentorMaxx for ₱60K. They showed up at 2 AM with private security. Took him to some facility for six months."
 
-Javi felt something cold in his stomach.
+Javi's stomach dropped.
 
 "Marco came back. He doesn't leave the house now. Doesn't talk. His baseline's probably close to zero." Rico paused. "So when I see you here, checking on Carlos, talking about your equity stake—I think about Marco."
 
@@ -509,7 +509,7 @@ Silence on the line.
 
 "—or file a breach report on one of my underperforming contracts."
 
-Del paused. When he spoke again, there was something almost like warmth in his voice. "Now you're thinking like a businessman." A click of keys. "Thirty days. Good talking to you, Javi."
+Del paused. When he spoke again, there was warmth in his voice, or a performance of it. "Now you're thinking like a businessman." A click of keys. "Thirty days. Good talking to you, Javi."
 
 The call ended at 14:47.
 

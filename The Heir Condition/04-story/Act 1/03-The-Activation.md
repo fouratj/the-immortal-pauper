@@ -37,7 +37,7 @@ The officer stepped away, spoke into his earpiece. Kaelen stood motionless in th
 
 Maybe he was. Maybe you didn't come back from this, even if the math said you should.
 
-He forced himself to inhale. The corridor air tasted like stage fog and fear-sweat and the particular industrial cleaner they used on backstage surfaces. If Damon said no. If security escorted him out. If three years of preparation collapsed because of a protocol change he didn't have predicted—
+He forced himself to inhale. The corridor air tasted like stage fog and fear-sweat and the industrial cleaner they used on backstage surfaces. If Damon said no. If security escorted him out. If three years of preparation collapsed because of a protocol change he didn't have predicted—
 
 The officer returned. "Mr. Korr says two minutes. Through there."
 
@@ -262,7 +262,7 @@ The woman who'd called him family was sobbing his uncle's name. She didn't know.
 
 He found the secure room he'd identified six months ago. Administrative section, third floor. The door was exactly where his maps said it would be. The lock responded to his biometrics exactly as expected. Everything was working exactly as planned.
 
-He locked the door. Slid down the wall until he was sitting on industrial carpet that smelled of cleaning chemicals and something else—the particular mustiness of a room that was rarely used, that had been waiting here for months, waiting for him to come and do what he was about to do.
+He locked the door. Slid down the wall until he was sitting on industrial carpet that smelled of cleaning chemicals and something else—the mustiness of a room that was rarely used, that had been waiting here for months, waiting for him to come and do what he was about to do.
 
 His phone was vibrating continuously. Thousands of authentication requests. The cascade was queued. The liberation was staged. Three years of work, ready to execute.
 

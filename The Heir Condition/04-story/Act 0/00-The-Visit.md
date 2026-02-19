@@ -37,7 +37,7 @@ Seo-jin sat on the bed—the only other sitting surface—and watched her grandm
 
 "Since 1956," Soon-ok said, as if reading her granddaughter's thoughts. "Same year your grandfather came home from the army. I used to buy yakgwa from a woman in Nampo-dong who fried them in a cart. No sesame. Just flour and honey and whatever oil she had. They tasted—" She paused, holding a cookie at eye level, studying it. "They tasted like something you'd eat if you'd been eating nothing."
 
-Seo-jin knew this was an opening. Not a conscious one—her grandmother didn't arrange conversations like chess games. The stories came when they came, triggered by tastes or smells or the particular quality of afternoon light, and you either listened or you missed them.
+Seo-jin knew this was an opening. Not a conscious one—her grandmother didn't arrange conversations like chess games. The stories came when they came, triggered by tastes or smells or the quality of afternoon light, and you either listened or you missed them.
 
 "What was nothing?" Seo-jin asked. She'd asked before. The answer was never the same twice, not because it was invented, but because memory was a living thing that changed shape depending on which part you pressed.
 
@@ -93,7 +93,7 @@ Seo-jin already knew where this was going.
 
 "He stole it. Everything. Eighteen women's savings, three years' worth. Gone." Soon-ok's voice was perfectly calm. The calm of something that had been processed for fifty years. "We couldn't prove it. No records—he kept the books in a notebook, handwritten, and the notebook disappeared. We went to the factory owner. The owner said it was our problem—we'd given the money to Bae voluntarily. We went to the police. The police said prove it."
 
-She looked at her granddaughter. The afternoon light caught her face, and for a moment Seo-jin saw something in her grandmother's eyes that she recognized from the ER—the particular flatness of someone describing a wound that had scarred over but never fully healed.
+She looked at her granddaughter. The afternoon light caught her face, and for a moment Seo-jin saw something in her grandmother's eyes that she recognized from the ER—the flatness of someone describing a wound that had scarred over but never fully healed.
 
 "옛날에는 사람만 믿었어." *In the old days, we only trusted people.* "That was all we had. No systems. No records. No—what do you call it—attribution. Just people. You trusted the foreman because he was the foreman. You trusted the savings pool because everyone you knew was in it. You trusted your neighbor because she trusted you."
 
@@ -151,7 +151,7 @@ She produced, from somewhere Seo-jin could never identify—a cabinet? A drawer?
 
 "먹어." *Eat.*
 
-Seo-jin ate. The japchae tasted like sesame oil and sweet potato noodles and the particular flavor of something made by a person who had survived everything and decided that the appropriate response to survival was to feed people. The taste was not in any database. The recipe was not in any commons. It existed in one pair of hands that had stitched wigs and carried brothers and lost savings and outlived a husband and now, at eighty-nine, produced japchae from dimensional pockets with the efficiency of a supply chain and the warmth of a thing no supply chain could replicate.
+Seo-jin ate. The japchae tasted like sesame oil and sweet potato noodles and the flavor of something made by a person who had survived everything and decided that the appropriate response to survival was to feed people. The taste was not in any database. The recipe was not in any commons. It existed in one pair of hands that had stitched wigs and carried brothers and lost savings and outlived a husband and now, at eighty-nine, produced japchae from dimensional pockets with the efficiency of a supply chain and the warmth of a thing no supply chain could replicate.
 
 They ate together. Sunday. Bundang. The system hummed around them—funding the facility, attributing the care workers, measuring the outcomes, optimizing the warmth. And inside the system, in a small room with a heated floor, two women shared food the way women had been sharing food since before Korea was Korea.
 
