@@ -441,9 +441,7 @@ His phone buzzed: Carlos's blue dot had stopped. Home. 00:47.
 
 He wouldn't have to update the intervention status. Small win.
 
-He opened Marco Santos's file—public record, post-breach. Guild policy required all terminated contracts to be visible to active specialists in the same region, ostensibly for risk assessment. In practice, it meant you could see exactly how your predecessors had failed.
-
-Ernesto's final note before filing breach: *Pattern deviation probability 0.91. Baseline projected to drop ₱800K-₱1.2M. Recommend escalated intervention or contract termination.*
+He opened the guild app, thumbed his specialist credential. Outcome lookup, family cross-reference: *Santos*. One closed file: Marco Santos. He tapped it. Ernesto's final note before filing breach: *Pattern deviation probability 0.91. Baseline projected to drop ₱800K-₱1.2M. Recommend escalated intervention or contract termination.*
 
 Three days later: breach filed.
 
