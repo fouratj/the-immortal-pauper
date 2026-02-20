@@ -1,4 +1,4 @@
-# The Visit
+# Chapter 0: The Visit
 *Sunday, April 13, 2050 — Bundang, Gyeonggi Province*
 
 ---
@@ -15,7 +15,7 @@ The hallway to Wing C was lined with photographs—residents' families, mostly, 
 
 Seo-jin thought, sometimes, about what this hallway would have looked like thirty years ago. Before the II. Before attribution. Before the funding algorithms that turned "elder care" from a line item someone was always trying to cut into a sector with measurable, trackable, investable returns. She'd done a rotation in geriatrics during her residency and had read the case studies from the 2020s: the understaffed facilities, the residents left in beds for hours, the care workers earning less than convenience store clerks because the system couldn't see what they did. The godoksa statistics—lonely deaths, thousands per year, bodies found after days or weeks because nobody checked. Nobody was paid to check. Nobody was attributed for checking.
 
-Now someone was. The system checked. Not perfectly—the elderly man in her ER last Thursday was proof of that—but consistently. Measurably. In a way that could be audited and improved.
+Now someone was. The system checked. Consistently. Measurably. In a way that could be audited and improved. Not perfectly—Park Jae-won, the retired engineer she'd treated earlier that week, was proof of that. Seventy-one. Alone in a villa in Yatap-dong. Social connection index: 12th percentile. He'd arrived in her ER at one in the morning holding his left arm, four days into cardiac symptoms he'd told no one about because there was no one to tell. The wellness algorithms had his data, had probably flagged declining indicators—but a flag wasn't a person, and Park Jae-won had no one. She'd caught the NSTEMI in time. Catheterization went clean. But the gap between the system's alert and a voice saying *go to the hospital* had nearly killed him.
 
 She knocked on Room C-14. Didn't wait for an answer. Halmeoni never said "come in"—she said "why are you knocking, you think I don't know it's you?"
 

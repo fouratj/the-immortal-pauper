@@ -177,23 +177,26 @@ function printDivider() {
  * Get all markdown files from story directory (recursively through Acts)
  */
 async function getStoryFiles() {
-  const acts = ['Act 1', 'Act 2', 'Act 3', 'Appendix'];
+  const entries = await readdir(STORY_DIR, { withFileTypes: true });
+  const actDirs = entries
+    .filter(e => e.isDirectory())
+    .map(e => e.name)
+    .sort();
+
   const allFiles = [];
 
-  for (const act of acts) {
+  for (const act of actDirs) {
     const actDir = join(STORY_DIR, act);
-    if (existsSync(actDir)) {
-      const files = await readdir(actDir);
-      const mdFiles = files
-        .filter(file => file.endsWith('.md'))
-        .sort()
-        .map(file => ({
-          path: join(actDir, file),
-          name: file,
-          act: act
-        }));
-      allFiles.push(...mdFiles);
-    }
+    const files = await readdir(actDir);
+    const mdFiles = files
+      .filter(file => file.endsWith('.md'))
+      .sort()
+      .map(file => ({
+        path: join(actDir, file),
+        name: file,
+        act: act
+      }));
+    allFiles.push(...mdFiles);
   }
 
   return allFiles;

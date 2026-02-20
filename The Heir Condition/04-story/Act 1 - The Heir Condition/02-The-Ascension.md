@@ -66,7 +66,7 @@ In Beijing's Tiananmen Square, the elderly man dropped his tea cup. In London's 
 
 The applause, when it came, was uncertain—building in waves, cresting and falling, some people clapping because they were moved, others because they didn't know what else to do with their hands.
 
-In São Paulo, Maria Santos gripped her husband's hand. In Manila, Rosa sat in the break room at Manila General, the phone held together with a rubber band trembling in her grip. In Seoul, Seo-jin stood between the vending machine and the microwave, holding a cup of coffee she'd forgotten to drink.
+In São Paulo, Maria Santos gripped her husband's hand. In Manila, Rosa sat in the break room at Manila General, the phone held together with a rubber band trembling in her grip. In Seoul, Seo-jin stood in the Bundang hospital break room between the vending machine and the microwave, holding a cup of coffee she'd forgotten to drink, an anesthesiologist beside her eating convenience-store kimbap.
 
 Damon raised a hand. The applause subsided.
 
@@ -86,10 +86,14 @@ His voice caught. He swayed, caught himself on the podium. Sweat appeared on his
 
 His knees buckled. He grabbed the podium with both hands, knuckles white, fighting to stay upright. For three eternal seconds, the most powerful man on Earth clung to a piece of furniture while his heart forgot how to beat.
 
+In Bundang, Seo-jin had seen it coming. The hand toward the chest, half a minute ago—not rhetorical, involuntary. She'd said *심장이야* to a room that wasn't listening, reading his body through the broadcast the way her grandmother read pine bark: before language, before measurement. The anesthesiologist beside her had set down his kimbap.
+
 Then he fell.
 
 At 11:47 AM Coordinated Global Time, eighteen minutes into the most-watched speech in human history, Damon Korr collapsed.
 
 The medical teams rushed the stage. The world watched in stunned silence, unsure if this was part of the performance—some elaborate demonstration of the resurrection technology he'd just announced. It wasn't. Within minutes, the most powerful man on Earth was declared dead on the stage he'd built to announce his immortality.
 
-The revolution had begun, and the whole world was watching.
+In Bundang, Seo-jin's phone buzzed—hospital surge alert. She wasn't on-call. She went to the ER anyway.
+
+그래도.
