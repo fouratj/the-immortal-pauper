@@ -24,7 +24,7 @@
 
 - [ ] **Rebalance The Confrontation** to reflect genuine uncertainty. No vindicated revolution — Kaelen defending a bet whose payoff hasn't arrived. Damon can see the architecture, admire the concept, trace the endgame — but point at the chaos and say this is what premature reform looks like. Both men seeing the same position, disagreeing about whether it's winning. Myanmar as proof the execution was reckless even if the concept was sound.
 
-- [ ] **Add Stephensonian digression about futures pricing** — financial destruction happens at blockchain speed while physical reality lags. The market prices in the future before the future arrives. Margaret lives in the gap between market knowledge and lived experience. Possible locations: cascade chapters or Fifteen Moves during cascade design.
+- [x] **Add Stephensonian digression about futures pricing** — financial destruction happens at blockchain speed while physical reality lags. The market prices in the future before the future arrives. Margaret lives in the gap between market knowledge and lived experience. Inserted into Fifteen Moves Scene VI, after ARBITER's 78% confidence. Three speeds taxonomy, Osaka futures riff, Margaret as engineering archetype.
 
 - [ ] **Strip Activation flashbacks** that Fifteen Moves now renders redundant. Chess games, sandalwood, Moscow set, "I've got you, Kael" — reader has lived these. Replace flashback with present-tense sensation. The sandalwood hits; Kaelen doesn't explain why it matters. The reader knows.
 
