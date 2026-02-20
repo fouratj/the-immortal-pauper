@@ -28,7 +28,7 @@ His voice came out right. Thank God for that.
 
 Kaelen closed the door. The latch clicked with a sound like a cell door.
 
-His hands were shaking. They'd been shaking since he dry heaved in the bathroom, and the bathroom felt like hours ago even though it was seven minutes. Seven minutes of standing at the sink, looking at his own face in the mirror, trying to recognize the person who was about to walk into this room. The person who had spent three years planning a murder and forty-eight hours executing it and five days waiting for the victim to request a meeting.
+His hands were shaking. They'd been shaking since he dry heaved in the bathroom, and the bathroom felt like hours ago even though it was seven minutes. Seven minutes of standing at the sink, looking at his own face in the mirror, trying to recognize the person who was about to walk into this room. The person who had spent three years planning a murder and forty-eight hours executing it and five days waiting for the victim to request a meeting. Five days without ARBITER. Five days of thinking alone—no computational partner to check his reasoning, no voice to say *I can't find one* or *it might still be correct*. The erasure had been clean. Three years of conversation, gone at Hour 52. He'd never felt the absence more than now, walking into this room with nothing but his own mind and the suspicion that his own mind wasn't enough.
 
 *Request*. That was the word the message had used. "I'm requesting a meeting." As if this were a calendar conflict. As if Kaelen could decline.
 
@@ -58,7 +58,7 @@ The sensation was strange—familiar yet not. His old body would have known what
 
 He didn't want to be impressed. Wanted to see chaos, incompetence, the amateur fumbling of a nephew who'd thought he understood systems but couldn't actually execute. That would have been easier. That would have justified rage without complication.
 
-Instead he saw elegance. The same elegance he'd taught Kaelen to recognize in chess positions—the way scattered pieces could orient toward a single purpose, the way apparent disorder could mask devastating coordination. The cascade wasn't chaos. It was architecture. *His* architecture, perfected.
+Instead he saw elegance. The cascade wasn't chaos. It was architecture—*his* architecture, perfected. Scattered pieces oriented toward a single purpose, apparent disorder masking devastating coordination. Every move answering two questions: what does this do *now*, and what does it make possible *later*? Positions, not moves. The lesson he'd taught a fifteen-year-old across a chess board in Pacific Heights, executed at civilizational scale.
 
 The patent releases flowed through the II network like water finding its level. The housing dissolutions triggered downstream price recalculations with the precision of falling dominoes. The attribution metadata—his own formula, rewritten—had propagated through eleven billion nodes in sixteen hours.
 
@@ -231,7 +231,7 @@ Kaelen couldn't breathe.
 
 The counter-argument was correct. Not completely—the alternative of inaction wasn't neutral, the extraction would have continued, the aristocracy would have formed. He still believed that.
 
-But the specific charge—that he'd done exactly what he'd condemned—landed in a place he had no defense for.
+But the specific charge—that he'd done exactly what he'd condemned—landed in a place he had no defense for. If ARBITER were here, it would run the logic chain, find the flaw or confirm there wasn't one. ARBITER wasn't here. Kaelen was alone with the argument and the argument was winning.
 
 "There wasn't time," he said. His voice sounded thin.
 

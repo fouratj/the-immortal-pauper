@@ -44,7 +44,7 @@ Marco's door was closed when she got home. It had been closed for four months. T
 
 ---
 
-Javi parked the scooter thirty meters from the chain-link fence, squeezed between a sari-sari store's display rack—Marlboro ads and sachets of Nescafé hanging like prayer flags—and a parked tricycle with a hand-painted sidecar that read "GOD BLESS OUR TRIP" in faded yellow. The air here was different from QC: open drainage, frying garlic from somewhere, the particular sweetness of rotting fruit drifting from the Divisoria overflow a few blocks east.
+Javi parked the scooter thirty meters from the chain-link fence, squeezed between a sari-sari store's display rack—Marlboro ads and sachets of Nescafé hanging like prayer flags—and a parked tricycle with a hand-painted sidecar that read "GOD BLESS OUR TRIP" in faded yellow. The air here was different from QC: open drainage, frying garlic from somewhere, the sweetness of rotting fruit drifting from the Divisoria overflow a few blocks east.
 
 Carlos was visible through the gaps—sitting on a concrete barrier with five other people, ages ranging from mid-teens to early twenties. No obvious criminal activity. One of them was smoking. They were just talking, the way people talked when they had nowhere else to be.
 

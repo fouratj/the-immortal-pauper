@@ -47,7 +47,7 @@ He turned when Kaelen entered. That familiar face. The charcoal adaptive-fiber s
 
 "Kael." Damon smiled. "Nervous for me?"
 
-The smile hit Kaelen somewhere he hadn't armored. It was the real smile—not the camera smile, the one Damon used for investors and world leaders. This was the smile for family, the one that said *I see you*. The smile he'd given Kaelen at his mother's funeral, right before saying *I've got you, Kael. I've got you*.
+The smile hit Kaelen somewhere he hadn't armored. It was the real smile—not the camera smile, not the one for investors and world leaders. The one for family. The one that said *I see you*.
 
 "Something like that." Kaelen crossed the room. His legs moved without permission. He was going to hug his uncle, and his uncle was going to die, and both of these things were happening to someone else while he watched from very far away. "I wanted to—before you go out there—"
 
@@ -55,7 +55,7 @@ He embraced his uncle.
 
 His arms closed around Damon and the world narrowed to the space between their bodies. The pin pressed between them—he felt it shift, felt the substrate layer make contact with the fabric of Damon's suit—but that was happening in another universe, the one where this was a plan and he was executing it. In this universe, the only one that felt real, his uncle was holding him.
 
-Damon smelled like sandalwood. The same cologne he'd worn to Kaelen's mother's funeral, to every Christmas dinner, to the chess games in the study with the fire dying. Twenty years of that smell. Twenty years of safety. Of the voice that said *I've got you* when everything else was falling apart.
+Damon smelled like sandalwood.
 
 *I'm going to miss you*, Kaelen thought, and the thought made no sense because Damon would be back in forty-eight hours-but this Damon, the one holding him now, the one whose heart was beating against Kaelen's chest, the one whose voice rumbled through his ribcage when he spoke—this specific configuration of atoms, this particular arrangement of memories and mannerisms and the exact way his hand patted Kaelen's back twice, the way he always did, the way he'd done since Kaelen was twelve—*this* Damon was going to die. The backup would be someone else. Someone with the same memories, the same voice, the same sandalwood cologne. But not *this*.
 
@@ -118,13 +118,7 @@ The nanobot found skin. Its surface proteins recognized human keratinocytes and 
 
 "For fifty thousand years, our species has been defined by scarcity..."
 
-Kaelen had heard this speech forty times. Had helped Damon refine the rhetoric, adjust the pacing, workshop the emotional beats. Section One: Historical Context. Then Technological Achievement. Then Governance Triumph. Building toward the immortality announcement in Section Five.
-
-He remembered the first draft, three months ago. Damon at his desk in the Pacific Heights study, reading paragraphs aloud, asking *Does this land?* and *Is this too grandiose?* The fire crackling. The chess set on the side table—the Moscow set, the one Kaelen had given him two Christmases ago, carved from Karelian birch by an eighty-year-old craftsman who'd learned the trade from his grandmother. Damon had been so pleased with it. Had set up a position from one of their old games and left it there, frozen mid-attack, as if the game might resume someday.
-
-Kaelen had sat in the leather chair across from Damon's desk, reading drafts, offering suggestions, knowing he was helping to write the speech his uncle would never finish.
-
-Damon would never reach Section Seven.
+Kaelen had heard this speech forty times. Had helped refine it. Knew every section, every beat, every pause Damon had rehearsed. Knew which lines would land and which would be forgotten. Knew his uncle would never reach Section Seven.
 
 The nanobot was swimming now—if "swimming" described the corkscrew rotation of its ATP-powered flagellum against the river of plasma. It was impossibly small against the scale of the circulatory system: a single bacterium navigating an ocean. But it wasn't alone. Behind it, still breaching the dermis, seventy-seven million others followed the same chemical gradient.
 
@@ -150,7 +144,7 @@ Of her son Marco, who'd come back from the MentorMaxx facility and hadn't left h
 
 *That's why you're doing this. That's the calculation. One temporary death versus a trillion lives.*
 
-But the calculation didn't mention the smell of sandalwood. The calculation didn't account for the chess games, the Christmas dinners, the hand on his shoulder at his mother's funeral. The calculation felt clean. The cost was not.
+But the calculation didn't mention the smell of sandalwood. The calculation felt clean. The cost was not.
 
 *You can't afford to think about that right now. You can think about it later. You can carry it later.*
 
@@ -282,12 +276,6 @@ He authorized another transfer. Another. Another.
 
 At Hour 4, he moved.
 
-The bunker was three hours away by private aircraft—a facility in the Nevada desert that his uncle had built for "sensitive projects requiring operational security." Separate power grid. Separate reporting structure. The kind of place where you could computationally model the end of civilization and no one would notice until the quarterly audit.
-
-Kaelen had booked it two weeks ago under "estate planning simulations." By the time anyone questioned the allocation, the cascade would be irreversible. The aircraft was fully automated—no pilot, no manifest to file, no one to ask where he'd gone.
-
-He landed at 3:47 AM local time. The bunker smelled like ozone and cold recycled air. The servers were already spinning up, pulling power from his uncle's private fission reactors—built before the 2043 Accords, grandfathered into the old rules.
-
-The irony was thick enough to taste.
+The bunker. Three hours by automated aircraft. The same facility where he'd run the models thirteen months ago, where the servers had shown him the red basin and the single blue line. It smelled the same—ozone, cold recycled air, expensive betrayal.
 
 He made coffee. Sat down. And continued the work of destroying everything his uncle had built.

@@ -13,23 +13,9 @@ He sipped the Estonian coffee. It tasted like burnt wood and regret—which was 
 
 Kaelen pulled up the holoscreen. São Paulo. Rua Cardoso de Almeida. 3:47 AM local time.
 
-His mind slipped sideways, the way it did when he was exhausted. São Paulo. He'd been there once, with Damon. 2044. A conference on II governance standards. They'd stayed at a hotel overlooking Paulista Avenue, and after the final session Damon had insisted on finding authentic feijoada. They'd walked for an hour through unfamiliar neighborhoods, Damon navigating by some internal compass that Kaelen never understood, until they found a hole-in-the-wall place with plastic chairs and paper napkins and a grandmother in the kitchen who didn't speak English.
+He thought about the feijoada place. The grandmother in the kitchen. Damon eating three bowls and saying *the best things resist measurement*. Six months ago. The same streets he was now dissolving trust holdings on.
 
-The feijoada had been incredible. Damon had eaten three bowls.
-
-"This is what I mean about systems," Damon had said, wiping his mouth. "The algorithms would never have sent us here. No reviews. No ratings. No optimization. Just—" He'd gestured at the grandmother, at the steaming pot, at the locals eating elbow-to-elbow. "Just people who know what they're doing, passing it down."
-
-Kaelen had laughed. "So you're saying algorithms are bad?"
-
-"I'm saying they're incomplete. They optimize for what's measurable. But the best things—" Damon had looked at the grandmother, who was scolding someone in rapid Portuguese. "The best things resist measurement."
-
-*Like love*, Kaelen thought now. *Like family. Like the thing I'm about to destroy.*
-
-Carlos and Maria Santos—the couple he'd met in 2047, saving for eight years for an apartment that would cost 80% of their income for thirty years. Two blocks away, they were probably sleeping. They didn't know Damon. Had never eaten feijoada with him. Didn't know that the man who'd built the system crushing them was also the man who'd walked an hour through an unfamiliar city to find a grandmother's cooking.
-
-People were complicated. Systems weren't.
-
-That was the problem.
+Carlos and Maria Santos were probably sleeping two blocks away. They didn't know Damon. Didn't know the man who'd built the system crushing them had walked an hour through their neighborhood to find a grandmother's cooking.
 
 "Authorize dissolution. Release construction patents to commons."
 
@@ -284,29 +270,29 @@ She felt the ground shift. The recognition that the ground she'd been standing o
 
 She called halmeoni. The phone rang three times.
 
-"서진아." Her grandmother's voice was calm. The particular calm of someone who had survived enough that a global economic crisis registered as *weather*. "뉴스 봤어."
+"서진아." Her grandmother's voice was calm. The calm of someone who had survived enough that a global economic crisis registered as *weather*. "뉴스 봤어."
 
-"할머니, 괜찮아요?" *Are you okay?*
+"할머니, 괜찮아요?"
 
-"괜찮지. 여기 다 괜찮아. 은지가 아침에 수정과 갖다줬어." *I'm fine. Everything's fine here. Eunji brought sujeonggwa this morning.* 
+"괜찮지. 여기 다 괜찮아. 은지가 아침에 수정과 갖다줬어."
 
 Of course she had. Tuesday. Grandfather died on a Tuesday. Eunji remembered.
 
-"서진아, 무서워?" *Seo-jin-ah, are you scared?*
+"서진아, 무서워?"
 
 Seo-jin didn't answer immediately. She was standing in a hospital hallway, her back against the wall, fourteen hours into a shift that was supposed to be eight, treating the cardiac fallout of an economic earthquake while her research funding evaporated. Was she scared?
 
-"좀요." *A little.*
+"좀요."
 
-"전쟁 때도 이랬어." Her grandmother's voice softened. *It was like this during the war too.* "모든 게 무너지는 것 같았어. 정부, 군대, 은행, 다. 근데 알잖아—"
+"전쟁 때도 이랬어." Her grandmother's voice softened. "모든 게 무너지는 것 같았어. 정부, 군대, 은행, 다. 근데 알잖아—"
 
 Seo-jin closed her eyes. She knew what came next. Had heard it a hundred times. Needed to hear it again.
 
 "그래도 살았지." *But still, I lived.*
 
-The words landed in her chest and did what they always did—not comfort exactly, but *orientation*. A compass reading. The reminder that the ground had been unstable before, and that the response to unstable ground was not paralysis but movement. One foot, then the other. One patient, then the next. One bowl of doenjang-jjigae, then another. The system was shaking. The 그래도 was not.
+The words landed in her chest and did what they always did. The system was shaking. The 그래도 was not.
 
-"할머니, 나 다시 가봐야 해요." *I have to go back.*
+"할머니, 나 다시 가봐야 해요."
 
 "알아. 서진아—" A pause. "밥 먹었어?"
 
@@ -360,7 +346,7 @@ Now Kaelen stood alone in a bunker, twenty-two hours into murdering his uncle, a
 
 BioGenesis. $94 billion. 4,200 employees. 67% owned by a dead man who would be resurrecting in twenty-six hours.
 
-If he released the patents to commons, resurrection would become affordable—from $4.7 million to $180,000. From 2 million humans who could afford it to 48 million.
+If he released the patents to commons, resurrection costs would drop—from $500 million to roughly $45 million. Still cutting-edge. Still enormous. But from a few thousand humans who could afford it to perhaps a hundred thousand.
 
 But if he released the patents first, the workers' equity would become worthless. If he transferred equity first, they'd own a company that could charge millions indefinitely. They'd resist commons release.
 
@@ -372,9 +358,9 @@ Neither did the memory of his uncle's hand on that glass, looking down at the va
 
 "ARBITER. What happens to resurrection costs if patents move to commons?"
 
-"Current cost: $4.7 million per procedure. If patents move to commons and infrastructure converts to non-profit: cost drops to $180,000—mostly energy and biological materials. Accessibility increases by approximately 2,400%."
+"Current cost: $500 million per procedure. If patents move to commons and infrastructure converts to non-profit: cost drops to approximately $45 million—mostly energy, biological materials, and dedicated compute. Still not democratic. But an order of magnitude more accessible."
 
-From 2 million to 48 million.
+From a few thousand to perhaps a hundred thousand. Not democratic. But a crack in the wall.
 
 "Release patents to commons. Transfer equity in BioGenesis infrastructure to workers. Endow the company as non-profit with $20 billion operating fund. Workers become employees of public benefit corporation, guaranteed employment at current salaries for minimum 10 years, pension contributions maintained."
 

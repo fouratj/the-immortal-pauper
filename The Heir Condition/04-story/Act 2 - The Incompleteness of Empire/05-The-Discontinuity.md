@@ -316,7 +316,7 @@ He played chess against ARBITER. Lost in fourteen moves. Lost the second game in
 
 "I'm thinking about the last time I played someone who could actually beat me."
 
-He'd been fifteen. Christmas 2040. Damon's study in Pacific Heights, the fire dying because neither of them would break concentration to add wood. Outside, San Francisco was cold and foggy, but in here there was only warmth and the click of pieces and the particular smell of Damon's study: leather, old books, the sandalwood cologne he'd worn since Kaelen could remember.
+He'd been fifteen. Christmas 2040. Damon's study in Pacific Heights, the fire dying because neither of them would break concentration to add wood. Outside, San Francisco was cold and foggy, but in here there was only warmth and the click of pieces and Damon's study: leather, old books, sandalwood.
 
 Kaelen had just played Nf6, thinking he was developing normally, and Damon had looked at him across the board with that expression—not disappointment, something more patient. More pedagogical.
 

@@ -117,7 +117,7 @@ Seo-jin waited.
 
 "Because your grandfather died on a Tuesday. Twenty-two years ago. The machine doesn't know that. Eunji knows—Park Eunji, the morning nurse. She brings me extra sujeonggwa on Tuesdays. Not because her score tells her to. Because she noticed."
 
-Seo-jin felt something shift in her chest. The particular weight of a truth she'd known intellectually—that systems were incomplete, that measurement missed things—arriving as a feeling instead of a fact.
+Seo-jin felt something shift in her chest. The weight of a truth she'd known intellectually—that systems were incomplete, that measurement missed things—arriving as a feeling instead of a fact.
 
 "할머니. The system that pays Eunji—the attribution, the funding—that's what gives her the time to notice. Without the system, she'd be working two jobs. She wouldn't have time to bring you sujeonggwa."
 
