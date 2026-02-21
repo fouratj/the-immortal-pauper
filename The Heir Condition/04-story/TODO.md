@@ -10,7 +10,7 @@
 
 ## Character / Scene (medium)
 
-- [ ] **Make ARBITER wrong about something early** in The Discontinuity. It dismisses a parameter (cultural resilience, informal networks, community self-organization) as "noise." Later, that exact parameter causes the Bangkok reroute failure. ARBITER's blindspot becomes the cascade's blindspot becomes Myanmar. Connects Bangkok failure to thematic argument rather than plot convenience.
+- [x] **Make ARBITER wrong about something early** in The Discontinuity. Dismisses sub-institutional trust networks (paluwagan, susu, gye) as "below resolution threshold" during parameter building. The exact thing it can't model causes the Bangkok reroute failure and is what eventually resolves the remaining 0.3% in the Archive.
 
 - [ ] **Let Seo-jin lose something not immediately replaced.** Commons transition dissolves her research consortium — institution can't justify overhead when patents are free. Colleagues scatter. $14 treatment happens but team that built it is gone. Manila collaboration with Dr. Reyes becomes rebuilding, not just expanding. Science survives. Team doesn't.
 
