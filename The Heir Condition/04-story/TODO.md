@@ -10,7 +10,7 @@
 
 ## Character / Scene (medium)
 
-- [x] **Make ARBITER wrong about something early** in The Discontinuity. Dismisses sub-institutional trust networks (paluwagan, susu, gye) as "below resolution threshold" during parameter building. The exact thing it can't model causes the Bangkok reroute failure and is what eventually resolves the remaining 0.3% in the Archive.
+- [x] **Make ARBITER wrong about something early** — in Fifteen Moves Scene VI during cascade design (Feb 2050). ARBITER dismisses sub-institutional trust networks (paluwagan, susu, gye) as "below resolution threshold"; won't affect propagation at scale. Consequence in The Cost (Hour 48): Kaelen realizes informal networks primed Myanmar's fraud filters; same networks eventually resolve remaining 0.3% (Archive).
 
 - [ ] **Let Seo-jin lose something not immediately replaced.** Commons transition dissolves her research consortium — institution can't justify overhead when patents are free. Colleagues scatter. $14 treatment happens but team that built it is gone. Manila collaboration with Dr. Reyes becomes rebuilding, not just expanding. Science survives. Team doesn't.
 
@@ -24,7 +24,7 @@
 
 - [ ] **Rebalance The Confrontation** to reflect genuine uncertainty. No vindicated revolution — Kaelen defending a bet whose payoff hasn't arrived. Damon can see the architecture, admire the concept, trace the endgame — but point at the chaos and say this is what premature reform looks like. Both men seeing the same position, disagreeing about whether it's winning. Myanmar as proof the execution was reckless even if the concept was sound.
 
-- [x] **Add Stephensonian digression about futures pricing** — financial destruction happens at blockchain speed while physical reality lags. The market prices in the future before the future arrives. Margaret lives in the gap between market knowledge and lived experience. Inserted into Fifteen Moves Scene VI, after ARBITER's 78% confidence. Three speeds taxonomy, Osaka futures riff, Margaret as engineering archetype.
+- [x] **Add Stephensonian digression about futures pricing** — financial destruction at blockchain speed, physical reality lags. Market prices in the future before it arrives. Inserted into Fifteen Moves Scene VI after ARBITER's 78% confidence. Three speeds taxonomy, Dutch merchants/VOC digression (Texel, nutmeg, de la Vega, Le Maire), retired-schoolteacher archetype (unnamed) in the gap.
 
 - [ ] **Strip Activation flashbacks** that Fifteen Moves now renders redundant. Chess games, sandalwood, Moscow set, "I've got you, Kael" — reader has lived these. Replace flashback with present-tense sensation. The sandalwood hits; Kaelen doesn't explain why it matters. The reader knows.
 
@@ -69,3 +69,5 @@
 - [x] Reduced Korean glosses in later chapters.
 - [x] Cut narrator-explains scaffolding.
 - [x] Resurrection pricing: $500M → ~$45M.
+- [x] Make ARBITER wrong early — Fifteen Moves Scene VI (cascade design), consequence in The Cost.
+- [x] Futures pricing digression — Fifteen Moves Scene VI, Dutch merchants/VOC, three speeds.
