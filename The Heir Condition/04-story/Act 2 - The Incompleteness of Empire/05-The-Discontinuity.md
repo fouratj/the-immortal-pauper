@@ -546,7 +546,71 @@ ARBITER processed. When it spoke again, its voice had shifted—less lecture, mo
 
 "And their heirs inherit the wealth, the position, the explicit knowledge—the documented strategies, the written rules. But not the implicit knowledge. Not the intuitions that only come from having to figure it out yourself. When the system shifts, when new vulnerabilities emerge, the heirs don't know how to adapt. They've never had to."
 
-Kaelen thought of his grandfather's saying, attributed to some Gulf ruler: *My grandfather rode a camel, my father drove a car, I drive a Ferrari, my son will drive a Land Rover, his son will ride a camel.* The cycle of collapse. Only the first generation builds. The wealth persists, but the understanding of how to defend it erodes until the system corrects itself.
+The memory arrived before the analysis. Pacific Heights. October 2038. He'd been living with Damon for thirteen months.
+
+The study: leather, sandalwood, the Staunton set on the board. Fog had come in off the bay and muted the windows to a uniform gray. The chess pieces were arranged in some middle game Kaelen didn't recognize—Damon had set it up and then drifted to the window, hands clasped behind his back, watching the fog the way he watched things when he was actually thinking about something else. Kaelen had been staring at the board for several minutes, not really seeing it.
+
+"Is it always the grandchildren?"
+
+Damon turned from the window. The expression that arrived on his face wasn't what Kaelen expected—not the teacher's measured patience. Something quicker. Closer to pleasure.
+
+"What made you think of that?"
+
+"You said they always fall. The dynasties. The empires." Kaelen moved a knight on the board—not because the move was right, just to have something to do with his hands. "I've been trying to figure out *when*. If it's always the same way, it should be predictable."
+
+Damon crossed the room and sat—not the chess chair. The teaching chair, angled toward the unlit fire. He was smiling in a way that, at thirteen, Kaelen was still learning to read. Later he would understand it as the expression of a man who had been waiting, without knowing he was waiting, for exactly this question from exactly this person.
+
+"Nicholas II." He looked at Kaelen.
+
+Kaelen recognized the prompt. "Last Tsar. Reigned 1894 to 1917. Lost a war with Japan, bungled a revolution, took personal command of an army that kept losing, got shot in a basement with his family." A beat. "History says he was weak. Wrong man for the moment."
+
+"The history books say he was stupid," Damon said.
+
+"Yes."
+
+"What does that miss?"
+
+Kaelen didn't know. That was the point.
+
+"He wasn't stupid. He was educated, fluent in three languages, capable of reading a diplomatic cable. He simply couldn't see that the world had changed around him while he was busy being educated. The consensus blames the man. The man was actually the last symptom."
+
+"Every ruling class fails the same way." Damon held up one finger. "Hardship builds competence. The founders or settlers earn their position—not always fairly, not always cleanly, but they earn it in the sense that they understand the conditions that created their advantage. They feel the grain of the world because they've spent years being abraded by it." A second finger. "Competence builds comfort. The friction decreases. The system works. This is the goal—this is what you build toward." Third finger: "Comfort builds indolence. The second generation inherits the comfort without the friction. They have the explicit knowledge—the written rules, the documented strategies—but not the implicit. The intuitions that only come from having figured it out yourself, from getting it wrong in ways that cost you something and routing around that failure point."
+
+"And then the system shifts," Kaelen said.
+
+Damon looked at him with a brief, satisfied expression. "Yes. And here's the thing about their education—it was perfect. The best tutors, the finest universities, the sharpest minds available. Which was exactly the problem." He paused in the way he paused before something he wanted to land cleanly. "Any system of knowledge complete enough to be useful is incomplete in ways it cannot detect from inside itself. The heir learns everything the system knows. He also inherits everything the system can't see. They arrive as the same package."
+
+Kaelen sat with that. "So how do you teach someone what the system can't see?"
+
+Damon's expression shifted—something genuine and warm arriving, the look of a man handed precisely the question he wanted. "You show them the edges. The places where the framework stops explaining things." He picked up the queen from the board, turned it in his fingers. "Most education teaches you to use a system. What I'm trying to do with you is teach you to see the *shape* of it from outside. So that when it fails—and every system does—you recognize the failure for what it is instead of assuming the world is broken."
+
+He set the queen down. "There's also a saying—Arabian, supposedly, though I've never found a clean source. *My grandfather rode a camel. My father drove a car. I drive a Rolls-Royce. My son will drive a Land Rover. His son will ride a camel.*" A thin smile. "The wealth transmits. The understanding of why the wealth persists doesn't. You can write it down, you can teach it, but there's something in the *doing* that the writing can't carry."
+
+Kaelen understood the lesson. He also understood, in the way thirteen-year-olds understand things they can't yet name, that he wasn't being taught history. He was being prepared for something. The weight of it pressed on his chest.
+
+"What you're building," he said carefully. "Does it solve this?"
+
+Damon looked at him. Proud, Kaelen thought, but also something else—something that *pressed*. "That's exactly the right question." He stood, moved back to the window. The fog outside was complete, the bay invisible. "The system I'm building is good enough—efficient enough, transparent enough, meritocratic enough—that the revolutionary pressure never reaches threshold. The Romanovs failed because enough people had nothing to lose. My system ensures that enough people always have something to lose, something they built, something they can see recognized and measured." He turned. "If everybody has something, nobody has nothing to lose."
+
+He was looking at Kaelen with the expression that always made him feel simultaneously understood and faintly afraid of what was being understood.
+
+The thirteen-year-old who had held his mother's hand while the grip went from cold to empty sat in a chair across from his uncle, with the chess pieces between them like an abandoned argument, and felt something enormous being pressed into his hands that he didn't yet have the grip strength to hold.
+
+"Yes," Kaelen said. Meaning it, as much as he could.
+
+---
+
+In the bunker, the red basin pulsed on the screen, and the memory dissolved back into ozone and cold recycled air and the forty-second cooling cycle.
+
+*He taught me the mechanism. He understood it completely.*
+
+And then the second piece landed—the way a second chess piece reveals the geometry the first piece only implies.
+
+*He built a system to make sure nobody had nothing to lose. And he never followed the logic through.*
+
+Because a system good enough that no one reaches the threshold of desperation isn't just a system where revolution becomes impossible. It's a system where the evolutionary pressure that forces communities to *build themselves* also never reaches threshold. The hardship that produced the trust networks, the family structures, the mutual-aid architectures assembled by people who understood the alternative was genuine catastrophe—that pressure, too, gets anesthetized. The *paluwagan*, the *susu*, the *gye*: not cultural artifacts. Load-bearing infrastructure of high-trust societies, built by people who had no other option. Remove the necessity and you don't just lose the infrastructure. You lose the capacity to build it. You lose the implicit knowledge that explicit teaching can't transfer, the understanding in the bones that Damon had described to a thirteen-year-old in a fog-grey study as the thing that the writing can never fully carry.
+
+He had solved the Romanov problem. Had seen the mechanism with perfect clarity, had traced the whole arc from hardship to competence to comfort to indolence to revolution—and had then built a system that anesthetized the patient so completely that the immune response could never fire. And he'd done it while explaining, precisely and correctly, to a boy still learning to hold the weight, exactly what he was removing.
 
 "So death is the correction mechanism," he said slowly. "Not just biological replacement. *Knowledge loss*. The founders take their implicit understanding with them when they die."
 

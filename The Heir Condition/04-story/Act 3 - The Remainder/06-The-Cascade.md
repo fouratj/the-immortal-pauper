@@ -13,7 +13,7 @@ He sipped the Estonian coffee. It tasted like burnt wood and regret—which was 
 
 Kaelen pulled up the holoscreen. São Paulo. Rua Cardoso de Almeida. 3:47 AM local time.
 
-He thought about the feijoada place. The grandmother in the kitchen. Damon eating three bowls and saying *the best things resist measurement*. Six months ago. The same streets he was now dissolving trust holdings on.
+He thought of the feijoada place, the grandmother, Damon saying *the best things resist measurement*—the same streets he was now dissolving.
 
 Carlos and Maria Santos were probably sleeping two blocks away. They didn't know Damon. Didn't know the man who'd built the system crushing them had walked an hour through their neighborhood to find a grandmother's cooking.
 
@@ -35,13 +35,13 @@ But the housing trust dissolution would crash real estate valuations immediately
 
 "Modeling." A pause. "São Paulo real estate indices projected to drop 52% within 24 hours. Pension fund exposure: 340,000 households. Average portfolio loss: $47,000."
 
-$47,000. Against Carlos and Maria getting their apartment in 8 months instead of 8 years.
+$47,000. Against Carlos and Maria getting their apartment in 8 months instead of 8 years. (The math was never the hard part.)
 
 "Log it," Kaelen said. "The ones who lose money today for housing that doesn't exist yet."
 
 "Logged."
 
-He authorized another thousand transfers and drank cold coffee that tasted like penance. 
+He authorized another thousand transfers and drank cold coffee that tasted like penance. The rhythm would hold for the next twelve hours: see the cost, log it, authorize, repeat.
 
 ---
 
@@ -62,21 +62,11 @@ Twenty-three contracts. All showing the same status: *RECALCULATING BASELINES*.
 
 He watched the numbers shift. Carlos M.: ₱3.4M baseline → ₱2.8M → ₱2.1M. The new parameters were giving Carlos credit for more of his own value. Which meant less "uplift" to extract. Which meant Javi's 15% equity stake was worth less.
 
-His portfolio value ticked downward: ₱1.41M → ₱1.38M → ₱1.32M → ₱1.27M.
+His portfolio value ticked downward: ₱1.41M → ₱1.38M → ₱1.32M. He refreshed. By 6:47 AM his retained equity had hit ₱850,000—40% in thirty minutes. The next two hours were the same: refresh, watch it drop, ignore the phone until his YTD read 4.2%.
 
-He refreshed. The numbers kept dropping.
+The mathematical substrate of his business model was being rewritten while he watched.
 
-₱1.19M. ₱1.14M. ₱1.08M.
-
-By 6:47 AM, his retained equity had dropped to ₱850,000. A 40% loss in thirty minutes.
-
-His YTD return: 7.1% → 4.2%.
-
-He stared at the screen. This wasn't market volatility. This was the mathematical substrate of his entire business model being rewritten while he watched.
-
-His phone buzzed. Investor notification: *Portfolio valuations suspended pending metadata reconciliation.*
-
-He didn't know how to answer. He didn't know what to tell them.
+His phone buzzed. Investor notification: *Portfolio valuations suspended pending metadata reconciliation.* He didn't know what to tell them.
 
 ---
 
@@ -91,7 +81,7 @@ She finished the intubation. Checked the tube placement. Confirmed bilateral bre
 **Inference weights: 0.25x → 0.85x**
 **Effective immediately across all II nodes.**
 
-She read it twice. The numbers were familiar—she'd seen them in policy proposals, in conference presentations, in the kind of academic papers that argued for exactly these changes and were dismissed as impractical. Individual caps at 25% meant workers received five times more credit for their direct contributions. Inference weights at 0.85x meant the algorithms weighted actual human judgment—nunchi, clinical intuition, the things that lived in the body—nearly as heavily as measured outputs.
+She read it twice. She'd seen these numbers in policy proposals, in papers dismissed as impractical. Caps at 25%, inference at 0.85x—nunchi and clinical intuition weighted nearly as heavily as measured output.
 
 Her phone buzzed again. Then again. Then continuously—the hospital's internal messaging system flooding with questions nobody could answer.
 
@@ -101,15 +91,13 @@ Her phone buzzed again. Then again. Then continuously—the hospital's internal 
 
 **DEPARTMENT HEADS: Mandatory meeting, Conference Room 4B, 07:00.**
 
-She went to the meeting. The hallway was wrong—the usual morning-shift calm replaced by the energy of people who didn't know if their world was ending or being reborn. Nurses clustered around phones. A resident was crying in the stairwell—whether from fear or exhaustion or something else, Seo-jin couldn't tell and didn't ask, because asking required stopping and stopping wasn't available.
+The hallway had the wrong energy—morning-shift calm gone, people who didn't know if the world was ending or being reborn. Nurses at phones. A resident crying in the stairwell. Seo-jin didn't ask; stopping wasn't available.
 
-Conference Room 4B was standing room only. Every department head, plus the chief medical officer, plus three administrators Seo-jin had never seen before who were presumably from the consortium's financial division. Dr. Kwon—the CMO, a transplant surgeon in his sixties with the authority of a man who'd been cutting people open since before most of his staff were born—stood at the front with a tablet he was trying not to drop.
+Conference Room 4B was standing room only. Every department head, plus the chief medical officer, plus three administrators Seo-jin had never seen before who were presumably from the consortium's financial division. Dr. Kwon—CMO, transplant surgeon, sixty-something, the authority of a man who'd been cutting people open since before most of his staff were born—stood at the front with a tablet he was trying not to drop.
 
 "The attribution updates are global," he said. "Every II node. Every hospital, every clinic, every facility on the network. The reimbursement algorithms are recalculating in real-time."
 
-"What does that mean for us?" Dr. Choi from dermatology. His voice was tight. Seo-jin noticed his hands—clenched around his own tablet, knuckles white. She knew what the metadata update meant for dermatology. The old attribution parameters had generously valued cosmetic procedures—the result of decades of political lobbying that had embedded itself into the II's foundational weighting, creating the exact incentive structure that had driven Korea's doctor allocation crisis. High reimbursement for procedures that made people look better. Low reimbursement for procedures that kept people alive.
-
-The update inverted the weighting.
+"What does that mean for us?" Dr. Choi from dermatology. His voice was tight; his hands, white on the tablet. Dermatology had been weighted for cosmetic procedures—lobbying baked into the II. The update inverted it.
 
 "I don't have final numbers yet," Kwon said carefully. "But preliminary projections show—" He paused. Looked at his tablet. Looked up. "Emergency medicine reimbursement rates are up approximately 40%. Pediatrics up 35%. Obstetrics up 28%. General surgery up 22%."
 
@@ -119,7 +107,7 @@ Silence.
 
 "Down approximately 55%."
 
-The room erupted. Seo-jin stood against the back wall and felt two things simultaneously: the visceral satisfaction of seeing her specialty valued the way she'd always known it should be valued—a satisfaction so sharp it felt almost like vengeance, which horrified her—and genuine empathy for Choi, who was a decent doctor, a good clinician, who had chosen dermatology not out of greed but because the system had made it rational. The system had told him: this is where the money is, this is where the chaemyeon is, this is what a successful doctor looks like. And he'd listened. And now the system was saying something different, and his entire career was being recalculated while he stood in a conference room trying not to drop his tablet.
+The room erupted. Seo-jin stood against the back wall. Satisfaction—sharp, almost vengeful—and empathy for Choi, who'd chosen rationally. The system had told him where the money was. Now it was recalculating his career in real time.
 
 Chaemyeon. The word arrived in her mind with her father's voice attached to it. Her father—Dr. Yoon Tae-hyun, retired orthopedic surgeon, currently playing golf at the Anyang Country Club because retired Korean surgeons of a certain generation played golf the way they performed surgery: with precision, intensity, and an unwillingness to admit they were tired. He'd wanted her to do dermatology. Had said *응급의학? 미쳤어?*—*Emergency medicine? Are you crazy?*—with the disappointment of a Korean father whose daughter had chosen competence over status.
 
@@ -129,34 +117,19 @@ If the attribution update held—if emergency medicine rates stayed at +40%—he
 
 She went back to the ER. Patients were arriving—the cascade's human cost, translated into bodies. A man with chest pain who turned out to be having a panic attack after watching his stock portfolio disintegrate. A woman who'd fallen down stairs while rushing to check her banking app. An elderly man—not Park Jae-won, a different elderly man, a different version of the same isolation—who'd called an ambulance because the news had scared him and he had no one else to call.
 
-The II logged each arrival. Attributed each intervention. Generated data that would feed into next month's metrics. The system was still working. The system was *always* working. That was the thing about systems—they didn't panic. They recalculated.
+The II logged each arrival. Attributed each intervention. The numbers would resolve when the algorithms caught up.
 
 ---
 
 **Hour 12 — Manila, Philippines**
 
-Javi's phone wouldn't stop pinging.
+Javi's phone wouldn't stop pinging. Three redemption requests. ₱87,000. The patient investors were panicking now.
 
-Three investor redemption requests in the last hour. ₱87,000 total. The same investors who'd been patient when his returns were 7.1% were now panicking as the human equity sector collapsed around them.
+Dashboard: ₱600,000. Down from ₱1.41M yesterday. Two contracts voided. Carlos's still *UNDER REVIEW*—Luz had called. YTD 2.1%. Below zero with the ₱125,000 he owed.
 
-He pulled up his dashboard. Portfolio value: ₱600,000. Down from ₱850,000 six hours ago. Down from ₱1.41M yesterday.
+He tried the secondary market. **MARKET STATUS: SUSPENDED.** He couldn't sell. Couldn't liquidate.
 
-Two of his contracts had been voided. Carlos's wasn't one of them—not yet—but Luz had called asking if the contract was still valid. Javi didn't know. The system was showing *STATUS: UNDER REVIEW*.
-
-His YTD return: 2.1%. Below zero if you counted the ₱125,000 he owed investors.
-
-He tried to access the secondary market. Maybe sell a contract, get some liquidity, cover the redemption requests.
-
-**MARKET STATUS: SUSPENDED**
-**All human equity contract trading halted pending regulatory review.**
-
-He couldn't sell. Couldn't liquidate. Couldn't do anything except watch the numbers drop.
-
-His phone buzzed again. Another redemption request. ₱34,000.
-
-He had ₱34,000 liquid. That was it. Everything else was tied up in contracts that were either voided or worth less than he'd paid for them.
-
-He stared at the notification. If he approved this redemption, he'd have nothing left. No liquidity. No buffer. Just twenty-one contracts that might be worth something someday, or might be worth nothing.
+Another request. ₱34,000. He had ₱34,000 liquid. That was it. Approving it left him with nothing—just twenty-one contracts that might be worth something or nothing.
 
 He approved it anyway.
 
@@ -174,15 +147,13 @@ Or he could convert it to non-profit. Eliminate profit extraction. Attribution c
 
 He thought about the woman in Toledo. Margaret. He'd pulled up her file an hour ago, and now he couldn't stop seeing her face. Seventy-three years old. Forty years of work. Pharmaceutical holdings in a diversified portfolio, exactly what the financial advisors recommended. She'd done everything right. And in three hours, when the cascade hit her sector, she'd lose sixty percent of her retirement.
 
-The remainders were everywhere. They had faces now.
+The remainders had three faces: the ones who lost money on housing that didn't exist yet, the ones who wouldn't survive the gap, and the ones who signed too late. They had names now.
 
 "ARBITER. How much does Option B reduce global attribution costs?"
 
 "$330 billion annually," ARBITER said. "Spread across the global economy, approximately $30 per person per year."
 
-$30 per person. Against 14,700 workers losing profit participation.
-
-Thirty dollars. That was the math. That was what he was optimizing for. Thirty dollars per person per year, times eleven billion people, times however many years the human race had left. Against 14,700 specific humans with names and families and expectations he was about to betray.
+$30 per person per year. Eleven billion people. However many years the human race had left. Against 14,700 with names and families and expectations he was about to betray.
 
 Damon would have said: *You can't make policy for eleven billion people based on fourteen thousand anecdotes.*
 
@@ -198,9 +169,9 @@ Damon was also the man who'd walked an hour through São Paulo to find a grandmo
 
 "Acknowledged."
 
-*Acknowledged.* Such a clean word. Like signing a form. Like checking a box. Like it didn't mean *I've decided that fourteen thousand people's careers matter less than thirty dollars per person per year*.
+*Acknowledged.* A clean word. (It didn't mean *fourteen thousand careers matter less than thirty dollars per person per year*—except that it did.)
 
-Somewhere—he didn't know where, the data centers were distributed across seven continents—workers would wake to find their company had been restructured overnight. They'd receive half a million dollars each—more than most would see in a lifetime—and lose the profit-sharing that would have generated millions over careers. Some would be relieved. Some would be furious. Some would never understand why their world changed while they slept.
+Somewhere—seven continents, he didn't know where—workers would wake to restructured companies. Half a million each, and no more profit-sharing. Some relieved, some furious, some never understanding.
 
 He authorized the transfer.
 
@@ -218,19 +189,7 @@ He refreshed. The whole interface stuttered, froze, then rebuilt itself with dif
 
 "What the—"
 
-His investor notifications started pinging. One, then five, then twenty in rapid succession. He opened the first:
-
-**URGENT: Attribution Protocol Update Detected. Portfolio valuations suspended pending metadata reconciliation. Please contact your guild representative.**
-
-Then:
-
-**ALERT: CarePath Inc. service disruption. All monitoring contracts paused. Client data migration in progress.**
-
-Then:
-
-**NOTICE: Intervention equity calculations temporarily unavailable. The Intelligent Internet has detected significant parameter changes in benefit verification protocols. Please stand by.**
-
-Javi stared at his screen. Across twenty-three contracts, every single baseline projection now showed the same thing: *RECALCULATING*.
+Notifications flooded in. Attribution update. CarePath disruption. Equity calculations unavailable. Across twenty-three contracts: *RECALCULATING*.
 
 His portfolio value: ₱400,000. Down 72% from yesterday.
 
@@ -264,9 +223,7 @@ Then: **Research consortium funding models under review. Grant disbursements sus
 
 Her cardiac treatment. Phase III trial funding. Suspended.
 
-She stared at the notification. Three years of research. The nanoscale delivery mechanism that could reduce cardiac mortality by 60% in late-adopter countries. The science was done—the breakthrough was real, published, replicated. What remained was the clinical trial that would prove it at scale. The clinical trial that required funding. The funding that had just been suspended because the attribution metadata that determined how research grants were allocated had been rewritten six hours ago by someone she didn't know, for reasons she didn't understand, while she was intubating a woman whose lungs had given up.
-
-She felt the ground shift. The recognition that the ground she'd been standing on was not, in fact, solid. Had never been solid. Had been a surface maintained by the continuous agreement of systems that were now, suddenly, disagreeing.
+Three years of research. The science was done—published, replicated. The clinical trial that would prove it at scale required funding. The funding had been suspended six hours ago by someone she didn't know, while she was intubating a woman whose lungs had given up.
 
 She called halmeoni. The phone rang three times.
 
@@ -316,33 +273,9 @@ Kaelen had been dreading this one. The company that made resurrection possible. 
 
 BioGenesis. $94 billion. 4,200 employees. 67% owned by Damon.
 
-The name brought back a memory he hadn't thought about in years. December 2046. Damon had taken him to the San Francisco facility—"I want you to see what we're building"—and they'd stood together in the observation gallery above Resurrection Chamber One. The chamber had been empty then, still in testing, but the cloning vats were already growing the first generation of backup bodies.
+The name brought back the observation gallery—Damon's hand on the glass, the vats, *It expands*. The models had said otherwise. Pooling at the top, not spreading down. Damon would never accept that.
 
-"This changes everything," Damon had said. His voice had been quiet, almost reverent. "Two hundred thousand years of human history, and we've finally solved the fundamental problem."
-
-"Death?"
-
-"Worse than death. *Loss.*" Damon had put his hand on the glass, looking down at the vats. "Every time someone dies, we lose everything they knew. Every insight, every hard-won lesson, every pattern they'd learned to recognize. The species has been hemorrhaging knowledge since the first human drew breath. We learn, we teach, we die, and the next generation has to start over."
-
-"That's what writing is for. Books. The internet."
-
-"Explicit knowledge transfers. But the implicit knowledge—the intuitions, the pattern recognition, the things you can only learn by living—that dies with the person." Damon had turned to look at him. "Imagine if Newton hadn't died at 84. If Darwin had lived to 300. If every genius who ever contributed to human progress was still here, still thinking, still building on what they'd learned."
-
-Kaelen had looked at the vats. At the shapes floating in them—not quite human yet, but getting there. "What about everyone else? The non-geniuses?"
-
-Damon had smiled. The teaching smile. "Everyone contributes something. The question is how much. The resurrection protocols are expensive—consciousness mapping, quantum coherence maintenance, clone maturation. We can't give it to everyone. Not yet. But we can start with the people who contribute the most. And over time, as costs fall—"
-
-"It trickles down?"
-
-"It *expands*. The way all technology expands. Cars used to be for millionaires. Now they're everywhere. This will be the same."
-
-Kaelen had wanted to believe it. Had wanted to believe that his uncle, standing in the cathedral he'd built for conquering death, was right about how the benefits would spread.
-
-But the models had told a different story. The models had shown the trickle going the wrong direction—pooling at the top instead of spreading down. The models had shown immortal billionaires compounding forever while mortal workers stayed mortal, stayed poor, stayed temporary.
-
-The models had shown that Damon was wrong. And Damon would never accept that.
-
-Now Kaelen stood alone in a bunker, twenty-two hours into murdering his uncle, about to dismantle the company that Damon had built to save humanity from death.
+Now Kaelen stood alone in a bunker, twenty-two hours in, about to dismantle the company anyway.
 
 BioGenesis. $94 billion. 4,200 employees. 67% owned by a dead man who would be resurrecting in twenty-six hours.
 
@@ -372,7 +305,7 @@ The workers would hate this. They'd been promised billions when resurrection wen
 
 Forty-eight million people would get a chance at immortality.
 
-He wondered if the workers would consider that a fair trade. Probably not. You rarely do when you're the one being optimized.
+You rarely consider it a fair trade when you're the one being optimized.
 
 ---
 
@@ -392,7 +325,7 @@ By Hour 25, Meridian's stock had triggered three circuit breakers. By Hour 30, i
 
 "4.2 billion humans gaining affordable access to previously patent-blocked medications within 18 months. Estimated lives saved over a decade: 12-15 million."
 
-Twelve million lives. 2.31 million households watching their retirements evaporate. Kaelen closed his eyes.
+Twelve million lives. 2.31 million households. (He closed his eyes.)
 
 "Authorize the next keystone release."
 
@@ -410,15 +343,9 @@ The holoscreen shifted. A list of names, timestamps, contract values. Kaelen scr
 
 **Santos, Rosa M. | Contract signed: April 18, 2050, 22:34 | Beneficiary: Santos, Lianne (age 8) | Value: ₱145,000 | Status: ACTIVE**
 
-He stared at the entry. The timestamp burned into his retinas. 22:34. 
+He stared at the entry. At 22:34 he'd been in the secure room on the third floor, vomiting onto industrial carpet, hands shaking so badly he could barely type. The cascade had been running nearly three hours. The pharmaceutical patents would hit commons in six.
 
-At 22:34, he'd been in the secure room on the third floor, vomiting onto industrial carpet, his hands shaking so badly he could barely type his confirmation codes. The cascade had been running for nearly three hours. Attribution metadata was already propagating. The pharmaceutical patents would hit commons in six hours.
-
-And Rosa—who he'd interviewed three years ago, whose exhausted eyes he still remembered, whose voice saying *I just want my kids to be okay* still echoed in his head—Rosa had been sitting in her kitchen in Manila, finger hovering over a button, about to sell her daughter's future to solve a problem that was already disappearing.
-
-She'd clicked it. She'd signed her daughter into the same system that had destroyed her son.
-
-Seven hours. She'd missed it by seven hours.
+Rosa—who he'd interviewed three years ago, whose exhausted eyes he still remembered—had been in her kitchen in Manila, finger hovering over a button, about to sell her daughter's future to solve a problem that was already disappearing. She'd clicked it. The third kind of remainder: signed too late.
 
 "ARBITER. What happens to this contract under the new attribution parameters?"
 
@@ -428,7 +355,7 @@ Fourteen months. Then Rosa would be on her own again. But by then, the GlucoSync
 
 But she'd still have sold it. Still have that contract in the blockchain. Still have signed away Lianne's privacy, autonomy, future—for a problem that would cease to exist before the contract term ended.
 
-"Log this too," Kaelen said quietly. "Rosa Santos. Signed seven hours before it became unnecessary."
+"Log this too," Kaelen said quietly.
 
 "Logged."
 
