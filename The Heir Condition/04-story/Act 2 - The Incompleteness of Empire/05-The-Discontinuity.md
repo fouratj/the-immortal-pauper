@@ -612,15 +612,13 @@ Because a system good enough that no one reaches the threshold of desperation is
 
 He had solved the Romanov problem. Had seen the mechanism with perfect clarity, had traced the whole arc from hardship to competence to comfort to indolence to revolution—and had then built a system that anesthetized the patient so completely that the immune response could never fire. And he'd done it while explaining, precisely and correctly, to a boy still learning to hold the weight, exactly what he was removing.
 
-"So death is the correction mechanism," he said slowly. "Not just biological replacement. *Knowledge loss*. The founders take their implicit understanding with them when they die."
+The basin pulsed on the screen.
 
-"Yes. The feedback loop breaks because the loop's architects can't transfer what they learned through necessity. Their successors are born into the system's rewards, not its construction."
+In the fog-gray study, at thirteen, he had said *yes* and meant it.
 
-"But if the founders never die..." Kaelen stared at the expanding red basin. "If they're immortal. If they retain both the wealth *and* the knowledge—the implicit understanding of how to maintain power, because they're the ones who built it..."
+Kaelen pressed his thumb into his palm. His mother used to take his hand and unfold the fingers one by one.
 
-"Then the correction mechanism ceases to function. The attractor becomes permanent because the attractor's creators are permanent. Not their wealth. Their capability. Their understanding. For the first time in human history, an elite with both the means and the knowledge to maintain concentration across centuries."
-
-The basin pulsed on the screen, red deepening toward black at the center. Kaelen felt something foreign settle in his stomach.
+He let it press.
 
 "And the technology itself?" he asked. "Doesn't it get cheaper over time? Cars, phones, vaccines—everything democratizes eventually."
 
@@ -648,7 +646,11 @@ That was why Damon's hand had trembled in the Bangalore meeting. Why recognition
 
 Damon wasn't lying when he said he'd study it. Wasn't being cynical when he said "after the announcement." He literally couldn't follow the logic to its conclusion, because following it would require stepping outside the framework he'd spent forty years building—and the framework was the thing doing the thinking. The hand trembled because some part of him felt the incompleteness. The mask came back because the system couldn't formalize what the hand already knew.
 
-And this was why the basin was permanent. Not just because the founders retained wealth and knowledge. Because they retained the *framework*—the way of seeing that made the extraction invisible to itself. Immortal founders meant an immortal blindspot. The system would optimize forever, and the one thing it would never optimize was the question of whether it should exist.
+He sat with that.
+
+The argument he'd been composing—the one he'd rehearsed in the car on Divisadero—was assembled from his uncle's sentences. He could hear them arriving in the right order, the logical chains connecting cleanly, the framework doing what it was built to do. The hand had trembled because something below the framework registered what the framework couldn't say.
+
+He would show him nothing.
 
 "ARBITER," Kaelen said slowly. "The basin isn't just an attractor. It's a *feature* of the system's own architecture. The system generated the landscape, and the landscape has a hole where the system's self-knowledge should be."
 

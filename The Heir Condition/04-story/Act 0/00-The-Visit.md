@@ -131,7 +131,7 @@ She bit into the yakgwa. Chewed. Swallowed.
 
 "Why?"
 
-"I asked her once. She said: '혼자 먹으면 다 죽어.' *If I eat alone, we all die.*" Soon-ok looked at her granddaughter. "That's jeong. That's the thing. Nobody made Bok-sun share. No machine told her to. No one was counting. She shared because—" Soon-ok paused. Her fingers tightened on the yakgwa. "Because if she ate alone, we all died. She knew that. In her body she knew it." She looked at the biometric pad on her bedside table, then back at her granddaughter. "Now someone comes along and puts a number on it. Good. Put the number. But Bok-sun didn't wait for the number. Bok-sun shared when nobody was watching. When there was nothing to count."
+"I asked her once. She said: '혼자 먹으면 다 죽어.' *If I eat alone, we all die.*" Soon-ok looked at her granddaughter. "That's jeong. That's the thing. Nobody made Bok-sun share. No machine told her to. No one was counting. She shared because—" Soon-ok paused. Her fingers tightened on the yakgwa. "Because if she ate alone, we all died. She knew that. In her body she knew it." She looked at the biometric pad on her bedside table, then back at her granddaughter. "Then the system comes along and says: ah, sharing rice improves outcomes. Good. Fund it. Put the number on it. But don't forget that Bok-sun shared first. Bok-sun shared when nobody was watching. When there was nothing to count."
 
 The room was very quiet. Outside, a bus hissed along the road below. The ondol floor hummed its imperceptible warmth.
 

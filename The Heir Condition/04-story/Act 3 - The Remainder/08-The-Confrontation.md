@@ -267,7 +267,9 @@ But the specific charge—that he'd done exactly what he'd condemned—landed in
 
 If ARBITER were here, it would run the logic chain, find the flaw or confirm there wasn't one. ARBITER wasn't here. Kaelen was alone with the argument and the argument was winning. And for the first time, he wondered whether ARBITER's absence was making him think more clearly or less—whether three years of computational partnership had atrophied exactly the muscle he needed now: the ability to hold uncertainty without reaching for a model.
 
-"There wasn't time," he said. His voice sounded thin.
+The words came—*the window was closing, the institutions were too slow*—in Damon's cadence.
+
+"There wasn't time," he said. His voice sounded like someone else's.
 
 "There's never time. That's what every revolutionary says. That's what *I* said when I built the II without international consensus." Damon's voice was tired now. Not angry. Just tired. "*The window is closing. The institutions are too slow. Only I can see what needs to be done.*"
 
@@ -321,7 +323,7 @@ He thought about principles. Precedent. The institutional patience he'd spent tw
 
 He thought about what institutional patience looked like from inside a frozen bank account in Myanmar.
 
-He signed.
+He signed. His hands had no calluses yet.
 
 The biometric pad flashed green. The cascade completed. Fourteen million transfers resumed.
 
