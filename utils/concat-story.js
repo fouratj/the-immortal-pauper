@@ -36,26 +36,35 @@ function formatDisplayDate(date = new Date()) {
 }
 
 /**
- * Get all markdown files from story directory (recursively through Acts)
+ * Get all markdown files from story directory (one level: Acts as subdirs)
+ * Discovers act directories dynamically (Act 0, Act 1 - ..., Act 2 - ..., Act 3 - ..., Appendix).
  */
 async function getStoryFiles() {
-  const acts = ['Act 1', 'Act 2', 'Act 3', 'Appendix'];
-  const allFiles = [];
+  const entries = await readdir(STORY_DIR, { withFileTypes: true });
+  const actDirs = entries
+    .filter(e => e.isDirectory() && (e.name.startsWith('Act ') || e.name === 'Appendix'))
+    .map(e => e.name)
+    .sort((a, b) => {
+      if (a === 'Appendix') return 1;
+      if (b === 'Appendix') return -1;
+      const numA = parseInt(a.replace(/^Act (\d+).*/, '$1'), 10);
+      const numB = parseInt(b.replace(/^Act (\d+).*/, '$1'), 10);
+      return numA - numB;
+    });
 
-  for (const act of acts) {
+  const allFiles = [];
+  for (const act of actDirs) {
     const actDir = join(STORY_DIR, act);
-    if (existsSync(actDir)) {
-      const files = await readdir(actDir);
-      const mdFiles = files
-        .filter(file => file.endsWith('.md'))
-        .sort()
-        .map(file => ({
-          path: join(actDir, file),
-          name: file,
-          act: act
-        }));
-      allFiles.push(...mdFiles);
-    }
+    const files = await readdir(actDir);
+    const mdFiles = files
+      .filter(file => file.endsWith('.md'))
+      .sort()
+      .map(file => ({
+        path: join(actDir, file),
+        name: file,
+        act: act
+      }));
+    allFiles.push(...mdFiles);
   }
 
   return allFiles;
