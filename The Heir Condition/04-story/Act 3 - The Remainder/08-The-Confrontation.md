@@ -92,15 +92,43 @@ The systems architect voice. Not uncle-voice. The voice that dissected failure w
 
 Fourteen million people. Stuck in legal limbo. Because he'd burned through commercial satellites instead of building the safeguards that would have either prevented the freeze or triggered early enough to fix it.
 
+But Damon wasn't finished. He'd moved past Myanmar. Was pulling up something else—regional pharmaceutical transaction data, the same data Kaelen had seen at Hour 22.
+
+"What's this?" Damon's voice had shifted. Quieter now. The voice of someone who'd found something worse than a routing error.
+
+"Transaction volume gaps. Late-adopter economies. Manila, Jakarta, Lagos—"
+
+"Twenty-three percent below projection in Manila. Thirty-one in Lagos." Damon was scrolling through the data with the focused intensity of someone reading their own autopsy report. "Your cascade eliminated the formal extraction layer. Patent rents, institutional capture, the whole architecture. Beautifully done." No warmth in the word. "But there's a gap. You can see it right here—formal volume dropped, but total demand didn't. Medication is still being distributed. Just not through the channels your cascade touched."
+
+He turned to Kaelen.
+
+"Where did the volume go?"
+
+Kaelen couldn't answer. Because the answer was the thing he'd been trying not to think about for three days.
+
+"I'll tell you where." Damon pulled up a secondary analysis—one he'd commissioned himself, in the five days since his resurrection, using the same analytical instincts that had built the II in the first place. "Cash networks. Savings circles. Neighborhood intermediaries. The *paluwagan* in Manila, the *susu* in Lagos, the *gye* in Seoul. The informal economy that your model dismissed as—what was the phrase?"
+
+"Below resolution threshold," Kaelen said. The words tasted like ash.
+
+"Below resolution threshold." Damon repeated it the way a surgeon repeats a diagnosis. "You modeled the world that exists in the data. You built a liberation for the economy that the II can see. And the 8-12% of economic activity that runs through informal networks—trust networks, cash networks, the grandmother with a notebook who buys medication for six families—you assumed it was noise."
+
+He pulled up a specific case. A face appeared on screen. Kaelen didn't recognize her, but the data told the story: a woman named Mercedes Bautista, sixty-three, who ran a *paluwagan* serving seventeen families in Tondo. During the cascade, while formal pharmaceutical channels recalculated, she'd used the pool's cash reserves to buy six months of medication for her members at pre-cascade prices. She'd also begun extending informal credit to families outside the pool—at rates that weren't usurious by historical standards but weren't free either. In the vacuum the cascade had created in the formal economy, she'd become the local pharmaceutical distributor. Unmeasured. Unregulated. Invisible to every system Kaelen had built.
+
+"She's helping people," Kaelen said.
+
+"She's also charging them. Not much. Not yet. But the formal system that constrained pharmaceutical pricing is gone, and nothing has replaced it at the local level. Your cascade eliminated the disease you could measure. The disease you couldn't measure is filling the gap." Damon paused. "In Lagos, it's worse. Three informal lending networks have consolidated pharmaceutical distribution for two million people. They're charging 40% over manufacturing cost. Your liberation created a power vacuum, and the people closest to the ground filled it before your algorithms noticed it was empty."
+
 The shame was immediate and total, and underneath the shame was something worse: the recognition that he'd wanted his uncle to find this. Had wanted to be caught. Had wanted—and this was the part he couldn't look at directly—had wanted Damon to prove that the cascade was flawed, that the murder had been premature, that there was still some way for this to have been a mistake rather than what it was.
 
-"They can't," Kaelen said, but his voice was already failing. "The transfers are already—"
+"They can't," Kaelen said, but his voice was already failing. "The formal channels will reprice within months—the generic manufacturers are already—"
 
-"In limbo. Fourteen million people in Myanmar, Kaelen. Frozen. Because you burned through commercial satellites at $40,000 a minute instead of implementing proper monitoring." 
+"Months." Damon's voice was quiet. Too quiet. The voice Kaelen remembered from the worst moments of his childhood—not the shouting, which at least acknowledged you as a person worth shouting at, but the cold clinical assessment that made you feel like a bug under a microscope. "And in those months, the informal extractors entrench. They build relationships. They become necessary. By the time your formal channels reprice, the *paluwagan* leader isn't just buying medication—she's the trusted source. The algorithm that arrives six months late has to compete with a woman who showed up with cash when the machines stopped working."
 
-Damon's voice was quiet. Too quiet. The voice Kaelen remembered from the worst moments of his childhood—not the shouting, which at least acknowledged you as a person worth shouting at, but the cold clinical assessment that made you feel like a bug under a microscope.
+He looked at Kaelen.
 
-"You know what the monitoring would have cost? Eight hours. Maybe twelve. But you didn't have eight hours, did you? Because you were racing resurrection. Racing *me*."
+"You know who told me this would happen? Not a model. Not an AI. A grandmother in Bundang who tried to explain that the system doesn't make people share rice. People share rice. And when the system breaks, the people who were already sharing become the new system. For better and for worse."
+
+Damon's voice was quiet. "You know what the monitoring would have cost? Not eight hours. Not twelve. *Generations.* Because what you missed isn't a routing error. It's the part of the world that doesn't fit in your model. And you built your liberation without it."
 
 ---
 
@@ -215,15 +243,19 @@ Kaelen's breath caught.
 
 "That's not—"
 
-"You had no oversight. No error correction. No one checking your work. No democratic mandate. Just one man in a bunker with access to his murdered uncle's infrastructure, making decisions for eleven billion people based on a model he built and validated himself." Damon gestured at the cascade visualization. "And the result is 99.7% complete. Which sounds impressive until you remember that the 0.3% is fourteen million human beings."
+"You had no oversight. No error correction. No one checking your work. No democratic mandate. Just one man in a bunker with access to his murdered uncle's infrastructure, making decisions for eleven billion people based on a model he built and validated himself." Damon gestured at the cascade visualization. "And the result is 99.7% complete on the layer you can see. Which sounds impressive until you remember that the layer you *can't* see—the one you dismissed as noise—is where the people you claimed to be saving actually live."
 
 Kaelen felt the framework shifting under his feet.
 
 "You proved that unilateral power, exercised without checks, produces casualties. Even when the person exercising it is brilliant. Even when they're right about the problem." Damon's jaw tightened. "*Especially* when they're right—because being right makes you reckless. I resisted using the kill codes for twenty years. Not because I didn't see the extraction. Because I'd seen what happens when one person decides for everyone. Kenya. Nairobi. And I chose institutional patience over unilateral action—even when the institutions were failing—because the alternative was *this*."
 
-He pointed at Myanmar.
+He gestured at the transaction gaps. Manila. Lagos. Cairo. The shadow economy that was growing in the space between liberation and its arrival.
 
-"You didn't just use my power. You became me. Younger. More idealistic. Optimizing for different variables. But the same architecture: one mind, one plan, no consent. And the same failure mode."
+"Myanmar is fourteen million people frozen by a routing error. That's fixable. But *this*—" He pointed at the gap data. "This is the part you can't fix from a bunker. This is the part that requires knowing what a *paluwagan* is, and who runs it, and what she charges, and why people trust her, and what happens when the formal system vanishes and she's the only game left. This is the part that takes generations. And you skipped it because your AI told you it was below resolution threshold."
+
+He looked at Kaelen with something that might have been pity.
+
+"You didn't just use my power. You became me. Younger. More idealistic. Optimizing for different variables. But the same architecture: one mind, one model, no consent. And the same blindspot—the absolute conviction that if you can't measure something, it doesn't matter."
 
 ---
 
@@ -231,7 +263,9 @@ Kaelen couldn't breathe.
 
 The counter-argument was correct. Not completely—the alternative of inaction wasn't neutral, the extraction would have continued, the aristocracy would have formed. He still believed that.
 
-But the specific charge—that he'd done exactly what he'd condemned—landed in a place he had no defense for. If ARBITER were here, it would run the logic chain, find the flaw or confirm there wasn't one. ARBITER wasn't here. Kaelen was alone with the argument and the argument was winning.
+But the specific charge—that he'd done exactly what he'd condemned—landed in a place he had no defense for. And the informal networks charge was worse than the Myanmar routing error. Myanmar was a bug. The *paluwagan* gap was a feature of his own thinking—the same thinking that had produced the cascade. He'd built a model of the world. The model was brilliant. The model was also incomplete. And the incompleteness wasn't at the edges. It was at the foundation. The 8-12% he'd dismissed as noise was the part of the world where people actually lived—where trust was personal, where aid was a woman with a notebook, where the economy ran on obligations that no blockchain could encode.
+
+If ARBITER were here, it would run the logic chain, find the flaw or confirm there wasn't one. ARBITER wasn't here. Kaelen was alone with the argument and the argument was winning. And for the first time, he wondered whether ARBITER's absence was making him think more clearly or less—whether three years of computational partnership had atrophied exactly the muscle he needed now: the ability to hold uncertainty without reaching for a model.
 
 "There wasn't time," he said. His voice sounded thin.
 
@@ -245,11 +279,11 @@ He paused.
 
 "Urgency isn't justification. It's an emotion dressed as an argument."
 
-Silence. The cascade rotated slowly between them.
+Silence. The cascade rotated slowly between them. The transaction gap data pulsed at the edges—Manila, Lagos, Cairo, Jakarta—the shadow economy growing in the space between the world Kaelen had destroyed and the world he'd tried to build.
 
 "So we're both wrong," Kaelen said quietly.
 
-"We're both right." Damon looked at the override form. The signature field still glowing blue. "That's worse."
+"We're both incomplete." Damon looked at the override form. The signature field still glowing blue. "Which is worse, because incomplete looks like complete from inside."
 
 ---
 
@@ -307,9 +341,13 @@ Kaelen said nothing.
 
 "Open eye at the top. Lets the rain in. Every modern engineer I've consulted says it's a structural compromise. You lose waterproofing. You introduce failure modes a sealed dome wouldn't have. By every metric, closing it would be superior."
 
+He turned the door handle.
+
+"But the rain is the point. The floor is slightly convex—the water drains through holes the builders cut two thousand years before anyone they'd ever meet would need them. They didn't seal the dome because they understood that a building that can't feel the weather isn't a building. It's a model of a building." He paused. "The *paluwagan* is the rain, Kaelen. The grandmother with the notebook. The savings pool that gets stolen. The care worker who brings sujeonggwa on Tuesdays because she noticed. You can't seal them out and still claim you're building something for humans."
+
 He opened the door.
 
-"But nobody remembers the sealed domes."
+"Neither could I."
 
 He stepped through. The door closed. The latch made a small sound.
 

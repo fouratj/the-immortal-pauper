@@ -7,21 +7,21 @@ Kaelen's hands wouldn't stop shaking. The bunker smelled like ozone and stale re
 
 He sipped the Estonian coffee. It tasted like burnt wood and regret—which was either the roast or his state of mind. The Tallinn team had given him a five-pound bag as a gift. "For the long nights," they'd said, not knowing he'd be spending those nights dismantling the rent-extraction layer suffocating global capitalism.
 
-"ARBITER. São Paulo housing trusts. Status on dissolution."
+"ARBITER. São Paulo housing trusts."
 
-"Three trusts identified. Total holdings: $2.4 billion. 47,000 units under management. Average rent: ₱8,400/month. If dissolved and patents released to commons, construction costs drop 68%. Estimated completion time for new units: 8 months versus 8 years under current constraints."
+"Three trusts. $2.4 billion. 47,000 units."
 
-Kaelen pulled up the holoscreen. São Paulo. Rua Cardoso de Almeida. 3:47 AM local time.
+"Rua Cardoso de Almeida. The empty lot."
 
-He thought of the feijoada place, the grandmother, Damon saying *the best things resist measurement*—the same streets he was now dissolving.
+He didn't need ARBITER for this one. He'd walked past it six months ago with Damon, on the way to the feijoada place—the grandmother in the kitchen, the beans simmering, his uncle eating three bowls and saying *the best things resist measurement* while the housing trust that kept the lot empty generated attribution revenue from the artificial scarcity of the apartments that should have stood on it. The lot had been empty for fifteen years. Weeds growing through cracked concrete. A faded *FUTURO EMPREENDIMENTO* sign, sun-bleached to illegibility, promising a development that the trust had never intended to build because an empty lot appreciating at 12% annually was more profitable than apartments that people could live in.
 
-Carlos and Maria Santos were probably sleeping two blocks away. They didn't know Damon. Didn't know the man who'd built the system crushing them had walked an hour through their neighborhood to find a grandmother's cooking.
+Carlos and Maria Santos were probably sleeping two blocks away. Eight years of saving for a home that cost 80% of their combined income. Two blocks from the solution that nobody had been allowed to build.
 
 "Authorize dissolution. Release construction patents to commons."
 
 "Executing."
 
-The screen shifted. São Paulo. The empty lot that had been empty for fifteen years. Construction bots activating—a dozen Shimizu MA-7 modular assemblers, each the size of a small car, their articulated arms moving in synchronized silence. The bots' matte orange exteriors caught the predawn light as foundation pylons descended into earth with hydraulic precision.
+He pulled up the lot's feed. 3:47 AM in São Paulo. Construction bots were already arriving—a dozen Shimizu MA-7 modular assemblers, each the size of a small car, their matte-orange carapaces smeared with dried mud from whatever site they'd last worked. Their articulated arms unfolded in the predawn dark with the mechanical patience of insects emerging from cocoons. Foundation pylons descended into earth that had waited fifteen years for someone to decide that shelter was more valuable than speculation.
 
 "ARBITER. São Paulo status?"
 
@@ -72,7 +72,13 @@ His phone buzzed. Investor notification: *Portfolio valuations suspended pending
 
 **Hour 6 — Seoul National University Hospital, Bundang**
 
-The notification arrived at 06:17 KST, the same time it arrived everywhere else, though Seo-jin didn't know that yet. She was in the middle of an intubation—elderly woman, respiratory failure, the gray of lungs that had been working too hard for too long—when her phone buzzed against her thigh.
+The attribution relay on the third floor of Seoul National University Hospital Bundang was a matte-white box bolted to the ceiling above the nurses' station, identical to the one in halmeoni's care facility but larger—a commercial-grade unit handling four thousand daily transactions across twelve departments. It ran warm, 34°C at its casing, and produced a hum that the night-shift nurses used as a sleep cue: when the hum dropped pitch at 3 AM during the daily maintenance cycle, it meant four hours until dawn. The relay smelled faintly of heated circuit board—a metallic tang that mixed with the antiseptic and the recirculated air and became, over time, the smell of the hospital itself. The nurses had taped a photograph of BTS's Jungkook to its casing. Nobody remembered who'd put it there. Nobody removed it. The attribution relay was infrastructure the way the ceiling was infrastructure: it existed above you, it was always working, and you only noticed it when it stopped.
+
+At 06:17 KST, it stopped.
+
+Not fully—the relay didn't go dark. But its LED, normally a steady green pulse every four seconds, began flickering amber. Rapid. Irregular. The hum shifted up a quarter-tone, the sound of a system processing more data than its duty cycle anticipated. In the break room one floor down, a vending machine display glitched—prices flickering, resettling, flickering again. In the pharmacy, the automated dispensary paused for eleven seconds, its queue light cycling from green to yellow and back.
+
+Seo-jin didn't notice any of this. She was in the middle of an intubation—elderly woman, respiratory failure, the gray of lungs that had been working too hard for too long—when her phone buzzed against her thigh.
 
 She finished the intubation. Checked the tube placement. Confirmed bilateral breath sounds. Told the respiratory tech to start the ventilator settings. Then pulled out her phone.
 
@@ -233,11 +239,11 @@ She called halmeoni. The phone rang three times.
 
 "괜찮지. 여기 다 괜찮아. 은지가 아침에 수정과 갖다줬어."
 
-Of course she had. Tuesday. Grandfather died on a Tuesday. Eunji remembered.
+Of course she had. Tuesday. Grandfather died on a Tuesday. Eunji remembered. The attribution relay above the nurses' station could log that Eunji had entered the room at 7:14 AM and exited at 7:31 AM. It could not log that the sujeonggwa was the cinnamon-ginger recipe from Eunji's mother, or that the cup was placed on the left side of the bedside table because that was the side closest to the photograph of grandfather in his army uniform, or that Eunji knew to do this without being asked because she had *noticed*, and noticing was the thing that no system could compel.
 
 "서진아, 무서워?"
 
-Seo-jin didn't answer immediately. She was standing in a hospital hallway, her back against the wall, fourteen hours into a shift that was supposed to be eight, treating the cardiac fallout of an economic earthquake while her research funding evaporated. Was she scared?
+Seo-jin didn't answer immediately. She was standing in a hospital hallway, her back against the wall, fourteen hours into a shift that was supposed to be eight, treating the cardiac fallout of an economic earthquake while her research funding evaporated. Above her, the attribution relay hummed its new, higher pitch—processing the cascade's metadata updates, recalculating every transaction in the hospital, rewriting the economic substrate of her career in real time. She could hear it. The sound of the world being reorganized by someone she would never meet, for reasons she would never fully understand. Was she scared?
 
 "좀요."
 
@@ -247,7 +253,7 @@ Seo-jin closed her eyes. She knew what came next. Had heard it a hundred times. 
 
 "그래도 살았지." *But still, I lived.*
 
-The words landed in her chest and did what they always did. The system was shaking. The 그래도 was not.
+The words landed in her chest and did what they always did. Above her, the relay hummed. Below her, the ondol floors held their heat. The system was shaking. The 그래도 was not.
 
 "할머니, 나 다시 가봐야 해요."
 
@@ -264,6 +270,142 @@ Seo-jin laughed—the first laugh in fourteen hours, hoarse, exhausted, the soun
 She ate it standing in the hallway. The attribution system logged nothing. The rice was adequate. The act of eating was everything.
 
 She went back to the ER.
+
+---
+
+**Hour 21 — Manila, Philippines**
+
+Rosa woke to a sound she hadn't heard in years.
+
+Knocking. Not the electronic chime of the apartment's attribution sensor—the matte-gray disc mounted above the door frame that logged visitors, tracked package deliveries, and occasionally pinged her Prism 9 with a suggestion that she was due for a medical check-up. Real knocking. Knuckles on plywood.
+
+She opened the door. Luz was standing in the hallway, still in her restaurant apron, holding a plastic bag from the Mercury Drug on the corner.
+
+"How much is left in Lianne's subscription?"
+
+Rosa stared at her. "What?"
+
+"The GlucoSync. How many days?"
+
+"Three. Why?"
+
+Luz pushed past her into the kitchen, set the bag on the table, pulled out a box. GlucoSync nanopatches. Six-month supply. The matte-gray hexagonal packaging that Rosa knew better than her own handwriting.
+
+"Where did you get these?"
+
+"Ate Merced." Luz said the name like it explained everything. And in Tondo, it did.
+
+Ate Merced ran the *paluwagan* for their block—seventeen families, each contributing what they could, rotating access to the pool. No contracts. No blockchain. No attribution trail. Just a woman with a notebook and a reputation that functioned as collateral. The *paluwagan* had existed for eleven years. It had survived two typhoons, one president, and the rollout of the Intelligent Internet. It would probably survive whatever was happening on the news right now, because it operated on a frequency the II couldn't hear: trust between people who had been trusting each other since before the machines started counting.
+
+"She had cash," Luz said. "The Mercury Drug is still taking cash. The prices haven't changed yet—their system is updating, something about metadata, I don't know—but Ate Merced said buy now, before the prices change, whichever direction they change in. She's been buying medication for six families since last night."
+
+Rosa looked at the box. Six months of her daughter's life. Purchased with cash, from a savings pool that no algorithm had ever measured, by a woman whose economic contribution to Manila was—according to every II metric that existed—zero.
+
+"How much?"
+
+"₱28,800. Six months at current price. Ate Merced says you can pay back into the pool over eight months. No interest. She says interest is for banks."
+
+Rosa sat down at the kitchen table. The plastic tablecloth was still sticky. The overhead fan was still broken. Marco's door was still closed. Through the walls, she could hear the news—something about patents, something about commons, something about the world restructuring itself at a speed she couldn't follow.
+
+And here was Luz, standing in her kitchen at five in the morning, holding six months of insulin purchased through a savings pool that ran on nothing but a woman with a notebook.
+
+"I signed the CarePath contract," Rosa said. Her voice came out flat. "Last night. ₱145,000."
+
+Luz stared at her.
+
+"Before the prices—before any of this. I signed it."
+
+The silence was very specific. The silence of a sister who understood that her sister had sold her daughter's future to solve a problem that a grandmother with a notebook was already solving, and that neither the algorithm nor the cascade nor the smartest man in a bunker had seen it coming because they were all looking at the same map, and the map didn't show the territory.
+
+"Maybe it'll be okay," Luz said. "Maybe the contract won't matter if CarePath—"
+
+"Maybe." Rosa picked up the box. The hexagonal packaging was cool in her hands. "Salamat, Luz. Tell Ate Merced thank you."
+
+"She said don't thank her. She said that's what the pool is for."
+
+Rosa held the box against her chest. Through the thin walls: the news, still going. The cascade, still cascading. The II, still recalculating. And underneath it all, running on a frequency the world's most powerful systems could not detect, a woman with a notebook was buying medication for six families because that's what you did when the machines stopped making sense.
+
+---
+
+**Hour 22 — Secure Bunker**
+
+At Hour 22, the anomaly appeared.
+
+Kaelen almost missed it. He was deep in the BioGenesis restructuring—the most emotionally loaded transfer in the cascade, the company that made his uncle's resurrection possible—when a subroutine flagged something in the Southeast Asian propagation data.
+
+"ARBITER. What's happening in Manila's pharmaceutical sector?"
+
+"Patent releases propagating normally. Meridian Therapeutics licensing agreements dissolving on schedule. Generic manufacturing authorizations—"
+
+"Not the formal channels. The *transaction volume*. It's wrong."
+
+He pulled up the data. The II tracked every formal transaction in Manila—every blockchain settlement, every attributed payment, every licensed exchange. The cascade had hit the pharmaceutical sector at Hour 12. By Hour 18, formal pharmaceutical transaction volume should have spiked as generic manufacturers activated commons licenses and began repricing.
+
+It hadn't spiked. It had *dropped*. By 23%.
+
+"ARBITER. Explain the volume drop."
+
+A pause. Longer than computational necessity.
+
+"I can't."
+
+"What do you mean you can't?"
+
+"I mean the formal channels show reduced transaction volume in pharmaceutical distribution across Manila, Jakarta, and Lagos. The patent releases are executing. The commons licenses are propagating. But fewer transactions are flowing through attributed channels than the model predicted."
+
+"Where are the transactions going?"
+
+"Below resolution threshold."
+
+The phrase hit him like a slap. His own words from four months ago, in this same bunker, asking about informal networks. ARBITER's confident dismissal. *Below resolution threshold. The informal networks are significant to the people inside them, but they won't affect propagation at the level we're operating.*
+
+"The *paluwagan*," Kaelen said. "The savings circles. The cash networks."
+
+"Possibly. I can't confirm what I can't see."
+
+"What are you seeing?"
+
+"A shadow. The formal pharmaceutical transaction volume is 23% below projection. That volume didn't disappear—people still need medication. It migrated somewhere. Somewhere outside the II's transaction layer. Somewhere that uses cash, or barter, or social obligation, or whatever mechanism these networks employ. I can't tell you where because I was never designed to look there."
+
+Kaelen stared at the data. A 23% gap. In Manila alone. He pulled up Jakarta: 19% gap. Lagos: 31%. Cairo: 27%. Every late-adopter economy showing the same pattern. The formal channels were working perfectly. The cascade was executing flawlessly. And underneath it, invisible, the informal economy was doing its own thing.
+
+"Is this good or bad?"
+
+"I don't know. If the informal networks are providing medication at lower cost through community purchasing cooperatives—mutual aid absorbing the gap while formal channels reprice—then it's a buffer. Positive. Temporary."
+
+"And if they're not?"
+
+"If local intermediaries are using the disruption to consolidate control of pharmaceutical distribution outside the II—if the vacuum created by the formal system's recalculation is being filled by informal extractors who operate beyond attribution—then you've replaced measurable rent extraction with unmeasurable rent extraction. The cascade eliminated the disease you could see. The disease you couldn't see is growing in the gap."
+
+Kaelen's hands went cold.
+
+"Can I fix it?"
+
+"Not from here. The cascade routes through II nodes, blockchain settlement layers, regulated banking protocols. The informal networks exist outside all of these. You would need to understand each local network individually—its trust structures, its power dynamics, its extraction patterns—to intervene. And you would need to do it in seventeen countries simultaneously."
+
+"How long would that take?"
+
+"Generations."
+
+The word landed like Damon's word. *Generations.* The same word his uncle had used in the Bangalore meeting. The same word he'd dismissed as a stalling tactic. The same word that meant: *this is slower than you want it to be, and there is no shortcut.*
+
+"So the cascade works on the layer I can see."
+
+"Yes."
+
+"And the layer I can't see—the 8-12% that you said was noise—is responding in ways I can't predict, can't measure, and can't fix."
+
+"Yes."
+
+He thought about the grandmother's savings pool. Bae the foreman, stealing three years of wages from eighteen women. The pool had worked—until it didn't. The informal networks were beautiful and they were fragile and they were ruthless and they were invisible, and his cascade had passed through them like light through glass, changing nothing, because he'd built his liberation for a world that only existed in the data.
+
+"Log it," he said. His voice sounded hollow.
+
+"Logged."
+
+"Under what category?"
+
+"I created a new one. *Below resolution threshold—consequences.*"
 
 ---
 
