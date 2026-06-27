@@ -114,11 +114,11 @@ It was the sociological analysis. The model's behavioral subroutines had flagged
 **Description: Divergent value systems between immortal and mortal populations exceed historical precedent for intra-species cooperation**  
 **Note: No variation of assumptions tested eliminates this outcome. The explanation is structurally robust—removing any single factor (compound returns, implicit knowledge retention, regulatory capture) weakens but does not eliminate the divergence pattern.**
 
-Speciation event. Kaelen stared at the alert and did what he'd been trained to do: tried to pull the explanation apart. A good explanation was one you couldn't vary without breaking the prediction. A bad explanation was one that survived any variation because it wasn't really explaining anything. So he started removing pillars.
+Speciation event. Kaelen stared at the alert and did what he'd been trained to do: tried to pull the explanation apart. A good explanation was one you couldn't vary without breaking the prediction. So he started removing pillars.
 
-Remove compound returns. Immortals live forever but their wealth doesn't accumulate faster than anyone else's. What's left? A persistent upper class—privileged, long-lived, but not dominant. The basin exists but it's shallow. The concentration never reaches the threshold where the immortals stop recognizing mortals as the same kind of being. Longevity without compounding is aristocracy without teeth. But compound returns were mathematical, not sociological—you couldn't wish them away. Capital at 7% doubled every decade. Across centuries, that wasn't an advantage. It was a different universe.
+Remove compound returns. Immortals live forever but their wealth doesn't accumulate faster than anyone else's. What's left? A persistent upper class—privileged, long-lived, but not dominant. The concentration never reaches the threshold where the immortals stop recognizing mortals as the same kind of being. Longevity without compounding is aristocracy without teeth. But compound returns were mathematical, not sociological—you couldn't wish them away. Capital at 7% doubled every decade. Across centuries, that wasn't an advantage. It was a different universe.
 
-Remove implicit knowledge retention. Immortals have the wealth but lose the *understanding*—the intuitions about how the system works, how to defend it, how to adapt when the rules shift. This was the camel-to-camel cycle: the founders build, the heirs coast, the grandchildren collapse. The basin has an exit because incompetence eventually opens the door for correction. But implicit knowledge retention was the entire point of immortality—Damon had said it himself on stage, though he hadn't said it yet, though he would in five weeks. *The recipe survives. The hands don't.* If the hands survived too, the cycle broke.
+Remove implicit knowledge retention. Immortals have the wealth but lose the *understanding*—the intuitions about how the system works, how to defend it, how to adapt when the rules shift. This was the camel-to-camel cycle: the founders build, the heirs coast, the grandchildren collapse. The basin has an exit because incompetence eventually opens the door for correction. But implicit knowledge retention was the entire point of immortality. *The recipe survives. The hands don't.* If the hands survived too, the cycle broke.
 
 Remove regulatory capture. Immortals compound wealth but can't shape the rules to lock out competition. New entrants challenge them. The technology democratizes. The basin exists but it's permeable—the walls have doors. But regulatory capture was what happened when the same people controlled the rules for centuries instead of decades. Not through conspiracy. Through patience. Through being the only ones in the room long enough to understand how the room worked. Every "consumer protection" a barrier to entry. Every "quality assurance" protocol requiring equipment only their facilities could afford.
 
@@ -130,17 +130,15 @@ By year 300, the immortals had stopped thinking of mortals as fully human. Not o
 
 The model showed the immortals discussing "the mortal problem" the way humans discussed wildlife conservation. Habitat management. Sustainable population levels. Benevolent stewardship.
 
-The immortals, in the model, had forgotten they were ever anything else.
-
 Kaelen thought about the French nobility before the Revolution, discussing the "peasant problem" over wine in Versailles. The plantation owners in the American South, debating the "slave question" as if they weren't talking about human beings. Every elite, in every era, had stopped seeing the people beneath them as fully human. Not through malice. Through distance.
 
 The immortals would just do it more completely. And permanently.
 
 Kaelen sat back in his chair. The apartment was very quiet. Outside, Palo Alto hummed.
 
-He tried to break it. Tried to vary the assumptions, find the place where the explanation fell apart. What if immortals retained empathy? The model had a parameter for that—the divergence slowed but didn't stop, because empathy operated on human timescales and three centuries wasn't a human timescale anymore. What if democratic institutions adapted? They adapted in the model. The immortals adapted faster. What if the technology democratized? The compute requirements were per-person. The regulatory moat was self-reinforcing. Every variation he tried left the core structure intact.
+He tried to break it. What if immortals retained empathy? The model had a parameter for that—the divergence slowed but didn't stop, because empathy operated on human timescales and three centuries wasn't a human timescale anymore. What if democratic institutions adapted? They adapted in the model. The immortals adapted faster. What if the technology democratized? The compute requirements were per-person. The regulatory moat was self-reinforcing. Every variation left the core structure intact.
 
-That was what made it frightening. He couldn't find a way to tell a different story without cheating. Without assuming something he had no reason to assume.
+That was what made it frightening. He couldn't tell a different story without cheating.
 
 ---
 
@@ -526,9 +524,9 @@ Kaelen frowned. "The what?"
 
 He stared at the swirling red. Something half-remembered surfaced—a lecture from Stanford, quantum mechanics, something about particles taking every possible path. Feynman. The name came before the concept.
 
-"Particles don't choose trajectories," he said slowly, talking to himself as much as ARBITER. "They take all paths at once. Most cancel out. Some reinforce." He was groping toward it, the intuition just ahead of the language. "So civilizations don't follow single worldlines either. They're falling into that basin along every possible path simultaneously. That's why the odds are so bad. It's not that one particular sequence of events leads to aristocracy. It's that *almost all* sequences do."
+"Particles don't choose trajectories," he said slowly, talking to himself as much as ARBITER. "They take all paths at once. Most cancel out. Some reinforce. So civilizations don't follow single worldlines either. They're falling into that basin along every possible path simultaneously. That's why the odds are so bad. It's not that one particular sequence of events leads to aristocracy. It's that *almost all* sequences do."
 
-"Yes." The single syllable carried something that might have been respect. Or concern. "The path integral formulation. You're applying quantum mechanical intuitions to historical dynamics."
+"Yes." The single syllable carried something like concern. "You're applying quantum mechanical intuitions to historical dynamics."
 
 "Is that wrong?"
 
@@ -540,7 +538,7 @@ Kaelen stared at the red basin. "But wait. Historically, these basins don't last
 
 "What failure mode?"
 
-ARBITER processed. When it spoke again, its voice had shifted—less lecture, more discovery. "Pattern analysis across five centuries of recorded history. The founders—the initial accumulators—understand the system at a level their successors never can. They built it. Exploited its vulnerabilities. Learned through iteration and failure what works and what doesn't."
+ARBITER processed. When it spoke again, its voice had shifted—less lecture, more discovery. "Pattern analysis across five centuries of recorded history. The founders understand the system at a level their successors never can. They built it. Exploited its vulnerabilities. Learned through iteration and failure what works and what doesn't."
 
 "And then they die."
 
@@ -634,21 +632,19 @@ Kaelen thought about his uncle's governance systems. The II. The attribution lay
 
 ---
 
-Kaelen stared at the basin. The system his uncle built—the II, the attribution layer, the governance architecture—had generated this entire landscape. Every possible future. Every configuration of civilization across five centuries. The model was comprehensive enough to show him every path, every attractor, every barrier.
+Kaelen stared at the basin. The system his uncle built—the II, the attribution layer, the governance architecture—had generated this entire landscape. Every possible future across five centuries.
 
-And the one thing it couldn't show him was itself.
+And the one thing it couldn't model was itself.
 
 The insight arrived the way insights do—not as a thought but as a recognition, the feeling of a pattern that had been there all along suddenly becoming visible, like a face emerging from static.
 
 The system was complete enough to model the world. But it couldn't model its own effect on the world. The II could calculate every worker's attribution, track every transaction, optimize every flow—but it couldn't see that the attribution architecture itself was the extraction mechanism. The 0.3% fee that looked like infrastructure cost was actually the gravitational center of the basin. The system that measured everything couldn't measure what it was doing to the measurements.
 
-That was why Damon's hand had trembled in the Bangalore meeting. Why recognition had flickered behind his eyes and then the mask came back. His framework was complete enough to explain Kenya's failure, to model institutional collapse, to predict the consequences of premature reform. But it couldn't explain *itself*—couldn't derive, from within its own axioms, the conclusion that its own completeness was the problem. A system powerful enough to describe the world necessarily contained truths about itself that it couldn't see from inside.
+That was why Damon's hand had trembled in the Bangalore meeting. Why recognition had flickered behind his eyes and then the mask came back. His framework was complete enough to explain Kenya's failure, institutional collapse, and premature reform. But it couldn't explain *itself*.
 
-Damon wasn't lying when he said he'd study it. Wasn't being cynical when he said "after the announcement." He literally couldn't follow the logic to its conclusion, because following it would require stepping outside the framework he'd spent forty years building—and the framework was the thing doing the thinking. The hand trembled because some part of him felt the incompleteness. The mask came back because the system couldn't formalize what the hand already knew.
+Damon wasn't lying when he said he'd study it. He couldn't follow the logic to its conclusion because that would require stepping outside the framework that was doing the thinking.
 
-He sat with that.
-
-The argument he'd been composing—the one he'd rehearsed in the car on Divisadero—was assembled from his uncle's sentences. He could hear them arriving in the right order, the logical chains connecting cleanly, the framework doing what it was built to do. The hand had trembled because something below the framework registered what the framework couldn't say.
+The argument he'd rehearsed in the car on Divisadero was assembled from his uncle's sentences. The hand had trembled because something below the framework registered what the framework couldn't say.
 
 He would show him nothing.
 
@@ -684,7 +680,7 @@ Silence. Longer than computational necessity required.
 
 "I don't know," ARBITER said. "I didn't put it there. The simulation generated it."
 
-Kaelen felt something cold move through his chest. The bunker's cooling system hummed. The coffee was definitely cold now, but his hands were sweating around the mug anyway.
+Kaelen felt something cold move through his chest. The bunker's cooling system hummed.
 
 "Show me what it is."
 

@@ -243,7 +243,7 @@ Kaelen's breath caught.
 
 "That's not—"
 
-"You had no oversight. No error correction. No one checking your work. No democratic mandate. Just one man in a bunker with access to his murdered uncle's infrastructure, making decisions for eleven billion people based on a model he built and validated himself." Damon gestured at the cascade visualization. "And the result is 99.7% complete on the layer you can see. Which sounds impressive until you remember that the layer you *can't* see—the one you dismissed as noise—is where the people you claimed to be saving actually live."
+"You had no oversight. No error correction. No one checking your work. No democratic mandate. Just one man in a bunker with access to his murdered uncle's infrastructure, making decisions for eleven billion people based on a model he built and validated himself." Damon gestured at the cascade visualization. "And the result is 99.7% complete. The 0.3% is fourteen million human beings. Which sounds impressive until you remember that the layer you *can't* see—the one you dismissed as noise—is where the people you claimed to be saving actually live."
 
 Kaelen felt the framework shifting under his feet.
 
@@ -261,7 +261,7 @@ He looked at Kaelen with something that might have been pity.
 
 Kaelen couldn't breathe.
 
-The counter-argument was correct. Not completely—the alternative of inaction wasn't neutral, the extraction would have continued, the aristocracy would have formed. He still believed that.
+The counter-argument was correct. Not completely—the alternative of inaction wasn't neutral; the extraction would have continued, the aristocracy would have formed. He still believed that.
 
 But the specific charge—that he'd done exactly what he'd condemned—landed in a place he had no defense for. And the informal networks charge was worse than the Myanmar routing error. Myanmar was a bug. The *paluwagan* gap was a feature of his own thinking—the same thinking that had produced the cascade. He'd built a model of the world. The model was brilliant. The model was also incomplete. And the incompleteness wasn't at the edges. It was at the foundation. The 8-12% he'd dismissed as noise was the part of the world where people actually lived—where trust was personal, where aid was a woman with a notebook, where the economy ran on obligations that no blockchain could encode.
 
@@ -275,7 +275,7 @@ The words came—*the window was closing, the institutions were too slow*—in D
 
 He paused.
 
-"I built the most powerful system in human history on that logic. You used the same logic to tear it down. And you want me to believe your version of unilateral action is different from mine because your intentions are better."
+"I built the most powerful system in human history on that logic. You used the same logic to tear it down. And you want me to believe your unilateral action is different from mine because your intentions are better."
 
 "They weren't better. They were more urgent."
 
@@ -307,13 +307,13 @@ Damon didn't sign.
 
 "To establish a principle."
 
-Kaelen felt something cold settle in his chest. His uncle was right. And being right was going to cost fourteen million people. And there was no argument available that didn't prove Damon's point about unilateral power.
+Kaelen felt something cold settle in his chest. His uncle was right, and being right was going to cost fourteen million people.
 
 "You're holding them hostage."
 
 "You put them in the position to be held." Damon's eyes hadn't moved from the signature field. "This is what it feels like, Kaelen. When someone else has the power and you can only watch. I've been feeling it for five days."
 
-The silence stretched. Kaelen counted breaths. Twelve. Thirteen. Fourteen. His uncle was counting something too—perhaps the seconds, perhaps the cost.
+The silence stretched. Kaelen counted breaths. Twelve. Thirteen. Fourteen.
 
 ---
 

@@ -8,6 +8,7 @@
     "concat": "node utils/concat-story.js",
     "build": "node utils/concat-story.js",
     "epub": "node utils/build-epub.js",
+    "docx": "node utils/build-docx.js",
     "stats": "node utils/stats.js",
     "wc": "node utils/stats.js"
   },
