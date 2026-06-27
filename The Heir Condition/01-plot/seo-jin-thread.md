@@ -1,5 +1,7 @@
 # Seo-jin Thread: Planning Notes
 
+> **Reconciled note (2026-06-22):** The character logic below remains active, but the old `The Shift` chapter was deleted. Current Seo-jin canon lives in `../04-story/Act 0/00-The-Visit.md`, `../04-story/Act 1 - The Heir Condition/02-The-Ascension.md`, and the Act 3 cascade chapters.
+
 ## Character: Dr. Yoon Seo-jin (윤서진)
 
 Female. 34. Emergency medicine physician and researcher at Seoul National University Hospital, Bundang campus. Lives in Mapo-gu, Seoul.
@@ -64,19 +66,20 @@ Halmeoni carries the trust transition in her body. She lived through low-trust K
 
 ## Arc Through the Story
 
-### Act 0: The Visit / The Shift
-- Sunday visit to halmeoni. The care facility. Yakgwa. Stories about the war, the factories, the jeonse loss, the gapjil. The trust observation. 밥 먹었어? / 그래도 살았지.
-- Thursday night shift. The elderly man, cardiac event, lives alone. The save. The welfare check. The system working AND its limits. Home to Mapo-gu. The cardiac treatment research. The Manila conference memory — the Filipino nurse's question she couldn't answer. Korr broadcast notification dismissed. Echo phone call to halmeoni.
+### Act 0: The Visit
+- Sunday visit to halmeoni. The care facility. Yakgwa. Stories about the war, the factories, the savings-pool theft, the gapjil. The trust observation. 밥 먹었어? / 그래도 살았지.
+- The deleted `The Shift` material is now seeded into The Visit as Park Jae-won, the wellness-layer gap, and the limits of systems without people.
 
 ### Act 1: The Ascension
 - Brief section (~500 words). Break room. Watching the broadcast. Professional reaction to immortality. Watching Damon collapse — ER nunchi kicks in. She reads his dying from the broadcast feed.
 
-### Act 2: The Cascade
-- Hour 6-12: Attribution updates. Hospital chaos. Dermatology rates crater. ER rates climb. Research grants frozen.
-- Hour 20-30: Turbulence deepens. Treating cascade casualties (stress-induced cardiac events). Calling halmeoni. "전쟁 때도 이랬어. 그래도 살았지."
-- Hour 35-48: Stabilization. Patent goes to commons. $14 per dose. Walking through the ward. The elderly man recovering. Going home. Doenjang-jjigae. The feeling of the development ladder reaching its top and reaching back down.
+### Act 3: The Cascade / Acceleration / Cost
+- Hour 6-12: Attribution updates. Hospital chaos. Dermatology rates crater. ER rates climb.
+- Hour 20-30: Turbulence deepens. Treating cascade casualties, calling halmeoni, and feeling the difference between system metrics and human endurance.
+- Hour 35-48: Patent goes to commons, grant path reopens, Seo-jin's treatment reaches roughly $14 per dose, and Dr. Reyes/Manila becomes a live collaboration rather than an abstract conference memory.
 
-### Act 3: Not present in Resurrection/Confrontation (belongs to Damon and Kaelen)
+### Resurrection / Confrontation
+- Seo-jin is not a primary POV here; these chapters belong to Damon and Kaelen. Her thread should echo through the treatment economics and the unresolved question of what institutions survive the commons transition.
 
 ### Appendix: Brief glimpse. The cardiac treatment becomes standard of care worldwide. Filipino researcher trained at a hospital that can now afford world-class equipment. The machine, actually working.
 

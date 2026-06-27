@@ -1,5 +1,7 @@
 # Systems Architecture
 
+> **Planning reference, not current canon (2026-06-22):** This file contains useful system design material but predates the latest Act 0-3 manuscript reconciliation. Use `CURRENT-CANON.md` first for active II/attribution/resurrection facts; use this file for deeper background only after checking it against the manuscript.
+
 ## The Intelligent Internet Order
 
 ### Historical Evolution: The Adoption Wave (2040-2050)

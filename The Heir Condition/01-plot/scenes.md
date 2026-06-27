@@ -1,5 +1,7 @@
 # Scene-by-Scene Breakdown
 
+> **Superseded as active scene map (2026-06-22):** This scene breakdown is from an older version with Geneva, June dates, family vignettes, and media chorus structure. The current canonical scene order is in `CURRENT-STRUCTURE.md`.
+
 ## Act I: The Coronation & Fall
 
 ### Scene 1: The Amphitheater of History

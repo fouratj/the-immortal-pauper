@@ -1,5 +1,7 @@
 # The 48-Hour Heir: Complete Book Structure
 
+> **Superseded as active structure (2026-06-22):** This is an older full-book plan built around family vignettes, media chorus, and a long post-liberation arc. The current canonical manuscript is the Act 0-3 structure in `../04-story`; use `CURRENT-STRUCTURE.md` for active plot planning.
+
 ## Overall Architecture
 
 ### **Three-Act Structure with Systematic Rhythm**

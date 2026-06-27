@@ -1,6 +1,8 @@
 # Historical Timeline
 **Last Updated**: November 2024 (Based on 04-short implementation)
 
+> **Partly superseded (2026-06-22):** This timeline contains useful prehistory and II adoption background, but its "actual" labels refer to an older draft. For the current manuscript timeline from Bangalore through the April 23 confrontation, use `../01-plot/CURRENT-STRUCTURE.md` and `CURRENT-CANON.md`.
+
 ## Pre-History: The Collapse of Traditional Governance (2025-2035)
 
 ### 2031: Estonia's First Implementation (AS ACTUALLY WRITTEN)

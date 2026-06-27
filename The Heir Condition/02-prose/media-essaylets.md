@@ -1,5 +1,7 @@
 # Media Essaylets - Opening Chapter Elements
 
+> **Superseded as active structure (2026-06-22):** These media openings belong to an older chapter architecture with a media chorus. The current manuscript is direct scene-driven prose in `../04-story`. Keep this file as a possible voice/reference bank only. Use `CURRENT-PROSE-NOTES.md` for active prose guidance.
+
 ## **EARLY CHAPTERS: SPECULATION AND CONFUSION (2-6)**
 
 ### **Chapter 2 Opening: Technical Failure vs. Assassination**

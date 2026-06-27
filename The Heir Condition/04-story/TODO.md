@@ -1,50 +1,34 @@
 # Remaining Tasks
 
+This list is reconciled against the current canonical manuscript in `04-story` as of 2026-06-22. For the broader state, see `../03-notes/CURRENT-REVISION-STATE.md`.
+
 ## Structural (big)
 
-- [ ] **Restructure cascade** from four chapters to three: (1) Kaelen's bunker (compressed — feijoada memory now in Fifteen Moves, BioGenesis, coffee maker, contract acquisitions), (2) Manila ground-level (Rosa/Marco/Javi/Rico/Carlos interleaved), (3) Seoul (Seo-jin, hospital, reimbursement, halmeoni call, grant). Three POVs, three registers, no guilt-authorize-report cycle repetition.
+- [ ] **Restructure cascade** from the current three cascade files into three clearer registers if repetition remains: (1) Kaelen's bunker, (2) Manila ground-level (Rosa/Marco/Javi/Rico/Carlos), (3) Seoul (Seo-jin, hospital, halmeoni echo, grant). The goal is fewer guilt-authorize-report cycles and sharper POV distinction.
 
-- [ ] **Write Margaret Kowalski chapter** (~1,200 words). Act 3, before The Resurrection. Toledo, Ohio. Retired schoolteacher. Watching portfolio flatline at 3 AM. Doesn't survive the gap — dies of stress-induced cardiac event four months later, from a condition Seo-jin's treatment could have addressed if manufacturing had been three months faster. The 0.3% gets a face.
+- [ ] **Write Margaret Kowalski chapter** (~1,200 words). Act 3, before The Resurrection. Toledo, Ohio. Retired schoolteacher. Watching portfolio flatline at 3 AM. Doesn't survive the gap — dies of stress-induced cardiac event four months later, from a condition Seo-jin's treatment could have addressed if manufacturing had been three months faster. Futures pricing gets a face.
 
-- [ ] **Give Javi a real ending chapter**, not just the coda. Post-cascade: business gone, skills (mentorship, crisis intervention) needed in new context. Kids who went through the system need people who understand what it did to them. Javi becomes that person — reluctantly, uncertainly, broke. Relationship with Carlos stripped of financial architecture becomes thinner and more real.
+- [ ] **Give Javi a real ending chapter**, not just the coda. Post-cascade: business gone, skills (mentorship, crisis intervention) needed in a new context. Kids who went through the system need people who understand what it did to them. Javi becomes that person — reluctantly, uncertainly, broke. Relationship with Carlos stripped of financial architecture becomes thinner and more real.
 
 ## Character / Scene (medium)
 
-- [x] **Make ARBITER wrong about something early** — in Fifteen Moves Scene VI during cascade design (Feb 2050). ARBITER dismisses sub-institutional trust networks (paluwagan, susu, gye) as "below resolution threshold"; won't affect propagation at scale. Consequence in The Cost (Hour 48): Kaelen realizes informal networks primed Myanmar's fraud filters; same networks eventually resolve remaining 0.3% (Archive).
-
 - [ ] **Let Seo-jin lose something not immediately replaced.** Commons transition dissolves her research consortium — institution can't justify overhead when patents are free. Colleagues scatter. $14 treatment happens but team that built it is gone. Manila collaboration with Dr. Reyes becomes rebuilding, not just expanding. Science survives. Team doesn't.
 
-- [ ] **Push Rosa's singing further.** Humming "Ang Huling El Bimbo" becomes actual singing — just the bridge, quietly, in the kitchen. Marco hears it. Neither says anything. First time she's sung since 2038. Act 0 reasserting itself after the cascade.
+- [ ] **Rework The Resurrection:** remove or complicate the clean sentiment positive spike. Replace with Damon waking into fragmented data — destruction AND construction signals simultaneously. Markets crashed at blockchain speed, but attribution is updating, commons are expanding, new pricing is emerging. He reads the architecture underneath the chaos and recognizes it was deliberate before the forensics confirm it, but the game isn't won. Sentiment resolves months/years later, not at Hour 48.
 
-- [ ] **Add chess reference in The Confrontation.** Damon recognizes the shape of what Kaelen did — the student playing the teacher's own game. One line. Not admiring, not yet. Just recognition.
+- [ ] **Rebalance The Confrontation** to preserve genuine uncertainty. No vindicated revolution — Kaelen defending a bet whose payoff hasn't arrived. Damon can see the architecture, admire the concept, trace the endgame, and still point at Myanmar as proof that premature reform maims people even when the concept is sound.
 
-- [ ] **Make ARBITER's absence felt in The Confrontation.** Kaelen faces Damon alone — no computational partner, no one to check reasoning, three years of conversation erased at Hour 52. Confrontation should feel thinner than modeling chapters.
+- [ ] **Acknowledge immortality isn't solved.** Cascade drops resurrection from $500M to ~$45M. Still wildly unaffordable for most of humanity. Speciation delayed, not prevented. The basin is shallower, not gone. The one-shot exploit is used and closed. The next person who wants to fix the remaining inequality has no door to walk through.
 
-- [ ] **Rework The Resurrection:** remove clean sentiment positive spike. Replace with Damon waking into fragmented data — destruction AND construction signals simultaneously. Markets crashed (blockchain speed) but attribution updating, commons expanding, new pricing emerging. He reads the architecture underneath the chaos and recognizes it was deliberate BEFORE the forensics confirm it. He admires the concept, traces the logical endpoint, but sees a thousand variables between here and there. The game isn't won. Sentiment data resolves months/years later, not at Hour 48.
+- [ ] **Ship of Theseus.** Keep confronting whether Damon-2 is actually Damon. The current draft has the right pressure in Resurrection and Confrontation; make sure it remains explicit when Damon says "you killed me."
 
-- [ ] **Rebalance The Confrontation** to reflect genuine uncertainty. No vindicated revolution — Kaelen defending a bet whose payoff hasn't arrived. Damon can see the architecture, admire the concept, trace the endgame — but point at the chaos and say this is what premature reform looks like. Both men seeing the same position, disagreeing about whether it's winning. Myanmar as proof the execution was reckless even if the concept was sound.
-
-- [x] **Add Stephensonian digression about futures pricing** — financial destruction at blockchain speed, physical reality lags. Market prices in the future before it arrives. Inserted into Fifteen Moves Scene VI after ARBITER's 78% confidence. Three speeds taxonomy, Dutch merchants/VOC digression (Texel, nutmeg, de la Vega, Le Maire), retired-schoolteacher archetype (unnamed) in the gap.
-
-- [ ] **Strip Activation flashbacks** that Fifteen Moves now renders redundant. Chess games, sandalwood, Moscow set, "I've got you, Kael" — reader has lived these. Replace flashback with present-tense sensation. The sandalwood hits; Kaelen doesn't explain why it matters. The reader knows.
-
-- [ ] **Feijoada echo in cascade chapters** — 06-The-Cascade.md Hour 6 has the São Paulo trip as a full memory. Fifteen Moves now has the full scene. Cascade version becomes a brief echo, not retelling.
-
-- [ ] **Add Damon's private doubt** — somewhere in Fifteen Moves. One glimpse during a chess game or dinner where Damon almost follows the logic, almost says something, pulls back. Not enough to change anything. Just enough for the reader to know he was closer than he appeared.
-
-- [ ] **Acknowledge immortality isn't solved.** Cascade drops resurrection from $500M to ~$45M. Still wildly unaffordable for most of humanity. Speciation delayed, not prevented. The basin is shallower, not gone. The one-shot exploit is used and closed. The next person who wants to fix the remaining inequality has no door to walk through. Probably lands in The Confrontation — Damon points this out.
-
-- [ ] **Ship of Theseus.** Confront directly: is Damon-2 actually Damon? The story implies the copy is not the original. Make the unresolved tension explicit — probably in Confrontation, in Kaelen's interiority when Damon says "you killed me." Who is he talking to?
-
-- [ ] **Fix resurrection/immortality pricing across manuscript.** Old price: $500M per procedure. Post-cascade commons price: ~$45M (still cutting-edge research, still enormous, but 10x cheaper not 25x). Update all references in cascade chapters, Resurrection, BioGenesis dissolution scene, and anywhere else pricing appears.
-
-- [ ] **Tanaka thread.** Note for sequel: she built the Bangalore Patch, documented 847 workers, showed Rosa's face. After cascade, her work is implemented at global scale by the nephew of the man who rejected it. Furious and vindicated simultaneously. Leave thread open.
+- [ ] **Tanaka thread.** Note for sequel: she built the Bangalore Patch, documented workers, showed Rosa's face. After cascade, her work is implemented at global scale by the nephew of the man who rejected it. Furious and vindicated simultaneously. Leave thread open.
 
 ## Prose (do last)
 
-- [ ] **Kill two-thirds of "the particular [X] of [Y]"** constructions across the manuscript. Keep the five best. Murder the rest.
+- [ ] **Finish pruning "the particular [X] of [Y]"** constructions. Keep the five best. Murder the rest.
 
-- [ ] **Reduce Korean dialogue glosses** after pattern is established. Let some lines stand untranslated after the reader has learned the rhythm.
+- [ ] **Keep Korean dialogue glosses sparse** after pattern is established. Let some lines stand untranslated when the surrounding action carries them.
 
 - [ ] **Cut narrator-explains-the-scene moments.** "A question about food that was not about food" is beautiful once. Trust the material.
 

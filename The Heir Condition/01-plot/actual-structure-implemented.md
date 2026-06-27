@@ -1,6 +1,8 @@
 # Plot Structure - AS ACTUALLY IMPLEMENTED
 **Last Updated**: November 2024 (Based on 04-short)
 
+> **Superseded as active reference (2026-06-22):** This file documents the older `04-short` documentary draft. The current canonical manuscript is the Act 0-3 chapter structure in `../04-story`. Use `CURRENT-STRUCTURE.md` for the active plot map. Keep this file as historical critique only.
+
 > **Note**: This documents the ACTUAL narrative structure as written, not the original plan. See `structure.md` for original planning.
 
 ---

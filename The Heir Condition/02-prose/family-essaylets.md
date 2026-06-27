@@ -1,5 +1,7 @@
 # Family Vignette Essaylets - Closing Chapter Elements
 
+> **Superseded as active structure (2026-06-22):** These essaylets belong to an older interleaved family-vignette plan. The current manuscript uses direct scene POVs in `../04-story`, especially Seo-jin, Rosa, Javi, Kaelen, and Damon. Keep this file as a tonal/raw-material bank, not a chapter map. Use `CURRENT-PROSE-NOTES.md` for active prose guidance.
+
 ## **THE FIVE FAMILIES: Systematic Liberation Through Human Experience**
 
 ### **FAMILY 1: LAGOS MOTHER (AMARA) - Medical Access Liberation**

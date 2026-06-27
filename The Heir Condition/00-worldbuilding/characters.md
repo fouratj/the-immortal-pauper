@@ -1,6 +1,8 @@
 # Character Profiles
 **Last Updated**: November 2024 (Based on 04-short implementation)
 
+> **Partly superseded (2026-06-22):** This file still contains useful character thinking, but many "AS ACTUALLY WRITTEN" notes refer to the older `04-short` draft. For current canonical names, roles, and arcs, start with `CURRENT-CANON.md`. In the current manuscript there is no Elena documentary narrator, no Kit/Maya/Sofia/Daniel/Priya/Amir/Rajiv on-page, and the primary ground POVs are Seo-jin, Rosa, Javi, Kaelen, and Damon.
+
 ## Damon Korr - The First Immortal's Choice
 
 ### Background & Psychology (AS ACTUALLY WRITTEN)

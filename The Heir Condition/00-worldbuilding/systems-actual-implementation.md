@@ -1,6 +1,8 @@
 # Systems Architecture - AS ACTUALLY IMPLEMENTED
 **Last Updated**: November 2024 (Based on 04-short)
 
+> **Superseded as active reference (2026-06-22):** This file records systems as they appeared in the older `04-short` draft. The current canon has the Act 0-3 manuscript, Attribution Metadata v2.0, ARBITER/Margaret/Myanmar remainders, and revised resurrection economics. Use `CURRENT-CANON.md` for active worldbuilding.
+
 > **Note**: This document records what systems are ACTUALLY shown/explained in the story, not the original planning. See `systems.md` for original plans.
 
 ---

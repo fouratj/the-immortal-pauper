@@ -1,5 +1,7 @@
 # Plot Structure Framework
 
+> **Superseded as active structure (2026-06-22):** This is an older framework built around Damon's investigation, family vignettes, and media chorus. The current canonical manuscript uses direct Act 0-3 scenes in `../04-story`; use `CURRENT-STRUCTURE.md` for active plot planning.
+
 ## Core Structural Principle
 
 **The Inverted Heist**: Traditional heist stories build to the crime; this story begins with the perfect crime and explores its consequences. The "caper" is invisible, the victim is the apparent protagonist, and the mastermind never appears on stage.
