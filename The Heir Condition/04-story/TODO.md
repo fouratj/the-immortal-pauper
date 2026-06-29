@@ -12,7 +12,7 @@ This list is reconciled against the current canonical manuscript in `04-story` a
 
 ## Character / Scene (medium)
 
-- [ ] **Let Seo-jin lose something not immediately replaced.** Commons transition dissolves her research consortium — institution can't justify overhead when patents are free. Colleagues scatter. $14 treatment happens but team that built it is gone. Manila collaboration with Dr. Reyes becomes rebuilding, not just expanding. Science survives. Team doesn't.
+- [x] **Let Seo-jin lose something not immediately replaced.** Commons transition dissolves her research consortium — institution can't justify overhead when patents are free. Colleagues scatter. $14 treatment happens but team that built it is gone. Manila collaboration with Dr. Reyes becomes rebuilding, not just expanding. Science survives. Team doesn't.
 
 - [ ] **Rework The Resurrection:** remove or complicate the clean sentiment positive spike. Replace with Damon waking into fragmented data — destruction AND construction signals simultaneously. Markets crashed at blockchain speed, but attribution is updating, commons are expanding, new pricing is emerging. He reads the architecture underneath the chaos and recognizes it was deliberate before the forensics confirm it, but the game isn't won. Sentiment resolves months/years later, not at Hour 48.
 
