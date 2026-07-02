@@ -6,7 +6,7 @@ This list is reconciled against the current canonical manuscript in `04-story` a
 
 - [ ] **Restructure cascade** from the current three cascade files into three clearer registers if repetition remains: (1) Kaelen's bunker, (2) Manila ground-level (Rosa/Marco/Javi/Rico/Carlos), (3) Seoul (Seo-jin, hospital, halmeoni echo, grant). The goal is fewer guilt-authorize-report cycles and sharper POV distinction.
 
-- [ ] **Write Margaret Kowalski chapter** (~1,200 words). Act 3, before The Resurrection. Toledo, Ohio. Retired schoolteacher. Watching portfolio flatline at 3 AM. Doesn't survive the gap — dies of stress-induced cardiac event four months later, from a condition Seo-jin's treatment could have addressed if manufacturing had been three months faster. Futures pricing gets a face.
+- [x] **Write Margaret Kowalski chapter** (~1,200 words). Done as `06.3-The-Gap.md` (~1,480 words). Toledo, 3 AM portfolio, cardiac gap, futures vs. lived reality. Death implied in narrator frame; four-month treatment lag from Seoul foreshadowed.
 
 - [ ] **Give Javi a real ending chapter**, not just the coda. Post-cascade: business gone, skills (mentorship, crisis intervention) needed in a new context. Kids who went through the system need people who understand what it did to them. Javi becomes that person — reluctantly, uncertainly, broke. Relationship with Carlos stripped of financial architecture becomes thinner and more real.
 
@@ -16,7 +16,7 @@ This list is reconciled against the current canonical manuscript in `04-story` a
 
 - [ ] **Rework The Resurrection:** remove or complicate the clean sentiment positive spike. Replace with Damon waking into fragmented data — destruction AND construction signals simultaneously. Markets crashed at blockchain speed, but attribution is updating, commons are expanding, new pricing is emerging. He reads the architecture underneath the chaos and recognizes it was deliberate before the forensics confirm it, but the game isn't won. Sentiment resolves months/years later, not at Hour 48.
 
-- [ ] **Rebalance The Confrontation** to preserve genuine uncertainty. No vindicated revolution — Kaelen defending a bet whose payoff hasn't arrived. Damon can see the architecture, admire the concept, trace the endgame, and still point at Myanmar as proof that premature reform maims people even when the concept is sound.
+- [~] **Rebalance The Confrontation** to preserve genuine uncertainty. Largely done — Myanmar, informal-network gap, "we're both incomplete," Damon signs under protest. Review opening admiration beats if it still reads too vindicated.
 
 - [ ] **Acknowledge immortality isn't solved.** Cascade drops resurrection from $500M to ~$45M. Still wildly unaffordable for most of humanity. Speciation delayed, not prevented. The basin is shallower, not gone. The one-shot exploit is used and closed. The next person who wants to fix the remaining inequality has no door to walk through.
 

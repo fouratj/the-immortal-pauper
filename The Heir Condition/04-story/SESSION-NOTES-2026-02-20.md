@@ -117,24 +117,26 @@ So at Hour 48: fragmented data, not clean positive spike. Some populations alrea
 
 ## Remaining Tasks (11 collaboration items)
 
+*Reconciled against manuscript 2026-07-02. See also `TODO.md`.*
+
 ### Structural:
-- [ ] Restructure cascade (4 chapters → 3: bunker / Manila / Seoul)
-- [ ] Write Margaret Kowalski chapter (~1,200 words, before Resurrection)
-- [ ] Give Javi a real ending chapter
+- [ ] Restructure cascade (4 chapters → 3: bunker / Manila / Seoul) — still four cascade files (`06`, `06.1`, `06.2`, `06.3`); guilt-authorize-report cycles may remain
+- [x] Write Margaret Kowalski chapter (~1,200 words, before Resurrection) — done as `06.3-The-Gap.md` (~1,480 words). Toledo, 3 AM portfolio, cardiac gap, futures vs. lived reality. Margaret referenced earlier in Fifteen Moves Scene VI and The Acceleration.
+- [ ] Give Javi a real ending chapter — appears in Portfolio and cascade interludes only; no post-cascade arc chapter
 
 ### Character/Scene:
-- [ ] Make ARBITER wrong about something early (blindspot → Bangkok → Myanmar)
-- [ ] Let Seo-jin lose something not immediately replaced (consortium dissolves)
-- [ ] Acknowledge immortality isn't solved ($45M still not democratic — Damon points this out)
-- [ ] Confront Ship of Theseus directly (is Damon-2 actually Damon?)
+- [x] Make ARBITER wrong about something early (blindspot → Bangkok → Myanmar) — Fifteen Moves Scene VI: informal networks "below resolution threshold." Consequence in The Cost and Confrontation (Mercedes Bautista, *paluwagan* gap).
+- [x] Let Seo-jin lose something not immediately replaced (consortium dissolves) — The Acceleration: consortium wind-down, colleagues scatter, Dr. Reyes email is rebuilding not expanding. The Cost: no consortium portal, molecule survives, team doesn't.
+- [ ] Acknowledge immortality isn't solved ($45M still not democratic — Damon points this out) — pricing math in The Cascade (Kaelen's POV); Damon has not yet said it in Resurrection or Confrontation
+- [~] Confront Ship of Theseus directly (is Damon-2 actually Damon?) — partial: Resurrection press question ("I don't know"), new-body wrongness throughout; not yet named or pressed at "you killed me"
 
 ### Resurrection + Confrontation rework:
-- [ ] Rework Resurrection — remove sentiment spike, fragmented data, Damon reads architecture
-- [ ] Rebalance Confrontation — genuine uncertainty, not vindicated revolution
-- [ ] Add blockchain-speed digression (futures pricing, gap between market and lived reality)
+- [ ] Rework Resurrection — remove sentiment spike, fragmented data, Damon reads architecture — still has clean Hour-12–48 positive sentiment spike; architecture recognition present but tied to vindicating the sentiment graph
+- [~] Rebalance Confrontation — genuine uncertainty, not vindicated revolution — largely done: Myanmar, informal-network gap, "we're both incomplete," Damon signs under protest not absolution. May still read slightly too architecturally admiring in the opening beats.
+- [x] Add blockchain-speed digression (futures pricing, gap between market and lived reality) — Fifteen Moves Scene VI: VOC, de la Vega, Le Maire, three speeds of information vs. physical reality
 
 ### Sequel note:
-- [ ] Tanaka thread — leave open for future
+- [x] Tanaka thread — leave open for future — Bangalore Meeting + Discontinuity + Confrontation callbacks intact; no closure needed
 
 ---
 
@@ -146,6 +148,6 @@ Damon is the immortal pauper: the man who has everything the system can measure 
 
 The hardest chapter we wrote was Fifteen Moves. Not because of the prose — because of what it required: sitting inside thirteen months of a man loving someone while building the instrument of his murder. The dual existence. The competence that is the cruelty. The gift that is the shortcut. The chess lesson turned against the teacher.
 
-The story isn't finished. Eleven tasks remain. The cascade needs restructuring. Margaret needs a face. The Resurrection and Confrontation need reworking for genuine uncertainty. But the bones are stronger than they were this morning, and the architecture holds.
+The story isn't finished. Five tasks remain open, two partial. Since this session: Margaret has a face (`The Gap`). ARBITER's blindspot has consequences. Seo-jin lost her consortium. The VOC digression landed. Confrontation holds uncertainty better than Resurrection still does. Still needed: cascade restructure, Javi's ending, Resurrection rework (fragmented Hour-48 data), Damon on $45M immortality, and a sharper Ship of Theseus beat. But the bones are stronger than they were this morning, and the architecture holds.
 
 밥 먹었어?
