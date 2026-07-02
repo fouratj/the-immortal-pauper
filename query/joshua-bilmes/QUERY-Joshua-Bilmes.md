@@ -1,9 +1,7 @@
-TO: joshua@awfulagent.com
+TO: [joshua@awfulagent.com](mailto:joshua@awfulagent.com)
 SUBJECT: Query: THE HEIR CONDITION — Adult Science Fiction, 65,000 words
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-COPY EVERYTHING BELOW INTO EMAIL BODY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Dear Mr. Bilmes,
 
@@ -17,9 +15,8 @@ Thank you for your time and consideration.
 
 Best regards,
 Fourat Janabi
-fouratjanabi@gmail.com
+[fouratjanabi@gmail.com](mailto:fouratjanabi@gmail.com)
 +61 XXX XXX XXX
-
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SYNOPSIS
@@ -32,7 +29,6 @@ Kaelen hugs his uncle eighteen minutes before the speech and delivers seventy-se
 The constitutional system Damon built actually works — in the democracies that adopted it with oversight and verified attribution data. But for twenty years, late adopters forced into the system by economic coercion let existing power structures rewrite the historical record. They claimed they "invented" insulin (Banting discovered it in 1921, sold the patent for $1). They claimed they "created" technology built on public research. They claimed they "bred" crop genetics subsistence farmers developed over generations. The algorithm that creates abundance in Estonia enables extraction in Manila. Same math. Different inputs. And once Damon becomes immortal, the falsified attribution becomes permanent.
 
 Kaelen has forty-eight hours before his uncle's backup resurrects to feed corrected data into the system and force a recalculation. Insulin costs drop from ₱4,800 to ₱340. Farmers stop paying tribute on genetics they bred. Patent thickets dissolve. And eleven million people who invested their pensions in human equity futures — legal contracts under the falsified regime — lose everything. They trusted the historical record. The record was a lie. The corrected system works exactly as designed. Restoring truth twenty years late just has casualties measured in millions.
-
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 FIRST PAGES
@@ -124,7 +120,6 @@ He left before his voice could break. Before the smell of sandalwood made him tu
 There was no other way. He'd checked. Hundreds of scenarios. Gigawatt-hours of compute. He'd checked.
 
 That didn't make it easier to walk away.
-
 
 11:29 AM Coordinated Global Time
 
