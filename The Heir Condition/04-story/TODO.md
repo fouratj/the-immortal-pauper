@@ -8,7 +8,12 @@ This list is reconciled against the current canonical manuscript in `04-story` a
 
 - [x] **Write Margaret Kowalski chapter** (~1,200 words). Done as `06.3-The-Gap.md` (~1,480 words). Toledo, 3 AM portfolio, cardiac gap, futures vs. lived reality. Death implied in narrator frame; four-month treatment lag from Seoul foreshadowed.
 
-- [ ] **Give Javi a real ending chapter**, not just the coda. Post-cascade: business gone, skills (mentorship, crisis intervention) needed in a new context. Kids who went through the system need people who understand what it did to them. Javi becomes that person — reluctantly, uncertainly, broke. Relationship with Carlos stripped of financial architecture becomes thinner and more real.
+- [x] **Give Javi a real ending chapter.** Done in `Act 4/10-Sunday.md` — barangay hall Sundays, glasses in a drawer, Marco as the peer the system's survivors needed, Carlos coming back with no contract, Rico verifying from the doorway. Broke, uncertain, real.
+
+- [x] **Write the closing movement (Act 4 — The Immortal Pauper).** Three new chapters:
+  - `Act 3/07.1-The-Visitor.md` — Damon at Bundang (Tuesday, April 22), the halmeoni scene the Confrontation already cites ("the system doesn't make people share rice"). Fixes the continuity gap and gives the title its scene: the pauper fed for the first time.
+  - `Act 4/09-The-Remainders.md` — resolves the murder question (Damon closes the investigation, with reasons legal, familial, and cruel), Damon's public "$45M is not immortality, it's a cheaper aristocracy" statement, Kaelen's material ruin and the Remainders file becoming a work queue, Margaret Kowalski named, the chess game resumed (e4/c5).
+  - `Act 4/10-Sunday.md` — Act 0 register coda. Manila + Bundang, six months on. Closes the frame on 밥 먹었어?
 
 ## Character / Scene (medium)
 
@@ -18,9 +23,9 @@ This list is reconciled against the current canonical manuscript in `04-story` a
 
 - [~] **Rebalance The Confrontation** to preserve genuine uncertainty. Largely done — Myanmar, informal-network gap, "we're both incomplete," Damon signs under protest. Review opening admiration beats if it still reads too vindicated.
 
-- [ ] **Acknowledge immortality isn't solved.** Cascade drops resurrection from $500M to ~$45M. Still wildly unaffordable for most of humanity. Speciation delayed, not prevented. The basin is shallower, not gone. The one-shot exploit is used and closed. The next person who wants to fix the remaining inequality has no door to walk through.
+- [x] **Acknowledge immortality isn't solved.** Done in `Act 4/09-The-Remainders.md` — Damon says it himself, on camera: "$45 million is not immortality for mankind. It is a cheaper aristocracy." One-shot door closed; the slow way is what remains — and he applies for a job working on it.
 
-- [ ] **Ship of Theseus.** Keep confronting whether Damon-2 is actually Damon. The current draft has the right pressure in Resurrection and Confrontation; make sure it remains explicit when Damon says "you killed me."
+- [x] **Ship of Theseus.** Sharpened in `Act 3/07.1-The-Visitor.md` from halmeoni's angle: her father back from the war — "Same person. Different man. We fed him anyway." Plus "You think you are the first person to wake up in a new body? That's just called living. You did it fast. We do it slow."
 
 - [ ] **Tanaka thread.** Note for sequel: she built the Bangalore Patch, documented workers, showed Rosa's face. After cascade, her work is implemented at global scale by the nephew of the man who rejected it. Furious and vindicated simultaneously. Leave thread open.
 
