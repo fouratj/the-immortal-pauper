@@ -4,7 +4,7 @@ Javi was hemorrhaging expected value.
 
 He owned fifteen percent of a fourteen-year-old's future earnings. His home cluster had pinged his glasses: Carlos M., third incident this week, negative deviation probability at 80%. Recommend intervention.
 
-He ran the numbers himself while he rode. You didn't survive in this business by letting the algorithms do all your thinking. Three incidents in one week: pattern, not noise. Pattern meant baseline erosion — the models would start projecting Carlos's lifetime earnings downward. His 15% of a ₱4M baseline was ₱600K on paper, but paper burned fast when the underlying asset started making decisions like *hanging out around Tondo on a school night*. Another month of this and he'd be underwater. ₱125K from investors. Four months of work. All of it riding on a kid who was currently ignoring his calls.
+He ran the numbers himself while he rode. You didn't survive in this business by letting the algorithms do all your thinking. Three incidents in one week: pattern, not noise. Pattern meant baseline erosion — the models would start projecting Carlos's lifetime earnings downward. His 15% of the kid's projected ₱4M lifetime uplift was ₱600K on paper, but paper burned fast when the underlying asset started making decisions like *hanging out around Tondo on a school night*. Another month of this and he'd be underwater. ₱125K from investors. Four months of work. All of it riding on a kid who was currently ignoring his calls.
 
 He was doing 60 kph on a Honda Metropolitan through Quezon City traffic, weaving between jeepneys painted in competing shades of chrome and rust—a Cubao-Quiapo route bus belching diesel two meters to his left, its side panels advertising San Miguel Beer and some Korean skincare brand in faded decals. On every third utility pole, the II's relay nodes blinked their green LEDs into the humid night—small matte-white boxes, each the size of a lunch pail, each warm enough to attract geckos that clustered on their casings for heat. The nodes produced a faint hum at 60 Hz that you stopped hearing after a month in any neighborhood, the way you stopped hearing traffic or construction or the roosters that still crowed at 4 AM in Cubao despite every attempt to zone them out. The hum was the sound of being counted. During monsoon season, when the rain came sideways and the flooding reached the junction boxes, entire blocks would go dark—not the lights, the *attribution*. The nodes would short out, the relay chain would break, and for hours or sometimes days, the neighborhood would exist in a kind of economic silence. Transactions reverted to cash. Contracts paused. The II couldn't see you, which meant the II couldn't pay you, which meant you were invisible until the water receded and the technicians came to replace the capacitors that the humidity had killed. The digital overlay from his Vizor Pro 3 smartglasses showed Carlos's location as a pulsing blue dot. The Axon Body 3 camera clipped to his shoulder strap was recording—always recording. After the Gutierrez dispute, he'd learned to document everything.
 
@@ -162,11 +162,11 @@ Javi's face must have shown something because the guy smiled—first expression 
 
 "I don't know what happened with Marco—"
 
-"Let me tell you what happened to Marco, then. So you know what you're part of." The guy's voice went flat, reciting facts like a police report. "Guy named Ernesto had contract with him. Eighteen percent, just like you. Marco started slipping. Ernesto filed breach, sold the contract to MentorMaxx for ₱60K. They showed up at 2 AM with private security. Took him to some facility for six months."
+"Let me tell you what happened to Marco, then. So you know what you're part of." The guy's voice went flat, reciting facts like a police report. "Guy named Ernesto had contract with him. Fifteen percent, just like you. Marco started slipping. Ernesto filed breach, sold the contract to MentorMaxx for ₱60K. They showed up at 2 AM with private security. Took him to some facility for six months."
 
 Javi's stomach dropped.
 
-"Marco came back. He doesn't leave the house now. Doesn't talk. His baseline's probably close to zero." Rico paused. "So when I see you here, checking on Carlos, talking about your equity stake—I think about Marco."
+"Marco came back. He doesn't leave the house now. Doesn't talk. His baseline's probably close to zero." The guy paused. "So when I see you here, checking on Carlos, talking about your equity stake—I think about Marco."
 
 "I'm not MentorMaxx. I'm independent—I don't do residential extractions—"
 
@@ -429,7 +429,7 @@ He switched it off. Didn't help him with his immediate problems.
 
 Filed it under Carlos M. / Intervention 13 / 2050-04-17.
 
-Two investors had submitted redemption requests. ₱87K total. He had ₱34,000 liquid. Would need to sell retained equity to cover the rest.
+Two investors had submitted redemption requests—₱87K from one, ₱39K from the other. He had ₱34,000 liquid. Would need to sell retained equity to cover the rest.
 
 Ernesto probably faced the same decision.
 
@@ -465,7 +465,7 @@ Went to bed.
 
 ---
 
-Javi got the call from his investors at 14:30. Conference line. Eight names in the participant list, but only two were talking. The others were just... listening.
+Javi had gotten the call from his investors the afternoon before, at 14:30. Conference line. Eight names in the participant list, but only two were talking. The others were just... listening.
 
 "Javi." The voice belonged to someone who called himself Del. Not his real name—none of them used real names. "How's Manila? Still hot?"
 
@@ -473,7 +473,7 @@ Javi got the call from his investors at 14:30. Conference line. Eight names in t
 
 "I keep saying I'll visit. Never do." A sound like papers shuffling. "So, look. I've got another call in fifteen, so let's just get into it. Seven point one percent."
 
-Javi had been ready for this. Had practiced responses. "Q4 isn't over. I've got three contracts approaching baseline correction milestones—"
+Javi had been ready for this. Had practiced responses. "The quarter isn't over. I've got three contracts approaching baseline correction milestones—"
 
 "Seven point one versus eleven point two guild average. That's three consecutive quarters of underperformance."
 

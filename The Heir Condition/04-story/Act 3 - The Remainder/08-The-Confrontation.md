@@ -6,7 +6,7 @@
 
 The new body still didn't feel like his.
 
-Damon stood in the elevator, watching the floor numbers climb, and catalogued the wrongness: the joints that moved without ache, the lungs that drew breath without the micro-catch of fifty-two years of atmospheric particulates, the hands—unmarked, uncalloused, and carrying no history. He'd spent five days in this chassis and still couldn't shake the sensation of wearing an expensive rental. The controls were identical to the original model. The fit was somehow off.
+Damon stood in the elevator, watching the floor numbers climb, and catalogued the wrongness: the joints that moved without ache, the lungs that drew breath without the micro-catch of fifty-two years of atmospheric particulates, the hands—unmarked, uncalloused, and carrying no history. He'd spent three days in this chassis and still couldn't shake the sensation of wearing an expensive rental. The controls were identical to the original model. The fit was somehow off.
 
 Thirty-seven. Thirty-eight. Thirty-nine.
 
@@ -28,7 +28,7 @@ His voice came out right. Thank God for that.
 
 Kaelen closed the door. The latch clicked with a sound like a cell door.
 
-His hands were shaking. They'd been shaking since he dry heaved in the bathroom, and the bathroom felt like hours ago even though it was seven minutes. Seven minutes of standing at the sink, looking at his own face in the mirror, trying to recognize the person who was about to walk into this room. The person who had spent three years planning a murder and forty-eight hours executing it and five days waiting for the victim to request a meeting. Five days without ARBITER. Five days of thinking alone—no computational partner to check his reasoning, no voice to say *I can't find one* or *it might still be correct*. The erasure had been clean. Three years of conversation, gone at Hour 52. He'd never felt the absence more than now, walking into this room with nothing but his own mind and the suspicion that his own mind wasn't enough.
+His hands were shaking. They'd been shaking since he dry heaved in the bathroom, and the bathroom felt like hours ago even though it was seven minutes. Seven minutes of standing at the sink, looking at his own face in the mirror, trying to recognize the person who was about to walk into this room. The person who had spent a year planning a murder and forty-eight hours executing it and three days waiting for the victim to request a meeting. Three days without ARBITER. Three days of thinking alone—no computational partner to check his reasoning, no voice to say *I can't find one* or *it might still be correct*. The erasure had been clean. Three years of conversation, gone at Hour 52. He'd never felt the absence more than now, walking into this room with nothing but his own mind and the suspicion that his own mind wasn't enough.
 
 *Request*. That was the word the message had used. "I'm requesting a meeting." As if this were a calendar conflict. As if Kaelen could decline.
 
@@ -60,7 +60,7 @@ He didn't want to be impressed. Wanted to see chaos, incompetence, the amateur f
 
 Instead he saw elegance. The cascade wasn't chaos. It was architecture—*his* architecture, perfected. Scattered pieces oriented toward a single purpose, apparent disorder masking devastating coordination. Every move answering two questions: what does this do *now*, and what does it make possible *later*? Positions, not moves. The lesson he'd taught a fifteen-year-old across a chess board in Pacific Heights, executed at civilizational scale.
 
-The patent releases flowed through the II network like water finding its level. The housing dissolutions triggered downstream price recalculations with the precision of falling dominoes. The attribution metadata—his own formula, rewritten—had propagated through eleven billion nodes in sixteen hours.
+The patent releases flowed through the II network like water finding its level. The housing dissolutions triggered downstream price recalculations with the precision of falling dominoes. The attribution metadata—his own formula, rewritten, published six hours after his death—had finished propagating through eleven billion nodes within sixteen hours.
 
 Sixteen hours. While the world watched him die, his nephew had restructured global capitalism.
 
@@ -106,7 +106,7 @@ He turned to Kaelen.
 
 Kaelen couldn't answer. Because the answer was the thing he'd been trying not to think about for three days.
 
-"I'll tell you where." Damon pulled up a secondary analysis—one he'd commissioned himself, in the five days since his resurrection, using the same analytical instincts that had built the II in the first place. "Cash networks. Savings circles. Neighborhood intermediaries. The *paluwagan* in Manila, the *susu* in Lagos, the *gye* in Seoul. The informal economy that your model dismissed as—what was the phrase?"
+"I'll tell you where." Damon pulled up a secondary analysis—one he'd commissioned himself, in the three days since his resurrection, using the same analytical instincts that had built the II in the first place. "Cash networks. Savings circles. Neighborhood intermediaries. The *paluwagan* in Manila, the *susu* in Lagos, the *gye* in Seoul. The informal economy that your model dismissed as—what was the phrase?"
 
 "Below resolution threshold," Kaelen said. The words tasted like ash.
 
@@ -311,7 +311,7 @@ Kaelen felt something cold settle in his chest. His uncle was right, and being r
 
 "You're holding them hostage."
 
-"You put them in the position to be held." Damon's eyes hadn't moved from the signature field. "This is what it feels like, Kaelen. When someone else has the power and you can only watch. I've been feeling it for five days."
+"You put them in the position to be held." Damon's eyes hadn't moved from the signature field. "This is what it feels like, Kaelen. When someone else has the power and you can only watch. I've been feeling it for three days."
 
 The silence stretched. Kaelen counted breaths. Twelve. Thirteen. Fourteen.
 
@@ -362,8 +362,6 @@ The holographic display still glowed. Myanmar transfers resuming: 8.7 million of
 The thermos sat on the table. Baltic birch. Untouched.
 
 He picked it up. Unscrewed the cap. Cold Ethiopian coffee. He poured two cups—one on his side, one across the table—before he realized what he was doing.
-
-He stared at the second cup. Sitting where his uncle had stood. Full. Going cold.
 
 He drank his own. Bitter. Over-extracted. Left the other where it was.
 

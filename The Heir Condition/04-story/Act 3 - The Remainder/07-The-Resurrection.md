@@ -1,5 +1,5 @@
 # Chapter 8: The Resurrection
-*April 20, 2050 - 3:47 PM Pacific Time*
+*April 20, 2050 - 12:07 PM Coordinated Global Time*
 *Transcribed from Security Footage, BioGenesis Resurrection Chamber One*
 *San Francisco, California*
 
@@ -39,7 +39,7 @@ Notably absent were family members—a decision made for "security reasons."
 
 "How long was I gone?"
 
-"Forty-eight hours, twelve minutes." Dr. Chen paused. "Complete cellular failure occurred at eleven fifty-five AM during your global address. We restored from yesterday's checkpoint using the Mumbai Protocol—Srinivasan's breakthrough that made all of this possible. But Srinivasan had never tested emergency resurrection. Only controlled transfers with weeks of preparation. The displays showed microtubule quantum states collapsing into classical neural firing patterns that looked right, but 'looked right' wasn't the same as 'were right,' and I've been awake for forty-eight hours trying to tell the difference."
+"Forty-eight hours, twelve minutes." Dr. Chen paused. "Complete cellular failure occurred at eleven fifty-five AM during your global address. We restored from the checkpoint you ordered the night before your address—the weekly archive was six days stale—using the Mumbai Protocol, Srinivasan's breakthrough that made all of this possible. But Srinivasan had never tested emergency resurrection. Only controlled transfers with weeks of preparation. The displays showed microtubule quantum states collapsing into classical neural firing patterns that looked right, but 'looked right' wasn't the same as 'were right,' and I've been awake for forty-eight hours trying to tell the difference."
 
 Damon nodded, processing the information with characteristic analytical detachment. But the nod felt wrong—the muscles in his neck responding differently than they should. "So I have no memory of dying, or my last day."
 
@@ -89,7 +89,7 @@ Dr. Chen made a note. "We should probably—"
 
 From the gallery, Director Harrison called down: "Comprehensive forensic analysis found no evidence of external causation. Security footage shows no suspicious activity. All attendees were screened, all equipment verified. We can't find any evidence that doesn't appear to be spontaneous biological failure."
 
-"Spontaneous," Damon repeated, the word carrying skeptical emphasis. "The first human to achieve immortality dies spontaneously during his announcement of that achievement. What are the odds" 
+"Spontaneous," Damon repeated, the word carrying skeptical emphasis. "The first human to achieve immortality dies spontaneously during his announcement of that achievement. What are the odds?"
 
 "We should proceed under the assumption of intentional causation," Damon announced, straightening his jacket with regal precision. "Someone has developed a method for causing undetectable cellular failure. Being a god is no fun if you keep having to resurrect yourself."
 
@@ -110,6 +110,7 @@ Damon absorbed this like a quarterly earnings report. "Time frame for market sta
 From the gallery, Sarah Okafor asked, "What about additional security measures? If someone can cause undetectable cellular failure—"
 
 "No additional measures," Damon cut her off. "Security is reactive. Instead, we move to daily archiving. Dr. Chen, I want twenty-four hour backup intervals instead of weekly. If someone kills me again, we lose a day instead of a week." He paused. "The diagnostic telemetry from the attack—every failure pattern, every countermeasure. Start training models on it. War game the scenarios."
+
 "Dr. Chen," Damon continued, "status on the remaining clone reserves?"
 
 "Two additional clones remain in accelerated maturation," she replied. "Clone Three is at sixteen months development, Clone Four at twelve months."

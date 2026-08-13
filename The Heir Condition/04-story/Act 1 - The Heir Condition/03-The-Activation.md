@@ -142,7 +142,7 @@ He thought of Rosa in Manila—her hands, the calluses from twelve-hour shifts, 
 
 Of her son Marco, who'd come back from the MentorMaxx facility and hadn't left his room in four months. Of Lianne's nanopatch, costing fourteen times what it cost to manufacture, the difference extracted in licensing fees from a mother who earned nine thousand pesos a month. Of the eight hundred and forty-seven workers Tanaka had documented, each one a Rosa, each one paying for the privilege of being seen by a system that calculated their value at four times their wage.
 
-*That's why you're doing this. That's the calculation. One temporary death versus a trillion lives.*
+*That's why you're doing this. That's the calculation. One temporary death versus ten billion lives.*
 
 But the calculation didn't mention the smell of sandalwood. The calculation felt clean. The cost was not.
 
@@ -152,7 +152,7 @@ Later was going to be very heavy.
 
 In the inferior vena cava—the body's largest vein, a river three centimeters wide—a nanobot encountered its first Gen-7. The legitimate medical unit was larger, more sophisticated, running continuous diagnostics on the blood chemistry around it. It pinged the newcomer with a standard authentication request. The nanobot responded with stolen credentials: valid cryptographic signatures harvested from a Gen-7 that Kaelen had extracted from a medical waste facility in Singapore eighteen months ago. The Gen-7 accepted the handshake—same authentication, same molecular signature, no reason to suspect anything. It logged a routine contact with a fellow unit. Continued its patrol. The nanobot swam past, carrying its payload of synthetic death, officially welcomed into Damon Korr's body.
 
-The holographic displays showed global viewing numbers: 10.3 billion. Almost every conscious human with access to a screen. The largest simultaneous shared experience in human history.
+The holographic displays showed global viewing numbers: 9.4 billion. Almost every conscious human with access to a screen. The largest simultaneous shared experience in human history.
 
 Damon's voice dropped to intimate register: "But one constraint remained. The biological accident we call death..."
 
@@ -208,7 +208,7 @@ The sound his body made hitting the stage was small. Barely audible over the sud
 
 *Uncle.*
 
-The word didn't mean anything anymore. It was just a sound. A configuration of phonemes that used to connect to a person who was currently dying on a stage in front of ten billion people because Kaelen had decided it the future of humanity was more important than his uncle.
+The word didn't mean anything anymore. It was just a sound. A configuration of phonemes that used to connect to a person who was currently dying on a stage in front of ten billion people because Kaelen had decided the future of humanity was more important than his uncle.
 
 Medical teams swarmed. The crying woman beside Kaelen was shrieking now, her silk handkerchief pressed to her mouth.
 
@@ -222,7 +222,7 @@ But it wasn't practiced anymore. The mask had fused to his face and he couldn't 
 
 *And I'd do it again.*
 
-He wouldn't undo it. He couldn't
+He wouldn't undo it. He couldn't.
 
 The explanation was the best he had. And the window was closing.
 
@@ -252,7 +252,7 @@ The system status showed compute allocation through Hour 52. His eyes slid past 
 
 Kaelen opened the first transfer authorization. His hands were shaking so badly he mis-typed his confirmation code twice. Three times. His fingers wouldn't cooperate. His body was rebelling against what his mind had decided to do.
 
-*One temporary death versus a trillion lives.*
+*One temporary death versus ten billion lives.*
 
 *One man who loved you. One man who raised you. One man who taught you everything you know, including the analytical frameworks you used to decide to kill him.*
 

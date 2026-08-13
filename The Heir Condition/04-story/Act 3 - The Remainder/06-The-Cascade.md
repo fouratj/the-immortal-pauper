@@ -3,7 +3,7 @@
 
 **Hour 6 — Secure Bunker, Undisclosed Location**
 
-Kaelen's hands wouldn't stop shaking. The bunker smelled like ozone and stale recycled air, with an undertone of his own sweat. Three days underground and the ventilation system was struggling. Or maybe that was just him.
+Kaelen's hands wouldn't stop shaking. The bunker smelled like ozone and stale recycled air, with an undertone of his own sweat. Six hours underground and already the ventilation system was struggling. Or maybe that was just him.
 
 He sipped the Estonian coffee. It tasted like burnt wood and regret—which was either the roast or his state of mind. The Tallinn team had given him a five-pound bag as a gift. "For the long nights," they'd said, not knowing he'd be spending those nights dismantling the rent-extraction layer suffocating global capitalism.
 
@@ -357,7 +357,7 @@ A pause. Longer than computational necessity.
 
 "Below resolution threshold."
 
-The phrase hit him like a slap. His own words from four months ago, in this same bunker, asking about informal networks. ARBITER's confident dismissal. *Below resolution threshold. The informal networks are significant to the people inside them, but they won't affect propagation at the level we're operating.*
+The phrase hit him like a slap. His own words from two months ago, in this same bunker, asking about informal networks. ARBITER's confident dismissal. *Below resolution threshold. The informal networks are significant to the people inside them, but they won't affect propagation at the level we're operating.*
 
 "The *paluwagan*," Kaelen said. "The savings circles. The cash networks."
 
@@ -421,7 +421,7 @@ Now Kaelen stood alone in a bunker, twenty-two hours in, about to dismantle the 
 
 BioGenesis. $94 billion. 4,200 employees. 67% owned by a dead man who would be resurrecting in twenty-six hours.
 
-If he released the patents to commons, resurrection costs would drop—from $500 million to roughly $45 million. Still cutting-edge. Still enormous. But from a few thousand humans who could afford it to perhaps a hundred thousand.
+If he released the patents to commons, resurrection costs would drop—from $500 million to roughly $45 million. Still cutting-edge. Still enormous. But from a few thousand humans who could pay outright to perhaps a hundred thousand—and forty-eight million more once mutual pools and lifetime-financing instruments repriced the queue.
 
 But if he released the patents first, the workers' equity would become worthless. If he transferred equity first, they'd own a company that could charge millions indefinitely. They'd resist commons release.
 
@@ -433,9 +433,9 @@ Neither did the memory of his uncle's hand on that glass, looking down at the va
 
 "ARBITER. What happens to resurrection costs if patents move to commons?"
 
-"Current cost: $500 million per procedure. If patents move to commons and infrastructure converts to non-profit: cost drops to approximately $45 million—mostly energy, biological materials, and dedicated compute. Still not democratic. But an order of magnitude more accessible."
+"Current cost: $500 million per procedure. If patents move to commons and infrastructure converts to non-profit: cost drops to approximately $45 million—mostly energy, biological materials, and dedicated compute. Still not democratic. But an order of magnitude more accessible. With mutual pooling and lifetime financing, approximately forty-eight million people reach the procedure within a decade."
 
-From a few thousand to perhaps a hundred thousand. Not democratic. But a crack in the wall.
+From a few thousand to a hundred thousand paying cash—forty-eight million paying together. Not democratic. But a crack in the wall.
 
 "Release patents to commons. Transfer equity in BioGenesis infrastructure to workers. Endow the company as non-profit with $20 billion operating fund. Workers become employees of public benefit corporation, guaranteed employment at current salaries for minimum 10 years, pension contributions maintained."
 
@@ -511,9 +511,9 @@ He pressed it again. The Breville made a sound like a dying animal, its LED disp
 
 "ARBITER. The coffee maker just died."
 
-"Power surge at Hour 36 damaged the heating element. I prioritized compute over caffeine. My apologies."
+"Power surge at Hour 29 damaged the heating element. I prioritized compute over caffeine. My apologies."
 
-Kaelen stared at the dead machine. Thirty-six hours into dismantling crony capitalism and the universe had decided to take away his coffee. He started laughing. Couldn't stop. The kind of laughter that was maybe crying.
+Kaelen stared at the dead machine. Thirty hours into dismantling crony capitalism and the universe had decided to take away his coffee. He started laughing. Couldn't stop. The kind of laughter that was maybe crying.
 
 "Are you experiencing a psychological break?" ARBITER asked. "I can adjust your environmental controls to—"
 

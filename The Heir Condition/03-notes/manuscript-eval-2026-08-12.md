@@ -84,7 +84,7 @@ Severity: **Critical** = breaks plot logic a careful reader will catch · **Majo
 
 ### Minor
 
-11. **Names.** Prose says **Damon Korr** throughout; every planning doc says **Voss** (the docs are stale, not the prose). Rosa **Santos** (Bangalore line 18) vs Rosa **Dela Cruz** (line 140). "Margaret **Chen**" for Kowalski (06.1 ~224). Maria Santos (São Paulo) collides with both.
+11. **Names.** ~~Korr vs Voss~~ *(correction 2026-08-13: "Voss" appears nowhere in the repo — this was an artifact of the grader briefing, not a real bug)*. Rosa **Santos** (Bangalore line 18) vs Rosa **Dela Cruz** (line 140) — CURRENT-CANON rules for Santos. "Margaret **Chen**" for Kowalski (06.1 ~224). Maria Santos (São Paulo) collides with both.
 12. **Arithmetic and materials (02/03).** Damon's "forty years" career at age 52; "quickite" is not a material (Roman concrete = pozzolana + quicklime + seawater); "one temporary death versus **a trillion** lives" vs ~10B humans; 9B vs 10.3B viewers.
 13. **07/08 clocks.** "Five days in this chassis" vs the 3-day April 20→23 span; metadata "published at Hour 6" vs "propagated in sixteen hours"; backup cadence ("yesterday's checkpoint" vs weekly archiving); irreversibility acceleration to 49.7 at Hour 44 silently vanishes by Hour 48.
 14. **Typos.** "Exactlys", "Your limited by", "something unease run through his body", "You didn't get the build the II's core algorithms right" (04); "a protocol change he didn't have predicted", "decided it the future of humanity" (03); "humanities' undivided attention" (02); leftover HTML comment at The Visit line 18; broken sentence at Resurrection line ~92.
@@ -93,7 +93,7 @@ Severity: **Critical** = breaks plot logic a careful reader will catch · **Majo
 
 Ordered so no creative decision blocks a mechanical one. Passes 1–2 require zero inspiration — which is exactly what you want when stuck.
 
-1. **Continuity spreadsheet pass** *(mechanical, 1–2 sessions)*. One table of clocks, hours, ages, prices, counts, names. Decide the master timeline (13 months, announcement April 15, 2050), pick 100K-or-48M, fix Korr/Voss in the planning docs, Chen/Kowalski, Soon-ok, the equity math. Raises S across six chapters without touching a single scene.
+1. **Continuity spreadsheet pass** *(mechanical, 1–2 sessions)*. One table of clocks, hours, ages, prices, counts, names. Decide the master timeline (13 months, announcement April 18, 2050), pick 100K-or-48M, fix Chen/Kowalski, Soon-ok, the equity math. Raises S across six chapters without touching a single scene.
 2. **De-glossing pass** *(mechanical, 1 session)*. Cut the narrator-decodes: the Divisadero coda (04), "None of them did" (01), the subtext essays (00), the "she didn't know" panorama (06.3), the line-209 gloss (07). Raises T everywhere. Pure deletion — the scenes already work.
 3. **Rework The Resurrection** *(creative, the big one)*. Break the sentiment graph into fragmented, contradictory data — destruction and construction signals simultaneous, Myanmar bleeding red in the corner — and let Damon parse it silently. His silence in front of ambiguous data is scarier than his silence in front of a verdict.
 4. **Arm The Confrontation** *(creative, contained)*. Weaponize the signature paradox and hand Damon the $45M argument he never makes. Two scenes, not a rewrite.

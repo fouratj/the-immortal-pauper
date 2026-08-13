@@ -6,7 +6,7 @@ Nine billion humans watched Damon Korr take the stage, and more were joining eve
 
 The podium emerged from the amphitheater's center stage, rising with mechanical precision as orchestral music swelled across synchronized speakers in twelve hundred cities. The Korr Foundation had spent eighteen months orchestrating this moment: the first truly global announcement in human history, broadcast simultaneously in forty-seven languages, with viewing parties organized in every major population center on Earth.
 
-The amphitheater itself defied architectural convention—a crystalline structure that seemed to bend light into impossible geometries, its surfaces reflecting the faces of the global audience back at themselves in fractal patterns. Five thousand guests filled the terraced seating: heads of state, Nobel laureates, corporate titans, cultural luminaries. Above them, holographic projections showed viewing parties from Lagos to Mumbai to São Paulo, where millions gathered around public screens to witness whatever revelation had prompted humanity's most successful man to demand humanities' undivided attention.
+The amphitheater itself defied architectural convention—a crystalline structure that seemed to bend light into impossible geometries, its surfaces reflecting the faces of the global audience back at themselves in fractal patterns. Five thousand guests filled the terraced seating: heads of state, Nobel laureates, corporate titans, cultural luminaries. Above them, holographic projections showed viewing parties from Lagos to Mumbai to São Paulo, where millions gathered around public screens to witness whatever revelation had prompted humanity's most successful man to demand humanity's undivided attention.
 
 In the VIP section, Kaelen Korr sat motionless among the Korr family delegation, his face a study in respectful anticipation. To observers, he appeared every inch the proud nephew and designated heir, honored to witness his uncle's latest triumph. Beneath the mask, his heart was running at 94 beats per minute—he'd been counting—and his palms were slick against the armrests. The pin on his lapel felt like it weighed forty kilograms.
 
@@ -28,7 +28,7 @@ He paused. The nested sentence hung open. In twelve hundred cities, translators 
 
 Confusion rippling through the amphitheater, through viewing parties, through living rooms and break rooms and public plazas on six continents. In São Paulo, Maria Santos leaned forward. In Manila, a nurse on her break looked up from her phone.
 
-"Not 'couldn't' meaning we lack the capacity. We have rebar. We have computational structural analysis that Hadrian's engineers would have mistaken for sorcery. We could build a *better* dome. What we could not do, for eighteen centuries, was build *that* dome—because the recipe, *opus caementicium*, a specific mixture of volcanic ash from the Campi Flegrei near Pozzuoli, seawater, and quickite, cured under conditions that produce a calcium-aluminum-silicate-hydrate crystal structure which actually strengthens over time as the crystals propagate through the aggregate, which is the opposite of what our Portland cement does—" He caught himself. Almost smiled. "I'm told this is becoming a materials science lecture. The materials science is the point.
+"Not 'couldn't' meaning we lack the capacity. We have rebar. We have computational structural analysis that Hadrian's engineers would have mistaken for sorcery. We could build a *better* dome. What we could not do, for eighteen centuries, was build *that* dome—because the recipe, *opus caementicium*, a specific mixture of volcanic ash from the Campi Flegrei near Pozzuoli, seawater, and quicklime, cured under conditions that produce a calcium-aluminum-silicate-hydrate crystal structure which actually strengthens over time as the crystals propagate through the aggregate, which is the opposite of what our Portland cement does—" He caught himself. Almost smiled. "I'm told this is becoming a materials science lecture. The materials science is the point.
 
 "The recipe was documented. The proportions were documented. What was not documented, because it *could* not be, was the technique. The feel of the right mix under the mason's hands. The timing of the pour. The judgment—call it intuition, call it embodied expertise, call it whatever your discipline names the things that experts know but cannot fully explain—that judgment lived in the hands and eyes of people who learned it from other people who learned it from other people. And when those people died, and the civilization that trained them collapsed, the judgment went with them."
 
@@ -46,7 +46,7 @@ He paused. Let the catalog settle.
 
 The amphitheater was silent. Not the performative silence of an audience waiting for the next line, but the genuine silence of people thinking.
 
-"We have spent centuries solving the easy half of this problem. The Enlightenment gave us the method for preserving explicit knowledge: the scientific paper, the patent, the database. I spent forty years building systems that optimize the transmission and application of explicit knowledge at civilizational scale. I'm proud of that work." A beat. "You're welcome, by the way—though I'll concede that sounds worse out loud than it did in my head."
+"We have spent centuries solving the easy half of this problem. The Enlightenment gave us the method for preserving explicit knowledge: the scientific paper, the patent, the database. I spent thirty years building systems that optimize the transmission and application of explicit knowledge at civilizational scale. I'm proud of that work." A beat. "You're welcome, by the way—though I'll concede that sounds worse out loud than it did in my head."
 
 Laughter. Nervous, scattered, but real. Translators caught up. The tension broke and reformed.
 
@@ -90,7 +90,7 @@ In Bundang, Seo-jin had seen it coming. The hand toward the chest, half a minute
 
 Then he fell.
 
-At 11:47 AM Coordinated Global Time, eighteen minutes into the most-watched speech in human history, Damon Korr collapsed.
+At 11:47 AM Coordinated Global Time, seventeen minutes into the most-watched speech in human history, Damon Korr collapsed.
 
 The medical teams rushed the stage. The world watched in stunned silence, unsure if this was part of the performance—some elaborate demonstration of the resurrection technology he'd just announced. It wasn't. Within minutes, the most powerful man on Earth was declared dead on the stage he'd built to announce his immortality.
 

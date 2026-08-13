@@ -85,9 +85,9 @@ Another pause. Tanaka shifted her weight.
 
 "Before 1709, if you wanted to smelt iron, you needed charcoal. Charcoal comes from trees. Trees grow slowly. Which means?" he looked at Kaelen.
 
-"Your limited by how fast trees grow," Kaelen said.
+"You're limited by how fast trees grow," Kaelen said.
 
-"Exactlys. Britain in 1700 was running out of forests. They were burning their navy to make nails. Literally—decommissioned ships, broken up for timber, turned into charcoal. The constraint on industrialization wasn't demand, labor, or ingenuity. It was wood. Biology."
+"Exactly. Britain in 1700 was running out of forests. They were burning their navy to make nails. Literally—decommissioned ships, broken up for timber, turned into charcoal. The constraint on industrialization wasn't demand, labor, or ingenuity. It was wood. Biology."
 
 Kaelen's pen had stopped moving.
 
@@ -137,7 +137,7 @@ Tanaka opened her mouth. Closed it.
 
 "Is it?"
 
-"Are you arguing that Rosa Dela Cruz should keep earning a quarter of her value because two hundred years ago children died in English foundries?"
+"Are you arguing that Rosa Santos should keep earning a quarter of her value because two hundred years ago children died in English foundries?"
 
 "No."
 
@@ -215,7 +215,7 @@ Tanaka stepped forward. "The healthcare attribution reforms?"
 
 Damon didn't answer. He pulled up a visualization—Kenya's healthcare sector, 2047 to 2049. Accelerated timeline. No explanation. Just the data, running.
 
-The room's temperature didn't change, but Kaelen felt something unease run through his body. He knew this data existed. He'd never seen it presented like this.
+The room's temperature didn't change, but Kaelen felt unease run through his body. He knew this data existed. He'd never seen it presented like this.
 
 Hospitals closing. Not gradually—in waves. First the smaller clinics, marked in amber, blinking out one by one across the map of Nairobi and its suburbs. Then the regional centers in orange. Then the urban networks in red—Kenyatta National, Nairobi Hospital, Aga Khan—their status indicators shifting from green to yellow to that particular shade of gray that meant *ceased operations*.
 
@@ -363,7 +363,7 @@ Damon's hand moved toward his glass. Stopped. The mask flickered.
 
 "And if the next experiment fails too? Another fourteen million?"
 
-"Then we learn from that one. And try again. That's how knowledge works. That's how *you* built everything you built." Kaelen held his uncle's gaze. "You didn't get the build the II's core algorithms right the first time. You iterated. You refined. You learned from failures. But when it comes to Rosa—when it comes to the system you already control—suddenly the only acceptable approach is infinite patience."
+"Then we learn from that one. And try again. That's how knowledge works. That's how *you* built everything you built." Kaelen held his uncle's gaze. "You didn't build the II's core algorithms right the first time. You iterated. You refined. You learned from failures. But when it comes to Rosa—when it comes to the system you already control—suddenly the only acceptable approach is infinite patience."
 
 He let that word land. *Infinite.*
 
@@ -582,7 +582,7 @@ Damon looked at his hands. The firelight caught the gray at his temples, the lin
 
 Then the mask came back.
 
-"It's easy to want revolution when you're twenty-eight and have a trust fund." His voice was quiet but steady. "You want me to risk billions of lives on coordinated global reform? Fine. But don't pretend you're taking the same risk they are. You're not Rosa. You're my nephew. And if it all burns down, you'll be fine too."
+"It's easy to want revolution when you're twenty-seven and have a trust fund." His voice was quiet but steady. "You want me to risk billions of lives on coordinated global reform? Fine. But don't pretend you're taking the same risk they are. You're not Rosa. You're my nephew. And if it all burns down, you'll be fine too."
 
 His hand trembled. Just slightly. Then he set the glass down.
 

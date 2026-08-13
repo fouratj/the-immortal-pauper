@@ -179,7 +179,7 @@ Kaelen made coffee while he waited. The facility had the good stuff—Ethiopian 
 
 "That's the problem." Kaelen sat at the terminal and loaded the scenario matrix. 247 scenarios. Every policy intervention. Every possible path. "He doesn't do anything halfway. Including immortality."
 
-"The scenario matrix includes a parameter for the immortality announcement date," ARBITER noted. "You've set it to April 15th—the actual date your uncle has scheduled. You're not modeling a hypothetical. You're modeling *this*."
+"The scenario matrix includes a parameter for the immortality announcement date," ARBITER noted. "You've set it to April 18th, 2050—the actual date your uncle has scheduled. You're not modeling a hypothetical. You're modeling *this*."
 
 Kaelen didn't answer. He clicked [Execute]. The servers spun up. The cooling system kicked in harder. Somewhere in the facility's guts, power flowed from his uncle's private grid.
 
@@ -220,7 +220,7 @@ He closed the archive. The progress bar showed 26.7%.
 
 He'd been staring at the ceiling for twenty minutes when the memory came unbidden.
 
-The hospital room. September 2037. His mother's hand in his—cold, not dead-cold, just the coldness of circulation giving up. The monitors making sounds he'd learned to decode: the steady beep that meant *still here*, the occasional alarm that meant *something's wrong*, the long silence that would eventually mean *gone*.
+The hospital room. September 2034. His mother's hand in his—cold, not dead-cold, just the coldness of circulation giving up. The monitors making sounds he'd learned to decode: the steady beep that meant *still here*, the occasional alarm that meant *something's wrong*, the long silence that would eventually mean *gone*.
 
 She was forty-one. Pancreatic cancer. The diagnosis had come six months earlier, and she'd chosen to spend the time at home instead of in treatment that would have bought her maybe a year of nausea and exhaustion. "I'd rather have six good months than twelve bad ones," she'd said, and even then, even at twelve, Kaelen had understood that this was a calculation. That his mother was optimizing for quality over quantity. That she was treating her own death like a problem to be solved efficiently.
 
@@ -264,7 +264,7 @@ And Kaelen had believed him.
 
 ---
 
-In the bunker, eighteen years later, Kaelen stared at the ceiling and said:
+In the bunker, fifteen years later, Kaelen stared at the ceiling and said:
 
 "My mother asked him to look after me. Before she died."
 
@@ -314,7 +314,7 @@ He played chess against ARBITER. Lost in fourteen moves. Lost the second game in
 
 "I'm thinking about the last time I played someone who could actually beat me."
 
-He'd been fifteen. Christmas 2040. Damon's study in Pacific Heights, the fire dying because neither of them would break concentration to add wood. Outside, San Francisco was cold and foggy, but in here there was only warmth and the click of pieces and Damon's study: leather, old books, sandalwood.
+He'd been fifteen. Christmas 2036. Damon's study in Pacific Heights, the fire dying because neither of them would break concentration to add wood. Outside, San Francisco was cold and foggy, but in here there was only warmth and the click of pieces and Damon's study: leather, old books, sandalwood.
 
 Kaelen had just played Nf6, thinking he was developing normally, and Damon had looked at him across the board with that expression—not disappointment, something more patient. More pedagogical.
 
@@ -544,7 +544,7 @@ ARBITER processed. When it spoke again, its voice had shifted—less lecture, mo
 
 "And their heirs inherit the wealth, the position, the explicit knowledge—the documented strategies, the written rules. But not the implicit knowledge. Not the intuitions that only come from having to figure it out yourself. When the system shifts, when new vulnerabilities emerge, the heirs don't know how to adapt. They've never had to."
 
-The memory arrived before the analysis. Pacific Heights. October 2038. He'd been living with Damon for thirteen months.
+The memory arrived before the analysis. Pacific Heights. October 2035. He'd been living with Damon for thirteen months.
 
 The study: leather, sandalwood, the Staunton set on the board. Fog had come in off the bay and muted the windows to a uniform gray. The chess pieces were arranged in some middle game Kaelen didn't recognize—Damon had set it up and then drifted to the window, hands clasped behind his back, watching the fog the way he watched things when he was actually thinking about something else. Kaelen had been staring at the board for several minutes, not really seeing it.
 
@@ -712,7 +712,7 @@ Kaelen leaned forward. "What edge case?"
 
 All four requirements. One event. Another legal fossil, like the ones he'd just spent hours studying—waiting for someone to notice it could still be used.
 
-"The gap opens during your uncle's immortality announcement," ARBITER continued. "April 15th. Not before—the legal frameworks haven't experienced sufficient stress. Not after—the Estonian legislature updates Section 47.3 within days or weeks of the announcement to account for planned resurrection. The exploit exists only until that happens."
+"The gap opens during your uncle's immortality announcement," ARBITER continued. "April 18th. Not before—the legal frameworks haven't experienced sufficient stress. Not after—the Estonian legislature updates Section 47.3 within days or weeks of the announcement to account for planned resurrection. The exploit exists only until that happens."
 
 Kaelen stared at the narrow window. The announcement that was supposed to secure his uncle's immortal future was also the exact moment when it could be undone. If Damon died during that window—if the first immortal died before the legal frameworks adapted—the heir would gain unilateral control while the rules were undefined.
 

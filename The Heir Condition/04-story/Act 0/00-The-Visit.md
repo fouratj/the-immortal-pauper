@@ -23,9 +23,9 @@ She knocked on Room C-14. Didn't wait for an answer. Halmeoni never said "come i
 
 "Why are you knocking? I heard you signing in from down the hall. The machine makes a sound like a frog." 
 
-Her grandmother was sitting in the chair by the window—the good chair, the one with the orthopedic cushion that Seo-jin had bought last year and her grandmother had complained about for three weeks before admitting it helped her back. Yoon Soon-ok, eighty-nine years old, four foot eleven, a hundred and three pounds including the wool cardigan she wore year-round because she hadn't been properly warm since 1953.
+Her grandmother was sitting in the chair by the window—the good chair, the one with the orthopedic cushion that Seo-jin had bought last year and her grandmother had complained about for three weeks before admitting it helped her back. Yoon Soon-ok, a hundred and six years old, four foot eleven, a hundred and three pounds including the wool cardigan she wore year-round because she hadn't been properly warm since 1953.
 
-The room was small. The facility could have been larger—the land was available, the funding was there—but the designers had understood something that the attribution metrics couldn't fully capture: that very old people from a very particular generation didn't want large rooms. Large rooms were wasteful. Large rooms meant you'd forgotten what it was like to have nothing. Soon-ok's room was precisely the size she needed: a bed, a chair, a wardrobe, a small table where she did her crossword puzzles—she'd switched from Korean to English crosswords three years ago, claiming she needed the practice, though her English had been fluent since the 1980s. The walls held photographs: Soon-ok's wedding in 1958, the image hand-tinted in that particular Korean studio style, the colors slightly wrong, her hanbok a shade of pink that existed nowhere in nature. Her husband in his army uniform, 1956, unsmiling—nobody smiled in Korean photographs then, it was considered undignified. Three daughters at various ages. Grandchildren. And one photograph that Seo-jin had looked at a thousand times without ever fully understanding: a street in Busan, 1951, taken from above, showing a refugee camp that stretched to the harbor. Somewhere in that photograph—Soon-ok claimed she could point to the exact spot, though Seo-jin suspected the exact spot shifted depending on the story—was a girl of seven, carrying a two-year-old brother on her back, walking south because there was no other direction.
+The room was small. The facility could have been larger—the land was available, the funding was there—but the designers had understood something that the attribution metrics couldn't fully capture: that very old people from a very particular generation didn't want large rooms. Large rooms were wasteful. Large rooms meant you'd forgotten what it was like to have nothing. Soon-ok's room was precisely the size she needed: a bed, a chair, a wardrobe, a small table where she did her crossword puzzles—she'd switched from Korean to English crosswords three years ago, claiming she needed the practice, though her English had been fluent since the 1980s. The walls held photographs: Soon-ok's wedding in 1962, the image hand-tinted in that particular Korean studio style, the colors slightly wrong, her hanbok a shade of pink that existed nowhere in nature. Her husband in his army uniform, 1956, unsmiling—nobody smiled in Korean photographs then, it was considered undignified. Three daughters at various ages. Grandchildren. And one photograph that Seo-jin had looked at a thousand times without ever fully understanding: a street in Busan, 1951, taken from above, showing a refugee camp that stretched to the harbor. Somewhere in that photograph—Soon-ok claimed she could point to the exact spot, though Seo-jin suspected the exact spot shifted depending on the story—was a girl of seven, carrying a two-year-old brother on her back, walking south because there was no other direction.
 
 "약과 가져왔어요." Seo-jin held up the bag. "성심당에서."
 
@@ -51,7 +51,7 @@ Seo-jin knew about the bark.
 
 She ate another piece of yakgwa. The contrast was not lost on her. It was never lost on her.
 
-"We ate it every day for three months. Busan, 1951. Winter. My brother was four" she said as she looked at that old photograph. She adjusted her cardigan. The gesture was automatic, the same gesture she'd been making for seventy years—pulling warmth closer, even in a heated room, because the body remembered cold the way the mind remembered hunger: permanently.
+"We ate it every day for three months. Busan, 1951. Winter. My brother was two," she said as she looked at that old photograph. She adjusted her cardigan. The gesture was automatic, the same gesture she'd been making for seventy years—pulling warmth closer, even in a heated room, because the body remembered cold the way the mind remembered hunger: permanently.
 
 "The camp was—you can't imagine it. Nobody can imagine it who wasn't there. Ten thousand people in a space for two thousand. The smell." She shook her head. "아이고, the smell. And everyone was sick, or getting sick, or recovering from being sick. The children coughed all night. My brother coughed all night. I thought he was going to die. Every night I thought: tonight he dies."
 
@@ -117,7 +117,7 @@ Seo-jin waited.
 
 "Why are you sad on Tuesdays?"
 
-"Because your grandfather died on a Tuesday. "Eunji knows, she brings me extra sujeonggwa on Tuesdays. Because she noticed."
+"Because your grandfather died on a Tuesday. Eunji knows, she brings me extra sujeonggwa on Tuesdays. Because she noticed."
 
 Seo-jin felt something shift in her chest.
 
@@ -153,7 +153,7 @@ She produced, from somewhere Seo-jin could never identify—a cabinet? A drawer?
 
 "먹어." *Eat.*
 
-Seo-jin ate. The japchae tasted like sesame oil and sweet potato noodles and the flavor of something made by a person who had survived everything and decided that the appropriate response to survival was to feed people. The taste was not in any database. The recipe may not be in any commons. It existed in one pair of hands that had stitched wigs and carried brothers and lost savings and outlived a husband and now, at eighty-nine, produced japchae from dimensional pockets with the efficiency of a supply chain and the warmth of a thing no supply chain could produce.
+Seo-jin ate. The japchae tasted like sesame oil and sweet potato noodles and the flavor of something made by a person who had survived everything and decided that the appropriate response to survival was to feed people. The taste was not in any database. The recipe may not be in any commons. It existed in one pair of hands that had stitched wigs and carried brothers and lost savings and outlived a husband and now, at a hundred and six, produced japchae from dimensional pockets with the efficiency of a supply chain and the warmth of a thing no supply chain could produce.
 
 They ate together. Sunday. Bundang. The system hummed around them—funding the facility, attributing the care workers, measuring the outcomes, optimizing the warmth. And inside the system, in a small room with a heated floor, two women shared food the way women had been sharing food since before Korea was Korea.
 

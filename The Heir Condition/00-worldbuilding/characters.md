@@ -239,7 +239,7 @@
 
 ### The Beneficiaries (Kaelen Met These People)
 
-**Rosa Dela Cruz** - Care Worker, Manila (Kaelen met her June 2047)
+**Rosa Santos** - Care Worker, Manila (Kaelen met her June 2047)
 - Raises 3 grandchildren, watches neighbors' children, cares for elderly mother
 - Before: 9,000 pesos monthly (should be 40,000 by Tallinn Coefficients)
 - After: 38,000 pesos - care work finally measured correctly
