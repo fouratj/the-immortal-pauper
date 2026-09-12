@@ -1,5 +1,7 @@
 # Taste interview
 
+**Interview complete.** Canon lives in [`soul.md`](soul.md) (FROZEN 2026-09-12). Do not dump the manuscript here.
+
 Working questionnaire for the Taste bot to run with Fourat. Answers fill [`soul.md`](soul.md). Leave slots blank until he answers. Do not invent answers.
 
 Run in this order. Write his words into the answer slots, then transcribe into `soul.md`. Freeze `soul.md` before applying taste to chapters.

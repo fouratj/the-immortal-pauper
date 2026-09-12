@@ -8,7 +8,7 @@ Historical persona reviews stay under [`reviews/`](../reviews/). That folder is 
 
 | Seat | Path | Status |
 |---|---|---|
-| Taste Reviewer | [`taste/`](taste/) | First seat scaffolded — soul unfrozen |
+| Taste Reviewer | [`taste/`](taste/) | Reed soul FROZEN 2026-09-12 |
 | Ghost Writer | — | Follows |
 | Critic | — | Follows |
 
