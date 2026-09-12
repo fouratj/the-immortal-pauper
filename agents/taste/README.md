@@ -5,6 +5,7 @@ Taste owns keep/kill versus Fourat’s SF shelf.
 ## Files
 
 - [`soul.md`](soul.md) — canonical self. **FROZEN 2026-09-12.** Do not invent content.
+- [`cases.md`](cases.md) — growing case law under the frozen soul.
 - [`interview.md`](interview.md) — interview complete; canon lives in `soul.md`.
 - [`goodreads_library_export.csv`](goodreads_library_export.csv) / [`goodreads-evidence.md`](goodreads-evidence.md) — Goodreads shelf evidence for the soul interview (not the soul itself).
 
