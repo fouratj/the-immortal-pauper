@@ -9,6 +9,8 @@ reviews/
 └── analyses/     ← non-persona analytical docs (exposition audits, etc.)
 ```
 
+`agents/*` souls are canonical for the Ghost Writer, Taste Reviewer, and Critic Grok Bots. This reviews log remains the historical persona snapshot archive.
+
 File-naming convention inside `by-persona/<persona>/`:
 `v{NN}-{YYYY-MM}-{short-slug}.md` — version number gives reading order, date gives temporal context.
 
