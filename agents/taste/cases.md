@@ -38,6 +38,7 @@
 | C16 | `Act 3/06.1-The-Acceleration.md` | Mass void of human-equity contracts | **KEEP** | Remainders + incomplete fix (460k held); no neat liberation | gestalt |
 | C17 | `Act 3/08-The-Confrontation.md` | Damon: “You became me” / both incomplete | **KEEP** | Hard-to-vary moral symmetry without forgiveness theater | gestalt |
 | C18 | — | Woo / crank exposé / contempt-for-masses thesis | **KILL** | Hard nos from 1–2★ contrast | interview |
+| C19 | `Act 1/02-The-Ascension.md` | Crystalline amphitheater / impossible geometries / fractal reflections (pre-speech) | **TRIM** | Spectacle flex; keep logistics + later oculus echo as cash-out; speech stays (C08) | reed+neal |
 
 ---
 
@@ -45,7 +46,7 @@
 
 Aim: 15–30 labeled pairs at scene grain. Priority edges:
 
-1. Ascension amphitheater spectacle — keep how much of the geometry language?  
+1. ~~Ascension amphitheater~~ → **C19 TRIM** (Reed + Neal; Fourat @’d Neal)
 2. Activation nanobot sequence — cut length vs keep tether?  
 3. Cascade multi-POV shards — diluting Kaelen spine or earning Remainders?  
 4. Any moment that feels “competence without knowing its cruelty” — keep as theme vs kill as authorial smugness?  
@@ -60,3 +61,4 @@ Aim: 15–30 labeled pairs at scene grain. Priority edges:
 | 2026-09-12 | C01 KILL | KILL | yes | He led; Reed owns it now |
 | 2026-09-12 | Silo > Expanse | heart | yes | Calibration |
 | 2026-09-12 | C02 KEEP ending temp | aligned | yes | Gestalt |
+| 2026-09-12 | C19 TRIM amphitheater | Neal TRIM; Fourat @’d | provisional | Speech KEEP (C08); geometry TRIM |
