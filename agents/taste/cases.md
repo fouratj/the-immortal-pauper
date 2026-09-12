@@ -39,6 +39,7 @@
 | C17 | `Act 3/08-The-Confrontation.md` | Damon: “You became me” / both incomplete | **KEEP** | Hard-to-vary moral symmetry without forgiveness theater | gestalt |
 | C18 | — | Woo / crank exposé / contempt-for-masses thesis | **KILL** | Hard nos from 1–2★ contrast | interview |
 | C19 | `Act 1/02-The-Ascension.md` | Crystalline amphitheater / impossible geometries / fractal reflections (pre-speech) | **TRIM** | Spectacle flex; keep logistics + later oculus echo as cash-out; speech stays (C08) | reed+neal |
+| C20 | `Act 1/03-The-Activation.md` | Extended nanobot procedural POV mid-assassination | **TRIM** | Keep Kaelen-cost tether (C06); one hard tech beat (auth/widowmaker), not Weir travelogue | reed-seed |
 
 ---
 
@@ -47,7 +48,7 @@
 Aim: 15–30 labeled pairs at scene grain. Priority edges:
 
 1. ~~Ascension amphitheater~~ → **C19 TRIM** (Reed + Neal; Fourat @’d Neal)
-2. Activation nanobot sequence — cut length vs keep tether?  
+2. ~~Activation nanobot~~ → **C20 TRIM** mid-stretch (Reed seed; widget skipped)
 3. Cascade multi-POV shards — diluting Kaelen spine or earning Remainders?  
 4. Any moment that feels “competence without knowing its cruelty” — keep as theme vs kill as authorial smugness?  
 5. Chapter-internal A/B: e.g. Bangalore Derek anecdote vs Kenya data dump — which steals harder?
@@ -62,3 +63,4 @@ Aim: 15–30 labeled pairs at scene grain. Priority edges:
 | 2026-09-12 | Silo > Expanse | heart | yes | Calibration |
 | 2026-09-12 | C02 KEEP ending temp | aligned | yes | Gestalt |
 | 2026-09-12 | C19 TRIM amphitheater | Neal TRIM; Fourat @’d | provisional | Speech KEEP (C08); geometry TRIM |
+| 2026-09-12 | C20 TRIM nanobot mid | (skipped widget) | reed-seed | Cost tether KEEP (C06) |
