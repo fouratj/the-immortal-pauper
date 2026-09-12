@@ -39,7 +39,7 @@
 | C17 | `Act 3/08-The-Confrontation.md` | Damon: “You became me” / both incomplete | **KEEP** | Hard-to-vary moral symmetry without forgiveness theater | gestalt |
 | C18 | — | Woo / crank exposé / contempt-for-masses thesis | **KILL** | Hard nos from 1–2★ contrast | interview |
 | C19 | `Act 1/02-The-Ascension.md` | Crystalline amphitheater / impossible geometries / fractal reflections (pre-speech) | **TRIM** | Spectacle flex; keep logistics + later oculus echo as cash-out; speech stays (C08) | reed+neal |
-| C20 | `Act 1/03-The-Activation.md` | Extended nanobot procedural POV mid-assassination | **TRIM** | Keep Kaelen-cost tether (C06); one hard tech beat (auth/widowmaker), not Weir travelogue | reed-seed |
+| C20 | `Act 1/03-The-Activation.md` | Extended nanobot procedural POV mid-assassination | **TRIM** (+ preserve cut) | Keep Kaelen-cost tether (C06); one hard tech beat (auth/widowmaker); park full bot travelogue as footnote/cut — don’t lose it | fourat |
 | C21 | `Act 3/06-The-Cascade.md` | Multi-POV shards (Javi / Seo-jin / Rosa / Manila) braided to bunker hours | **KEEP** | Remainders earn the cascade; shards braid to Kaelen spine, don’t dilute it | reed-seed |
 | C22 | `Act 2/05.1-Fifteen-Moves.md` | “Competence… the cruelty that didn’t know its own name” (mother’s line) | **KEEP (theme)** | Hard-to-vary moral thesis; not authorial smugness when paid by remainders | reed-seed |
 | C23 | `Act 2/04-The-Bangalore-Meeting.md` | Derek / Coalbrookdale children’s graves + William’s fingers | **KEEP** | Bodies in the development ladder; anecdote steals harder than slides | reed-seed |
@@ -52,7 +52,7 @@
 Aim: 15–30 labeled pairs at scene grain. Priority edges:
 
 1. ~~Ascension amphitheater~~ → **C19 TRIM** (Reed + Neal; Fourat @’d Neal)
-2. ~~Activation nanobot~~ → **C20 TRIM** mid-stretch (Reed seed; widget skipped)
+2. ~~Activation nanobot~~ → **C20 TRIM** (+ preserve cut/footnote) — Fourat confirmed
 3. ~~Cascade multi-POV~~ → **C21 KEEP** (Reed seed)
 4. ~~Competence-as-cruelty~~ → **C22 KEEP as theme** (Reed seed)
 5. ~~Bangalore Derek vs Kenya~~ → **C23+C24 both KEEP** (Reed seed; anecdote steals harder, data still load-bearing)
@@ -67,7 +67,7 @@ Aim: 15–30 labeled pairs at scene grain. Priority edges:
 | 2026-09-12 | Silo > Expanse | heart | yes | Calibration |
 | 2026-09-12 | C02 KEEP ending temp | aligned | yes | Gestalt |
 | 2026-09-12 | C19 TRIM amphitheater | Neal TRIM; Fourat @’d | provisional | Speech KEEP (C08); geometry TRIM |
-| 2026-09-12 | C20 TRIM nanobot mid | (skipped widget) | reed-seed | Cost tether KEEP (C06) |
+| 2026-09-12 | C20 TRIM nanobot mid | TRIM + preserve cut/footnote | yes | Cost tether KEEP (C06); full POV parked not deleted |
 | 2026-09-12 | C21 KEEP cascade multi-POV | (reed-seed) | reed-seed | Remainders braid |
 | 2026-09-12 | C22 KEEP competence-cruelty theme | (reed-seed) | reed-seed | Mother’s line |
 | 2026-09-12 | C23+C24 KEEP Derek + Kenya | (reed-seed) | reed-seed | Both bodies; anecdote steals harder |
