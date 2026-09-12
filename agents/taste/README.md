@@ -6,6 +6,7 @@ Taste owns keep/kill versus Fourat’s SF shelf.
 
 - [`soul.md`](soul.md) — canonical self. Fill from the interview. Do not invent content.
 - [`interview.md`](interview.md) — working questionnaire the Taste bot runs with Fourat.
+- [`goodreads_library_export.csv`](goodreads_library_export.csv) / [`goodreads-evidence.md`](goodreads-evidence.md) — Goodreads shelf evidence for the soul interview (not the soul itself).
 
 ## Rules
 
