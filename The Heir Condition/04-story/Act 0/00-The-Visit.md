@@ -5,61 +5,53 @@
 
 The Bundang Silver Community smelled like sujeonggwa and floor wax.
 
-Seo-jin signed in at the front desk—the biometric pad reading her thumbprint, cross-referencing her visitor profile, logging her arrival at 14:07 on a Sunday when she should have been sleeping off a twenty-two-hour shift. The system knew she was tired. It had access to her hospital's scheduling data, her sleep metrics from the Garmin on her wrist, the cortisol readings from her last bloodwork. But if it had opinions about her decision to visit her grandmother instead of her bed, it kept them to itself.
+Seo-jin signed in at 14:07 on a Sunday she should have been sleeping off a twenty-two-hour shift. The biometric pad took her thumb without commentary. The lobby was warm the way old people needed warmth: ondol under the floor, the heat coming up through her shoes like a hand.
 
-The lobby was warm. It was not the institutional warmth of a heating system set to minimum acceptable, but the deliberate warmth of a place that understood its residents had thinning blood and cold joints. The floors were heated ondol-style, a concession to tradition that the architects had fought for and the attribution metrics had eventually justified: residents with warm floors fell 34% less, broke 41% fewer hips, and generated measurably better outcomes on the geriatric wellness indices that determined the facility's funding. The warmth was genuine. It was also, somewhere in the II's vast ledger, a line item.
+She carried a paper bag from Sungsimdang in Daejeon—yakgwa, honey cookies pressed into chrysanthemums, fried the color of old amber. Forty minutes out of her way. Halmeoni could tell Sungsimdang from every other yakgwa on the peninsula, and Seo-jin had stopped trying to understand the difference and simply honored it.
 
-Seo-jin carried a paper bag from the Sungsimdang bakery in Daejeon—yakgwa, the honey cookies pressed into chrysanthemum shapes, fried until they turned the color of old amber. She'd driven forty minutes out of her way to get them because her grandmother could tell the difference between Sungsimdang yakgwa and every other yakgwa on the peninsula, and the difference mattered to her in a way that Seo-jin had stopped trying to understand and simply honored. It was a Sunday thing. It was a jeong thing. It was the kind of knowledge that lived in the body rather than the ledger.
+The hallway to Wing C hummed. Visitors never noticed. Seo-jin heard infrastructure the way she heard a failing pump in the ER: the attribution relay in the ceiling, a matte-white box the size of a paperback, green LED every four seconds, faint heated plastic under the wax and cinnamon. Park Eunji was on the morning board. Kim Dohyun from Chungju, who sang trot on Fridays and made Halmeoni laugh until she complained about her ribs. Seo-jin did not look up their percentiles. She knew their faces.
 
-The hallway to Wing C hummed. Not loudly—most visitors never noticed it. But Seo-jin had spent enough time in hospitals to hear infrastructure the way mechanics hear engines: the low-frequency drone of the attribution relay embedded in the ceiling, a matte-white box the size of a paperback book that blinked its green LED every four seconds as it logged staff movements, patient vitals, medication dispensations, and the dozen other data streams that the facility's funding algorithms required. The relay was warm to the touch—she'd checked once, out of professional curiosity—and it produced a faint smell of heated plastic that mixed with the floor wax and the sujeonggwa. It was the smell of the II. Every building that ran on attribution funding had one. You stopped noticing it the way you stopped noticing fluorescent light: it became the texture of the air itself, the baseline hum of a world that was always, at some level, counting.
+She knocked on C-14 and did not wait. Halmeoni never said come in. Seo-jin said, "할머니, 저예요."
 
-The hallway was lined with photographs—residents' families, mostly, the images rotating on e-ink displays that the staff updated when new pictures came in. The care workers here had names and faces that Seo-jin recognized: Park Eunji, who'd been on the morning shift for six years and knew every resident's medication schedule from memory; Kim Dohyun, the young man from Chungju who sang trot ballads in the common room on Fridays and made Seo-jin's grandmother laugh so hard she complained about her ribs. Their attribution scores were visible on the facility's public dashboard—transparent, auditable, reflecting the measured outcomes of their care. Eunji's was in the 87th percentile. Dohyun's was 79th and climbing. They were well-compensated. Not wealthy. But valued. The system saw them.
+"Why are you knocking? I heard you signing in from down the hall. The machine makes a sound like a frog."
 
-Seo-jin thought, sometimes, about what this hallway would have looked like thirty years ago. Before the II. Before attribution. Before the funding algorithms that turned "elder care" from a line item someone was always trying to cut into a sector with measurable, trackable, investable returns. She'd done a rotation in geriatrics during her residency and had read the case studies from the 2020s: the understaffed facilities, the residents left in beds for hours, the care workers—many of them migrants on contracts that never led to parity—earning barely more than convenience store clerks. The godoksa statistics—lonely deaths, thousands per year, bodies found hours later because nobody checked.
+Yoon Soon-ok sat in the good chair by the window—the orthopedic cushion Seo-jin had bought last year, which her grandmother had complained about for three weeks before admitting it helped. Eighty-nine. Four foot eleven. A hundred and three pounds including the wool cardigan she wore year-round because she had not been properly warm since 1953.
 
-Now something was checking. Consistently. Measurably. In a way that could be audited and improved. Not perfectly—Park Jae-won, the retired engineer she'd treated earlier that week, was proof of that. Seventy-one. Alone in a villa in Yatap-dong. He'd arrived in her ER at one in the morning holding his left arm, four days into cardiac symptoms he'd told no one about because there was no one to tell. His Garmin had the data—heart rate variability declining, sleep architecture fragmenting, cortisol trending upward for weeks. The data was there, sitting in the blockchain streams he'd opted into, available to any wellness provider who subscribed to his feed. But Park Jae-won hadn't subscribed to a wellness provider, because subscribing meant admitting you needed one, and admitting you needed one meant admitting you were alone, and the II was a marketplace, not a safety net—it didn't knock on your door at midnight to say *go to the hospital*. It waited for you to ask. She'd caught the NSTEMI in time. Catheterization went clean. But the gap between the data existing and a voice saying *go to the hospital* had nearly killed him.
-
-She knocked on Room C-14. Didn't wait for an answer. Halmeoni never said "come in". She said "할머니, 저예요."
-
-"Why are you knocking? I heard you signing in from down the hall. The machine makes a sound like a frog." 
-
-Her grandmother was sitting in the chair by the window—the good chair, the one with the orthopedic cushion that Seo-jin had bought last year and her grandmother had complained about for three weeks before admitting it helped her back. Yoon Soon-ok, a hundred and six years old, four foot eleven, a hundred and three pounds including the wool cardigan she wore year-round because she hadn't been properly warm since 1953.
-
-The room was small. The facility could have been larger—the land was available, the funding was there—but the designers had understood something that the attribution metrics couldn't fully capture: that very old people from a very particular generation didn't want large rooms. Large rooms were wasteful. Large rooms meant you'd forgotten what it was like to have nothing. Soon-ok's room was precisely the size she needed: a bed, a chair, a wardrobe, a small table where she did her crossword puzzles—she'd switched from Korean to English crosswords three years ago, claiming she needed the practice, though her English had been fluent since the 1980s. The walls held photographs: Soon-ok's wedding in 1962, the image hand-tinted in that particular Korean studio style, the colors slightly wrong, her hanbok a shade of pink that existed nowhere in nature. Her husband in his army uniform, 1956, unsmiling—nobody smiled in Korean photographs then, it was considered undignified. Three daughters at various ages. Grandchildren. And one photograph that Seo-jin had looked at a thousand times without ever fully understanding: a street in Busan, 1951, taken from above, showing a refugee camp that stretched to the harbor. Somewhere in that photograph—Soon-ok claimed she could point to the exact spot, though Seo-jin suspected the exact spot shifted depending on the story—was a girl of seven, carrying a two-year-old brother on her back, walking south because there was no other direction.
+The room was small on purpose. Bed, chair, wardrobe, a table for crosswords—Korean until three years ago, then English, "for practice," though her English had been fluent since the eighties. Photographs: wedding, 1958, hand-tinted, hanbok a shade of pink that existed nowhere in nature. Husband in army uniform, 1956, unsmiling. Three daughters. Grandchildren. And a street in Busan, 1951, refugee camp stretching to the harbor. Somewhere in that photograph—Soon-ok could point to the exact spot, though the exact spot had a habit of migrating—was a girl of seven with a two-year-old on her back, walking south because there was no other direction.
 
 "약과 가져왔어요." Seo-jin held up the bag. "성심당에서."
 
-"성심당?" Her grandmother's eyes sharpened. The distinction mattered. "진짜 성심당? 아니면 역 앞에 가짜?"
+"성심당?" The eyes sharpened. "진짜 성심당? 아니면 역 앞에 가짜?"
 
 "진짜. 대전까지 갔다왔어요."
 
-"대전? 일요일에? 미쳤어." *You went to Daejeon? On a Sunday? You're crazy.* But she was already reaching for the bag, and the complaint was the particular kind of complaint that meant love—the Korean art of expressing affection through criticism, which the attribution system had never found a way to quantify and probably never would.
+"대전? 일요일에? 미쳤어." *You went to Daejeon? On a Sunday? You're crazy.* She was already reaching for the bag. The complaint was the kind that meant love.
 
-Seo-jin sat on the bed—the only other sitting surface—and watched her grandmother open the bag with the careful deliberation of someone who had learned, at some point early on in her life, that food was not guaranteed. The yakgwa came out one at a time, inspected, assessed. The honey had soaked properly into the dough. The sesame seeds were distributed evenly. The chrysanthemum pressing was precise—not the sloppy work of a rushed bakery but the geometry of a place that had been making yakgwa since 1956.
+Seo-jin sat on the bed and watched her grandmother open the bag the way you opened food if, at some early point, food had not been guaranteed. One cookie at a time. Honey soaked properly. Sesame even. Chrysanthemum pressing precise.
 
-"Since 1956," Soon-ok said, as if reading her granddaughter's thoughts. "Same year your grandfather came home from the army. I used to buy yakgwa from a woman in Nampo-dong who fried them in a cart. No sesame. Just flour and honey and whatever oil she had. They tasted—" She paused, holding a cookie at eye level, studying it. "They tasted like something you'd eat if you'd been eating nothing."
+"Since 1956," Soon-ok said. "Same year your grandfather came home from the army. I used to buy yakgwa from a woman in Nampo-dong who fried them in a cart. No sesame. Just flour and honey and whatever oil she had. They tasted like something you'd eat if you'd been eating nothing."
 
-Seo-jin knew this was an opening. Not a conscious one—her grandmother didn't arrange conversations like chess games. The stories came when they came, triggered by tastes or smells or the quality of afternoon light, and you either listened or you missed them.
+Seo-jin knew an opening when she heard one. The stories came on taste, or afternoon light. You listened or you missed them.
 
-"What was nothing?" Seo-jin asked. She'd asked before. The answer was never the same twice, not because it was invented, but because memory was a living thing that changed shape depending on which part you pressed.
+"What was nothing?"
 
-"Nothing was—" Soon-ok bit into the yakgwa. Chewed slowly. "Before the yakgwa woman, there was the bark. You know about the bark?"
+"Nothing was—" Soon-ok bit. Chewed. "Before the yakgwa woman, there was the bark. You know about the bark?"
 
 Seo-jin knew about the bark.
 
 "송기죽. Pine bark porridge. My mother would strip the inner bark—you have to know which bark, the wrong bark makes you sick, the right bark keeps you alive, there's about two centimeters of difference—and she'd boil it for hours until it became something you could swallow. It tasted like wood that had given up trying to be wood and was now pretending to be food. Very bad pretending."
 
-She ate another piece of yakgwa. The contrast was not lost on her. It was never lost on her.
+She ate another piece. The contrast was never lost on her.
 
 "We ate it every day for three months. Busan, 1951. Winter. My brother was two," she said as she looked at that old photograph. She adjusted her cardigan. The gesture was automatic, the same gesture she'd been making for seventy years—pulling warmth closer, even in a heated room, because the body remembered cold the way the mind remembered hunger: permanently.
 
-"The camp was—you can't imagine it. Nobody can imagine it who wasn't there. Ten thousand people in a space for two thousand. The smell." She shook her head. "아이고, the smell. And everyone was sick, or getting sick, or recovering from being sick. The children coughed all night. My brother coughed all night. I thought he was going to die. Every night I thought: tonight he dies."
+"The camp was—you can't imagine it. Ten thousand people in a space for two thousand. The smell." She shook her head. "아이고, the smell. Everyone sick, or getting sick, or recovering. The children coughed all night. My brother coughed all night. I thought he was going to die. Every night I thought: tonight he dies."
 
 "But he didn't."
 
-"He didn't. 그래도 살았지." *But still, we lived.* "Your great-uncle lived to seventy-four. Retired from Hyundai with a pension. Played baduk every morning at the community center. Died in his sleep." She paused. "Good death. Better than he had any right to expect, given what we fed him."
+"He didn't. 그래도 살았지." *But still, we lived.* "Your great-uncle lived to seventy-four. Retired from Hyundai with a pension. Played baduk every morning at the community center. Died in his sleep." A pause. "Good death. Better than he had any right to expect, given what we fed him."
 
-She finished the yakgwa and reached for another. Seo-jin let the silence hold. The room was warm. The ondol floor radiated heat through the soles of her shoes. Through the window, Bundang spread out below—the planned city, the apartment blocks, the hospital where Seo-jin worked visible as a glass tower on the ridge. A city that hadn't existed when her grandmother was eating bark porridge. A city built on the bones of a development model that had chewed up people like Soon-ok and used them as fuel.
+Seo-jin let the silence hold. Through the window, Bundang: planned city, apartment blocks, the hospital on the ridge where she had, four nights ago, caught an NSTEMI on a seventy-one-year-old engineer from Yatap-dong who had sat on his symptoms because there was no one to tell, Garmin screaming into an empty feed. She'd gotten the catheter in. He would live. The gap between data existing and a voice saying *go* had nearly killed him. She did not tell her grandmother this. It was not a yakgwa story.
 
 "할머니. Tell me about the factory."
 
@@ -67,95 +59,75 @@ She finished the yakgwa and reached for another. Seo-jin let the silence hold. T
 
 "Guro."
 
-Soon-ok's expression shifted. Not the gentle nostalgia of the war stories—those had been told so many times they'd acquired a burnish, a narrative smoothness that almost disguised the horror. The factory stories were different. Rougher. Less frequently aired.
+The war stories had a burnish from retelling. The factory stories did not.
 
-"I think it was 1967... Ah yes, I was twenty-three. Your grandfather was working construction—the Gyeongbu Expressway, the one Park Chung-hee was building to connect Seoul and Busan. Good money, for then. But not enough." She pulled the cardigan tighter. "So I went to Guro."
+"I think it was 1967. Ah yes. Twenty-three. Your grandfather was on the Gyeongbu Expressway. Good money, for then. Not enough." The cardigan tighter. "So I went to Guro."
 
-The Guro Industrial Complex. Seo-jin had read about it in history courses—the engine of Korea's economic miracle, the place where young women from the countryside fed the textile boom that funded the nation's transformation from war-ravaged agrarian state to industrial power. The statistics were well-documented: fourteen-hour shifts, six days a week, dormitories packed eight to a room, wages that went directly to families back in the provinces. The Korean industrial revolution, except with fluorescent lights and sewing machines instead of furnaces and coal.
+"We made wigs. For export. American women wanted Korean hair, and Korean women needed money, so we sat in rows and stitched hair onto mesh caps for fourteen hours a day. Third floor. No windows they'd let us open—the dust would contaminate the product. The air tasted like glue and someone else's hair."
 
-"We made wigs," Soon-ok said. "For export. American women wanted Korean hair, and Korean women needed money, so we sat in rows and stitched hair onto mesh caps for fourteen hours a day. The factory was on the third floor. No windows they'd let us open—the dust would contaminate the product. The air tasted like glue and someone else's hair."
-
-She paused. Adjusted her cardigan again.
-
-"The foreman was a man named Bae. 배 반장. He walked between the rows with a stick—not a big stick, a thin one, bamboo, about this long—" She held her hands thirty centimeters apart. "And if your stitching was slow, he'd hit your knuckles. Not hard. Just enough to sting. Just enough so you'd remember." Her voice was flat. Reciting. "When he hit you, you were supposed to say 감사합니다—*thank you*. Because the hitting was correction, and correction was a gift, and you should be grateful that someone cared enough about your work to correct it."
-
-갑질. The word Seo-jin knew from textbooks. The lived version was worse than any textbook.
-
-"Nobody reported it. Who would you report it to? The police? The police worked for the same people who owned the factory. The government? The government wanted the wigs exported. We were—how do you say it in your generation's language—we were the supply chain. The product flowed one direction. The money flowed the other direction. We were the part in between that wasn't supposed to have opinions."
+She held her hands thirty centimeters apart. "The foreman was Bae. 배 반장. Thin bamboo. If your stitching was slow, he'd hit your knuckles. Not hard. Just enough to sting. When he hit you, you were supposed to say 감사합니다. Thank you. Correction was a gift."
 
 "How long?"
 
-"Three years. Until your mother was born and I couldn't sit at the machine anymore because my back—" She stopped. Started again, differently. "Actually I stopped because of the trust thing."
+"Three years. Until your mother was born and I couldn't sit at the machine—" She stopped. Started again. "Actually I stopped because of the trust thing."
 
-Seo-jin looked up. "Trust thing?"
+"Trust thing?"
 
-"새마을금고. The Saemaul credit union. Bae—the foreman—he ran the factory savings pool. All the women put in a portion of their wages every month. Mutual savings. For emergencies, weddings, funerals. He kept the books."
+"새마을금고. Bae ran the factory savings pool. All the women put in a portion every month. Emergencies, weddings, funerals. He kept the books."
 
-Seo-jin already knew where this was going.
+"He stole it. Eighteen women's savings, three years. Gone. No records—handwritten notebook, and the notebook disappeared. The owner said it was our problem. We'd given the money to Bae voluntarily. The police said prove it."
 
-"He stole it. Everything. Eighteen women's savings, three years' worth. Gone." Soon-ok's voice was perfectly calm. The calm of something that had been processed for fifty years. "We couldn't prove it. No records—he kept the books in a notebook, handwritten, and the notebook disappeared. We went to the factory owner. The owner said it was our problem—we'd given the money to Bae voluntarily. We went to the police. The police said prove it."
+Afternoon light on a face Seo-jin knew from the ER: a wound that had scarred and not closed.
 
-She looked at her granddaughter. The afternoon light caught her face, and for a moment Seo-jin saw something in her grandmother's eyes that she recognized from the ER—the flatness of someone describing a wound that had scarred over but never fully healed.
+"옛날에는 사람만 믿었어." *In the old days, we only trusted people.* "That was all we had. You trusted the foreman because he was the foreman. You trusted the pool because everyone you knew was in it. And when Bae took the money—just nothing. The women crying. Everyone saying 니 문제야. *Your problem.*"
 
-"옛날에는 사람만 믿었어." *In the old days, we only trusted people.* "That was all we had. No machines. No records. Nobody writing down who did what for who. Just people. You trusted the foreman because he was the foreman. You trusted the savings pool because everyone you knew was in it. You trusted your neighbor because she trusted you."
+"지금은 시스템을 믿잖아." Seo-jin said it gently.
 
-She picked up another yakgwa. Studied it.
+"지금은 시스템을 믿지." A nod at the room, the floor, the window. "Yes. Much better now."
 
-"And when the people failed—when Bae took the money—there was nothing. Just nothing. Just the money gone and the women crying and everyone saying 니 문제야—*your problem*."
-
-"지금은 시스템을 믿잖아." *Now we trust systems.* Seo-jin said it gently. Prompting.
-
-"지금은 시스템을 믿지." Her grandmother nodded slowly. "Yes, much better now. This place—" She gestured at the room, the heated floor, the photographs, the window overlooking Bundang.
-
-She paused. The yakgwa was still in her hand.
+The yakgwa still in her hand.
 
 "근데 사람을 잃어버린 건 아닌지..." *But I wonder if we lost the people along the way...*
 
-Seo-jin waited.
-
-"In the camp—in Busan, in the cold, eating bark—we had nothing. But we had—" She searched for the word. Not in Korean, which had the word easily. In something deeper than language. "정이 있었어. We had jeong. Each other. And when all you have is each other, the bonds go deep. Deeper than—" She tapped the biometric pad on her bedside table. "Deeper than this. The machine knows I took my medication. It doesn't know why I'm sad on Tuesdays."
+"In the camp we had nothing. But we had—" Not the Korean word, which came easily. Something under it. "정이 있었어. Jeong. And when all you have is each other, the bonds go deep." She tapped the biometric pad on the bedside table. "The machine knows I took my medication. It doesn't know why I'm sad on Tuesdays."
 
 "Why are you sad on Tuesdays?"
 
-"Because your grandfather died on a Tuesday. Eunji knows, she brings me extra sujeonggwa on Tuesdays. Because she noticed."
+"Because your grandfather died on a Tuesday. Eunji knows. She brings me extra sujeonggwa on Tuesdays. Because she noticed."
 
-Seo-jin felt something shift in her chest.
+"할머니. The thing that pays Eunji is what gives her time to notice. Without it she'd be on two jobs."
 
-"할머니. The system that pays Eunji—the attribution, the funding—that's what gives her the time to notice. Without the system, she'd be working two jobs. She wouldn't have time to bring you sujeonggwa."
+"I know." Patient. "The system made the space. Eunji filled it."
 
-"I know." Soon-ok's voice was patient. "I'm not saying the system is bad. I'm saying the system is not everything. The system made the space. Eunji filled it."
+She bit. Chewed. Swallowed.
 
-She bit into the yakgwa. Chewed. Swallowed.
-
-"When we were in the camp, a woman named 김복순—Kim Bok-sun—shared her rice with us. Every day. She had less than we did. Her husband was dead, her children were somewhere north—she never found them. She had nothing. And every day she divided her rice into four portions: one for her, one for my mother, one for me, one for my brother."
+"In the camp a woman named 김복순—Kim Bok-sun—shared her rice with us. Every day. She had less than we did. Husband dead. Children somewhere north. She never found them. She divided her rice into four: her, my mother, me, my brother."
 
 "Why?"
 
-"I asked her once. She said: '혼자 먹으면 다 죽어.' *If I eat alone, we all die.*" Soon-ok looked at her granddaughter. "That's jeong. That's the thing. Nobody made Bok-sun share. No machine told her to. No one was counting. She shared because—" Soon-ok paused. Her fingers tightened on the yakgwa. "Because if she ate alone, we all died. She knew that. In her body she knew it." She looked at the biometric pad on her bedside table, then back at her granddaughter. "Then the system comes along and says: ah, sharing rice improves outcomes. Good. Fund it. Put the number on it. But don't forget that Bok-sun shared first. Bok-sun shared when nobody was watching. When there was nothing to count."
+"I asked her once. She said: '혼자 먹으면 다 죽어.' *If I eat alone, we all die.*" Soon-ok's fingers tightened on the cookie. "Nobody made her. No one was counting. Then later someone comes along and says: ah, sharing rice improves outcomes. Fund it. Don't forget Bok-sun shared first. When there was nothing to count."
 
-The room was very quiet. Outside, a bus hissed along the road below. The ondol floor hummed its imperceptible warmth.
+Outside, a bus hissed. The floor hummed its warmth.
 
 "서진아."
 
 "네?"
 
-"밥 먹었어?" *Have you eaten?*
+"밥 먹었어?"
 
-The question arrived the way it always arrived: as a question about food that was not about food. As a question about survival that was also a question about love. The simplest way to say in the Korean language *I see you, I care about you, I want you to be okay*.
+The question that was never about food.
 
-"아직요." *Not yet.*
+"아직요."
 
 "미쳤어." *You're crazy.* "You drove to Daejeon and back and you didn't eat? Sit. Sit."
 
-She was already getting up. Eighty-nine years old, moving with the particular determination of a Korean grandmother who has learned that her granddaughter has not eaten. This was an emergency. Not a medical emergency. Something more serious. A *jeong* emergency. A failure in the most fundamental system of all—the one that predated civilization, that would outlast it.
+Eighty-nine, already up: a *jeong* emergency. From a cabinet, or a drawer, or some fold in space-time accessible only to Korean grandmothers, a container of japchae. Glass noodles. Vegetables. Made recently. Always good. Good since 1962.
 
-She produced, from somewhere Seo-jin could never identify—a cabinet? A drawer? Some fold in the fabric of space-time accessible only to Korean grandmothers?—a container of japchae, glass noodles with vegetables, made recently, still good, always good, because Soon-ok's japchae had been good since 1962 and time did not diminish it.
+"먹어."
 
-"먹어." *Eat.*
+Seo-jin ate. Sesame oil, sweet potato noodle, the taste of a person who had survived everything and decided the correct response was to feed people. It was not in a database. It lived in a pair of hands that had stitched wigs and carried a brother and lost a notebook and outlived a husband.
 
-Seo-jin ate. The japchae tasted like sesame oil and sweet potato noodles and the flavor of something made by a person who had survived everything and decided that the appropriate response to survival was to feed people. The taste was not in any database. The recipe may not be in any commons. It existed in one pair of hands that had stitched wigs and carried brothers and lost savings and outlived a husband and now, at a hundred and six, produced japchae from dimensional pockets with the efficiency of a supply chain and the warmth of a thing no supply chain could produce.
-
-They ate together. Sunday. Bundang. The system hummed around them—funding the facility, attributing the care workers, measuring the outcomes, optimizing the warmth. And inside the system, in a small room with a heated floor, two women shared food the way women had been sharing food since before Korea was Korea.
+They ate. Sunday. Bundang. Two women, a small room, heated floor.
 
 밥 먹었어?
 
