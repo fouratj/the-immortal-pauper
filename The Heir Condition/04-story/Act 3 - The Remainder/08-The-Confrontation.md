@@ -54,6 +54,8 @@ While the world watched him die.
 
 He was touching his left hand with his right, checking for a callus that had been there thirty years. Reaching for a rail that wasn't there.
 
+Ibn Khaldun's third generation knew the method only as tradition: the recipe without the hands. Damon had spent forty years and half a billion dollars making sure he would never have a grandson. He had become his own.
+
 He zoomed to Southeast Asia. Looking for the flaw.
 
 He found it.
