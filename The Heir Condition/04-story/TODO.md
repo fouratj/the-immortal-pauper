@@ -22,7 +22,11 @@ This list is reconciled against the current canonical manuscript in `04-story` a
 
 - [ ] **Ship of Theseus.** Keep confronting whether Damon-2 is actually Damon. The current draft has the right pressure in Resurrection and Confrontation; make sure it remains explicit when Damon says "you killed me."
 
-- [ ] **Tanaka thread.** Note for sequel: she built the Bangalore Patch, documented workers, showed Rosa's face. After cascade, her work is implemented at global scale by the nephew of the man who rejected it. Furious and vindicated simultaneously. Leave thread open.
+- [ ] **Tanaka thread.** Note for sequel: she built the Bangalore Patch, refused to sign the Bangalore attestation, and was beaten by a threshold in a report she wasn't allowed to see. Her deputy got the sealed annex and presumably signed. After cascade, her work is implemented at global scale, at caps above the cliff she was told about, by the nephew of the man who rejected it. Furious and vindicated simultaneously. Leave thread open.
+
+- [ ] **Discontinuity decision beat (~line 345).** "Rosa's face… *I just want my kids to be okay*" leans on a quote removed from Bangalore and on a single face. Let "847 workers, named" carry it.
+
+- [ ] **Cascade payoff for the capital-markets argument.** One line in the cascade chapters noting that lenders never got a day to reprice.
 
 ## Prose (do last)
 

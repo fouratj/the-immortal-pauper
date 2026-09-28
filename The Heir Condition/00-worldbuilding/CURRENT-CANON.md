@@ -36,6 +36,24 @@ The canonical cascade update is Attribution Metadata v2.0:
 - Institutional capture is capped at 50%.
 - Uplift above baseline becomes the key measured quantity.
 
+## Bangalore Meeting and the Kenya Argument
+
+Reconciled 2026-09-27.
+
+- The Bangalore Meeting (March 3, 2049, San Francisco) is a pre-announcement Hub Readiness Review for the Bangalore Southern Routing Node, which routes attribution for 340 million workers. Tanaka's independent audit group must sign an attestation. She refuses to sign with Manila in the appendix. She leaves it unsigned; Damon has Kaelen give her deputy the sealed Kenya annex so the deputy can sign.
+- Tanaka's finding is the slope: the Manila capture gap was 11 points in 2045 and is 19 in 2049. The system is converging toward the error. She presents Rosa as the median of 37 interviews, not as an emotional appeal. Damon is the one who argues with faces (Wanjiku).
+- Bangalore Patch: individual caps 5% → 15%, higher inference weight for non-institutional contributions, capture capped at 70%. Designed deliberately around the public reading of Kenya.
+- Kenya 2047 (public reading): a capture story, 51% cap too low. Kenya (Damon's private post-mortem): adverse selection. Above roughly 12% individual caps, high-uplift attribution becomes portable; the best workers leave, the risk pool drains, and fixed upstream costs make it fatal. The collapse starts in month two; the capture cap doesn't bind until month five.
+- Contamination: Damon's stated objection to piloting is that nurses in neighboring corridors would position early. Kaelen breaks that on the stairs (expectation isn't exit; saturation designs measure spillovers). The version that holds is capital: lenders and insurers reprice the region the moment a pilot is credible. This is why the cascade must be simultaneous.
+- Kaelen's cascade (25% caps, twice the cliff) answers Kenya with simultaneity and by removing upstream costs in the same hours.
+- Kill codes: "The codes work because I've never used them." Damon's precedent argument uses UK income tax (Peel, 1842, ~3%, temporary, still renewed annually) and US income tax (1% in 1913, 77% top rate by 1918).
+
+## Succession Pillar
+
+- The "mortality is the correction" argument rests on succession. Cross-cultural proverbs (clogs to clogs, 富不过三代, the German builder/keeper/ruiner, the Dubai camel line, 売り家と唐様で書く三代目) are convergent evidence; Ibn Khaldun's four generations (1377) is the mechanism.
+- Counter-evidence (Florence 1427 vs 2011, Clark's surname studies) is Damon's argument, planted in Pacific Heights. Kaelen's answer: families persist in rank but disperse in control; death is what makes the tree branch. An immortal doesn't branch.
+- The resurrected Damon is "his own grandson": the recipe without the hands.
+
 ## Transition Mechanics
 
 Kaelen's exploit depends on four conditions: concentrated authority, temporal discontinuity, governance bypass, and legal ambiguity. The critical legal window comes from the Estonian resurrection-law edge case: after biological death and before restored legal standing, the heir has full authority over the estate. Kaelen uses that window to authorize transfers, release patents to commons, void human-equity contracts, and rewrite Korr attribution metadata.
