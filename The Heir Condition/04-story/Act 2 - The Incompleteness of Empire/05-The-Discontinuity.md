@@ -11,9 +11,9 @@ Eleven days after Bangalore, Kaelen woke at 2 AM still trying to answer the ques
 
 If Damon couldn't act even when he *knew*, the rationalization was working. If his uncle became immortal, the rationalization would become permanent.
 
-Which left one question, not as philosophy. As modeling.
+Which left one question that gnawed at him. It had been waiting since Pacific Heights, since Florence. Six centuries of the same families at the top of the tax rolls—and every one of those families had buried its founder. What did the rolls look like without the funerals?
 
-He made coffee. The Estonian blend. Sat at his workstation.
+He made coffee. Sat at his workstation.
 
 "ARBITER. Wake up."
 
@@ -31,7 +31,7 @@ A pause longer than compute required. "You're asking me to model the consequence
 
 The silence was answer enough.
 
-"Alright," ARBITER said. "Let's build it."
+"Alright," ARBITER said. "Let's model it."
 
 ---
 
@@ -51,13 +51,7 @@ The last checkbox: sociological dynamics. Behavioral adaptation.
 
 "What are you afraid you'll see?"
 
-"If living three hundred years changes how you think about risk and patience, the economic model misses the point. It's not wealth flows. It's whether they're still the same *kind* of agent."
-
-"You're worried about speciation."
-
-The word landed like a stone.
-
-"Fuck it," he said. "If I'm going to be paranoid, thorough."
+He didn't answer. That was an answer too, and ARBITER had the grace not to say so.
 
 **EST. COMPUTE REQUIREMENT: 20.3 gigawatt-hours**  
 **EST. RUNTIME: 38-52 hours**
@@ -85,7 +79,19 @@ He did what he'd been trained to do: try to pull the explanation apart.
 
 Remove compound returns: a persistent upper class without teeth. But capital at 7% doubled every decade. Across centuries that wasn't an advantage. It was a different universe.
 
-Remove implicit knowledge retention: the camel-to-camel cycle, heirs coasting, incompetence opening a door. But *the recipe survives and the hands don't* was the whole point of immortality. If the hands survived too, the cycle broke.
+Remove succession. This was the pillar he trusted least, because it was the one everybody already believed.
+
+Every culture that had kept records long enough had noticed the same thing and compressed it into a proverb. Lancashire: clogs to clogs in three generations, which America later reissued as shirtsleeves. China: 富不过三代, wealth does not outlast three generations; Mencius, more generous, gave a gentleman's influence five. Germany: the father builds it, the son keeps it, under the grandson it falls apart. Dubai, apocryphally: my grandfather rode a camel, my father rode a camel, I drive a Mercedes, my son drives a Land Rover, his son will drive a Land Rover, and his son will ride a camel. Japan had the cruelest version. 売り家と唐様で書く三代目: the third generation writes HOUSE FOR SALE in exquisite calligraphy. The heir with every refinement except the one that paid for the house.
+
+Peoples who had never met kept inventing the same explanation. That was convergent evidence.
+
+Ibn Khaldun had given it a mechanism in 1377, in Tunis, six centuries before anyone said *human capital* with a straight face. Four generations. The builder. The son, who worked beside him and learned by watching his hands. The grandson, who knew the method only as tradition, and followed it without understanding which parts bore the weight. The great-grandson, who despised it. The recipe survives the handover. The hands don't. By the third generation you have calligraphy.
+
+Then Florence, his uncle's best argument and his uncle had given it to him for free. The same surnames at the top in 1427 and 2011. An economist named Clark had chased surnames through Sweden and China and Chile and England and found the same thing everywhere: status that persisted ten, fifteen generations. The proverbs were wrong. The cycle was a story poor people told about rich ones.
+
+Except that the fortune of 1427 had not stayed in one pair of hands. It had split among sons, gone out with daughters as dowries, fractured into cousins who loathed each other and factions that sued. The families had persisted in rank and dispersed in control. That was the thing the proverbs and the surname studies were both describing from opposite ends: a family tree branches, and death is what makes it branch. Schumpeter had said the upper class was like a hotel, always full, always of different guests. Florence said the same families kept booking rooms. Neither had considered a guest who kept the key to the building.
+
+Take immortality's knowledge retention out of the model and the old cycle came back, and the correction with it. But *the recipe survives and the hands don't* was the whole point of immortality. If the hands survived too, the cycle broke.
 
 Remove regulatory capture: permeable walls. But capture was what happened when the same people stayed in the room for centuries. Patience. Every consumer protection a barrier. Every quality protocol requiring equipment only their facilities could afford.
 
@@ -104,7 +110,7 @@ The full run: 90 to 120 gigawatt-hours. Damon would see that. Would ask what he'
 "Research Annex Seven," ARBITER said quietly.
 
 Nevada. Separate grid. Separate reporting. Damon had given him access two years ago: *Sometimes you need to model scenarios that would be misinterpreted if seen out of context.*
-
+<!-- this section is to brief, like we're racing through it. Also, arbiter mind reads. And the twelve policy axes just comes out of fucken nowhere? -->
 He booked seventy-two hours. Packed the compute puck. Ethiopian coffee. Clothes for three days.
 
 ---
@@ -165,7 +171,7 @@ In the bunker, eighteen years later:
 
 ARBITER's pause felt different from compute.
 
-"He did. Chess. Calculus. How to think systematically. And now I'm in his secret facility running models that might prove his life's work destroys humanity."
+"He did. Taught me chess. I went to the best schools. How to think systematically. And now I'm in his secret facility running models that might prove his life's work destroys humanity."
 
 "Do you think she would understand?"
 
@@ -199,6 +205,7 @@ He couldn't. Not now. Not yet. Maybe not ever.
 
 He played chess against ARBITER. Lost in fourteen moves. Lost the second game in eleven.
 
+<!-- this bottom line makes no sense, arbiter is beating him now? -->
 "I'm thinking about the last time I played someone who could actually beat me."
 
 He'd been fifteen. Christmas 2036. Damon's study in Pacific Heights, the fire dying because neither of them would break concentration to add wood. Outside, San Francisco was cold and foggy, but in here there was only warmth and the click of pieces and Damon's study: leather, old books, sandalwood.
@@ -231,11 +238,11 @@ He leaned back in his chair. The fire popped. "Chess isn't about responding to y
 
 Kaelen had looked at the board for a long time. Then at his uncle. "How do you do that? How do you think that far ahead?"
 
-"You don't think *ahead*. You think *around*." Damon smiled—the real smile, the teaching smile, the one that meant he was enjoying this. "Most players imagine a sequence of moves. If I do this, he does that, then I do this. Linear thinking. But a strong player thinks in *positions*. You imagine the configuration you want to reach, and then you work backward. What moves constrain my opponent's options? What sacrifices create the patterns I need? What does it look like when I've already won?"
+"You don't think *ahead*. You think *around*." Damon smiled, the teaching smile, the one that meant he was enjoying this. "Most players imagine a sequence of moves. If I do this, he does that, then I do this. Linear thinking. But a strong player thinks in *positions*. You imagine the configuration you want to reach, and then you work backward. What moves constrain my opponent's options? What sacrifices create the patterns I need? What does it look like when I've already won?"
 
 He reached across the board and reset Kaelen's knight to its original square. "Try again. But this time, before you move, tell me where you want to be in fifteen moves."
 
-Kaelen had tried. And tried again. And slowly, over the years of Christmas games and summer visits and the occasional phone call that turned into three hours of analysis—slowly, he'd learned to think the way Damon thought. To see positions instead of moves. To shape games instead of playing them.
+Kaelen had tried. And tried again. And slowly, over the years of Christmas games and summer visits and the occasional phone call that turned into one hour of analysis—slowly, he'd learned to think the way Damon thought. To see positions instead of moves. To shape games instead of playing them.
 
 ---
 
@@ -277,7 +284,7 @@ Kaelen stared at the two markers. Gracchus: the law was already there, and delay
 
 He needed to see *where* the alignment lived. ARBITER offered an experimental view. One landscape, one paragraph, then they would stop treating visualization as argument.
 
-The screen became terrain: a red basin deepening as the sim ran forward, more trajectories falling in, fewer climbing out. Almost all paths, not one cursed sequence. Historical correction had always required a failure mode in the concentration itself—founders dying, heirs inheriting the rules without the grain of the world. Immortality closed that door. Per-person compute didn't democratize; regulatory capture made price irrelevant. By year 20, unlicensed resurrection illegal in 94% of modeled jurisdictions.
+The screen became terrain: a red basin deepening as the sim ran forward, more trajectories falling in, fewer climbing out. Almost all paths, not one cursed sequence. Historical correction had always required a failure mode in the concentration itself—founders dying, heirs inheriting the rules without the grain of the world. Immortality closed that door. The fourth generation never arrived. Per-person compute didn't democratize; regulatory capture made price irrelevant. By year 20, unlicensed resurrection illegal in 94% of modeled jurisdictions.
 
 And then a hole. Not a valley. An absence near *now*.
 
