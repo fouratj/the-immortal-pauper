@@ -53,6 +53,7 @@ Reconciled 2026-09-27.
 - The "mortality is the correction" argument rests on succession. Cross-cultural proverbs (clogs to clogs, 富不过三代, the German builder/keeper/ruiner, the Dubai camel line, 売り家と唐様で書く三代目) are convergent evidence; Ibn Khaldun's four generations (1377) is the mechanism.
 - Counter-evidence (Florence 1427 vs 2011, Clark's surname studies) is Damon's argument, planted in Pacific Heights. Kaelen's answer: families persist in rank but disperse in control; death is what makes the tree branch. An immortal doesn't branch.
 - The resurrected Damon is "his own grandson": the recipe without the hands.
+- Discontinuity sweep: March 21 (Palo Alto, first model) through April 5, 2049 (Annex Seven, Nevada). First results March 23. The twelve policy axes are Kaelen's; the thirteenth is time (when, not duration), added after the chess position on day 11, and it is what makes the 23 viable preventions visible. Damon ran a coarser version in Annex Seven on 2044-06-27 ("no clean exit"). Kaelen closes the "warn him" door himself from Bangalore plus that session.
 
 ## Transition Mechanics
 

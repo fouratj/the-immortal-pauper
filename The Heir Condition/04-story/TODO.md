@@ -24,7 +24,7 @@ This list is reconciled against the current canonical manuscript in `04-story` a
 
 - [ ] **Tanaka thread.** Note for sequel: she built the Bangalore Patch, refused to sign the Bangalore attestation, and was beaten by a threshold in a report she wasn't allowed to see. Her deputy got the sealed annex and presumably signed. After cascade, her work is implemented at global scale, at caps above the cliff she was told about, by the nephew of the man who rejected it. Furious and vindicated simultaneously. Leave thread open.
 
-- [ ] **Discontinuity decision beat (~line 345).** "Rosa's face… *I just want my kids to be okay*" leans on a quote removed from Bangalore and on a single face. Let "847 workers, named" carry it.
+- [x] **Discontinuity decision beat.** Rosa's face and the removed quote are gone. The switch turns on the slope, the 847 named workers, and the elimination (slow ruled out, never ruled out, the Mao quadrant left).
 
 - [ ] **Cascade payoff for the capital-markets argument.** One line in the cascade chapters noting that lenders never got a day to reprice.
 
