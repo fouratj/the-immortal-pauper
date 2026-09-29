@@ -80,13 +80,13 @@ Forty-five hours. The coffee had gone through cold and into a new state that cof
 
 His hands were shaking. He had expected something like this, which was not the same as being ready for it, and he did what a person does with a number he has already decided to answer. He reached for the textbook.
 
-Estate tax. The model applied it at death, which was the only moment an estate tax has ever had a purchase, and there was no death, so the tax sat in the code like a bell in a church where nobody had died in a century: present, polished, silent. Partible inheritance, the same. You cannot split an estate among children when the owner is still at the table, drinking, correcting your Greek. Antitrust lasted longer. It assumed a firm could be broken up faster than its owner could reassemble it, and an owner with three hundred years and the same lawyers simply waited the breakup out and bought the pieces back at the bottom. The wealth tax was the one that didn't need a funeral. It also didn't survive contact with people who could move, incorporate, and rewrite the definition of wealth in the jurisdictions they effectively staffed. By year 80 the tax was a line item the immortals paid themselves, from one pocket to another, and called governance.
+Estate tax. The model applied it at death, which was the only moment an estate tax has ever had a purchase, and there was no death, so the tax sat in the code like a bell in a church where nobody had died in a century: present, polished, silent. Partible inheritance, the same. You cannot split an estate among children when the owner is still at the table, drinking, correcting your Greek. Antitrust lasted longer. It assumed a firm could be broken up faster than its owner could reassemble it, and an owner with three hundred years and the same lawyers simply waited the breakup out and bought the pieces back at the bottom. The wealth tax was the one that didn't need a funeral, which was why it looked like the fallback, and why it wasn't. It didn't work inside a single lifetime. France had tried one in the eighties and watched the money leave for Belgium before the forms were printed. Norway's was a rounding error that the people it was aimed at treated as a fee for staying. Spain's came and went with the governments. A tax on a stock of wealth is a tax on whatever cannot move, which means it falls on houses and family firms and spares the portfolio that can be incorporated in Dublin by Thursday. The people writing the law were never going to outrun the people employing the lawyers, and that was with both sides dying on schedule. By year 80 in the model the tax was a line item the immortals paid themselves, from one pocket to another, and called governance.
 
-He sat back. The correction wasn't a policy. Every instrument that had ever taken a fortune apart had been waiting on a death to pull its trigger. Take the death away and the instruments were furniture.
-<!-- we should put an aside on wealth taxes and how they dont even work within a lifetime, capital flight etc. So that is not the fallback -->
+He sat back. The correction wasn't a policy. Every instrument that had ever taken a fortune apart had been waiting on a death to pull its trigger, and the one instrument that hadn't was already failing among people who still had them. Take the death away and the instruments were furniture.
 
 So he did what he'd been trained to do: try to pull the explanation apart, and see whether mortality was actually holding it up or whether he was telling himself a story because the textbook had embarrassed him. A good explanation was one you couldn't vary without breaking the prediction. He started removing pillars.
-<!-- we need a small david duetsch nod. Maybe he looks at the beginning of infinity on his bookshelf or something. Doesn't have to be here but in this chapter with the coffee -->
+
+The coffee was past saving. On the shelf above the workstation, between a manual he'd never opened and a chess book with Damon's handwriting in the margins, *The Beginning of Infinity* leaned at the angle of a book that gets taken down and not quite put back. Deutsch. The cracked spine was the chapter on explanations: a good one was hard to vary, because every piece was doing work, and a bad one survived any change you made to it, which was how you knew it had never been explaining anything. He had read it at Stanford and argued with it and kept it. He was about to do the thing it described.
 
 Remove compound returns. Immortals live forever, but their wealth grows no faster than anyone else's. What's left is a persistent upper class—privileged, long-lived, but not dominant. Aristocracy without teeth. But compound returns were arithmetic, not sociology. Capital at 7% doubled every decade. Across centuries that wasn't an advantage. It was a different universe.
 
@@ -165,8 +165,7 @@ Kaelen thought about the French nobility before the Revolution, discussing the "
 
 The immortals would just do it more completely. And permanently.
 
-He tried to break it. What if immortals retained empathy? The model had a parameter for that; the divergence slowed but didn't stop, because empathy operated on human timescales and three centuries wasn't a human timescale anymore. What if democratic institutions adapted? They adapted in the model. The immortals adapted faster. What if the technology democratized? The compute was per-person and the regulatory moat self-reinforcing. He couldn't tell a different story without cheating.
-<!-- a small group of organised people always outsmart a larger distributed group. Democracie's weakness -->
+He tried to break it. What if immortals retained empathy? The model had a parameter for that; the divergence slowed but didn't stop, because empathy operated on human timescales and three centuries wasn't a human timescale anymore. What if democratic institutions adapted? They adapted in the model. The immortals adapted faster. That wasn't a bug in the parameter. It was the shape of the institution. A democracy is a large group that has to agree, out in the open, on a timetable, against a small group that already agrees, meets in private, and does not forget the last meeting. The small group wins that contest even when it dies. When it doesn't die, the contest stops being a contest. What if the technology democratized? The compute was per-person and the regulatory moat self-reinforcing. He couldn't tell a different story without cheating.
 
 That wasn't what stopped his breathing.
 
@@ -224,8 +223,7 @@ Boredom settled in like the cold. The boredom of waiting for something terrible,
 
 **Day 2**
 
-At hour eleven of the sweep he went looking for logs, because a facility built for questions that couldn't be asked in public would have been asked them, and he wanted to see them.
-<!-- i think heshould find this accidentally -->
+At hour eleven he went looking for the cooling log. One rack was running hot and he wanted the number before he decided it was his problem. He opened the facilities directory, missed, and landed in a folder he hadn't known was there.
 
 ```
 ANNEX SEVEN - MODEL ARCHIVE
@@ -275,14 +273,20 @@ Constitutional, then, because he was running out of sizes. Scenario 12: global a
 Then force, because he had been avoiding it and the avoidance had become visible to him, which is the point at which an honest modeler stops avoiding it.
 
 Scenario 134. Revolution worked. That was the obscenity. In the runs where it worked, it worked the way the backyard furnaces had worked: completely, and at a price the people who ordered it did not pay personally until later, and sometimes not then. He made himself watch one of them instead of the aggregate. A corridor in the model, late-adopter, the licensing stack torn out in a month. The hospitals emptied, not from reform but from the people who had staffed them deciding that staffing them was how you got put against a wall. The medication moved through hands the model couldn't name. Eighteen months of that, and then the committee that had ordered the tearing-out requisitioned the first restored bodies, because the revolution, like every revolution before it, had discovered that its leaders preferred to continue leading. They bought the resurrection with the same money they had called extraction when someone else was collecting it. Nairobi had failed from too little. This one failed from winning.
-<!-- i think we need to talk about the ottlenecks that violence can hold. The revolutionaries who decided the first order of business was to kill the 'useful idiots'  etc -->
+
+And it failed at the bottleneck violence always has, which is that violence can take a building and cannot run one. The first order of business, in every run that lasted past the month, was the people who had believed it. The organizers, the ones who could still quote the reasons, the ones who thought the seizure was the beginning. Useful, and then not, and then a liability, because they wanted the next thing and the committee wanted the building. They went against the wall before the landlords did. What was left of the hospital had no one who knew where the oxygen was shut off. The medication sat in a room whose lock nobody remaining could open. The bottleneck wasn't courage. It was that the people who knew how the system worked were the first people the system, once seized, could not afford.
 
 He stopped the playback. The vault was the same temperature it had been for days. He was not.
 
 ---
 
 **Day 6**
-<!-- he should get a text or somethin from Damon? 6 days with nothing is sus -->
+
+His phone buzzed against the console. Damon: *Southern node still behaving? Don't live down there. Dinner when you surface.*
+
+Kaelen looked at it longer than the message required. Six days of nothing would have been a question. Six days of this was an uncle who believed the cover story, which was worse, because the cover story was working.
+
+*Behaving. Dinner when I'm up.* Sent. He put the phone face down, so he wouldn't watch for the reply.
 
 The hospital room came up out of the playback without being invited, which is how the things you have refused to model get their turn.
 
@@ -401,8 +405,8 @@ He did not watch. Watching was how you nudged. He went back to the board and pla
 The run finished at 3:07 in the morning. He knew because the fans changed. For thirteen days the racks had breathed on their forty-second cycle, a weather system with one season, and then they sighed down to idle, and the vault became quieter than a room full of that much machine had any right to be. The quiet had a pressure. It was the pressure of an answer sitting behind glass, patient, already true.
 
 He did not look.
-<!-- cold shower is dumb, damon is a trillionaire -->
-He made coffee. He drank it. He showered in water that had never, in the history of the annex, been warm, and he dressed, and he sat on the edge of the cot until the excuse of not-yet became visible to him as an excuse. At 6:23 he looked.
+
+He made coffee. He drank it. He showered. The water was hot, which was the one concession the annex made to containing a person; the servers could have the cold, and his uncle had never in his life installed a fixture that punished the body using it. He dressed. He sat on the edge of the cot until the excuse of not-yet became visible to him as an excuse. At 6:23 he looked.
 
 **SCENARIOS TESTED: 247**
 **NO PREVENTION MECHANISM: 224**
