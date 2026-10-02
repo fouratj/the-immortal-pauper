@@ -1,0 +1,5 @@
+**Moderator:** The coffee is cold; this is the last round. Read all five second-round contributions. Answer the strongest challenge to your account, including objections the others made after your opening. Tell us what you have revised and what you still dispute. You need not agree on one answer.
+
+Recommend one strongest digression: give it a memorable working title, a home in the manuscript, and a sequence of discoveries in which each explanation forces the next question. Make clear what is already on the page and what you propose adding. It should reward the reader who loves the logic of *The Discontinuity*, not merely instruct the author to add administrative safeguards. Include the consequence for Kaelen, Damon, or another character. Name one seductive explanatory claim the novel should resist.
+
+Before leaving, answer the author's original unease in one precise sentence: what is missing from the story? The sentence may differ for each of you. Keep your final contribution to 450–650 words. No fourth round; leave the disagreement visible.
