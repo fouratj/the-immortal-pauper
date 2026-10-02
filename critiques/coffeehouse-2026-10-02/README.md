@@ -44,3 +44,11 @@ Reading snapshot: `main` at `2dd696a108d822705669c9128ac3e8da21d153c4`. Chapter 
 ## Subsequent Meadows response
 
 At the author’s request, a sixth `gpt-6-sol` agent read the same brief and full manuscript, then the complete original conversation as saved at `a4ae7715816f6b759dbbf551fef233467459084e`. She also read two primary Meadows essays linked in the [follow-up brief](meadows-brief.md). Her [2,487-word response](meadows-response.md) is reproduced verbatim as an addendum to the combined transcript. This was one bounded contribution, not a fourth debate round. Her [reading receipt](receipt-meadows.md) records coverage and sources. No manuscript changes were made.
+
+## Author correction, basin actions, and Churchill
+
+The author subsequently clarified that the novel concerns necessary action without final justification, with action and inaction both consequential. This governs later work; earlier comments proposing authorization as the novel’s missing destination are not author-approved direction. The [Churchill brief](churchill-brief.md) records the correction.
+
+The [basin action items](../basin-action-items-2026-10-02.md) extract Meadows’s proposals and explicitly label related editorial extensions. They preserve the chapter’s existing fallibilist ending. No proposed change has been applied to the manuscript.
+
+One additional `gpt-6-sol` agent read the corrected brief, the full Discontinuity first, the remaining manuscript, all fifteen speeches and Meadows, the earlier local whole-book review, the Neal lens and ten local source notes, the basin extraction, and the primary sources listed in his [receipt](receipt-churchill.md). The prior review and Neal material were read from the existing uncommitted local working copy and remain separate from this follow-up. His [2,548-word response](churchill-response.md) is reproduced verbatim in the combined conversation. This is an intellectual reconstruction, not an authentic Churchill quotation or an attribution of Popper’s or Deutsch’s philosophy to him.
