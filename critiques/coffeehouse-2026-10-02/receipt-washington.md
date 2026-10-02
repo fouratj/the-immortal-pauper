@@ -1,0 +1,15 @@
+# Washington contribution: reading receipt
+
+**Output:** [washington-response.md](washington-response.md), 2,559 words. Original fictional intellectual reconstruction, not an authentic quotation, impersonation of Washington’s recorded words, or a claim that he adopted later epistemology. No manuscript or earlier contribution was edited.
+
+**Project context read:** `washington-brief.md` first, then `brief.md` and `churchill-brief.md`. The complete *Discontinuity* was read first in bounded sections, followed by every other chapter in the brief’s order: *The Visit*, *The Portfolio*, *The Ascension*, *The Activation*, *The Bangalore Meeting*, *Fifteen Moves*, *The Cascade*, *The Acceleration*, *The Cost*, *The Gap*, *The Resurrection*, and *The Confrontation*. The *Discontinuity* was not substituted by summaries. Also read the complete `civilization-coffeehouse-2026-10-02.md`, including all fifteen original contributions, moderator prompts, Meadows, the author’s clarification, and Churchill; `basin-action-items-2026-10-02.md`; `manuscript-review-2026-10-02.md`; `agents/neal/README.md`; and all ten `agents/neal/reading/` notes. The review and notes were treated as context, not as author-approved direction.
+
+**Historical orientation:**
+
+- [Newburgh Address, 15 March 1783](https://www.mountvernon.org/education/primary-source-collections/primary-source-collections/article/newburgh-address-george-washington-to-officers-of-the-army-march-15-1783) — Washington’s public opposition to army coercion, alongside his stated commitment to the officers’ claim.
+- [Letter to Benjamin Harrison, 19 March 1783](https://www.mountvernon.org/education/primary-source-collections/primary-source-collections/article/george-washington-to-benjamin-harrison-march-19-1783) — his continued insistence that the army’s debt needed funds after the immediate crisis passed.
+- [Address resigning his commission, 23 December 1783](https://founders.archives.gov/documents/Jefferson/01-06-02-0319-0004) — surrender of the military appointment to Congress.
+- [Farewell Address, 1796, official Senate edition](https://www.govinfo.gov/content/pkg/GPO-CPUB-115spub5/pdf/GPO-CPUB-115spub5.pdf) — retirement, public credit, vigor and distribution of power, experience and amendment, and the warning about usurpation and precedent.
+- [Washington’s will, 1799](https://www.mountvernon.org/education/primary-source-collections/primary-source-collections/article/george-washingtons-last-will-and-testament-july-9-1799) and [Mount Vernon’s estate account](https://www.mountvernon.org/george-washington/slavery/george-washingtons-will) — additional checks for the contribution’s slavery and delayed emancipation passage.
+
+**Boundaries:** Historical texts establish what Washington wrote or did in these episodes; the first-person argument about *The Heir Condition* is invented for this exercise. Manuscript claims about the model, legal window, historical examples within the fiction, and cascade were analyzed as fiction, not independently validated as technical or legal predictions. The piece does not require any particular manuscript revision or claim to settle Kaelen’s choice.
