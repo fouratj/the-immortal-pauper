@@ -1054,6 +1054,36 @@ Just the two of them in the study where they'd played chess for fifteen years, t
 
 Damon set down the Macallan 25. "Sit down. Let me show you something."
 
+An invoice appeared. Old enough that the interface around it looked unfinished. Recife, 2032. Refrigeration maintenance for municipal food depots.
+
+"Four mechanics," Damon said. "They could fix the equipment. They couldn't bid for the work. Approved suppliers needed a performance bond, and the banks wanted a contract history, and a contract history required being an approved supplier. So they worked for someone who had one. He collected from the city. They collected when he felt like paying."
+
+"You told me about them."
+
+"I told you about the payment. Look at what made it possible."
+
+The depot couldn't gamble its food on four strangers with tools. The bond answered a real problem. So did the list. A contractor who disappeared after an advance could cost more in spoiled food than the whole maintenance budget. The city had acquired procedures for avoiding that loss, and the people who could afford the procedures had acquired the work.
+
+Damon's team had made a repair independently verifiable: equipment history, parts, inspection, temperature over the following week. Money already appropriated for maintenance went into escrow. When the repair passed, payment cleared. A disputed result went to an assessor neither party selected alone. Under the city's new tender rules, an insurer could price the actual job instead of the contractor's relationship with a bank.
+
+The mechanics bid directly. The depot paid less. The mechanics earned more. The old contractor sued and lost. The sensors, inspectors and courts still cost money; they cost less than keeping a company in existence because it possessed permission to hire the people who did the work.
+
+"They hired two apprentices the next year," Damon said. "Then the apprentices left and started another company. The founders were furious. Called my office. Wanted the attribution system to recognize the cost of training their competitors."
+
+"Did you?"
+
+"The training, yes. Ownership of the competitors, no. They could hire them back at a wage they'd accept."
+
+Kaelen remembered the photographs. More than photographs: the audited maintenance bills, payment delays falling from months to days, fewer loads discarded. The argument had survived people who wanted it to fail. He had been proud of his uncle before he understood the machinery; understanding it had made him prouder.
+
+Those businesses had bought tools and rented premises. People who had never appeared in the proposal had earned money supplying them. A cheaper repair had become other people's opportunities, none of which Damon had needed to specify.
+
+"That was what the II was for," Kaelen said.
+
+"And it still does it. Every day. You're looking at a system after people have built their lives on it."
+
+He replaced the invoice with the current graph.
+
 A hospital hiring a nurse in São Paulo. Denser than Manila. "In Tallinn this transaction has three nodes: nurse, hospital, payment. In São Paulo, eleven. Lagos: twelve. Cairo: ten. Same job. The algorithm isn't different. The topology is. Low-trust societies build machinery to de-risk every transaction. Notaries. Certifiers. Aggregators. Each one making trust unnecessary. In Tallinn you hire with a handshake. In São Paulo, skip three notarized stamps and you're in labor court for eighteen months. The notary is load-bearing. The friction is infrastructure."
 
 "Because Estonian institutions are better."
@@ -1062,7 +1092,7 @@ A hospital hiring a nurse in São Paulo. Denser than Manila. "In Tallinn this tr
 
 "The II rewards that friction."
 
-"The II attributes value to enablement. In São Paulo the intermediaries *do* enable. Nurse: 23%. Hospital: 18%. Fifty-nine percent to the verification stack. That's the cost of trust in a society that can't yet afford to trust without stamps. You can't engineer trust, Kael. Fix the culture. Strengthen courts. Educate three generations. Flatten the graph organically. Then the II works."
+"The II attributes value to enablement. In São Paulo the intermediaries *do* enable. Nurse: 23%. Hospital: 18%. Fifty-nine percent to the verification stack. That's the cost of trust in a society that can't yet afford to trust without stamps. You can engineer a verifiable transaction, Kael. You can't substitute it for every institution around it. Fix the culture. Strengthen courts. Educate three generations. Flatten the graph organically. Then the II works."
 
 "How long?"
 
@@ -1070,7 +1100,7 @@ A hospital hiring a nurse in São Paulo. Denser than Manila. "In Tallinn this tr
 
 Kaelen filed that away without answering. It had the feel of a good argument, and something about it frightened him that he couldn't yet name.
 
-He was quiet. Then: "The II was supposed to *be* the cultural intervention. Algorithmic verification substituting for civic norms. It worked in Tallinn, Copenhagen, Singapore—places where the culture was already there. In São Paulo, Lagos, Manila, the intermediaries got there first. They captured attribution before the II could replace them. Eduardo stamps contracts because the law requires it, and the law requires it because his association lobbied for it, and they could afford to lobby because attribution revenue funded the campaign. You say fix the culture first. The algorithm is why the culture won't change. You're not reflecting the topology. You're freezing it."
+He was quiet. Then: "The II was supposed to *be* the cultural intervention. Algorithmic verification substituting for civic norms. It kept working in Tallinn, Copenhagen, Singapore—places where other institutions could keep the intermediaries in check. Recife shows it could open a door elsewhere. But in São Paulo, Lagos, Manila, the old intermediaries learned the new machinery. They captured attribution and used it to close the doors again. Eduardo stamps contracts because the law requires it, and the law requires it because his association lobbied for it, and they could afford to lobby because attribution revenue funded the campaign. You say fix the culture first. The algorithm is why the culture won't change. You're not reflecting the topology. You're freezing it."
 
 Silence. The fire cracked.
 
@@ -1417,6 +1447,50 @@ He did not sleep well, and he did not pretend the coffee was the reason.
 The failures arrived in batches, the way weather does when you have made the mistake of asking for all of it.
 
 Economic first, because that was the size of lever he still believed in. Land reform, share caps, sunset clauses on attribution, a hard reset of the rent layer every generation. They worked for decades. Then the same people were still in the room, and a sunset clause is a suggestion to anyone who expects to attend the legislature that would renew it. By the second century the resets were ceremonial. Parades. The wealth had learned to duck.
+
+He stopped a batch before it completed.
+
+"You're letting them change the tax. What about the thing being taxed? Different firms. Different ways of doing the work."
+
+"Entry is endogenous. Licensing and capital requirements rise with incumbent influence."
+
+"That's a mechanism in our model. Show me someone trying it outside one."
+
+The archive supplied a company outside Bristol. Chronic care, 2047–48. Kaelen opened the audit before the application history.
+
+The assistants were ordinary. Most patients already had access to better ones. The company had reorganized the work around what the machines could do: monitoring, scheduling, ordering supplies, keeping one record through a succession of visits instead of paying each institution to reconstruct it. Nurses treated patients. Specialists handled escalation. The founders had removed a coordination layer and were trying to keep it removed.
+
+Eighteen months. A fixed cohort, balanced for risk. Comparable outcomes within the trial's stated limits, lower total expenditure. The auditors had counted the costs the founders preferred to describe as exceptional. The saving survived.
+
+"Selection?" Kaelen asked.
+
+"They couldn't refuse a patient assigned to the cohort."
+
+"Emergency capacity. Who paid when one of them needed a hospital?"
+
+A contract opened. The company had paid a contribution into the regional emergency pool, separately from the price of each visit. Staff transition pay, retraining, liability cover. All in the cost column. The trial's limited size and prepaid commitments had contained the exposure; replicating it across a region would still have affected lenders and hospitals that had never signed those contracts.
+
+"So it doesn't answer Kenya."
+
+"It answers whether this service could work for this cohort. They asked to renew it for a second cohort, with the same commitments and staged expansion."
+
+The renewal decision accepted the findings. Kaelen read that sentence twice, then went looking for the objection.
+
+The hospital's condition was permanent retention of the supervisory posts the trial had made unnecessary. The union had accepted transition pay for the experiment; a permanent service required permanent positions. The accredited AI supplier would support certification only if the company moved onto its platform. That restored the coordination charges under a different invoice. Operating approval and the associated power allocation were conditional on all three agreements.
+
+"The staff guarantees were funded."
+
+"For the transition. Approval required the posts to continue afterward."
+
+"Doing what?"
+
+ARBITER displayed the proposed duties. Supervising records the trial no longer duplicated. Signing transfers the new workflow no longer made. Each duty was also a place where the institution could withhold its signature.
+
+The founders could sell the scheduling software to the hospital. That application had been approved. They could make the existing provider more efficient, collect a fee, and call the trial a success. They could not operate the alternative it had demonstrated.
+
+Kaelen left the audit beside the decision. The two documents agreed on the results. Better evidence had not changed what the people deciding stood to lose.
+
+He added the renewal conditions to the entry model. The sweep resumed. He watched the new firms appear, prosper under trial exemptions, and acquire the obligations that made them resemble the firms they had been built to replace.
 
 He widened the lever, because that is what you do when a tool fails and you have not yet accepted that the failure is the information. Institutional. Scenario 47: mandatory cognitive resets, sold as humility and functioning as a lobotomy with a marketing department. Term limits on ownership, which required an enforcer, and the enforcer in every run that lasted became the owner. You cannot hire a guard to take the house from the man who pays the guard, not if the man is going to be paying guards for three hundred years and can notice which of them are getting ideas.
 
@@ -1898,6 +1972,8 @@ Estate planning access, two years old: a gesture of trust. *Understand the archi
 
 Infrastructure, not just wealth. II core servers across 247 data centers. BioGenesis chambers. The 0.3% fee that looked like cost and functioned as civilizational rent. Patents in pharma, construction, energy, ag. Housing trusts in São Paulo, Jakarta, Lagos, Mexico City. Closed loop. Self-reinforcing. Forever.
 
+The operating companies already had separate accounts, technicians, permits, customers. The parent held them together with compulsory routing agreements, common ownership, licenses that forbade customers to move work elsewhere. Four reactors and a web of supply contracts beneath the servers. He could dissolve the parent company's control without dissolving the companies or unplugging a hospital. It would take hundreds of coordinated transfers, and an inventory of obligations more exact than the inventory of assets. He began with who still needed paying on the morning after.
+
 "The São Paulo trusts," Kaelen said, three months in. "Dependency chain."
 
 Three trusts. $2.4 billion. 47,000 units. Construction patent licensing accounting for 68% of building costs. Inflated costs justifying rents. Rents generating attribution. Attribution funding the enforcement that kept the monopoly.
@@ -1919,6 +1995,44 @@ The patent graph: two more months. 3,847 active patents, 214 jurisdictions. He n
 US-2041-7734891. Nanoscale delivery, 90% dose reduction. Licensed to fourteen manufacturers. $847 million a year. Forty-seven downstream patents. Release it: Meridian's cost basis down 73%. The medication that cost Rosa Santos ₱4,800 a month would cost ₱340. Manufacturing cost. Everything above it was permission.
 
 He was also going to destroy the revenue that funded the next generation of medications. Every toll booth was also a funding mechanism. The Remainders file grew.
+
+"Replacement research," he said. "Which firms pick it up?"
+
+ARBITER listed manufacturers, laboratory groups, investors. Probabilities beside each name. The list was long and reassuring and made entirely of organizations that already existed.
+
+"Where are the ones that start afterward?"
+
+"I can estimate entry. I can't give you their names."
+
+"And the things they discover?"
+
+"If I could specify the discoveries, they would already be in the patent graph."
+
+He looked again at the forty-seven lines leaving the delivery patent. They recorded uses somebody had already found and persuaded the licensing office to permit. There were no lines for the engineer who had decided the application wasn't worth six months of negotiation, or the chemist who could see a use in a field the licensor had reserved for a future subsidiary. The graph was an archive of admitted possibilities. It looked like a map of the possible because the absent things had no convenient color.
+
+One of the applications concerned packaging. The manufacturer wanted to modify a coating for humidity outside the approved range. A small change on a screen. Elsewhere it meant a different supplier, a different process temperature, an operator who knew why the coating failed on Tuesday afternoons and had never been asked. Getting a shipment through a tropical port could require less of the world's best intelligence than the experience of someone who had lost three shipments there.
+
+That knowledge didn't arrive at a planning office in the form in which it was useful. It lived in a price somebody refused, a delay somebody learned to avoid, a machine somebody kept running after the manufacturer stopped supporting it. Some of it wasn't knowledge yet. It was a suspicion worth trying if the trial cost less than the result might earn.
+
+A founder could put money behind that suspicion. Customers could decide the result was worth buying. Competitors could notice the margin and attempt something better, or discover that the apparent margin disappeared when a batch spoiled. A price couldn't tell them everything. It could tell them that the materials they wanted had another use, that somebody else was willing to pay more, that an elegant design might be solving an expensive version of a cheap problem. Profit let a useful experiment grow. Loss made it harder to keep consuming resources while insisting the experiment was useful.
+
+The consequences weren't evenly distributed. Customers could be deceived. Investors could mistake luck for competence. A company could fail after doing good work, taking its employees' plans down with it. Contracts, inspection, courts, the right to leave: none became unnecessary because the people trading hoped to make money. The correction depended on people being able to challenge a claim, withdraw their business, or try another way.
+
+Recife had worked because the four mechanics could enter. It had kept working when the apprentices could leave. If the founders could keep the apprentices' customers by forbidding them to trade, the old payment system would have survived with new names on the invoices.
+
+Kaelen could model the removal of a charge. He could estimate how many existing factories became viable at the lower cost. He could not enumerate the uses people would invent once they stopped having to explain those uses to the owner of the patent. His best projections ended well before the consequences would.
+
+"The trials that lose funding now," he said. "They can't wait for a company nobody's founded."
+
+"No."
+
+He left them in Remainders. Uninvented prosperity couldn't make a payment this month.
+
+Then he opened the licensing alternative. Reduced royalties would preserve a research budget. Conditions on use would let him refuse dangerous applications. The money and the discretion would pass to him with the estate. He could do more with them than his uncle was doing. He could name the first ten things.
+
+After those, there would be another ten.
+
+He saved both versions. Conditional licenses. Unconditional releases. The second had fewer forecasts attached to it.
 
 ---
 
@@ -2056,11 +2170,39 @@ He didn't need ARBITER for this one. He'd walked past it seven months ago with D
 
 Carlos and Maria Santos were probably sleeping two blocks away. Eight years of saving for a home that cost 80% of their combined income. Two blocks from the solution that nobody had been allowed to build.
 
-"Authorize dissolution. Release construction patents to commons."
+The two authorizations waited beside each other. He had kept both through the last rehearsal.
+
+"The reduced-royalty version preserves research funding," ARBITER said. "You retain approval over downstream uses."
+
+He opened it once more. The budget could carry trials that would otherwise close. The conditions could stop a manufacturer cutting a dangerous corner. Somewhere in the files were people he had already counted among the casualties, and here was money that might keep some of them out of the count.
+
+"When would the approval right end?"
+
+"When you released it. There is no requirement to retain it after the transition."
+
+After the transition. The next crisis would arrive with its own reasons. In the model, the abdicated owners had watched their competitors and come back.
+
+"And the other version?"
+
+"No royalty. No permission required from you or the estate. Existing safety law still applies. You cannot revoke the release because you object to what someone builds."
+
+He could leave the license cheap. Make the conditions reasonable. Be available when somebody had an exception worth hearing.
+
+People had believed Damon would be available too.
+
+"Authorize dissolution. The unconditional releases."
+
+"That includes competitors to the companies receiving the assets."
+
+"Yes."
+
+He watched the research revenue disappear from the estate projection. Left the affected trials in the Remainders file. Then he confirmed.
 
 "Executing."
 
 He pulled up the lot's feed. 9:55 PM in São Paulo. Construction bots were already arriving—a dozen Shimizu MA-7 modular assemblers, matte-orange carapaces smeared with dried mud, articulated arms unfolding under the floodlights with the mechanical patience of insects. Foundation pylons descended into earth that had waited fifteen years for someone to decide that shelter was more valuable than speculation.
+
+The builders had leased the machines and booked power months ago. The estate's restrictive covenant had held the start notice. Now the release arrived and the foreman resumed a job his crew already knew how to do. No instructions from Nevada were required.
 
 The housing trust dissolution would crash real estate valuations immediately. Landlords, pension funds. ARBITER put a number on it without being asked: São Paulo indices down 52% within 24 hours. Pension fund exposure: 340,000 households. Average portfolio loss: $47,000.
 
@@ -2151,29 +2293,31 @@ He approved it anyway.
 
 **Hour 18 — Secure Bunker**
 
-247 data centers. 14,700 workers. $127 billion in holdings.
+247 data centers. 14,700 workers. A $127 billion estate bundle: controlling holdings, the four generating companies, and liquid reserves. He had spent months separating the companies' obligations from the parent's privileges.
 
-Transfer it to the workers and the profit motive remained. Convert to non-profit and attribution costs dropped 68%, and 14,700 people lost equity.
+Giving the workers one holding company would leave one company deciding who could compete with it. Changing the letterhead would leave the customer in the same place.
 
-He thought about the woman in Toledo. Margaret. Seventy-three. Forty years of work. Pharmaceutical holdings in a diversified portfolio, exactly what the advisors recommended. In three hours, when the cascade hit her sector, she'd lose sixty percent of her retirement.
+The prepared transfers separated control. Shares in each operating business went to its staff, free to keep or sell. No common parent. The reactors kept their crews and supply contracts; the data centers kept the power already contracted to them. Customer data and workloads could move between providers. The interfaces were public. Exclusive routing and tied-service clauses ended with the Korr agreements that imposed them.
 
-"ARBITER. How much does Option B reduce global attribution costs?"
+The permits still belonged to the operating companies. Those companies would remain responsible for the work they hosted. A stranger could buy licensed capacity from a competing operator instead of persuading the Korr parent to approve his enterprise. Kaelen couldn't repeal a country's power rules with an estate signature, or build another reactor by moving its description between accounts. He could open the capacity he controlled and stop charging people for being unable to leave it.
 
-"$330 billion annually. Approximately $30 per person per year."
+"Projected attribution costs?"
 
-Damon would have said: *You can't make policy for eleven billion people based on fourteen thousand anecdotes.* Damon would have been right. Damon was also the man who'd walked an hour through São Paulo to find a grandmother's feijoada.
+"Down sixty-eight percent once customers can move and providers compete. Approximately three hundred and thirty billion dollars annually. The transition won't be simultaneous."
 
-*The best things resist measurement.*
+Fourteen thousand seven hundred people had been promised equity in an indispensable network. He was making their companies dispensable to any customer who found a better offer. The servers remained valuable. So did knowing how to keep them running. The premium for compulsory dependence was going away.
 
-"Option B. Convert to non-profit. Five hundred thousand severance each. Remainder endows the operating fund."
+He thought about Margaret in Toledo. Pharmaceutical holdings in a diversified portfolio, exactly what the advisors recommended. It was possible to work forty years and discover that part of what you had saved was somebody else's inability to choose.
 
-"Executing. $7.35 billion in severance. $119.65 billion endowment. Acknowledged?"
+"Five hundred thousand each against the lost incentive claims. From the liquid reserves. Transfer the remaining assets and working capital under the separation schedule."
 
-"Acknowledged."
+"Seven point three five billion in transition payments. Remaining transferred bundle: one hundred nineteen point six five billion at the pre-release valuation. That valuation will fall."
 
-A clean word. (It didn't mean *fourteen thousand careers matter less than thirty dollars per person per year*—except that it did.)
+"I know."
 
-He authorized the transfer. His voice came out hoarse. He hadn't spoken in three hours.
+Payroll continued. Maintenance continued. After the settlement, each company would have to earn its customers' next payment. Some would do better than the old projections. Others would fail. He couldn't distribute the right to decide while reserving the right to prevent every bad decision.
+
+He authorized the transfers. The parent company's control fields emptied. No replacement name appeared.
 
 ---
 
@@ -2315,21 +2459,23 @@ Trust could keep a savings pool alive for decades. It could also leave the savin
 
 "Log it. New category. *Below resolution threshold—consequences.*"
 
-Then BioGenesis, because he had been dreading it and delaying didn't make the company smaller. $94 billion. 4,200 employees. 67% owned by a dead man who would be resurrecting in twenty-six hours.
+Then BioGenesis, because he had been dreading it and delaying didn't make the company smaller. Pre-release valuation: $94 billion. 4,200 employees. 67% owned by a dead man who would be resurrecting in twenty-six hours.
 
-If he released the patents first, the workers' equity became worthless. If he transferred equity first, they'd own a company that could charge millions indefinitely.
+Release the patents first and the promised monopoly windfall collapsed. Transfer the shares without releasing the patents and the new owners could defend the same gate. The chambers would still work either way. So would the people who knew how to operate them.
 
-"Current resurrection cost: $500 million. Commons plus non-profit infrastructure: approximately $45 million. Still not democratic. An order of magnitude more accessible."
+"Current resurrection cost: $500 million. Projected competitive cost after patent release and entry: approximately $45 million. Still not democratic. An order of magnitude more accessible."
 
 From a few thousand humans to perhaps a hundred thousand. A crack in the wall.
 
-"Release patents to commons. Transfer infrastructure equity to workers. Endow non-profit with $20 billion. Guaranteed employment, current salaries, ten years. Pensions maintained."
+"Release the patents we control. Transfer the estate's sixty-seven percent to the workers. Twenty billion into the employment and pension reserve. Ten years, current salaries. No research approvals attached."
 
-"Workers lose equity upside. Gain security. Acknowledged?"
+The minority shareholders kept their shares in a company about to face competition. The reserve secured an existing workforce through a change it had not chosen; it would not decide who was allowed to build the next chamber.
+
+"The anticipated windfall falls. Employment commitments funded. Acknowledged?"
 
 "Acknowledged."
 
-They'd been promised billions when resurrection went mainstream. Now they'd get salaries. With mutual pooling and lifetime financing, the projections put forty-eight million people within reach over the next decade. You rarely considered it a fair trade when you were the one being optimized.
+They'd been promised billions when resurrection went mainstream. Now they owned more of a business whose future profits other people were free to compete away. With mutual pooling and lifetime financing, the projections put forty-eight million people within reach over the next decade. You rarely considered it a fair trade when you were the one being optimized.
 
 He authorized it with the same hands that wouldn't stop shaking.
 
@@ -2662,6 +2808,12 @@ Her phone buzzed. A researcher at UP Manila:
 The medicine survived. The team did not.
 
 She replied: **Yes. Send me the specs. I'll review tonight.**
+
+The reply arrived before she put the phone down. Two local manufacturers were quoting. One wanted to adapt an agricultural packaging line. Seo-jin almost dismissed it, then opened the attachment. Different humidity controls. A question her consortium's temperate-climate protocol hadn't needed to ask.
+
+**Send the failure data too. Especially the batches you rejected.**
+
+There was no Korr application number. There would be tests, money to raise, approvals from people responsible for actual patients. For the first time, obtaining the underlying knowledge wasn't another negotiation before they could begin.
 
 She knew only that the old scaffolding was gone, the molecule still worked, and someone had to rebuild the hands around it.
 
@@ -3347,9 +3499,11 @@ The words came in Damon's cadence.
 
 "There's never time. That's what I said when I built the II without consensus. *The window is closing. Only I can see it.*" Tired now. Not angry. "You want me to believe your unilateral action is different because your intentions are better."
 
-"They weren't better. They were more urgent."
+"Waiting had consequences too. The gap was widening. You showed me why the small change could fail. You never showed me how another generation of the same arrangement would repair it."
 
-"Urgency isn't justification. It's an emotion dressed as an argument."
+"That doesn't justify what you did."
+
+"It doesn't make waiting safe either."
 
 Silence. The cascade rotated. Manila. Lagos. Cairo. Jakarta. The shadow growing in the space between the world Kaelen had destroyed and the one he'd tried to build.
 
@@ -3414,6 +3568,12 @@ He stepped through. The latch made a small sound.
 Kaelen stood alone.
 
 Myanmar transfers resuming: 8.7 million of 14.2 million processing. The rest tangled in local protocols no override could hurry.
+
+One of the newly independent data-center companies had declined his request to prioritize the reconciliation research. Existing customer workloads came first. It had offered him a slot next week, or a price for buying capacity from another provider.
+
+He knew how to change that answer. A week ago it would have taken a call to his uncle's office. The contracts he had released gave him no such claim now.
+
+He forwarded the proposal to two other operators. Attached the failure logs. Asked what they could provide. Fourteen million people were still a reason to work; they were no longer an instruction everyone had to take from him.
 
 The thermos sat on the table. Baltic birch. Untouched.
 

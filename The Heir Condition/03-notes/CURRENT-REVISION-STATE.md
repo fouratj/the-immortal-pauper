@@ -25,7 +25,7 @@ For current reference:
 - Damon recognizes the cascade as a chess lesson executed at civilizational scale.
 - ARBITER's absence is felt in Confrontation.
 - ARBITER is wrong about informal trust networks, which matters in Myanmar.
-- Resurrection pricing is now $500M pre-cascade and about $45M after commons/nonprofit conversion.
+- Resurrection pricing is now $500M pre-cascade and a projected competitive cost of about $45M after patent release and entry.
 - The manuscript now contains the Myanmar 0.3% gap and Damon's override signature.
 
 ## Still Active
@@ -51,4 +51,6 @@ For current reference:
 
 Routine chronology, local-clock, sequence, arithmetic-label and memory-checkpoint corrections passed the third full-book reread. Net-zero/compute and AI-control digressions are implemented, with cheap tutoring and the institutional research-license exception made explicit. Review receipts are in `../../critiques/neal-revision-read-log-2026-10-03.md`.
 
-The larger pilot and voluntary surrender of founder authority remain pending approval in `../../critiques/historical-fulcrum-proposal-2026-10-03.md`. The seven-stage thematic pass is not yet complete.
+The author approved implementation of the revised seven-stage progression. The old founder-trust veto/resignation proposal was rejected. The new pass expands Damon's original achievement, adds the refused care pilot and market-discovery digression, and makes voluntary surrender part of the existing patent and infrastructure releases. Nonprofit conversion has been replaced with dispersed competitive ownership and funded transition obligations. Independent initiative and Kaelen's loss of priority appear in the existing later scenes.
+
+Thematic full-book review receipts are tracked separately in `../../critiques/neal-historical-fulcrum-read-log-2026-10-03.md`. The existing aggregate welfare readout and other taste-level TODOs are outside this approved pass.

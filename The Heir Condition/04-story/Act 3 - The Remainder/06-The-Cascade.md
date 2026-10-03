@@ -17,11 +17,39 @@ He didn't need ARBITER for this one. He'd walked past it seven months ago with D
 
 Carlos and Maria Santos were probably sleeping two blocks away. Eight years of saving for a home that cost 80% of their combined income. Two blocks from the solution that nobody had been allowed to build.
 
-"Authorize dissolution. Release construction patents to commons."
+The two authorizations waited beside each other. He had kept both through the last rehearsal.
+
+"The reduced-royalty version preserves research funding," ARBITER said. "You retain approval over downstream uses."
+
+He opened it once more. The budget could carry trials that would otherwise close. The conditions could stop a manufacturer cutting a dangerous corner. Somewhere in the files were people he had already counted among the casualties, and here was money that might keep some of them out of the count.
+
+"When would the approval right end?"
+
+"When you released it. There is no requirement to retain it after the transition."
+
+After the transition. The next crisis would arrive with its own reasons. In the model, the abdicated owners had watched their competitors and come back.
+
+"And the other version?"
+
+"No royalty. No permission required from you or the estate. Existing safety law still applies. You cannot revoke the release because you object to what someone builds."
+
+He could leave the license cheap. Make the conditions reasonable. Be available when somebody had an exception worth hearing.
+
+People had believed Damon would be available too.
+
+"Authorize dissolution. The unconditional releases."
+
+"That includes competitors to the companies receiving the assets."
+
+"Yes."
+
+He watched the research revenue disappear from the estate projection. Left the affected trials in the Remainders file. Then he confirmed.
 
 "Executing."
 
 He pulled up the lot's feed. 9:55 PM in São Paulo. Construction bots were already arriving—a dozen Shimizu MA-7 modular assemblers, matte-orange carapaces smeared with dried mud, articulated arms unfolding under the floodlights with the mechanical patience of insects. Foundation pylons descended into earth that had waited fifteen years for someone to decide that shelter was more valuable than speculation.
+
+The builders had leased the machines and booked power months ago. The estate's restrictive covenant had held the start notice. Now the release arrived and the foreman resumed a job his crew already knew how to do. No instructions from Nevada were required.
 
 The housing trust dissolution would crash real estate valuations immediately. Landlords, pension funds. ARBITER put a number on it without being asked: São Paulo indices down 52% within 24 hours. Pension fund exposure: 340,000 households. Average portfolio loss: $47,000.
 
@@ -112,29 +140,31 @@ He approved it anyway.
 
 **Hour 18 — Secure Bunker**
 
-247 data centers. 14,700 workers. $127 billion in holdings.
+247 data centers. 14,700 workers. A $127 billion estate bundle: controlling holdings, the four generating companies, and liquid reserves. He had spent months separating the companies' obligations from the parent's privileges.
 
-Transfer it to the workers and the profit motive remained. Convert to non-profit and attribution costs dropped 68%, and 14,700 people lost equity.
+Giving the workers one holding company would leave one company deciding who could compete with it. Changing the letterhead would leave the customer in the same place.
 
-He thought about the woman in Toledo. Margaret. Seventy-three. Forty years of work. Pharmaceutical holdings in a diversified portfolio, exactly what the advisors recommended. In three hours, when the cascade hit her sector, she'd lose sixty percent of her retirement.
+The prepared transfers separated control. Shares in each operating business went to its staff, free to keep or sell. No common parent. The reactors kept their crews and supply contracts; the data centers kept the power already contracted to them. Customer data and workloads could move between providers. The interfaces were public. Exclusive routing and tied-service clauses ended with the Korr agreements that imposed them.
 
-"ARBITER. How much does Option B reduce global attribution costs?"
+The permits still belonged to the operating companies. Those companies would remain responsible for the work they hosted. A stranger could buy licensed capacity from a competing operator instead of persuading the Korr parent to approve his enterprise. Kaelen couldn't repeal a country's power rules with an estate signature, or build another reactor by moving its description between accounts. He could open the capacity he controlled and stop charging people for being unable to leave it.
 
-"$330 billion annually. Approximately $30 per person per year."
+"Projected attribution costs?"
 
-Damon would have said: *You can't make policy for eleven billion people based on fourteen thousand anecdotes.* Damon would have been right. Damon was also the man who'd walked an hour through São Paulo to find a grandmother's feijoada.
+"Down sixty-eight percent once customers can move and providers compete. Approximately three hundred and thirty billion dollars annually. The transition won't be simultaneous."
 
-*The best things resist measurement.*
+Fourteen thousand seven hundred people had been promised equity in an indispensable network. He was making their companies dispensable to any customer who found a better offer. The servers remained valuable. So did knowing how to keep them running. The premium for compulsory dependence was going away.
 
-"Option B. Convert to non-profit. Five hundred thousand severance each. Remainder endows the operating fund."
+He thought about Margaret in Toledo. Pharmaceutical holdings in a diversified portfolio, exactly what the advisors recommended. It was possible to work forty years and discover that part of what you had saved was somebody else's inability to choose.
 
-"Executing. $7.35 billion in severance. $119.65 billion endowment. Acknowledged?"
+"Five hundred thousand each against the lost incentive claims. From the liquid reserves. Transfer the remaining assets and working capital under the separation schedule."
 
-"Acknowledged."
+"Seven point three five billion in transition payments. Remaining transferred bundle: one hundred nineteen point six five billion at the pre-release valuation. That valuation will fall."
 
-A clean word. (It didn't mean *fourteen thousand careers matter less than thirty dollars per person per year*—except that it did.)
+"I know."
 
-He authorized the transfer. His voice came out hoarse. He hadn't spoken in three hours.
+Payroll continued. Maintenance continued. After the settlement, each company would have to earn its customers' next payment. Some would do better than the old projections. Others would fail. He couldn't distribute the right to decide while reserving the right to prevent every bad decision.
+
+He authorized the transfers. The parent company's control fields emptied. No replacement name appeared.
 
 ---
 
@@ -276,21 +306,23 @@ Trust could keep a savings pool alive for decades. It could also leave the savin
 
 "Log it. New category. *Below resolution threshold—consequences.*"
 
-Then BioGenesis, because he had been dreading it and delaying didn't make the company smaller. $94 billion. 4,200 employees. 67% owned by a dead man who would be resurrecting in twenty-six hours.
+Then BioGenesis, because he had been dreading it and delaying didn't make the company smaller. Pre-release valuation: $94 billion. 4,200 employees. 67% owned by a dead man who would be resurrecting in twenty-six hours.
 
-If he released the patents first, the workers' equity became worthless. If he transferred equity first, they'd own a company that could charge millions indefinitely.
+Release the patents first and the promised monopoly windfall collapsed. Transfer the shares without releasing the patents and the new owners could defend the same gate. The chambers would still work either way. So would the people who knew how to operate them.
 
-"Current resurrection cost: $500 million. Commons plus non-profit infrastructure: approximately $45 million. Still not democratic. An order of magnitude more accessible."
+"Current resurrection cost: $500 million. Projected competitive cost after patent release and entry: approximately $45 million. Still not democratic. An order of magnitude more accessible."
 
 From a few thousand humans to perhaps a hundred thousand. A crack in the wall.
 
-"Release patents to commons. Transfer infrastructure equity to workers. Endow non-profit with $20 billion. Guaranteed employment, current salaries, ten years. Pensions maintained."
+"Release the patents we control. Transfer the estate's sixty-seven percent to the workers. Twenty billion into the employment and pension reserve. Ten years, current salaries. No research approvals attached."
 
-"Workers lose equity upside. Gain security. Acknowledged?"
+The minority shareholders kept their shares in a company about to face competition. The reserve secured an existing workforce through a change it had not chosen; it would not decide who was allowed to build the next chamber.
+
+"The anticipated windfall falls. Employment commitments funded. Acknowledged?"
 
 "Acknowledged."
 
-They'd been promised billions when resurrection went mainstream. Now they'd get salaries. With mutual pooling and lifetime financing, the projections put forty-eight million people within reach over the next decade. You rarely considered it a fair trade when you were the one being optimized.
+They'd been promised billions when resurrection went mainstream. Now they owned more of a business whose future profits other people were free to compete away. With mutual pooling and lifetime financing, the projections put forty-eight million people within reach over the next decade. You rarely considered it a fair trade when you were the one being optimized.
 
 He authorized it with the same hands that wouldn't stop shaking.
 

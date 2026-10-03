@@ -199,6 +199,36 @@ Just the two of them in the study where they'd played chess for fifteen years, t
 
 Damon set down the Macallan 25. "Sit down. Let me show you something."
 
+An invoice appeared. Old enough that the interface around it looked unfinished. Recife, 2032. Refrigeration maintenance for municipal food depots.
+
+"Four mechanics," Damon said. "They could fix the equipment. They couldn't bid for the work. Approved suppliers needed a performance bond, and the banks wanted a contract history, and a contract history required being an approved supplier. So they worked for someone who had one. He collected from the city. They collected when he felt like paying."
+
+"You told me about them."
+
+"I told you about the payment. Look at what made it possible."
+
+The depot couldn't gamble its food on four strangers with tools. The bond answered a real problem. So did the list. A contractor who disappeared after an advance could cost more in spoiled food than the whole maintenance budget. The city had acquired procedures for avoiding that loss, and the people who could afford the procedures had acquired the work.
+
+Damon's team had made a repair independently verifiable: equipment history, parts, inspection, temperature over the following week. Money already appropriated for maintenance went into escrow. When the repair passed, payment cleared. A disputed result went to an assessor neither party selected alone. Under the city's new tender rules, an insurer could price the actual job instead of the contractor's relationship with a bank.
+
+The mechanics bid directly. The depot paid less. The mechanics earned more. The old contractor sued and lost. The sensors, inspectors and courts still cost money; they cost less than keeping a company in existence because it possessed permission to hire the people who did the work.
+
+"They hired two apprentices the next year," Damon said. "Then the apprentices left and started another company. The founders were furious. Called my office. Wanted the attribution system to recognize the cost of training their competitors."
+
+"Did you?"
+
+"The training, yes. Ownership of the competitors, no. They could hire them back at a wage they'd accept."
+
+Kaelen remembered the photographs. More than photographs: the audited maintenance bills, payment delays falling from months to days, fewer loads discarded. The argument had survived people who wanted it to fail. He had been proud of his uncle before he understood the machinery; understanding it had made him prouder.
+
+Those businesses had bought tools and rented premises. People who had never appeared in the proposal had earned money supplying them. A cheaper repair had become other people's opportunities, none of which Damon had needed to specify.
+
+"That was what the II was for," Kaelen said.
+
+"And it still does it. Every day. You're looking at a system after people have built their lives on it."
+
+He replaced the invoice with the current graph.
+
 A hospital hiring a nurse in São Paulo. Denser than Manila. "In Tallinn this transaction has three nodes: nurse, hospital, payment. In São Paulo, eleven. Lagos: twelve. Cairo: ten. Same job. The algorithm isn't different. The topology is. Low-trust societies build machinery to de-risk every transaction. Notaries. Certifiers. Aggregators. Each one making trust unnecessary. In Tallinn you hire with a handshake. In São Paulo, skip three notarized stamps and you're in labor court for eighteen months. The notary is load-bearing. The friction is infrastructure."
 
 "Because Estonian institutions are better."
@@ -207,7 +237,7 @@ A hospital hiring a nurse in São Paulo. Denser than Manila. "In Tallinn this tr
 
 "The II rewards that friction."
 
-"The II attributes value to enablement. In São Paulo the intermediaries *do* enable. Nurse: 23%. Hospital: 18%. Fifty-nine percent to the verification stack. That's the cost of trust in a society that can't yet afford to trust without stamps. You can't engineer trust, Kael. Fix the culture. Strengthen courts. Educate three generations. Flatten the graph organically. Then the II works."
+"The II attributes value to enablement. In São Paulo the intermediaries *do* enable. Nurse: 23%. Hospital: 18%. Fifty-nine percent to the verification stack. That's the cost of trust in a society that can't yet afford to trust without stamps. You can engineer a verifiable transaction, Kael. You can't substitute it for every institution around it. Fix the culture. Strengthen courts. Educate three generations. Flatten the graph organically. Then the II works."
 
 "How long?"
 
@@ -215,7 +245,7 @@ A hospital hiring a nurse in São Paulo. Denser than Manila. "In Tallinn this tr
 
 Kaelen filed that away without answering. It had the feel of a good argument, and something about it frightened him that he couldn't yet name.
 
-He was quiet. Then: "The II was supposed to *be* the cultural intervention. Algorithmic verification substituting for civic norms. It worked in Tallinn, Copenhagen, Singapore—places where the culture was already there. In São Paulo, Lagos, Manila, the intermediaries got there first. They captured attribution before the II could replace them. Eduardo stamps contracts because the law requires it, and the law requires it because his association lobbied for it, and they could afford to lobby because attribution revenue funded the campaign. You say fix the culture first. The algorithm is why the culture won't change. You're not reflecting the topology. You're freezing it."
+He was quiet. Then: "The II was supposed to *be* the cultural intervention. Algorithmic verification substituting for civic norms. It kept working in Tallinn, Copenhagen, Singapore—places where other institutions could keep the intermediaries in check. Recife shows it could open a door elsewhere. But in São Paulo, Lagos, Manila, the old intermediaries learned the new machinery. They captured attribution and used it to close the doors again. Eduardo stamps contracts because the law requires it, and the law requires it because his association lobbied for it, and they could afford to lobby because attribution revenue funded the campaign. You say fix the culture first. The algorithm is why the culture won't change. You're not reflecting the topology. You're freezing it."
 
 Silence. The fire cracked.
 

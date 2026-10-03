@@ -20,15 +20,15 @@ Kaelen drives the action, but the story keeps returning to the people whose live
 2. `Act 0/01-The-Portfolio.md` — Manila shows human-equity extraction before the cascade: Javi, Rosa, Marco, Lianne, Carlos, Rico.
 3. `Act 1 - The Heir Condition/02-The-Ascension.md` — Damon announces consciousness preservation to nine billion people and collapses seventeen minutes in.
 4. `Act 1 - The Heir Condition/03-The-Activation.md` — Kaelen delivers the nanobots by hug and starts the cascade.
-5. `Act 2 - The Incompleteness of Empire/04-The-Bangalore-Meeting.md` — Tanaka's patch, Rosa's evidence, Coalbrookdale/Kenya, and Damon's refusal to act before immortality.
-6. `Act 2 - The Incompleteness of Empire/05-The-Discontinuity.md` — Kaelen and ARBITER model immortal aristocracy, speciation, and the one-shot legal exploit.
-7. `Act 2 - The Incompleteness of Empire/05.1-Fifteen-Moves.md` — A year of loving Damon while building the instrument of his murder.
-8. `Act 3 - The Remainder/06-The-Cascade.md` — Hour 6 onward: bunker authorizations, São Paulo, Manila, Seoul, BioGenesis, and the first visible remainders.
+5. `Act 2 - The Incompleteness of Empire/04-The-Bangalore-Meeting.md` — Tanaka's patch, Coalbrookdale/Kenya, Damon's original liberation in Recife, and his refusal to act before immortality.
+6. `Act 2 - The Incompleteness of Empire/05-The-Discontinuity.md` — AI and energy constraints, the refused care pilot, immortal aristocracy, and the one-shot legal exploit.
+7. `Act 2 - The Incompleteness of Empire/05.1-Fifteen-Moves.md` — A year of loving Damon while preparing the cascade; market discovery and the choice between retained licensing authority and release.
+8. `Act 3 - The Remainder/06-The-Cascade.md` — Hour 6 onward: unconditional patent release, dispersed operating ownership, São Paulo, Manila, Seoul, BioGenesis, and the first visible remainders.
 9. `Act 3 - The Remainder/06.1-The-Acceleration.md` — Hours 30-38: human-equity collapse, contract voiding, Rosa/Marco/Rico/Javi, Seo-jin's treatment path, Bangalore failure.
 10. `Act 3 - The Remainder/06.2-The-Cost.md` — Hours 38-48: ARBITER absence/agency, Myanmar, Margaret, true irreversibility at Hour 51.3, ARBITER erasure.
 11. `Act 3 - The Remainder/06.3-The-Gap.md` — Margaret experiences the interval between repriced assets and physical relief.
 12. `Act 3 - The Remainder/07-The-Resurrection.md` — Damon wakes into a new body, legal paradox, cascade recognition, and identity uncertainty.
-13. `Act 3 - The Remainder/08-The-Confrontation.md` — Damon finds the Myanmar gap, rages, signs the override, and leaves without reconciliation.
+13. `Act 3 - The Remainder/08-The-Confrontation.md` — Damon finds the Myanmar gap, rages, signs the override, and leaves without reconciliation. Kaelen must seek cooperation from operators he no longer controls.
 
 ## Timeline
 
@@ -55,6 +55,6 @@ Kaelen drives the action, but the story keeps returning to the people whose live
 
 Older documents that refer to `00-framing-device.md`, `01-the-engineers-choice.md`, `02-the-ascension-ceremony.md`, `03-the-resurrection.md`, `04-closing-frame.md`, Elena as documentary narrator, family-vignette chapters, or a six-month/two-year post-liberation arc are describing a superseded draft.
 
-## Pending historical-fulcrum proposal
+## Implemented historical progression
 
-The seven-stage progression is accepted as a direction. The new refused care pilot and retained/surrendered founder authority still require author approval; see `../../critiques/historical-fulcrum-proposal-2026-10-03.md`. Do not treat either event as already written.
+Damon's genuine liberation gives rise to the infrastructure that later constrains new entrants. The AI/energy digressions and refused pilot expose that constraint; market discovery explains why releasing control can exceed the model's forecasts. Kaelen's historical opportunity becomes an act of dispersal, followed by consequences and continuing work without personal priority. Alexander/Washington remain implicit. The earlier founder-governance proposal was rejected; no new office or resignation ceremony was added.

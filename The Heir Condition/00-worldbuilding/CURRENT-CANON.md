@@ -20,7 +20,7 @@ Decided during the 2026-08-13 mechanical continuity pass. Coordinated Global Tim
 
 ## Core System
 
-The Intelligent Internet (II) measures contribution through attribution economics. Pre-cascade, Damon Korr's foundational attribution extracts a perpetual 0.3% tribute stream from human economic activity. The system is not simple villainy: in strong institutional environments it recognizes care work, reduces corruption, and funds useful things. In late-adopter and low-trust environments it amplifies intermediaries, employers, patent holders, and credentialing layers that can capture the measured value before it reaches the person doing the work.
+The Intelligent Internet (II) measures contribution through attribution economics. Pre-cascade, Damon Korr's foundational attribution extracts a perpetual 0.3% tribute stream from human economic activity. The system solved real coordination and permission problems: the 2032 Recife maintenance case shows small firms gaining direct access to contracts through independently verified work and reliable payment. In strong institutional environments it continues to recognize care work, reduce corruption, and fund useful things. In late-adopter and low-trust environments it amplifies intermediaries, employers, patent holders, and credentialing layers that can capture the measured value before it reaches the person doing the work.
 
 The canonical pre-cascade parameters are:
 
@@ -39,7 +39,7 @@ The canonical cascade update is Attribution Metadata v2.0:
 
 ## Bangalore Meeting and the Kenya Argument
 
-Reconciled 2026-09-27.
+Reconciled 2026-10-03.
 
 - The Bangalore Meeting (March 3, 2049, San Francisco) is a pre-announcement Hub Readiness Review for the Bangalore Southern Routing Node, which routes attribution for 340 million workers. Tanaka's independent audit group must sign an attestation. She refuses to sign with Manila in the appendix. She leaves it unsigned; Damon has Kaelen give her deputy the sealed Kenya annex so the deputy can sign.
 - Tanaka's finding is the slope: the Manila capture gap was 11 points in 2045 and is 19 in 2049. The system is converging toward the error. She presents Rosa as the median of 37 interviews, not as an emotional appeal. Damon is the one who argues with faces (Wanjiku).
@@ -71,7 +71,7 @@ Damon announces consciousness preservation as a way to preserve implicit knowled
 Canonical resurrection economics:
 
 - Pre-cascade cost: about $500 million per procedure.
-- Post-cascade commons/nonprofit cost: about $45 million per procedure.
+- Modeled competitive cost after patent release and entry: about $45 million per procedure. This is a projection, not an immediately imposed universal price.
 - The drop matters, but immortality is still not democratic. Speciation is delayed, not solved.
 
 The resurrected Damon is biologically young, physically unmarked, and uncertain whether he is continuous with the murdered Damon. The story should preserve that Ship of Theseus pressure rather than resolve it too neatly.
@@ -86,7 +86,10 @@ Liberations:
 - Seo-jin's cardiac treatment lands at about $14/dose under commons manufacturing.
 - São Paulo housing trusts dissolve and construction patents move to commons.
 - 3.74 million human-equity contracts are bought and voided.
-- BioGenesis and II infrastructure are converted away from extraction.
+- At Hour 6 Kaelen rejects reduced royalties and retained approval rights in favor of unconditional patent releases. This costs the estate research income; it does not waive safety law or promise to prevent all future misuse.
+- At Hour 18 the $127B estate bundle includes controlling operating holdings, four generating companies, and liquid reserves. $7.35B cash settles lost incentive claims ($500K for each of 14,700 workers); $119.65B of operating assets and working capital transfers at pre-release valuation. Actual valuations fall as monopoly premiums disappear.
+- Operating shares go to staff, freely held or sold, without a common Korr parent. Customer portability, public interfaces, and removal of exclusive routing/tied-service agreements enable competition. Staff, licenses, and supply obligations persist. Four reactors do not become 247 reactors; public energy/AI law is not repealed by the estate transfer.
+- BioGenesis: estate-held 67% stake goes to workers; minority shares remain with their owners. Estate-controlled patents are released. A $20B finite reserve funds ten-year employment/salary and pension commitments, not discretionary research or an approval body. The operating business competes for customers and can make profits.
 
 Remainders:
 
@@ -114,4 +117,15 @@ Not canonical in current prose: Kit, Maya, Sofia, Daniel, Priya, Amir, Rajiv. If
 
 The net-zero/compute and AI-control digressions are in The Discontinuity. Cheap tutoring is visible in The Portfolio; research-license access is distinguished from public assistant access. Damon benefits from the energy and licensing settlement rather than having designed it.
 
-The audited refused AI-care pilot and Kaelen's retained/surrendered founder governance powers remain proposals in `../../critiques/historical-fulcrum-proposal-2026-10-03.md`, pending author approval. They are not manuscript canon.
+The author approved the revised historical progression and rejected the invented founder-trust appointment/veto/resignation mechanism. That older proposal is historical material, not canon.
+
+Implemented October 3:
+
+- Recife, 2032: a real in-world success of Damon's early transaction infrastructure. Verified repairs, escrow, independent dispute assessment and job-specific bonds allow four mechanics to bid directly. Apprentices later enter as competitors. This is invented future history, not a claim about an actual historical case.
+- Bristol, 2047–48: independently audited, risk-balanced chronic-care pilot with lower costs and comparable outcomes within scope. Emergency contributions and transition liabilities are included. Renewal is conditioned on preserving obsolete posts and incumbent platform fees; the scheduling tool can be sold inside the incumbent, but the alternative provider is blocked. It does not answer Kenya at regional scale.
+- Fifteen Moves distinguishes modeled cost changes from unknown future discoveries, competing experiments, and profit/loss feedback. Remainders are not canceled by projected future prosperity.
+- The cascade disperses productive ownership and gives up private permission over released knowledge. No new permanent personal office is created for Kaelen.
+- Dr. Reyes and local manufacturers pursue their own packaging adaptation; their tests and patient protections remain necessary.
+- After Myanmar's release, an independent operator refuses Kaelen priority. He seeks other providers as a customer. The refusal is not a new disaster, a virtue certificate, or abandonment of repair work. The cold second cup remains.
+
+Review status and full-book hash receipts: `../../critiques/neal-historical-fulcrum-read-log-2026-10-03.md`.

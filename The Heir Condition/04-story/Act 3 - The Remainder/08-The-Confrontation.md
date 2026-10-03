@@ -172,9 +172,11 @@ The words came in Damon's cadence.
 
 "There's never time. That's what I said when I built the II without consensus. *The window is closing. Only I can see it.*" Tired now. Not angry. "You want me to believe your unilateral action is different because your intentions are better."
 
-"They weren't better. They were more urgent."
+"Waiting had consequences too. The gap was widening. You showed me why the small change could fail. You never showed me how another generation of the same arrangement would repair it."
 
-"Urgency isn't justification. It's an emotion dressed as an argument."
+"That doesn't justify what you did."
+
+"It doesn't make waiting safe either."
 
 Silence. The cascade rotated. Manila. Lagos. Cairo. Jakarta. The shadow growing in the space between the world Kaelen had destroyed and the one he'd tried to build.
 
@@ -239,6 +241,12 @@ He stepped through. The latch made a small sound.
 Kaelen stood alone.
 
 Myanmar transfers resuming: 8.7 million of 14.2 million processing. The rest tangled in local protocols no override could hurry.
+
+One of the newly independent data-center companies had declined his request to prioritize the reconciliation research. Existing customer workloads came first. It had offered him a slot next week, or a price for buying capacity from another provider.
+
+He knew how to change that answer. A week ago it would have taken a call to his uncle's office. The contracts he had released gave him no such claim now.
+
+He forwarded the proposal to two other operators. Attached the failure logs. Asked what they could provide. Fourteen million people were still a reason to work; they were no longer an instruction everyone had to take from him.
 
 The thermos sat on the table. Baltic birch. Untouched.
 

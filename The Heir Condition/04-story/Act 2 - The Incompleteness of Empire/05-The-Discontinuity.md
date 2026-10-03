@@ -318,6 +318,50 @@ The failures arrived in batches, the way weather does when you have made the mis
 
 Economic first, because that was the size of lever he still believed in. Land reform, share caps, sunset clauses on attribution, a hard reset of the rent layer every generation. They worked for decades. Then the same people were still in the room, and a sunset clause is a suggestion to anyone who expects to attend the legislature that would renew it. By the second century the resets were ceremonial. Parades. The wealth had learned to duck.
 
+He stopped a batch before it completed.
+
+"You're letting them change the tax. What about the thing being taxed? Different firms. Different ways of doing the work."
+
+"Entry is endogenous. Licensing and capital requirements rise with incumbent influence."
+
+"That's a mechanism in our model. Show me someone trying it outside one."
+
+The archive supplied a company outside Bristol. Chronic care, 2047–48. Kaelen opened the audit before the application history.
+
+The assistants were ordinary. Most patients already had access to better ones. The company had reorganized the work around what the machines could do: monitoring, scheduling, ordering supplies, keeping one record through a succession of visits instead of paying each institution to reconstruct it. Nurses treated patients. Specialists handled escalation. The founders had removed a coordination layer and were trying to keep it removed.
+
+Eighteen months. A fixed cohort, balanced for risk. Comparable outcomes within the trial's stated limits, lower total expenditure. The auditors had counted the costs the founders preferred to describe as exceptional. The saving survived.
+
+"Selection?" Kaelen asked.
+
+"They couldn't refuse a patient assigned to the cohort."
+
+"Emergency capacity. Who paid when one of them needed a hospital?"
+
+A contract opened. The company had paid a contribution into the regional emergency pool, separately from the price of each visit. Staff transition pay, retraining, liability cover. All in the cost column. The trial's limited size and prepaid commitments had contained the exposure; replicating it across a region would still have affected lenders and hospitals that had never signed those contracts.
+
+"So it doesn't answer Kenya."
+
+"It answers whether this service could work for this cohort. They asked to renew it for a second cohort, with the same commitments and staged expansion."
+
+The renewal decision accepted the findings. Kaelen read that sentence twice, then went looking for the objection.
+
+The hospital's condition was permanent retention of the supervisory posts the trial had made unnecessary. The union had accepted transition pay for the experiment; a permanent service required permanent positions. The accredited AI supplier would support certification only if the company moved onto its platform. That restored the coordination charges under a different invoice. Operating approval and the associated power allocation were conditional on all three agreements.
+
+"The staff guarantees were funded."
+
+"For the transition. Approval required the posts to continue afterward."
+
+"Doing what?"
+
+ARBITER displayed the proposed duties. Supervising records the trial no longer duplicated. Signing transfers the new workflow no longer made. Each duty was also a place where the institution could withhold its signature.
+
+The founders could sell the scheduling software to the hospital. That application had been approved. They could make the existing provider more efficient, collect a fee, and call the trial a success. They could not operate the alternative it had demonstrated.
+
+Kaelen left the audit beside the decision. The two documents agreed on the results. Better evidence had not changed what the people deciding stood to lose.
+
+He added the renewal conditions to the entry model. The sweep resumed. He watched the new firms appear, prosper under trial exemptions, and acquire the obligations that made them resemble the firms they had been built to replace.
+
 He widened the lever, because that is what you do when a tool fails and you have not yet accepted that the failure is the information. Institutional. Scenario 47: mandatory cognitive resets, sold as humility and functioning as a lobotomy with a marketing department. Term limits on ownership, which required an enforcer, and the enforcer in every run that lasted became the owner. You cannot hire a guard to take the house from the man who pays the guard, not if the man is going to be paying guards for three hundred years and can notice which of them are getting ideas.
 
 Constitutional, then, because he was running out of sizes. Scenario 12: global amendment. Two-thirds of something that no longer had a denominator everyone agreed on. Treaties. The immortals signed them with the serenity of people signing a lease on an apartment they intend to inherit from the landlord. Scenario 201, voluntary abdication, came up in a handful of runs and lasted until the first immortal who abdicated watched his cohort not abdicate, and did the arithmetic, and came back. Saints are a strategy only if sainthood is mandatory. It never is.

@@ -1,5 +1,7 @@
 # Two major decisions for approval: the refused alternative and the power retained
 
+> **Superseded after author discussion on October 3.** The care pilot was accepted. The retained founder appointment/veto powers and later resignation were rejected. The approved revision instead establishes Damon's original liberation, adds market discovery, disperses operating ownership, and makes Kaelen's surrender a choice within the existing patent releases. See the current canon and `neal-historical-fulcrum-read-log-2026-10-03.md`. The proposal below is preserved as discussion history, not active instructions.
+
 *October 3, 2026. A concrete proposal through the repository's Stephenson-informed editorial lens, not Neal Stephenson's personal opinion. No manuscript edits. The framework is accepted; the new events and powers below require author approval.*
 
 ## Recommendation

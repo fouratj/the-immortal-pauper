@@ -64,6 +64,6 @@ This list is reconciled against the current canonical manuscript in `04-story` a
 
 - [x] Integrate net-zero/compute and AI-control digressions while preserving cheap everyday AI.
 - [x] Consolidate mechanical continuity repairs; three fresh full-book reads logged in `../../critiques/neal-revision-read-log-2026-10-03.md`.
-- [ ] Author approval: audited care pilot refused expansion.
-- [ ] Author approval: continuing founder control, useful exercise, and voluntary surrender.
-- [ ] Complete the seven-stage progression after those decisions; preserve Scenario 201 and the cold second cup.
+- [x] Approved and implemented: audited care pilot refused expansion.
+- [x] Replace rejected founder-control proposal with voluntary unconditional patent release and dispersed competitive ownership.
+- [x] Implement the seven-stage progression; preserve Scenario 201, Damon's achievement, the casualties, and the cold second cup. Review receipts: `../../critiques/neal-historical-fulcrum-read-log-2026-10-03.md`.
