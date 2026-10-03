@@ -1,5 +1,5 @@
 # Chapter 7: The Resurrection
-*April 20, 2050 — 12:07 PM Coordinated Global Time*
+*April 20, 2050 — 19:07 Coordinated Global Time (12:07 PM Pacific)*
 *BioGenesis Resurrection Chamber One, San Francisco*
 
 The body's eyes opened. For three seconds—Chen counted them on the biometric display—nothing happened. Pupils dilated, contracted, dilated again. The chest rose and fell too evenly, respiration written by someone who had forgotten that humans do not breathe like metronomes.
@@ -26,17 +26,17 @@ Twelve people in the gallery. No media. No family. "Security reasons."
 
 "How long was I gone?"
 
-"Forty-eight hours, twelve minutes. Complete cellular failure at 11:55 AM during the address. Restored from yesterday's checkpoint. You have no memory of dying, or of the last day."
+"Forty-eight hours, twelve minutes. Complete cellular failure at 18:55 CGT during the address. Restored from the 18:40 checkpoint, ten minutes into your speech. The last fifteen minutes are missing."
 
 "Show me the gap."
 
 Marcus, twelve years his assistant, cleared his throat. Footage. Transaction logs. Communications metadata.
 
-The hologram: Damon declaring immortality, collapsing eighteen minutes in. He watched himself die like a technician reviewing a failure log. The new body offered no recognition. It was like watching a stranger.
+The hologram: Damon declaring immortality, collapsing seventeen minutes in. He watched himself die like a technician reviewing a failure log. The new body offered no recognition. It was like watching a stranger.
 
 "Cause of death?"
 
-"Cardiac arrest from coronary vasoconstriction. We can't find the attack vector. Checksums clean. No firmware compromise we can prove. One theory fits: same-type infiltration. Additional Gen-7s, jailbroken, identical authentication. Physical delivery. Skin contact. Within about twenty minutes of collapse." Chen hesitated. "Did anyone touch you before you went on stage?"
+"Cardiac arrest from coronary vasoconstriction. We can't find the attack vector. Checksums clean. No firmware compromise we can prove. One theory fits: same-type infiltration. Additional Gen-7s, jailbroken, identical authentication. Physical delivery. Skin contact. Within about forty minutes of collapse." Chen hesitated. "Did anyone touch you before you went on stage?"
 
 Damon was silent.
 
@@ -50,7 +50,7 @@ He stood. Clothes that should have been familiar against skin that had never wor
 
 Harrison from Corporate Security: no evidence of external causation on the tapes. Spontaneous biological failure, officially.
 
-"The first human to announce immortality dies spontaneously during the announcement." Damon straightened the jacket. "Assume intentional causation. Daily archiving from now on. If someone kills me again, we lose a day, not a week."
+"The first human to announce immortality dies spontaneously during the announcement." Damon straightened the jacket. "Assume intentional causation. Continuous replication from now on. If someone kills me again, I want the gap measured in seconds."
 
 Chen's tablet chimed. Error. Again. "Identity verification paradox. The chain recognizes you as legally dead—inheritance complete—and biometrically alive. Accounts locked in a loop. Dead-person-inherits-from-themselves."
 
@@ -94,7 +94,7 @@ He looked at his hands. Unmarked.
 
 "Change it. I want the next body to remember. Even if it means imperfection."
 
-At 5:14 PM, one hour and twenty-seven minutes after resurrection, he walked to the exit.
+At 20:34 CGT, one hour and twenty-seven minutes after resurrection, he walked to the exit.
 
 The scanner hesitated. Trace quantum signatures. Second try: accepted.
 

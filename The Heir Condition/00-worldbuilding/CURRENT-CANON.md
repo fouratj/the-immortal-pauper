@@ -2,18 +2,19 @@
 
 Source of truth: `../04-story`.
 
-Last reconciled: 2026-08-13.
+Last reconciled: 2026-10-03.
 
 ## Master Chronology
 
-Decided during the 2026-08-13 mechanical continuity pass. All broadcast/cascade hours are Coordinated Global Time (CGT); Hour 0 = death declaration.
+Decided during the 2026-08-13 mechanical continuity pass. Coordinated Global Time (CGT) uses the UTC offset, UTC+00:00. Hour 0 = death declaration. San Francisco is seven hours behind CGT during these April scenes. Local clocks are labeled or established by the scene location.
 
 - Kaelen: born November 2021. Mother dies September 2034 (Kaelen 12). Moves in with Damon; October 2035 memory = thirteen months in Pacific Heights. Italian game resigned Christmas 2035 (14). Chess-study flashback Christmas 2036 (15). Bangalore March 2049 (27). Christmas 2049 rematch (28). Execution April 2050 (28).
 - Yoon Soon-ok: born 1944. Seven in Busan, winter 1951 (brother two). Guro 1967 (23). Wedding 1962. Age 106 in 2050 — plausible under 2050 medicine; her stated age is 106.
-- ARBITER partnership: ~2047 onward ("three years of conversation" is correct for the partnership). Kaelen met Rosa June 2047. Tanaka's Manila interviews: November 2048.
-- Decision to plan: April 5, 2049 (bunker runs March 21–April 5, 2049). Pin commissioned ~ten months before Feb 2050. Cascade design complete: February 2050 (ARBITER's "below resolution threshold" dismissal = two months before execution). Plan work = ten months / "a year", never "three years".
-- Announcement and death: April 18, 2050. Speech 11:30 AM CGT; collapse 11:47 (seventeen minutes in); death declared 11:55 = Hour 0.
-- Resurrection: April 20, 12:07 PM CGT (Hour 48.2). ARBITER erased Hour 52. Confrontation: April 23 (three days post-resurrection; five days after the world changed).
+- ARBITER partnership: ~2047 onward (three years by the April 2050 confrontation). Earlier student-model work began at Stanford in 2041. Internal model changes operate under the institution's research assurance endorsement; commercial deployment requires separate approval. Tanaka's Manila interviews: November 2048.
+- Decision to plan: April 5, 2049 (bunker runs March 21–April 5, 2049). Pin commissioned May 2049: nine months before the February 2050 design scene, eleven before activation. Cascade design complete: February 2050 (ARBITER's "below resolution threshold" dismissal = two months before execution). Plan work = ten months / "a year", never "three years".
+- Opening domestic chronology: Soon-ok visit Sunday April 10, 2050. Rosa signs CarePath April 17 at 22:34 PHT, 27 hours 56 minutes before the broadcast. The manuscript uses rounded twenty-eight hours.
+- Announcement and death: April 18, 2050. Speech 18:30 CGT (11:30 AM Pacific); collapse 18:47 (seventeen minutes in); death declared 18:55 = Hour 0.
+- Resurrection: April 20, 19:07 CGT / 12:07 PM Pacific (Hour 48.2). The restored checkpoint is April 18 at 18:40 CGT; the final fifteen minutes are absent. Damon exits at 20:34 CGT, 87 minutes after waking. ARBITER erased Hour 52. Confrontation: April 23 (three days post-resurrection; five days after the world changed).
 - Resurrection access: $45M/procedure post-cascade; ~100K can pay outright; ~48M reachable within a decade via mutual pooling and lifetime financing.
 - Irreversibility: true point Hour 51.3; Malaysian acceleration pulls it to 49.7 (at Hour 48, one hour forty-two minutes remain).
 
@@ -105,6 +106,12 @@ Not canonical in current prose: Kit, Maya, Sofia, Daniel, Priya, Amir, Rajiv. If
 ## Known Canon Risks
 
 - ~~Rosa's surname appears as both Santos and Dela Cruz.~~ Resolved 2026-08-13: Santos everywhere in prose and planning docs.
-- The Act 3 filenames are `07` and `08`, while their internal chapter headers read Chapter 8 and Chapter 9.
+- The thirteen canonical narrative files include `06.3-The-Gap.md`; Resurrection and Confrontation headers agree with their `07` and `08` filenames.
 - The current resurrection chapter still gives Damon a clean positive sentiment spike; active notes prefer a more fragmented readout where destruction and construction are simultaneous.
 - ~~The manuscript references Margaret Kowalski, but her dedicated chapter has not been written.~~ Stale: 06.3 (The Gap) is her chapter.
+
+## Current thematic revision boundary
+
+The net-zero/compute and AI-control digressions are in The Discontinuity. Cheap tutoring is visible in The Portfolio; research-license access is distinguished from public assistant access. Damon benefits from the energy and licensing settlement rather than having designed it.
+
+The audited refused AI-care pilot and Kaelen's retained/surrendered founder governance powers remain proposals in `../../critiques/historical-fulcrum-proposal-2026-10-03.md`, pending author approval. They are not manuscript canon.

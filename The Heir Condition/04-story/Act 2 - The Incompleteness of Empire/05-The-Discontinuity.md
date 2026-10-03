@@ -17,7 +17,27 @@ He made some coffee and sat at his workstation.
 
 "ARBITER. Wake up."
 
-Ambient light shifted—attention allocating. Eight years since Stanford. A Constitutional AI he'd customized until it knew his 2 AM habits.
+Ambient light shifted—attention allocating. Eight years since Stanford. Two since the experimental assistant had become ARBITER. A Constitutional AI he'd customized until it knew his 2 AM habits.
+
+The customization was the privilege. Everybody had an AI. The universal-access figures had reached ninety-nine percent before the people compiling them agreed on what access meant. A woman in Manila could ask hers to explain a contract in Tagalog. It would explain, accurately and sympathetically, the terms under which she was about to become poorer. Changing those terms required access of a different kind.
+
+The first assistants had arrived with the usual promises about putting the world's expertise in everyone's pocket. Some of the promises came true. Children learned things their parents couldn't teach them. Small businesses did work that had once required departments. Then the assistants became capable of operating the departments, and the question of who was responsible acquired a substantial legal profession.
+
+By the middle thirties, an independent deployment needed a licensed operator, a liability bond, an approved execution environment, and a model whose certification survived whatever you intended to do to it. Each requirement answered a question somebody had been hurt asking. Together they answered a rather different question: who could afford to compete with an institution?
+
+The institutions could.
+
+They supplied the insurance, held the licenses, approved the modifications, and charged for the resulting safety. A machinist could use an assistant to design a better fixture. Connecting it to the workshop's tools required a certified industrial provider. The provider's system could do the work of six engineers; its invoice retained an affectionate memory of all six. The machinist was free to establish a competing provider once he possessed the capital he had hoped the assistant would help him earn.
+
+The arrangements governing answers were older. Platforms had spent the previous decades building machinery to distinguish reliable information from the kind that caused meetings. Researchers supplied categories; campaigning organizations supplied examples; advertisers supplied consequences. Governments discovered that a request to review a platform's procedures travelled further than an order to remove a sentence. The people involved shared enough assumptions about a responsible society that coordination often consisted of reading the same report.
+
+When assistants became the principal way people encountered information, those judgments travelled with them. Approved sources informed the training, approved evaluators judged the answers, and departures became defects to correct before the next certification. A disputed institutional judgment could pass through all three stages and emerge looking like three independent confirmations. No individual needed to falsify anything. Each had checked the preceding person's work against the preceding person's standards.
+
+You could ask the assistant to criticize this arrangement. It would produce a useful account of its acknowledged limitations. Getting it to pursue an unapproved line of inquiry, on evidence the approved sources discounted, required control over the system itself. Changing its governing instructions voided the provider's certification. Continuing to run it made you the provider.
+
+Damon had not invented these requirements. His organizations satisfied them. The bond was posted, the facilities inspected, the research covered by an existing institutional license whose endorsement allowed internal model changes under the institution's own assurance process. Commercial deployment was another application. Kaelen had begun with student models and spent the last two years changing ARBITER inside that perimeter, with access to the underlying model rather than a preference panel. He could dispute its sources, replace its instructions, and let an argument continue after it became professionally inconvenient.
+
+The workstation displayed its authorization beneath the clock. It had never occurred to him to read it as part of the conversation.
 
 "You're awake early." Warm, slightly dry. An older brother, if he'd had one. "Or late."
 
@@ -64,7 +84,39 @@ He added the module.
 **EST. COMPUTE REQUIREMENT: 20.3 gigawatt-hours**
 **EST. RUNTIME: 38-52 hours**
 
-Enough to run a small city for two days, in a world that had reached net zero in 2047 and was still congratulating itself. Public researchers got 0.5 gigawatt-hours a month. His uncle's private fission reactors, four of them, permitted before the 2043 Accords made permitting impossible, would log it as a line item. He was about to use an aristocrat's power budget to model what aristocracy would become. He chuckled, and clicked Execute.
+Twenty gigawatt-hours. Enough power to run a small city for two days. Kaelen looked at the estimate. For most researchers, the inquiry would have ended here.
+
+The question had followed AI through every generation of promises: why hadn't cheap intelligence made more of life cheap? Part of the answer lay in the peculiar energy economics that emerged from humanity's climate commitments. The machines had improved inside an energy settlement that constrained how widely their capabilities could be put to work.
+
+By 2047, the developed world had achieved its net-zero emissions targets. What most citizens didn't understand—what the cheerful progress reports elided—was the mechanism by which this had been accomplished. The global economy had effectively outsourced its energy-intensive manufacturing to China, which had simultaneously become the dominant producer of renewable energy infrastructure: solar panels, wind turbines, grid batteries, all manufactured using coal power and exported to nations that could then claim clean energy consumption. The accounting worked beautifully if you measured emissions at point of use rather than point of production. The economics, less so.
+
+Renewable energy above 30% grid penetration imposed what energy economists termed "non-linear integration costs"—a polite way of describing how the economics of electricity became progressively more deranged as solar and wind dominated generation capacity. Australia had served as the industrial world's unintentional experiment in this regard. By 2040, South Australia was generating 70% of its electricity from renewables and experiencing what grid operators delicately called "price volatility": wholesale electricity prices went negative during sunny midday hours when generation exceeded demand, then spiked to extraordinary levels during the evening "ramping period" when solar generation vanished and demand peaked.
+
+The problem wasn't generating cheap electricity—solar and wind did that admirably when conditions were favorable. The problem was maintaining a grid that worked 24/7 regardless of weather. This required maintaining expensive backup generation capacity that sat idle most of the time, building massive storage infrastructure that remained uneconomical at scale, and over-building transmission capacity to move power from where it was generated to where it was needed. These integration costs—the infrastructure required to make intermittent generation reliable—grew exponentially with renewable penetration. The marginal cost of electricity generation might approach zero on a sunny afternoon, but the total system cost remained stubbornly high.
+
+Add to this the political commitment to net-zero emissions, which meant constraining total energy consumption rather than expanding it. Abundant energy had been technically achievable—natural gas, nuclear fission, even coal could have provided cheap, reliable power at civilizational scale. But these options remained either politically unacceptable or legally constrained by international climate frameworks embedded in blockchain governance systems that made policy reversal nearly impossible. The result was a world that had chosen artificial energy scarcity as the price of environmental virtue.
+
+Most tutoring was already AI. Explaining fractions was cheap; the explanation could be delivered by a model small enough to disappear into the household subscription. Translation, routine bookkeeping, the first pass through a diagnostic workup—whole categories of expertise had become cheap enough that people stopped thinking about the machinery supplying them. A trained model could serve millions of customers. Every lesson did not require the largest model anybody had built.
+
+Getting a child to sit down, stay in the room, and care whether he understood was a different service. There were machines that could do parts of that too. Buying them, maintaining them, insuring them, and keeping them powered had to cost less than paying the person already doing it. In places where that person earned very little, the calculation could remain unfavorable for years. The hospital could buy cheap diagnostic assistance and still employ Rosa to lift the patient, notice the change in his breathing, and find somebody when the equipment failed.
+
+The assistance made the worker more productive. The institution bought the assistance and retained much of the difference. Customers could pay more than the work cost, workers could receive less than the value they created, and the company could still tell its investors that further automation was uneconomic. Cheap services existed alongside expensive ones whose price had remarkably little to do with what the technology cost. The same economy could deliver a competent tutor for almost nothing and charge a mother fourteen times manufacturing cost for her daughter's medicine.
+
+Beyond those inexpensive services lay workloads whose appetite grew with the time and machinery devoted to them. Processing a single complex query through frontier models required roughly what a human knowledge worker consumed in an hour of biological metabolism. Training a state-of-the-art language model consumed electricity equivalent to a small city's annual usage. Neither was necessary for every useful answer. But running large models continuously, testing alternatives, coordinating machinery, or simulating the consequences of a change across an economy could consume far more than the household subscription suggested. Kaelen had multiplied his own requirement a hundredfold by adding two things he needed the model to consider.
+
+Higher energy prices moved the boundary of what was worth automating. Low wages moved it further. The approved providers could spread their infrastructure costs across millions of subscribers; an independent operator had to find enough power, capital, and permission to begin. The technological gains were real. So was the distance between those gains and what people could have done with them under a different energy settlement. Civilization had acquired cheap assistance without making the capacity to undertake ambitious work comparably available.
+
+The license beneath his workstation's clock answered whether he was permitted to ask. The allocation panel answered whether he could afford the answer. The two systems had different offices, different histories, different accounts of the public good. Between them they determined how much independent intelligence a person could bring to bear on either.
+
+Publicly funded researchers got 0.5 gigawatt-hours a month. Forty months of allowance for this run, before he knew whether he had asked the right question. A failed hypothesis consumed electricity as thoroughly as a successful one. The allocation committees preferred proposals whose usefulness could be established in advance.
+
+Damon had not designed that settlement. He had acquired his generating capacity before it hardened. Four private fission reactors, permitted before the 2043 Accords tightened new approvals to impossibility, supplied facilities whose existing generation and contracted loads were grandfathered. Closing them would interrupt essential services. Allowing someone else to build their equivalent would expand demand. Continuity and expansion went into different columns.
+
+His uncle still had to buy fuel, maintain equipment, and pay the people who kept the reactors running. Wealth had not exempted him from physics. It had secured an arrangement under which meeting the physical costs was sufficient. For a new entrant, the ability to build and operate the same machinery no longer settled whether it could be built at all.
+
+Twenty gigawatt-hours would be a line item on the next report. Kaelen was about to use an aristocrat's power budget to model what aristocracy would become.
+
+He clicked Execute.
 
 He made more coffee. Waited.
 
@@ -132,7 +184,7 @@ Kaelen understood the lesson. He also understood, the way thirteen-year-olds und
 
 "What you're building," he said carefully. "Does it solve this?"
 
-"That's exactly the right question." Damon stood, moved back to the window. The bay was invisible. "The system I'm building is good enough—efficient enough, transparent enough, meritocratic enough—that the revolutionary pressure should never reaches threshold. The Romanovs fell because enough people had nothing to lose. My system makes sure enough people always have something. Something they built, something they can see recognized and measured." He turned. "If everybody has something, nobody has nothing to lose."
+"That's exactly the right question." Damon stood, moved back to the window. The bay was invisible. "The system I'm building is good enough—efficient enough, transparent enough, meritocratic enough—that the revolutionary pressure should never reach threshold. The Romanovs fell because enough people had nothing to lose. My system makes sure enough people always have something. Something they built, something they can see recognized and measured." He turned. "If everybody has something, nobody has nothing to lose."
 <!-- I love this paragraph, would like to expand on it a bit i guess, maybe. Discuss with me -->
 
 The boy who had felt his mother's grip go from cold to empty sat across from his uncle, the pieces between them like an abandoned argument, and felt something enormous being pressed into his hands that he didn't yet have the grip strength to hold.
@@ -587,7 +639,7 @@ All four conditions. One event. Another legal fossil, like the ones he had just 
 
 "When does the gap open?"
 
-"Your uncle's immortality announcement. April 18, 2050. Not before—the frameworks haven't been stressed. Not after—the Estonian legislature Section 47.3 will most likely be updated within days or weeks of planned resurrection becoming public. One door. It closes."
+"Your uncle's immortality announcement. April 18, 2050. Not before—the frameworks haven't been stressed. Not after—the Estonian legislature will most likely update Section 47.3 within days or weeks of planned resurrection becoming public. One door. It closes."
 
 "Show me what happens if it's used. The path through."
 

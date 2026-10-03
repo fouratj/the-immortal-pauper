@@ -15,3 +15,7 @@ Historical persona reviews stay under [`reviews/`](../reviews/). That folder is 
 Taste is the first seat. Ghost and Critic will follow.
 
 Fill souls from interview, then freeze. Do not invent Fourat’s taste, shelf, opinions, or sample answers.
+
+## Research-backed craft lenses
+
+- [Neal](neal/README.md) — on-demand review lens and ten annotated primary sources by Neal Stephenson, read 2026-10-02. This is an interpretive reference collection, not a frozen taste seat or a review by the author.

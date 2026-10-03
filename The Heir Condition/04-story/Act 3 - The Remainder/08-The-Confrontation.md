@@ -22,7 +22,7 @@ His voice came out right. Thank God for that.
 
 Kaelen closed the door. The latch sounded like a cell.
 
-His hands had been shaking since he'd dry-heaved in the bathroom seven minutes ago. Three years planning a murder. Forty-eight hours executing it. Three days waiting for the victim to request a meeting. Three days without ARBITER. The erasure had been clean. Hour 52. No computational partner to say *I can't find a flaw* or *it might still be correct*. Walking in with nothing but his own mind and the suspicion that his own mind wasn't enough.
+His hands had been shaking since he'd dry-heaved in the bathroom seven minutes ago. A year planning a murder. Forty-eight hours executing it. Three days waiting for the victim to request a meeting. Three days without ARBITER. The erasure had been clean. Hour 52. No computational partner to say *I can't find a flaw* or *it might still be correct*. Walking in with nothing but his own mind and the suspicion that his own mind wasn't enough.
 
 The thermos in his hand, Baltic birch, was absurd. *I murdered you but I brought coffee.*
 
@@ -36,7 +36,7 @@ His uncle's silhouette hadn't moved. Same stance as a thousand board meetings. A
 
 Not hello. Not how could you. *Show me.*
 
-The hologram: three years of work. Cascades, transfers, patent releases. Color-coded by jurisdiction. Time-stamped to the microsecond.
+The hologram: a year of work. Cascades, transfers, patent releases. Color-coded by jurisdiction. Time-stamped to the microsecond.
 
 It rotated in the afternoon light.
 
@@ -66,13 +66,13 @@ He found it.
 
 Kaelen's stomach dropped. Same gestures. Same ability to find the one thing you'd hoped he wouldn't notice.
 
-"Routing failure through Bangkok. It'll resolve in post-cascade—"
+"Routing failure after Bangalore. It'll resolve in post-cascade—"
 
-"When did Bangkok go offline?"
+"When did you switch to the satellite route?"
 
 Systems-architect voice. Not uncle-voice.
 
-"Hour 41. Temporary. Satellite uplink—"
+"Hour 38. Temporary. Satellite uplink—"
 
 "Commercial satellites. Expensive. Traceable. No reconciliation layer. Myanmar's fraud filters saw the volume and the path and froze the batch. From their side it looked like a heist."
 
@@ -96,7 +96,7 @@ The shame was total. Underneath it, worse: he'd wanted to be caught. Wanted this
 
 "The formal channels will reprice—"
 
-"Months. In those months they entrench. By the time your algorithm arrives, the woman with the notebook is the trusted source." Quiet. "A grandmother in Bundang told me: the system doesn't make people share rice. People share rice. When the system breaks, the people who were already sharing become the new system. For better and for worse."
+"Months. In those months they entrench. By the time your algorithm arrives, the woman with the notebook is the trusted source." Quiet. "The system doesn't make people share rice. People share rice. When the system breaks, the people who were already sharing become the new system. For better and for worse."
 
 ---
 
@@ -116,7 +116,7 @@ The HVAC cycled. Traffic forty-two floors down. Kaelen looked at the thermos. Un
 
 Kaelen couldn't answer.
 
-"You didn't know. Because you're twenty-eight and you thought three years was enough."
+"You didn't know. Because you're twenty-eight and you thought a year was enough."
 
 "I didn't—"
 
@@ -138,9 +138,9 @@ The shaking wouldn't stop. The tears wouldn't come. New fists. Someone else's ha
 
 "I used it to fix what you built. Because you wouldn't."
 
-"Three years at my table. The chess set from Moscow. You looked me in the eye."
+"A year at my table, planning this. The chess set from Moscow. You looked me in the eye."
 
-"I showed you Rosa. Her son's facility. Her daughter's medication at fourteen times cost. I watched your hand shake. I watched you almost understand. Then you said take it through governance, and I knew it would die in committee. You saw it. You chose not to act."
+"I showed you Rosa. Her daughter's medication at fourteen times cost. I watched your hand shake. I watched you almost understand. Then you said take it through governance, and I knew it would die in committee. You saw it. You chose not to act."
 
 ---
 
@@ -156,7 +156,7 @@ Damon killed it.
 
 ---
 
-"You spent three years proving one person shouldn't control the species. Then you seized concentrated power for forty-eight hours. No oversight. No mandate. One man in a bunker. 99.7% complete. The 0.3% is fourteen million human beings. Which sounds impressive until you remember that the layer you called noise is where the people you claimed to save actually live."
+"You spent a year proving one person shouldn't control the species. Then you seized concentrated power for forty-eight hours. No oversight. No mandate. One man in a bunker. 99.7% complete. The 0.3% is fourteen million human beings. Which sounds impressive until you remember that the layer you called noise is where the people you claimed to save actually live."
 
 "That's not—"
 
@@ -248,7 +248,7 @@ He stared at the second cup. Where his uncle had stood. Full. Going cold.
 
 He drank his own. Bitter. Over-extracted. Left the other where it was.
 
-The ferries kept crossing the bay. The Berkeley hills lost the sun. The room emptied of light until only the hologram remained, rotating, painting the walls with a world that was 99.7% different from the one that had existed five days ago.
+The ferries kept crossing the bay. The Berkeley hills lost the sun. The room emptied of light until only the hologram remained, rotating, painting the walls with a cascade that was 99.7% complete. Five days since the first transfer.
 
 The second cup sat untouched.
 

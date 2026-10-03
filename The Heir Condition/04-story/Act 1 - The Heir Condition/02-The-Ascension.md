@@ -1,8 +1,8 @@
 # Chapter 2: The Ascension
-*April 18, 2050 - 11:30 AM Coordinated Global Time*
+*April 18, 2050 - 18:30 Coordinated Global Time (11:30 AM Pacific)*
 *San Francisco, California*
 
-Nine billion humans watched Damon Korr take the stage, and more were joining every second. None of them knew he had eighteen minutes to live.
+Nine billion humans watched Damon Korr take the stage, and more were joining every second. None of them knew he had twenty-five minutes to live.
 
 The podium rose from the amphitheater's center with the kind of mechanical grace that costs more than most cities' annual budgets. Orchestral music followed it across twelve hundred synchronized venues. The Korr Foundation had spent eighteen months arranging humanity's first truly simultaneous announcement: forty-seven languages, viewing parties in every major population center, five thousand guests in a crystalline bowl that bounced their faces back at them in fractal glass. Heads of state. Nobel laureates. People who had never sat next to each other without a lawyer present.
 
@@ -66,11 +66,11 @@ His knees went. For three seconds the most powerful man on Earth held furniture 
 
 Then he fell.
 
-At 11:47 AM Coordinated Global Time, seventeen minutes into the most-watched speech in human history, Damon Korr collapsed on the stage he had built to announce that collapse was optional.
+At 18:47 Coordinated Global Time, seventeen minutes into the most-watched speech in human history, Damon Korr collapsed on the stage he had built to announce that collapse was optional.
 
 Medical teams took the stage. The world held still, waiting to be told this was the demonstration. It was not. Dr. Chen shook her head. The teams stepped back.
 
-At 11:55 AM, eight minutes after the fall, he was declared dead.
+At 18:55 CGT, eight minutes after the fall, he was declared dead.
 
 In Bundang, Seo-jin's phone buzzed a hospital surge alert. She wasn't on-call. She went to the ER anyway.
 

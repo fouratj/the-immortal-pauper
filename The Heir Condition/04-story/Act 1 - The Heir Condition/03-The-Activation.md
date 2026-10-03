@@ -1,5 +1,5 @@
 # Chapter 3: The Activation
-*April 18, 2050 - 11:12 AM Coordinated Global Time*
+*April 18, 2050 - 18:12 Coordinated Global Time (11:12 AM Pacific)*
 
 ***
 
@@ -11,7 +11,7 @@ Kaelen stared at the security officer—different face from the one he'd mapped 
 
 "Mr. Korr is in final preparation. No visitors backstage. Family included."
 
-Eighteen minutes, if the speech started on time. Three years of work. One officer who did not know what his tablet was currently preventing.
+Eighteen minutes, if the speech started on time. A year of work. One officer who did not know what his tablet was currently preventing.
 
 "There must be a mistake. I'm his nephew. I'm on the access list."
 
@@ -70,7 +70,7 @@ Seventy-seven million units, eleven months asleep in the pin, woke to warmth and
 He left before sandalwood could turn him around.
 
 
-**11:29 AM Coordinated Global Time**
+**18:29 Coordinated Global Time**
 
 A guard at the main entrance turned the pin over in his palm.
 
@@ -114,4 +114,4 @@ Another. Another.
 
 At Hour 4, he moved.
 
-The bunker was three hours by automated aircraft: ozone, cold recycle, the same air as the night the models had shown him a red basin and one blue line. He made coffee. Sat down. Continued.
+The bunker was an hour by automated aircraft: ozone, cold recycle, the same air as the night the models had shown him a red basin and one blue line. He made coffee. Sat down. Continued.

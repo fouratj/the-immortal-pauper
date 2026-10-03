@@ -2,7 +2,7 @@
 
 Source of truth: `../04-story`.
 
-Last reconciled: 2026-06-22.
+Last reconciled: 2026-10-03.
 
 ## Active Canon
 
@@ -31,9 +31,9 @@ For current reference:
 ## Still Active
 
 - Restructure the cascade into fewer, more distinct registers if repetition remains: bunker, Manila, Seoul.
-- Write Margaret Kowalski's chapter before Resurrection or otherwise make the gap casualty visible enough that she is more than a referenced file.
-- Give Javi a real ending after the contract economy collapses.
-- Make Seo-jin lose something durable if the consortium dissolution is intended canon.
+- Margaret's dedicated chapter is complete as The Gap.
+- Javi's post-contract choice is present in The Cost; further expansion is optional.
+- Seo-jin's consortium dissolution and rebuilding with Manila are present.
 - Rework Resurrection so Damon sees fragmentation, simultaneous destruction and construction, not a clean proof of success.
 - Keep Confrontation genuinely uncertain: Damon can admire the architecture and still be right about recklessness.
 - Confront immortality pricing directly: $45M is not democratic immortality.
@@ -42,7 +42,13 @@ For current reference:
 
 ## Known Cleanup Items
 
-- Normalize Rosa's surname to Santos unless Dela Cruz is intentionally reintroduced.
-- Check April 15 vs. April 18 references around the announcement date.
-- Revisit the "48 million" BioGenesis access line against the $45M affordability math.
+- Rosa is Santos in the canonical manuscript.
+- Announcement: April 18 at 18:30 CGT / 11:30 AM Pacific; CGT uses UTC.
+- The 48-million BioGenesis figure is now explicitly a decade-scale projection using pooling and lifetime financing; about 100,000 can pay outright.
 - Keep planning docs from reintroducing retired names: Kit, Maya, Sofia, Daniel, Priya, Amir, Rajiv.
+
+## October 3 revision
+
+Routine chronology, local-clock, sequence, arithmetic-label and memory-checkpoint corrections passed the third full-book reread. Net-zero/compute and AI-control digressions are implemented, with cheap tutoring and the institutional research-license exception made explicit. Review receipts are in `../../critiques/neal-revision-read-log-2026-10-03.md`.
+
+The larger pilot and voluntary surrender of founder authority remain pending approval in `../../critiques/historical-fulcrum-proposal-2026-10-03.md`. The seven-stage thematic pass is not yet complete.

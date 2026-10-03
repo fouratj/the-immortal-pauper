@@ -1,6 +1,6 @@
 # Remaining Tasks
 
-This list is reconciled against the current canonical manuscript in `04-story` as of 2026-06-22. For the broader state, see `../03-notes/CURRENT-REVISION-STATE.md`.
+This list is reconciled against the current canonical manuscript in `04-story` as of 2026-10-03. For the broader state, see `../03-notes/CURRENT-REVISION-STATE.md`.
 
 ## Structural (big)
 
@@ -8,7 +8,7 @@ This list is reconciled against the current canonical manuscript in `04-story` a
 
 - [x] **Write Margaret Kowalski chapter** (~1,200 words). Done as `06.3-The-Gap.md` (~1,480 words). Toledo, 3 AM portfolio, cardiac gap, futures vs. lived reality. Death implied in narrator frame; four-month treatment lag from Seoul foreshadowed.
 
-- [ ] **Give Javi a real ending chapter**, not just the coda. Post-cascade: business gone, skills (mentorship, crisis intervention) needed in a new context. Kids who went through the system need people who understand what it did to them. Javi becomes that person — reluctantly, uncertainly, broke. Relationship with Carlos stripped of financial architecture becomes thinner and more real.
+- [x] **Give Javi an ending after the contract economy collapses.** The Cost now has him ask Carlos what he wants without being paid to ask. A separate expanded chapter remains an optional author decision.
 
 ## Character / Scene (medium)
 
@@ -44,7 +44,7 @@ This list is reconciled against the current canonical manuscript in `04-story` a
 - [x] Fold The Broadcast into The Ascension. Nunchi reading, kimbap, 그래도.
 - [x] Compress The Query + The Answer into The Discontinuity. Added Godelian insight.
 - [x] Make incompleteness theorem resonance explicit. Merged into Discontinuity.
-- [x] Write Fifteen Moves chapter — thirteen months of dual existence.
+- [x] Write Fifteen Moves chapter — a year of dual existence.
 - [x] Move cascade chapters from Act 2 to Act 3.
 - [x] Rename act folders (Act 1 - The Heir Condition, Act 2 - The Incompleteness of Empire, Act 3 - The Remainder).
 - [x] Strip Activation flashbacks redundant with Fifteen Moves.
@@ -59,3 +59,11 @@ This list is reconciled against the current canonical manuscript in `04-story` a
 - [x] Resurrection pricing: $500M → ~$45M.
 - [x] Make ARBITER wrong early — Fifteen Moves Scene VI (cascade design), consequence in The Cost.
 - [x] Futures pricing digression — Fifteen Moves Scene VI, Dutch merchants/VOC, three speeds.
+
+## October 3 historical-fulcrum pass
+
+- [x] Integrate net-zero/compute and AI-control digressions while preserving cheap everyday AI.
+- [x] Consolidate mechanical continuity repairs; three fresh full-book reads logged in `../../critiques/neal-revision-read-log-2026-10-03.md`.
+- [ ] Author approval: audited care pilot refused expansion.
+- [ ] Author approval: continuing founder control, useful exercise, and voluntary surrender.
+- [ ] Complete the seven-stage progression after those decisions; preserve Scenario 201 and the cold second cup.

@@ -28,6 +28,8 @@ Rosa had seen Damon Korr on a billboard from the MRT once—that unlined face di
 
 The elevator dinged. She left them to it.
 
+From Lianne's corner came the tutor's patient voice, explaining fractions again. A month of it cost less than Rosa's jeepney ride home.
+
 Marco's door was closed. Four months. Neighbor TV—*Eat Bulaga*, manic laughter through concrete. A baby down the hall. The adobo she'd left in the pot: pork fat going cold, vinegar in the humidity.
 
 ---
@@ -106,7 +108,7 @@ Marco's door. Bass through plywood—"Spring Day," the same BTS track, the one f
 
 The song was the same. The kitchen was the same. What came through the door now was just bass. Bones of a melody.
 
-Prism 9: ₱8,240. Mercury Drug, ₱4,800 Friday. CarePath offer from yesterday. ₱145,000 upfront. GlucoSync for two years. Monitoring. Emergency. Maybe Marco's therapy—the private kind, not the government clinic where you waited three hours to talk for fifteen minutes.
+Prism 9: ₱8,240. Mercury Drug, ₱4,800 Thursday. CarePath offer from yesterday. ₱145,000 upfront. GlucoSync for two years. Monitoring. Emergency. Maybe Marco's therapy—the private kind, not the government clinic where you waited three hours to talk for fifteen minutes.
 
 She'd opened the tab fourteen times.
 
@@ -114,7 +116,7 @@ She clicked Review full terms.
 
 Forty-seven pages. Section 8: Intervention Authority. Dense on purpose. Rosa was a nurse. She knew Latin that hid ugliness. *Escalated intervention* meant someone else decides. *Increased monitoring* meant watched. *Residential treatment placement* meant they take them. *Emergency medical intervention* meant they take them at night.
 
-She knew because she'd seen it. Different company. Same clause. Three years ago.
+She knew because she'd seen it. Different company. Same clause. Ten months ago.
 
 She looked at the door. The song about missing someone.
 
@@ -352,7 +354,7 @@ The button waited.
 
 Marco's door stayed closed.
 
-Lianne's patch: matte gray hexagons on an eight-year-old's arm. Friday. Four days.
+Lianne's patch: matte gray hexagons on an eight-year-old's arm. Thursday. Four days.
 
 Rosa's finger trembled.
 
@@ -388,7 +390,7 @@ Home at 00:23. Studio off Timog, ₱18,000 a month, lobby guard, working elevato
 
 Vizor on the dock. Axon dumping to the Nexus Puck, warm aluminum, status LED. Thirty-four minutes, 2.1GB. A whole night, reducible.
 
-The cheap TCL had defaulted to news, Korr's face faintly green: **KORR GLOBAL BROADCAST — 11 HOURS, 7 MINUTES**. He switched it off.
+The cheap TCL had defaulted to news, Korr's face faintly green: **KORR GLOBAL BROADCAST — 26 HOURS, 7 MINUTES**. He switched it off.
 
 Filed: Carlos M. / Intervention 13 / 2050-04-17.
 
@@ -480,8 +482,8 @@ His hands were still a little unsteady. He put the Vizor back on the dock.
 
 ---
 
-The night before the Korr broadcast, Rosa signed CarePath at 22:34. ₱145,000 hit the account. Lianne's GlucoSync, two years. Marco's door stayed closed.
+On April 17, Rosa signed CarePath at 22:34 Manila time. ₱145,000 hit the account. Lianne's GlucoSync, two years. Marco's door stayed closed.
 
-She didn't know that in thirteen hours, everything would change.
+She didn't know that little more than a day later, everything would change.
 
 None of them did.

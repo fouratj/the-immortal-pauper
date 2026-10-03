@@ -1,5 +1,5 @@
 # Chapter 0: The Visit
-*Sunday, April 13, 2050 — Bundang, Gyeonggi Province*
+*Sunday, April 10, 2050 — Bundang, Gyeonggi Province*
 
 ---
 
@@ -15,9 +15,9 @@ She knocked on C-14 and did not wait. Halmeoni never said come in. Seo-jin said,
 
 "Why are you knocking? I heard you signing in from down the hall. The machine makes a sound like a frog."
 
-Yoon Soon-ok sat in the good chair by the window—the orthopedic cushion Seo-jin had bought last year, which her grandmother had complained about for three weeks before admitting it helped. Eighty-nine. Four foot eleven. A hundred and three pounds including the wool cardigan she wore year-round because she had not been properly warm since 1953.
+Yoon Soon-ok sat in the good chair by the window—the orthopedic cushion Seo-jin had bought last year, which her grandmother had complained about for three weeks before admitting it helped. One hundred and six. Four foot eleven. A hundred and three pounds including the wool cardigan she wore year-round because she had not been properly warm since 1953.
 
-The room was small on purpose. Bed, chair, wardrobe, a table for crosswords—Korean until three years ago, then English, "for practice," though her English had been fluent since the eighties. Photographs: wedding, 1958, hand-tinted, hanbok a shade of pink that existed nowhere in nature. Husband in army uniform, 1956, unsmiling. Three daughters. Grandchildren. And a street in Busan, 1951, refugee camp stretching to the harbor. Somewhere in that photograph—Soon-ok could point to the exact spot, though the exact spot had a habit of migrating—was a girl of seven with a two-year-old on her back, walking south because there was no other direction.
+The room was small on purpose. Bed, chair, wardrobe, a table for crosswords—Korean until three years ago, then English, "for practice," though her English had been fluent since the eighties. Photographs: wedding, 1962, hand-tinted, hanbok a shade of pink that existed nowhere in nature. Husband in army uniform, 1956, unsmiling. Three daughters. Grandchildren. And a street in Busan, 1951, refugee camp stretching to the harbor. Somewhere in that photograph—Soon-ok could point to the exact spot, though the exact spot had a habit of migrating—was a girl of seven with a two-year-old on her back, walking south because there was no other direction.
 
 "약과 가져왔어요." Seo-jin held up the bag. "성심당에서."
 
@@ -43,7 +43,7 @@ Seo-jin knew about the bark.
 
 She ate another piece. The contrast was never lost on her.
 
-"We ate it every day for three months. Busan, 1951. Winter. My brother was two," she said as she looked at that old photograph. She adjusted her cardigan. The gesture was automatic, the same gesture she'd been making for seventy years—pulling warmth closer, even in a heated room, because the body remembered cold the way the mind remembered hunger: permanently.
+"We ate it every day for three months. Busan, 1951. Winter. My brother was two," she said as she looked at that old photograph. She adjusted her cardigan. The gesture was automatic, the same gesture she'd been making for decades—pulling warmth closer, even in a heated room, because the body remembered cold the way the mind remembered hunger: permanently.
 
 "The camp was—you can't imagine it. Ten thousand people in a space for two thousand. The smell." She shook her head. "아이고, the smell. Everyone sick, or getting sick, or recovering. The children coughed all night. My brother coughed all night. I thought he was going to die. Every night I thought: tonight he dies."
 
@@ -121,7 +121,7 @@ The question that was never about food.
 
 "미쳤어." *You're crazy.* "You drove to Daejeon and back and you didn't eat? Sit. Sit."
 
-Eighty-nine, already up: a *jeong* emergency. From a cabinet, or a drawer, or some fold in space-time accessible only to Korean grandmothers, a container of japchae. Glass noodles. Vegetables. Made recently. Always good. Good since 1962.
+One hundred and six, already up: a *jeong* emergency. From a cabinet, or a drawer, or some fold in space-time accessible only to Korean grandmothers, a container of japchae. Glass noodles. Vegetables. Made recently. Always good. Good since 1962.
 
 "먹어."
 

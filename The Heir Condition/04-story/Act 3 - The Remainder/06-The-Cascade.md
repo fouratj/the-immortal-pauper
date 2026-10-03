@@ -3,7 +3,7 @@
 
 **Hour 6 — Secure Bunker, Undisclosed Location**
 
-Kaelen's hands wouldn't stop shaking. The bunker smelled like ozone and stale recycled air, with an undertone of his own sweat. Six hours underground and already the ventilation system was struggling. Or maybe that was just him.
+Kaelen's hands wouldn't stop shaking. The bunker smelled like ozone and stale recycled air, with an undertone of his own sweat. One hour underground and already the ventilation system was struggling. Or maybe that was just him.
 
 He sipped the Estonian coffee. It tasted like burnt wood and regret—which was either the roast or his state of mind. The Tallinn team had given him a five-pound bag as a gift. "For the long nights," they'd said, not knowing he'd be spending those nights dismantling the rent-extraction layer suffocating global capitalism.
 
@@ -13,7 +13,7 @@ He sipped the Estonian coffee. It tasted like burnt wood and regret—which was 
 
 "Rua Cardoso de Almeida. The empty lot."
 
-He didn't need ARBITER for this one. He'd walked past it six months ago with Damon, on the way to the feijoada place—the grandmother in the kitchen, the beans simmering, his uncle eating three bowls and saying *the best things resist measurement* while the housing trust that kept the lot empty generated attribution revenue from the artificial scarcity of the apartments that should have stood on it. Fifteen years empty. Weeds through cracked concrete. A faded *FUTURO EMPREENDIMENTO* sign, sun-bleached to illegibility.
+He didn't need ARBITER for this one. He'd walked past it seven months ago with Damon, on the way to the feijoada place—the grandmother in the kitchen, the beans simmering, his uncle eating three bowls and saying *the best things resist measurement* while the housing trust that kept the lot empty generated attribution revenue from the artificial scarcity of the apartments that should have stood on it. Fifteen years empty. Weeds through cracked concrete. A faded *FUTURO EMPREENDIMENTO* sign, sun-bleached to illegibility.
 
 Carlos and Maria Santos were probably sleeping two blocks away. Eight years of saving for a home that cost 80% of their combined income. Two blocks from the solution that nobody had been allowed to build.
 
@@ -21,7 +21,7 @@ Carlos and Maria Santos were probably sleeping two blocks away. Eight years of s
 
 "Executing."
 
-He pulled up the lot's feed. 3:47 AM in São Paulo. Construction bots were already arriving—a dozen Shimizu MA-7 modular assemblers, matte-orange carapaces smeared with dried mud, articulated arms unfolding in the predawn dark with the mechanical patience of insects. Foundation pylons descended into earth that had waited fifteen years for someone to decide that shelter was more valuable than speculation.
+He pulled up the lot's feed. 9:55 PM in São Paulo. Construction bots were already arriving—a dozen Shimizu MA-7 modular assemblers, matte-orange carapaces smeared with dried mud, articulated arms unfolding under the floodlights with the mechanical patience of insects. Foundation pylons descended into earth that had waited fifteen years for someone to decide that shelter was more valuable than speculation.
 
 The housing trust dissolution would crash real estate valuations immediately. Landlords, pension funds. ARBITER put a number on it without being asked: São Paulo indices down 52% within 24 hours. Pension fund exposure: 340,000 households. Average portfolio loss: $47,000.
 
@@ -37,7 +37,7 @@ He authorized another thousand transfers and drank coffee that had already gone 
 
 **Hour 6 — Manila, Philippines**
 
-Javi woke to his phone vibrating. 6:17 AM. Too early for a beneficiary alert.
+Javi woke to his phone vibrating. 8:55 AM. He'd slept through the first alarms.
 
 **ATTRIBUTION METADATA UPDATE: Version 2.0**
 **Individual attribution caps: 5% → 25%**
@@ -46,9 +46,9 @@ Javi woke to his phone vibrating. 6:17 AM. Too early for a beneficiary alert.
 
 He sat up. Pulled up his dashboard. Twenty-three contracts, all *RECALCULATING BASELINES*.
 
-Carlos M.: ₱3.4M baseline → ₱2.8M → ₱2.1M. The new parameters were giving Carlos credit for more of his own value. Which meant less "uplift" to extract. Which meant Javi's 15% equity stake was worth less.
+Carlos M.: ₱3.4M attributable uplift → ₱2.8M → ₱2.1M. The new parameters were giving Carlos credit for more of his own value. Which meant less "uplift" to extract. Which meant Javi's 15% equity stake was worth less.
 
-Portfolio: ₱1.41M → ₱1.38M → ₱1.32M. By 6:47 AM his retained equity had hit ₱850,000. He refreshed until the numbers stopped looking like a career and started looking like a hole.
+Portfolio: ₱1.41M → ₱1.38M → ₱1.32M. By 9:25 AM his retained equity had hit ₱850,000. He refreshed until the numbers stopped looking like a career and started looking like a hole.
 
 Investor notification: *Portfolio valuations suspended pending metadata reconciliation.* He didn't know what to tell them.
 
@@ -60,7 +60,7 @@ He thought about Rico's words from two nights ago: *Pretty soon they'll live for
 
 The attribution relay on the third floor was a matte-white box bolted to the ceiling above the nurses' station. It ran warm, 34°C at its casing, and produced a hum the night-shift nurses used as a sleep cue. Someone had taped a photograph of BTS's Jungkook to its casing. Nobody remembered who'd put it there. Nobody removed it.
 
-At 06:17 KST, it stopped being boring.
+At 09:55 KST, it stopped being boring.
 
 The LED, normally a steady green pulse every four seconds, flickered amber. Irregular. The hum shifted up a quarter-tone. In the break room one floor down, a vending machine display glitched—prices flickering, resettling. In the pharmacy, the automated dispensary paused for eleven seconds.
 
@@ -76,7 +76,7 @@ Then the hospital's internal messaging system flooded.
 
 **ALL STAFF: Budget projections suspended pending metadata reconciliation.**
 
-**DEPARTMENT HEADS: Mandatory meeting, Conference Room 4B, 07:00.**
+**DEPARTMENT HEADS: Mandatory meeting, Conference Room 4B, 10:30.**
 
 Conference Room 4B was standing room only. Dr. Kwon—CMO, transplant surgeon, the authority of a man who'd been cutting people open since before most of his staff were born—stood at the front with a tablet he was trying not to drop.
 
@@ -100,7 +100,7 @@ The II logged each arrival. The numbers would resolve when the algorithms caught
 
 Three redemption requests. ₱87,000. The patient investors were panicking.
 
-Dashboard: ₱600,000. Down from ₱1.41M yesterday. Two contracts voided. Carlos's still *UNDER REVIEW*—Luz had called. YTD 2.1%. Below zero once you counted the ₱125,000 he owed.
+Dashboard: ₱600,000. Down from ₱1.41M that morning. Two contracts voided. Carlos's still *UNDER REVIEW*—Luz had called. YTD 2.1%. Below zero once you counted the ₱125,000 he owed.
 
 He tried the secondary market. **MARKET STATUS: SUSPENDED.**
 
@@ -218,9 +218,9 @@ Rosa looked at the box. Six months of her daughter's life. Purchased with cash, 
 
 Rosa sat down. The plastic tablecloth was still sticky. The overhead fan was still broken. Marco's door was still closed. Through the walls, the news: patents, commons, the world restructuring itself at a speed she couldn't follow.
 
-And here was Luz, five in the morning, holding six months of insulin purchased through a notebook.
+And here was Luz, almost midnight, holding six months of insulin purchased through a notebook.
 
-"I signed the CarePath contract," Rosa said. Flat. "Last night. ₱145,000."
+"I signed the CarePath contract," Rosa said. Flat. "Before the broadcast. ₱145,000."
 
 Luz stared at her.
 
@@ -256,7 +256,7 @@ A pause longer than computational necessity.
 
 "Below resolution threshold."
 
-His own words from four months ago. ARBITER's confident dismissal. *Significant to the people inside them. They won't affect propagation at the level we're operating.*
+ARBITER's words from two months ago. The confident dismissal. *Significant to the people inside them. They won't affect propagation at the level we're operating.*
 
 "The *paluwagan*," Kaelen said. "The savings circles. The cash networks."
 
@@ -272,7 +272,7 @@ Jakarta: 19% gap. Lagos: 31%. Cairo: 27%. Late-adopter economies, same pattern. 
 
 *Generations.* Damon's word from Bangalore. The word Kaelen had dismissed as a stalling tactic.
 
-He thought about Bae the foreman, stealing three years of wages from eighteen women. The informal networks were beautiful and fragile and ruthless and invisible, and his cascade had passed through them like light through glass.
+Trust could keep a savings pool alive for decades. It could also leave the savings in one person's hands. The informal networks were beautiful and fragile and ruthless and invisible, and his cascade had passed through them like light through glass.
 
 "Log it. New category. *Below resolution threshold—consequences.*"
 
@@ -290,7 +290,7 @@ From a few thousand humans to perhaps a hundred thousand. A crack in the wall.
 
 "Acknowledged."
 
-They'd been promised billions when resurrection went mainstream. Now they'd get salaries. Forty-eight million people would get a chance at immortality. You rarely considered it a fair trade when you were the one being optimized.
+They'd been promised billions when resurrection went mainstream. Now they'd get salaries. With mutual pooling and lifetime financing, the projections put forty-eight million people within reach over the next decade. You rarely considered it a fair trade when you were the one being optimized.
 
 He authorized it with the same hands that wouldn't stop shaking.
 
@@ -302,21 +302,21 @@ A pharmaceutical delivery mechanism patent had cost $847 million at Hour 12. By 
 
 "2.31 million households," ARBITER said, when he asked about pension funds. "4.2 billion humans gaining affordable access within 18 months. Estimated lives saved over a decade: 12-15 million."
 
-He closed his eyes. "Authorize the next keystone release. Then show me CarePath. Manila. Signed in the last 48 hours."
+He closed his eyes. "Authorize the next keystone release. Then show me CarePath. Manila. Signed in the last 72 hours."
 
 "Why?"
 
 He didn't know. He needed to see if anyone had signed while he was killing his uncle.
 
-**Santos, Rosa M. | Contract signed: April 18, 2050, 22:34 | Beneficiary: Santos, Lianne (age 8) | Value: ₱145,000 | Status: ACTIVE**
+**Santos, Rosa M. | Contract signed: April 17, 2050, 22:34 PHT | Beneficiary: Santos, Lianne (age 8) | Value: ₱145,000 | Status: ACTIVE**
 
-At 22:34 he'd been in the secure room on the third floor, vomiting onto industrial carpet. The cascade had been running nearly three hours. The pharmaceutical patents would hit commons in six.
+The signature preceded the broadcast by twenty-eight hours. His authorizations had already been staged. Her kitchen had still belonged to the world they were meant to dismantle.
 
-Rosa—whose exhausted eyes he still remembered from an interview three years ago—had been in her kitchen, finger hovering over a button, about to sell her daughter's future to solve a problem that was already disappearing.
+Rosa—whose exhausted eyes he still remembered from Tanaka's interview—had been in her kitchen, finger hovering over a button, about to sell her daughter's future to solve a problem he knew was about to change.
 
-"CarePath becomes unprofitable within 18 months. She'll receive the upfront payment and approximately 14 months of coordination before cascade effects reach operational capacity."
+"CarePath becomes unprofitable within 18 months. She's received the upfront payment. The funded coordination service can continue for approximately 14 months while replacement providers become operational. Drug repricing is already propagating."
 
-Fourteen months. Then the GlucoSync patents in commons. ₱4,800 to ₱340. She'd still have sold it. Still have that contract in the blockchain. The third kind of remainder: signed too late.
+Fourteen months of coordination. The GlucoSync patents were already in commons; the new price was on its way. ₱4,800 to ₱340. She'd still have sold it. Still have that contract in the blockchain. The third kind of remainder: a signature that had beaten liberation to the door.
 
 "Log this too."
 
