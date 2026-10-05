@@ -9,7 +9,7 @@ Eleven days after Pacific Heights, Kaelen woke at 2 AM still trying to answer th
 
 *What do you do when persuasion doesn't work?*
 
-If Damon couldn't act even when he *knew*, the rationalization was working. If his uncle became immortal, the rationalization would become permanent. "After the announcement" would never come due. A promise with no maturity date is not a promise. It is a style.
+He had begun three messages to his uncle since Pacific Heights. Each asked for something he had already asked for in the study. He could hear the answer while he typed: after the announcement. By then Damon would have completed the first public demonstration of immortality. Kaelen wanted the investigation under way before that happened.
 
 Which left one question that gnawed at him. It had been waiting since Pacific Heights, since Florence. Six centuries of the same families at the top of the tax rolls, and every one of those families had buried its founder. What would the rolls have looked like without any funerals?
 
@@ -303,10 +303,13 @@ June 2044. *Long-term wealth distribution under asymmetric mortality.* Five year
 
 Kaelen opened it. The curves were coarser than his. The conclusion was not. Concentration. Persistence. A note in Damon's own shorthand at the end, three words, which was as close as Damon came to swearing in a document: *no clean exit.*
 
-And eight months later, February 2045: *Consciousness backup access restriction implications.* Having seen where it led, his uncle had not asked how to stop it. He had asked who should be allowed to come along.
+And eight months later, February 2045: *Consciousness backup access restriction implications.* Kaelen held the two dates in view. His uncle had studied the concentration, then the terms of access to the technology that would prolong it.
 
-So the Bangalore meeting had not been a man encountering an argument. It had been a man who had already had the argument with himself, in a bunker, and had spent five years building the manners with which to lose it politely. The private post-mortem. The file saved and wiped. The annex handed to a deputy so the signature could happen without the person who understood it. Persuasion had never been on the table. Kaelen had been bringing news to a man who had buried the news and kept the coordinates.
-<!-- or maybe we should keep it, this does help set us up, but is it better for the reader to have this explained or not -->
+*No clean exit.* He read the words again. Kenya had given that phrase weight. So had the clinics' credit lines. He wanted the pages between the conclusion and the next commission: what Damon had considered, what he had rejected, what he had expected another year to change.
+
+In Bangalore, Tanaka had stood in front of him with her figures. Damon had produced the private post-mortem. At Pacific Heights he had promised more modeling. The work on Kaelen's screen was five years old. His uncle had let him leave the study without mentioning it.
+
+Kaelen copied the report identifiers into his notes. Beneath them he typed: *Ask why these weren't shared with Tanaka.*
 
 He closed the archive. The sweep sat at 11%. The fans kept their count.
 

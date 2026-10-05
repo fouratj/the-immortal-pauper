@@ -2,6 +2,8 @@
 
 Neal research-backed craft lens · 3 October 2026 · identification only
 
+**Revision status — 5 October 2026:** Findings #3, #9, #16 and #18 have been addressed in the manuscript. See [#3/#9 review](neal-3-9-review-2026-10-05.md) and [#16/#18 review](neal-16-18-review-2026-10-05.md). The original findings and line references below are preserved as the pre-revision record; the other 26 findings remain open.
+
 This is an assistant’s independent editorial assessment using [the project’s Neal lens](../agents/neal/README.md), not Neal Stephenson speaking or endorsing the assessment. All thirteen canonical chapters were read end to end, in story order, before the findings were finalized. The Reader Sim reaction supplied the question; its judgments were not treated as proof. No manuscript changes, rewrites, proposed replacement prose, or political fact-checking are included.
 
 **The central finding:** the book is unusually good at introducing objections. Its vulnerable passages are those that briefly promote a useful explanation into an exhaustive account: of the future, of another person’s mind, or of the meaning of a scene. Later chapters often reopen these questions. That reopening matters, but does not erase the experience of having had the conclusion supplied earlier.

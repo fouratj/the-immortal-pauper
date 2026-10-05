@@ -249,7 +249,7 @@ He was quiet. Then: "The II was supposed to *be* the cultural intervention. Algo
 
 Silence. The fire cracked.
 
-Recognition flickered. Then the mask.
+Damon looked down at his glass.
 
 "It's easy to want revolution when you're twenty-seven and have a trust fund. Don't pretend you're taking the same risk they are. You're not Rosa. You're my nephew." His hand trembled. Slightly. He set the glass down. "After the announcement. Once the governance transition settles. I'll commission a full study. We'll model it properly."
 
@@ -257,13 +257,15 @@ Kaelen knew the shape of that promise. Tanaka. Cairo. Lagos. Acknowledge, refram
 
 "Okay," he said. "After the announcement."
 
-He left an hour later. Drove through fog, streets slick, city lights bleeding. Hands shaking on the wheel. He'd seen it: the look of someone who'd heard a better explanation and chosen not to follow it. Then additional modeling. Proper study. Always after.
+He left an hour later. Drove through fog, streets slick, city lights bleeding. Hands shaking on the wheel. He kept returning to the same exchange. He had asked how the culture could change while attribution financed the people preventing it. Damon had promised a study after the announcement.
 
-He pulled over on Divisadero. Sat in the dark car, fog condensing on the windows. Thirty-seven minutes. The question—*is he right or is he rationalizing?*—wasn't the question anymore. Damon knew. Some part of him understood. And he was choosing not to look. Not because he was evil. Because looking would mean seeing, and seeing would mean acting, and acting would mean dismantling forty years of work.
+He pulled over on Divisadero. Sat in the dark car, fog condensing on the windows. Thirty-seven minutes. Kenya still troubled him. So did the credit lines, the clinics that could lose their financing before a single worker left. He tried to assemble an answer his uncle would accept. Each version brought him back to the people who would carry the risk while they found out.
 
-The new question was worse: *What do you do when persuasion doesn't work?*
+Damon could fund the investigation. He could open the reports to Tanaka. He could set a date. Kaelen had left with “after the announcement,” and had said okay.
 
-When someone has the power and the information and the capacity—and won't. Not can't. Won't.
+*What do you do when persuasion doesn't work?*
+
+He took out his phone. The last message from his uncle was the address and a reminder to eat before coming over. He opened a reply. His thumb rested above the keyboard until the screen dimmed.
 
 He counted his breaths. Tried to think of another path. Failed.
 

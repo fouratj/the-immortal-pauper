@@ -1104,7 +1104,7 @@ He was quiet. Then: "The II was supposed to *be* the cultural intervention. Algo
 
 Silence. The fire cracked.
 
-Recognition flickered. Then the mask.
+Damon looked down at his glass.
 
 "It's easy to want revolution when you're twenty-seven and have a trust fund. Don't pretend you're taking the same risk they are. You're not Rosa. You're my nephew." His hand trembled. Slightly. He set the glass down. "After the announcement. Once the governance transition settles. I'll commission a full study. We'll model it properly."
 
@@ -1112,13 +1112,15 @@ Kaelen knew the shape of that promise. Tanaka. Cairo. Lagos. Acknowledge, refram
 
 "Okay," he said. "After the announcement."
 
-He left an hour later. Drove through fog, streets slick, city lights bleeding. Hands shaking on the wheel. He'd seen it: the look of someone who'd heard a better explanation and chosen not to follow it. Then additional modeling. Proper study. Always after.
+He left an hour later. Drove through fog, streets slick, city lights bleeding. Hands shaking on the wheel. He kept returning to the same exchange. He had asked how the culture could change while attribution financed the people preventing it. Damon had promised a study after the announcement.
 
-He pulled over on Divisadero. Sat in the dark car, fog condensing on the windows. Thirty-seven minutes. The question—*is he right or is he rationalizing?*—wasn't the question anymore. Damon knew. Some part of him understood. And he was choosing not to look. Not because he was evil. Because looking would mean seeing, and seeing would mean acting, and acting would mean dismantling forty years of work.
+He pulled over on Divisadero. Sat in the dark car, fog condensing on the windows. Thirty-seven minutes. Kenya still troubled him. So did the credit lines, the clinics that could lose their financing before a single worker left. He tried to assemble an answer his uncle would accept. Each version brought him back to the people who would carry the risk while they found out.
 
-The new question was worse: *What do you do when persuasion doesn't work?*
+Damon could fund the investigation. He could open the reports to Tanaka. He could set a date. Kaelen had left with “after the announcement,” and had said okay.
 
-When someone has the power and the information and the capacity—and won't. Not can't. Won't.
+*What do you do when persuasion doesn't work?*
+
+He took out his phone. The last message from his uncle was the address and a reminder to eat before coming over. He opened a reply. His thumb rested above the keyboard until the screen dimmed.
 
 He counted his breaths. Tried to think of another path. Failed.
 
@@ -1139,7 +1141,7 @@ Eleven days after Pacific Heights, Kaelen woke at 2 AM still trying to answer th
 
 *What do you do when persuasion doesn't work?*
 
-If Damon couldn't act even when he *knew*, the rationalization was working. If his uncle became immortal, the rationalization would become permanent. "After the announcement" would never come due. A promise with no maturity date is not a promise. It is a style.
+He had begun three messages to his uncle since Pacific Heights. Each asked for something he had already asked for in the study. He could hear the answer while he typed: after the announcement. By then Damon would have completed the first public demonstration of immortality. Kaelen wanted the investigation under way before that happened.
 
 Which left one question that gnawed at him. It had been waiting since Pacific Heights, since Florence. Six centuries of the same families at the top of the tax rolls, and every one of those families had buried its founder. What would the rolls have looked like without any funerals?
 
@@ -1433,10 +1435,13 @@ June 2044. *Long-term wealth distribution under asymmetric mortality.* Five year
 
 Kaelen opened it. The curves were coarser than his. The conclusion was not. Concentration. Persistence. A note in Damon's own shorthand at the end, three words, which was as close as Damon came to swearing in a document: *no clean exit.*
 
-And eight months later, February 2045: *Consciousness backup access restriction implications.* Having seen where it led, his uncle had not asked how to stop it. He had asked who should be allowed to come along.
+And eight months later, February 2045: *Consciousness backup access restriction implications.* Kaelen held the two dates in view. His uncle had studied the concentration, then the terms of access to the technology that would prolong it.
 
-So the Bangalore meeting had not been a man encountering an argument. It had been a man who had already had the argument with himself, in a bunker, and had spent five years building the manners with which to lose it politely. The private post-mortem. The file saved and wiped. The annex handed to a deputy so the signature could happen without the person who understood it. Persuasion had never been on the table. Kaelen had been bringing news to a man who had buried the news and kept the coordinates.
-<!-- or maybe we should keep it, this does help set us up, but is it better for the reader to have this explained or not -->
+*No clean exit.* He read the words again. Kenya had given that phrase weight. So had the clinics' credit lines. He wanted the pages between the conclusion and the next commission: what Damon had considered, what he had rejected, what he had expected another year to change.
+
+In Bangalore, Tanaka had stood in front of him with her figures. Damon had produced the private post-mortem. At Pacific Heights he had promised more modeling. The work on Kaelen's screen was five years old. His uncle had let him leave the study without mentioning it.
+
+Kaelen copied the report identifiers into his notes. Beneath them he typed: *Ask why these weren't shared with Tanaka.*
 
 He closed the archive. The sweep sat at 11%. The fans kept their count.
 
