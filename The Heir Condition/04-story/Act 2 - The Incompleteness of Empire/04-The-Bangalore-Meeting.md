@@ -175,15 +175,15 @@ He ran the contamination argument again, and on the third pass it came apart in 
 
 He had the rebuttal half-composed as a message before he felt the other thing underneath it.
 
-Nurses couldn't run. Money could. A lender didn't need portability to exist; it only needed portability to be credible. The day a Korr pilot went live in one corridor, every hospital bond in the region would reprice. Every insurer would rewrite its terms. Every credit line to every clinic from Chennai to Cebu would tighten, and the institutions would start failing before a single nurse had moved. The risk pools wouldn't drain from the bottom, through the staff. They'd drain from the top, through the balance sheet.
+Nurses couldn't run. Money could. A lender didn't need portability to exist; it only needed portability to be credible. A Korr pilot in one corridor could reprice hospital bonds across the region. Insurers would have to reckon with the same exposure. How far would lenders cut the credit lines before a single nurse had moved? His message had no answer for a clinic that lost its financing on the strength of a rumor. The risk pools wouldn't drain from the bottom, through the staff. They'd drain from the top, through the balance sheet.
 
 Damon hadn't said any of that. Whether he'd handed Kaelen the weaker version of his own argument on purpose—the one Kaelen could break, while keeping the one he couldn't—was a question Kaelen found he didn't want answered.
 
-He deleted the message. He didn't know his uncle was wrong. He had an argument, which was not the same thing, and he could feel exactly how it ran. The balance sheet ruled out slow. Tanaka's slope ruled out never: eleven points, nineteen, and whoever finally closed the gap would have to jump further, probably someone in Jakarta or Lima working without the annex. Which left fast, and total, and irreversible. He'd drawn that quadrant himself, twenty minutes ago, and put Mao in it.
+He deleted the message. He didn't know his uncle was wrong. He had an argument, which was not the same thing, and he could feel exactly how it ran. The balance sheet threatened the pilot he had drawn. Tanaka's slope kept rising: eleven points, nineteen, and whoever finally closed the gap would have to jump further, probably someone in Jakarta or Lima working without the annex. He looked again at fast, and total, and irreversible. He'd drawn that quadrant himself, twenty minutes ago, and put Mao in it.
 
 Damon hadn't refuted the empty corner. He'd saved it to a file, and the file was now the only place it existed.
 
-Underneath the framework: a choice wearing a constraint's clothes.
+He started a new message. He could ask who would guarantee the clinics' credit. He couldn't supply the guarantee.
 
 His phone buzzed. Damon: *Thursday, 7pm. Don't forget.*
 

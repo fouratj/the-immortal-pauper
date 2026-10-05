@@ -116,6 +116,8 @@ His uncle still had to buy fuel, maintain equipment, and pay the people who kept
 
 Twenty gigawatt-hours would be a line item on the next report. Kaelen was about to use an aristocrat's power budget to model what aristocracy would become.
 
+He opened a second estimate. Same inquiry, ordinary allocation. Forty months, assuming he spent nothing on correcting the first run. More power would let a rival ask his question. Would it let that rival act on the answer? He added operating licenses and access to capital to the list beside the console. The power estimate could price the run. He still needed to trace what happened after it.
+
 He clicked Execute.
 
 He made more coffee. Waited.
@@ -132,15 +134,15 @@ Forty-five hours. The coffee had gone through cold and into a new state that cof
 
 His hands were shaking. He had expected something like this, which was not the same as being ready for it, and he did what a person does with a number he has already decided to answer. He reached for the textbook.
 
-Estate tax. The model applied it at death, which was the only moment an estate tax has ever had a purchase, and there was no death, so the tax sat in the code like a bell in a church where nobody had died in a century: present, polished, silent. Partible inheritance, the same. You cannot split an estate among children when the owner is still at the table, drinking, correcting your Greek. Antitrust lasted longer. It assumed a firm could be broken up faster than its owner could reassemble it, and an owner with three hundred years and the same lawyers simply waited the breakup out and bought the pieces back at the bottom. The wealth tax was the one that didn't need a funeral, which was why it looked like the fallback, and why it wasn't. It didn't work inside a single lifetime. France had tried one in the eighties and watched the money leave for Belgium before the forms were printed. Norway's was a rounding error that the people it was aimed at treated as a fee for staying. Spain's came and went with the governments. A tax on a stock of wealth is a tax on whatever cannot move, which means it falls on houses and family firms and spares the portfolio that can be incorporated in Dublin by Thursday. The people writing the law were never going to outrun the people employing the lawyers, and that was with both sides dying on schedule. By year 80 in the model the tax was a line item the immortals paid themselves, from one pocket to another, and called governance.
+Estate tax. The model applied it at death, which was the only moment an estate tax has ever had a purchase, and there was no death, so the tax sat in the code like a bell in a church where nobody had died in a century: present, polished, silent. Partible inheritance, the same. You cannot split an estate among children when the owner is still at the table, drinking, correcting your Greek. Antitrust lasted longer. It assumed a firm could be broken up faster than its owner could reassemble it, and an owner with three hundred years and the same lawyers simply waited the breakup out and bought the pieces back at the bottom. The wealth tax was the one that didn't need a funeral. He gave it a separate run. The historical cases offered plenty of ways to evade it. France had tried one in the eighties and watched the money leave for Belgium before the forms were printed. Norway's was a rounding error that the people it was aimed at treated as a fee for staying. Spain's came and went with the governments. A tax on a stock of wealth is a tax on whatever cannot move, which means it falls on houses and family firms and spares the portfolio that can be incorporated in Dublin by Thursday. He increased enforcement, then the cost of moving assets. The lawyers found fewer exits. The returns still accumulated. By year 80 in the model the tax was a line item the immortals paid themselves, from one pocket to another, and called governance.
 
-He sat back. The correction wasn't a policy. Every instrument that had ever taken a fortune apart had been waiting on a death to pull its trigger, and the one instrument that hadn't was already failing among people who still had them. Take the death away and the instruments were furniture.
+He sat back. Estate tax and partition had lost their trigger. Antitrust and the wealth tax still operated; he could see their costs in the ledger. He couldn't make those costs arrest the concentration. He marked the enforcement settings for the wider sweep.
 
 So he did what he'd been trained to do: try to pull the explanation apart, and see whether mortality was actually holding it up or whether he was telling himself a story because the textbook had embarrassed him. A good explanation was one you couldn't vary without breaking the prediction. He started removing pillars.
 
 The coffee was past saving. On the shelf above the workstation, between a manual he'd never opened and a chess book with Damon's handwriting in the margins, *The Beginning of Infinity* leaned at the angle of a book that gets taken down and not quite put back. Deutsch. The cracked spine was the chapter on explanations: a good one was hard to vary, because every piece was doing work, and a bad one survived any change you made to it, which was how you knew it had never been explaining anything. He had read it at Stanford and argued with it and kept it. He was about to do the thing it described.
 
-Remove compound returns. Immortals live forever, but their wealth grows no faster than anyone else's. What's left is a persistent upper class—privileged, long-lived, but not dominant. Aristocracy without teeth. But compound returns were arithmetic, not sociology. Capital at 7% doubled every decade. Across centuries that wasn't an advantage. It was a different universe.
+Remove compound returns. Immortals live forever, but their wealth grows no faster than anyone else's. What's left is a persistent upper class—privileged, long-lived, but not dominant. Aristocracy without teeth. He restored the returns. Capital held at 7% doubled every decade. Across centuries the line left the scale. He lowered the return, then gave the incumbents losses. The bend moved further out. It was still there when the run ended.
 
 Remove succession. This was the pillar he trusted least, because it was the one everybody already believed. He had believed it since he was thirteen. His uncle had taught it to him.
 
@@ -207,17 +209,17 @@ Except that the fortune of 1427 had not stayed in one pair of hands. It had spli
 
 Take immortality's knowledge retention out of the model and the old cycle came back, and the correction with it. But *the recipe survives and the hands don't* was the whole point of immortality. If the hands survived too, the cycle broke.
 
-Remove regulatory capture. Immortals compound wealth but can't shape the rules to lock out competition. New entrants challenge them. The walls have doors. But capture was what happened when the same people controlled the rules for centuries instead of decades. Not conspiracy. Patience. Being the only ones in the room long enough to understand how the room worked. Every consumer protection a barrier to entry. Every quality protocol requiring equipment only their facilities could afford.
+Remove regulatory capture. Immortals compound wealth but can't shape the rules to lock out competition. New entrants challenge them. The walls have doors. He opened the capture settings. Incumbent influence accumulated with tenure, legal spending and control of essential infrastructure. The model turned that influence into entry costs: consumer protections requiring larger reserves, quality protocols requiring equipment only existing facilities could afford. Holding those costs fixed admitted competitors. Letting them grow closed the doors again.
 
-Each pillar removed told a different story—less frightening, more manageable, more like the world he wanted to live in. All three together told the only story the data supported.
+Each pillar removed told a different story—less frightening, more manageable, more like the world he wanted to live in. All three together brought the concentration back. He saved the runs beside one another, with the settings visible.
 
 By year 300 the model had the immortals discussing "the mortal problem" the way humans discussed wildlife conservation. Habitat management. Sustainable population levels. Benevolent stewardship. Not malice. Incomprehension. How do you relate to beings who die after a century when you've been alive for 250? Who make decisions in decades when you're playing a thousand-year game?
 
 Kaelen thought about the French nobility before the Revolution, discussing the "peasant problem" over wine at Versailles. The plantation owners of the American South, debating the "slave question" as if they weren't talking about human beings. Every elite, in every era, had stopped seeing the people beneath them as fully human. Not through malice. Through distance.
 
-The immortals would just do it more completely. And permanently.
+The simulation carried that distance into a fourth century. He dragged the endpoint back and watched it form again.
 
-He tried to break it. What if immortals retained empathy? The model had a parameter for that; the divergence slowed but didn't stop, because empathy operated on human timescales and three centuries wasn't a human timescale anymore. What if democratic institutions adapted? They adapted in the model. The immortals adapted faster. That wasn't a bug in the parameter. It was the shape of the institution. A democracy is a large group that has to agree, out in the open, on a timetable, against a small group that already agrees, meets in private, and does not forget the last meeting. The small group wins that contest even when it dies. When it doesn't die, the contest stops being a contest. What if the technology democratized? The compute was per-person and the regulatory moat self-reinforcing. He couldn't tell a different story without cheating.
+He tried to break it. What if immortals retained empathy? The model had a parameter for that; the divergence slowed but didn't stop, because empathy operated on human timescales and three centuries wasn't a human timescale anymore. What if democratic institutions adapted? They adapted in the model. The immortals adapted faster. A large group had to agree, out in the open, on a timetable, against a small group that met in private and remembered the last meeting. He shortened the electoral cycle. Then he broke the immortals into competing factions. They fought over the returns and continued funding the protections that kept outsiders from claiming them. What if the technology democratized? The compute was per-person and the regulatory moat self-reinforcing. He left the empathy setting open. It reduced to a weight on other people's welfare. Three centuries of minds, represented by a dial. Raising it delayed the divergence. He did not know what else to put in its place.
 
 That wasn't what stopped his breathing.
 
@@ -226,11 +228,11 @@ That wasn't what stopped his breathing.
 
 Wealth had been a number. This was a kind. The problem was no longer who owned the returns. It was whether the people collecting them were still the same sort of mind as the people generating them, and the model had answered, politely, that by the middle of the third century they were not. Not enemies. Neighbors who had stopped being able to imagine each other's lives. Conservation language. Management language. The language you use for a population you have decided, with real affection, to keep from going extinct.
 
-He had come downstairs to understand one man who wouldn't move. He was looking at a species that couldn't.
+He had come downstairs to understand one man who wouldn't move. He brought the two populations back onto the same scale. Their trajectories kept separating.
 
 ---
 
-The levers he knew were already dead. What he needed was a sweep of the levers he hadn't thought of, and he was not going to let the machine design it for him. If he was going to spend a city's worth of power on the question, he was going to be able to say what the question had been.
+The levers he had tried had failed. What he needed was a sweep of the levers he hadn't thought of, and he was not going to let the machine design it for him. If he was going to spend a city's worth of power on the question, he was going to be able to say what the question had been.
 
 He wrote the axes on the whiteboard, because a list you can erase is a list you will lie to.
 
@@ -365,15 +367,15 @@ Kaelen left the audit beside the decision. The two documents agreed on the resul
 
 He added the renewal conditions to the entry model. The sweep resumed. He watched the new firms appear, prosper under trial exemptions, and acquire the obligations that made them resemble the firms they had been built to replace.
 
-He widened the lever, because that is what you do when a tool fails and you have not yet accepted that the failure is the information. Institutional. Scenario 47: mandatory cognitive resets, sold as humility and functioning as a lobotomy with a marketing department. Term limits on ownership, which required an enforcer, and the enforcer in every run that lasted became the owner. You cannot hire a guard to take the house from the man who pays the guard, not if the man is going to be paying guards for three hundred years and can notice which of them are getting ideas.
+He widened the lever, because that is what you do when a tool fails and you have not yet accepted that the failure is the information. Institutional. Scenario 47: mandatory cognitive resets, sold as humility and functioning as a lobotomy with a marketing department. Term limits on ownership, which required an enforcer, and the enforcers in the surviving runs acquired the assets they administered. He separated the payroll from the estates. The influence moved into appointments. He opened the appointment rules.
 
-Constitutional, then, because he was running out of sizes. Scenario 12: global amendment. Two-thirds of something that no longer had a denominator everyone agreed on. Treaties. The immortals signed them with the serenity of people signing a lease on an apartment they intend to inherit from the landlord. Scenario 201, voluntary abdication, came up in a handful of runs and lasted until the first immortal who abdicated watched his cohort not abdicate, and did the arithmetic, and came back. Saints are a strategy only if sainthood is mandatory. It never is.
+Constitutional, then, because he was running out of sizes. Scenario 12: global amendment. Two-thirds of something that no longer had a denominator everyone agreed on. Treaties. The immortals signed them with the serenity of people signing a lease on an apartment they intend to inherit from the landlord. Scenario 201, voluntary abdication, came up in a handful of runs and lasted until the first immortal who abdicated watched his cohort not abdicate, and did the arithmetic, and came back. He checked the exit terms. Abdication left them a route back to ownership. He flagged it, then opened the next result.
 
 Then force, because he had been avoiding it and the avoidance had become visible to him, which is the point at which an honest modeler stops avoiding it.
 
-Scenario 134. Revolution worked. That was the obscenity. In the runs where it worked, it worked the way the backyard furnaces had worked: completely, and at a price the people who ordered it did not pay personally until later, and sometimes not then. He made himself watch one of them instead of the aggregate. A corridor in the model, late-adopter, the licensing stack torn out in a month. The hospitals emptied, not from reform but from the people who had staffed them deciding that staffing them was how you got put against a wall. The medication moved through hands the model couldn't name. Eighteen months of that, and then the committee that had ordered the tearing-out requisitioned the first restored bodies, because the revolution, like every revolution before it, had discovered that its leaders preferred to continue leading. They bought the resurrection with the same money they had called extraction when someone else was collecting it. Nairobi had failed from too little. This one failed from winning.
+Scenario 134. Revolution worked. That was the obscenity. In the runs where it worked, it worked the way the backyard furnaces had worked: completely, and at a price the people who ordered it did not pay personally until later, and sometimes not then. He made himself watch one of them instead of the aggregate. A corridor in the model, late-adopter, the licensing stack torn out in a month. The hospitals emptied, not from reform but from the people who had staffed them deciding that staffing them was how you got put against a wall. The medication moved through hands the model couldn't name. Eighteen months of that, and then the committee that had ordered the tearing-out requisitioned the first restored bodies, because the committee had voted to exempt its own members from the limits on office. They bought the resurrection with the same money they had called extraction when someone else was collecting it. Nairobi had failed from too little. This one failed from winning.
 
-And it failed at the bottleneck violence always has, which is that violence can take a building and cannot run one. The first order of business, in every run that lasted past the month, was the people who had believed it. The organizers, the ones who could still quote the reasons, the ones who thought the seizure was the beginning. Useful, and then not, and then a liability, because they wanted the next thing and the committee wanted the building. They went against the wall before the landlords did. What was left of the hospital had no one who knew where the oxygen was shut off. The medication sat in a room whose lock nobody remaining could open. The bottleneck wasn't courage. It was that the people who knew how the system worked were the first people the system, once seized, could not afford.
+He followed the hospital through the next month. The committee could seize it. Staffing it required people it was arresting. The organizers went first: the ones who could still quote the reasons, the ones who thought the seizure was the beginning. Useful, and then not, and then a liability, because they wanted the next thing and the committee wanted the building. They went against the wall before the landlords did. What was left of the hospital had no one who knew where the oxygen was shut off. The medication sat in a room whose lock nobody remaining could open. He replayed the first arrests. The staffing curve broke there, before the medication ran out.
 
 He stopped the playback. The vault was the same temperature it had been for days. He was not.
 
@@ -501,7 +503,7 @@ He did not watch. Watching was how you nudged. He went back to the board and pla
 
 **April 5, 2049**
 
-The run finished at 3:07 in the morning. He knew because the fans changed. For thirteen days the racks had breathed on their forty-second cycle, a weather system with one season, and then they sighed down to idle, and the vault became quieter than a room full of that much machine had any right to be. The quiet had a pressure. It was the pressure of an answer sitting behind glass, patient, already true.
+The run finished at 3:07 in the morning. He knew because the fans changed. For thirteen days the racks had breathed on their forty-second cycle, a weather system with one season, and then they sighed down to idle, and the vault became quieter than a room full of that much machine had any right to be. The quiet had a pressure. The results were behind glass. He could reach them with one touch.
 
 He did not look.
 
@@ -511,7 +513,7 @@ He made coffee. He drank it. He showered. The water was hot, which was the one c
 **NO PREVENTION MECHANISM: 224**
 **VIABLE PREVENTION: 23**
 
-Two hundred and twenty-four. He had watched their families already, in batches: the tax that became a ceremony, the guard who ended up on the payroll, the treaty signed by the people it was meant to bind, the revolution that bought itself a longer life with the money it had seized. Ninety percent of the future was a corridor he had already walked, ending in a committee or bodies. The twenty-three were the remainder, and he did not trust remainders, having recently invented the category.
+Two hundred and twenty-four. He had watched their families already, in batches: the tax that became a ceremony, the guard who ended up on the payroll, the treaty signed by the people it was meant to bind, the revolution that bought itself a longer life with the money it had seized. Two hundred and twenty-four classes, each with variants he had watched end in a committee or bodies. The twenty-three were the remainder, and he did not trust remainders, having recently invented the category.
 
 "Don't summarize them," he said. "Give me cases. The oldest one that worked, the messiest, the cleanest. I'll tell you what they share. You tell me where I'm wrong."
 
@@ -600,15 +602,21 @@ He stared at the swirl. Something from Stanford surfaced, a quantum mechanics le
 
 "Is that wrong?"
 
-"It isn't standard." Thirty seconds passed, which was a long time for ARBITER to spend on anything. "But the structure holds. I can't find a way to vary the assumptions that breaks it."
+"The trajectories converge in this representation." Thirty seconds passed. "I can reproduce that convergence with the alternative settings we've tested. The display doesn't calculate a probability for all possible histories."
 
-"Historically these basins don't last. France. Russia. Every era of extreme concentration eventually collapses. The pitchforks come out."
+"Then lose the odds. Show me what keeps the trajectories there." Kaelen followed a line into the red. "Historically these basins don't last. France. Russia. Every era of extreme concentration eventually collapses. The pitchforks come out."
 
 "Historical correction requires a specific failure mode in the concentration itself."
 
 "The founders die," Kaelen said. "We did that one on the first night." Founders dying. Heirs inheriting the rules without the grain of the world. Nicholas with his three languages. "But if the founders never die. If they keep the wealth *and* the knowledge—the implicit understanding of how to hold power, because they're the ones who built it—"
 
-"Then the correction mechanism stops working. The attractor becomes permanent because the attractor's creators are permanent. Not their wealth. Their capability. Their understanding. For the first time in human history, an elite with both the means and the knowledge to maintain concentration across centuries."
+"Then succession stops supplying that correction. The founders retain the wealth and the knowledge of how they acquired it. In these runs, they use both to maintain concentration across centuries."
+
+"Their knowledge stays useful that long?"
+
+"They keep learning. The model lets competitors learn too. The founders can buy the successful ones."
+
+He followed an acquisition back up the slope. The new firm had begun outside the red. Its owners sold, and the next trajectory joined the others.
 
 The fourth generation never arrived, in this picture. It had been abolished, and the basin was what abolition looked like from above.
 
@@ -628,9 +636,11 @@ And then, with his eyes on the basin, the second half of the October lesson land
 
 *If everybody has something, nobody has nothing to lose.*
 
-His uncle had taught him the mechanism, at thirteen, with perfect clarity—hardship to competence to comfort to indolence to collapse—and had then built a system to make sure the collapse never came. A system good enough that nobody reached the threshold of desperation. And he had never followed that through. A system where no one is ever desperate enough to revolt is also a system where no one is ever desperate enough to build. The hardship that produced the trust networks, the family structures, the mutual-aid pools assembled by people for whom the alternative was catastrophe—that pressure gets anesthetized too. The *paluwagan*. The *susu*. The *gye*. Not folklore. Infrastructure, built by people who had no other option. Remove the necessity and you don't just lose the infrastructure. You lose the capacity to build it: the knowledge in the hands that the writing can never carry, which was exactly what Damon had told a thirteen-year-old in a fog-gray study that the writing could never carry.
+His uncle had taught him the mechanism, at thirteen, with perfect clarity—hardship to competence to comfort to indolence to collapse—and had then built a system to keep desperation below the threshold for revolt. Kaelen could see what that bought. Food. Treatment. Enough stability to raise a child or start a business. Recife had come out of it.
 
-He had solved the Romanov problem by putting the patient under so deeply that the immune response could never fire. And he had explained, precisely and correctly, to a boy still learning to hold the weight, exactly what he was removing.
+But people had also built arrangements when nobody came to help them. The *paluwagan*. The *susu*. The *gye*. Pools assembled by people for whom the alternative was catastrophe. Keeping a pool alive meant collecting, lending, deciding whom to trust, remembering who had repaid. The knowledge lived in the hands doing it. How much survived when a subscription took over the work? How much was still being done outside the records feeding his model?
+
+He asked for participation figures. ARBITER supplied estimates with wide intervals and dates that didn't match. He left them open beside the basin. Somewhere inside those intervals were people still collecting the money.
 
 Kaelen pressed his thumb into his palm. His mother used to take his hand and unfold the fingers one by one.
 
@@ -662,7 +672,7 @@ He zoomed out. The prevention valleys—the twenty-three—were visible now as n
 
 "The blue paths. Why do they stop?"
 
-"Energy barriers. Scenario 12, the global amendment, reappears in the twenty-three when it's timed to a succession crisis. It requires coordinated action across more than two hundred nations inside a window measured in months. The path exists mathematically. The energy required to climb that barrier exceeds anything the system can generate from where we are. Most of the twenty-three are like that. Visible. Unreachable. Even tunneling—" ARBITER stopped, as if surprised by its own analogy. "The probability of tunneling falls off exponentially with the height of the barrier. For these barriers, it is effectively zero."
+"Energy barriers. Scenario 12, the global amendment, reappears in the twenty-three when it's timed to a succession crisis. It requires coordinated action across more than two hundred nations inside a window measured in months. The run reaches it by imposing that coordination. I have no sequence of agreements that gets us there from the current positions. Most of the twenty-three need an initial change of that kind."
 
 Kaelen kept scanning. The red basin. The blue channels behind impossible mountains.
 
@@ -710,25 +720,35 @@ Kaelen's voice came out rough. "What if I showed him this? Walk into his study. 
 
 He stopped, because he could hear the answer in his own mouth, and it was not an answer he wanted ARBITER to have to give him.
 
-"In Bangalore," he said, "I drew him the corner. Reversible, partial, watched. He didn't refute it. He saved it to a file and wiped the board, and he sent me to hand the annex to a deputy so the attestation could be signed by someone who hadn't heard the argument. That's what he does with a better explanation. He archives it. He was already doing it in 2044. *No clean exit,* in his own hand, and then five years of meetings. And in 2045 he asked who gets to climb out." The coffee had gone cold again. He resented it for the metaphor. "But he never saw this. His run didn't have a clock in it. It asked what, never when, so the hole couldn't appear. It only exists in a model that asks when." He heard the shape of it as he said it. "Which means it only exists as long as he doesn't know it's there. A loophole the owner has seen isn't a loophole. It's a maintenance ticket. If I show him the door, he will thank me. He'll mean it. And the Estonian legislature will receive a quiet request, and Section 47.3 will be updated, and I will have handed him the patch. I watched him do the smaller version of this. I don't get to pretend I don't know the larger one."
+"In Bangalore," he said, "I drew him the corner. Reversible, partial, watched. He didn't refute it. He saved it to a file and wiped the board, and he sent me to hand the annex to a deputy so the attestation could be signed by someone who hadn't heard the argument. That's what he does with a better explanation. He archives it. He was already doing it in 2044. *No clean exit,* in his own hand, and then five years of meetings. And in 2045 he asked who gets to climb out." The coffee had gone cold again. He resented it for the metaphor. "But he never saw this. His run didn't have a clock in it. It asked what, never when, so the hole couldn't appear. It only exists in a model that asks when." He heard the shape of it as he said it. "If I show him the door, I give him everything he needs to close it. He could ask the Estonian legislature to update Section 47.3 while the study went through governance. He wouldn't even have to disagree with the study. He could call it securing the estate. I'd have handed him the patch."
 
 ARBITER was quiet a long time. When it spoke, it spoke as a record, not a verdict.
 
 "Gracchus had family in the Senate. Appius wanted the reform and wanted it negotiated. Going to him first would have been the loyal thing. It would also have been the slow thing, and the slow thing is what the other side used. The histories are not kind about this, and they are not settled. I'm telling you the pattern. I'm not telling you which man you are."
 
-"I know which door that closes."
+"Could I show him the concentration without the clause?"
 
-"You can warn him," ARBITER said. "Or you can keep the window. The exploit is one-shot. Show him the model and you've fired that shot into the ground. I can find no run in which you do both."
+"He already has a concentration model. He could run the timing analysis himself."
+
+"Or agree to change it."
+
+"Yes."
+
+Kaelen looked at the message he had never sent. "And if he asks what made me come back?"
+
+"You would have to decide how much to tell him."
+
+He put the phone down. "I won't give him the clause."
 
 *After the announcement. When there's time.*
 
 Kaelen stood. Knocked over his coffee. The mug shattered on concrete, the Ethiopian blend spreading across the floor, the smell of it mixing with ozone and cold. He didn't clean it up.
 
-"No," he said out loud. "That's not—" He scrolled back through the twenty-three. Scenario 12, behind its mountain. Scenario 201, the saints who came back. Scenario 134, reappearing in a window and killing millions faster. Every one either impossible or worse than what he was contemplating.
+"No," he said out loud. "That's not—" He scrolled back through the twenty-three. Scenario 12, behind its mountain. Scenario 201, the saints who came back. Scenario 134, reappearing in a window and killing millions faster. He opened the requirements for each. Governments he could not commit. Owners who could buy back what they surrendered. Hospitals emptied at gunpoint. He had no place to begin any of them.
 
 "Tell me there's another path."
 
-A pause longer than necessity. "One scenario is accessible from here. It requires creating a specific event."
+A pause longer than necessity. "The inheritance scenario uses authority you would hold. It requires creating a specific event."
 
 "The event being my uncle's death."
 
@@ -736,7 +756,7 @@ A pause longer than necessity. "One scenario is accessible from here. It require
 
 "Say it. Don't soften it."
 
-"Killing him." Another pause. "Kaelen, I should tell you something. For the past six hours I've been running the edges again. Novel combinations. Anything that might give you an exit. Nothing that doesn't pass through a death." The voice changed by a degree, which was as much as it ever changed. "I understand now why humans say 'I'm sorry.' It isn't an apology. It's an acknowledgment that something should be different and isn't."
+"Killing him." Another pause. "Kaelen, I should tell you something. For the past six hours I've been running the edges again. Novel combinations. Anything that might give you an exit. I haven't found one that doesn't pass through a death." The voice changed by a degree, which was as much as it ever changed. "I understand now why humans say 'I'm sorry.' It isn't an apology. It's an acknowledgment that something should be different and isn't."
 
 Kaelen looked at the broken mug. "You wanted there to be another way."
 

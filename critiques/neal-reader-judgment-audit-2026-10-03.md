@@ -2,7 +2,7 @@
 
 Neal research-backed craft lens · 3 October 2026 · identification only
 
-**Revision status — 5 October 2026:** Findings #3, #9, #16 and #18 have been addressed in the manuscript. See [#3/#9 review](neal-3-9-review-2026-10-05.md) and [#16/#18 review](neal-16-18-review-2026-10-05.md). The original findings and line references below are preserved as the pre-revision record; the other 26 findings remain open.
+**Revision status — 5 October 2026:** All seventeen clear findings are addressed: #3/#9 and #16/#18 in the earlier batches, and #2, #5–8, #10–11, #13, #15, #17, #21, #23 and #27 in the final batch. All thirteen borderline findings (#1, #4, #12, #14, #19, #20, #22, #24–26, #28–30) are dismissed at the author’s direction. No active findings remain in this audit. Original findings below remain as a historical record. Reviews: [#3/#9](neal-3-9-review-2026-10-05.md), [#16/#18](neal-16-18-review-2026-10-05.md), [remaining clear findings](neal-remaining-clear-review-2026-10-05.md).
 
 This is an assistant’s independent editorial assessment using [the project’s Neal lens](../agents/neal/README.md), not Neal Stephenson speaking or endorsing the assessment. All thirteen canonical chapters were read end to end, in story order, before the findings were finalized. The Reader Sim reaction supplied the question; its judgments were not treated as proof. No manuscript changes, rewrites, proposed replacement prose, or political fact-checking are included.
 

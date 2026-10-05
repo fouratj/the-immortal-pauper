@@ -256,7 +256,7 @@ Luz stared at her.
 
 "Before the prices. Before any of this."
 
-The silence of a sister who understood that her sister had sold her daughter's future to solve a problem a grandmother with a notebook was already solving, and that neither the algorithm nor the cascade nor the smartest man in a bunker had seen it coming, because they were all looking at the same map, and the map didn't show the territory.
+Luz lowered the bag to the floor. Rosa turned the box over, looking for the expiry date. Six months here. Ten prepaid through CarePath. Marco's intake still to arrange. She could not make herself open the contract again with her sister watching.
 
 "Maybe it'll be okay," Luz said. "Maybe the contract won't matter if CarePath—"
 
