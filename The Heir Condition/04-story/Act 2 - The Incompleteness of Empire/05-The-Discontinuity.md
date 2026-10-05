@@ -633,21 +633,25 @@ Kaelen pressed his thumb into his palm. His mother used to take his hand and unf
 
 He let it press.
 
-The II had generated this landscape. Every possible future across five centuries, computed on his uncle's architecture, priced in his uncle's attribution. And the one thing it couldn't model was itself. It could calculate every worker's contribution, track every transaction, optimize every flow—and it could not see that the attribution architecture was the extraction mechanism. The 0.3% that looked like infrastructure cost was the gravitational center of the basin. The system that measured everything couldn't measure what it was doing to the measurements.
+His uncle’s hand had trembled in Pacific Heights. Kaelen remembered the glass settling onto the table, the promise of another study. He had wanted an admission. Damon had sent him home.
 
-That was why Damon's hand had trembled in Pacific Heights. Why recognition had flickered and then the mask came back. His framework was complete enough to explain Kenya, to model institutional collapse, to predict what premature reform would cost. But it couldn't explain *itself*—couldn't derive, from inside its own axioms, the conclusion that its own completeness was the problem. A system powerful enough to describe the world necessarily contained truths about itself it couldn't see from inside.
+He turned back to the basin.
 
-Damon wasn't lying when he said he'd study it. Wasn't being cynical when he said "after the announcement." He literally couldn't follow the logic to its conclusion, because following it would mean stepping outside the framework he'd spent forty years building, and the framework was the thing doing the thinking. The hand trembled because some part of him felt the incompleteness. The mask came back because the system couldn't formalize what the hand already knew.
+Every challenge to attribution needed capital, computation, legal standing. The firms supplying those things collected their fees through attribution. A rival could improve the machinery and earn a fortune. Replacing it meant persuading the machinery to finance its own replacement.
 
-The argument Kaelen had rehearsed in the car on Divisadero had been assembled from his uncle's sentences. He could hear them now, arriving in the right order, the chains connecting cleanly, the framework doing what it was built to do. The hand had trembled because something below the framework registered what the framework couldn't say.
+Damon had once broken a circle like that for four mechanics in Recife. Kaelen wondered what his uncle would say if he put their contract beside the Bristol refusal and made him read both.
 
-And that was why the basin was permanent. Not just because the founders kept their wealth and their knowledge. Because they kept the *framework*—the way of seeing that made the extraction invisible to itself. Immortal founders meant an immortal blind spot. The system would optimize forever, and the one thing it would never optimize was the question of whether it should exist.
+“ARBITER. What would make us change our minds?”
 
-"ARBITER. The basin isn't just an attractor. It's a feature of the architecture that generated it. The system drew the landscape, and the landscape has a hole where the system's self-knowledge should be."
+“An independent provider that survived expansion. A jurisdiction where entry remained open as the incumbents accumulated capital. A reform that preserved the risk pool while reducing its control over new firms.”
 
-A long pause. "I can't evaluate that claim from inside the system." Another. "Which may be your point."
+“Bristol.”
 
-"It is."
+“The trial supports part of the case. Its expansion was refused. We never got the next observation.”
+
+Kaelen opened the refusal again. The scheduling software had been approved. The founders could earn a living making the hospital more efficient.
+
+He read the signatures at the bottom, then returned to the basin.
 
 He watched the basin longer than was useful. Eternity, rendered as a drainage problem. Every path he had hoped was a path was a slope.
 
@@ -755,31 +759,53 @@ Kaelen looked at the broken mug. "You wanted there to be another way."
 
 "It isn't supposed to be reassuring. It's supposed to be accurate."
 
-Not acting was also an explanation: the system self-corrects, waiting is neutral, uncertainty favors caution. That explanation was easy to vary. It required no mechanism—no account of what, specifically, would break an aristocracy that kept both its wealth and the knowledge to defend it. Hope with no moving parts. You could swap in any comforting assumption and the conclusion held, which was exactly what made it a bad explanation. His was harder, and hardness was not the same as truth, and he was not going to pretend, in this room, that he didn't know the difference.
+“Waiting doesn’t repair any of this,” Kaelen said.
 
-"If I'm wrong and I act," he said, "the cascade fails. The system destabilizes. Maybe it recovers, maybe it doesn't. If I'm wrong and I don't act, the window closes. The gap seals. And I live forever—*I* live forever, I'm an heir too—knowing I had the best explanation available and chose the easy one. Chose hope."
+“No.”
 
-"One of those is recoverable," ARBITER said.
+“We’ve tested every alternative we could construct.”
 
-"I know." He looked at the thin blue line. "That's not the same as right."
+“Yes. We constructed them.”
 
-Two explanations. Neither certain. A window with a date on it.
+Kaelen rubbed his eyes.
 
-The node labeled **Legal Death + Guaranteed Resurrection** glowed.
+“Give me the strongest objection.”
 
-Two days of unilateral authority. Two days to do what mortality would normally do across generations.
+“You could understand the concentration correctly and still cause a collapse. Dependencies emerge during failure that remain invisible during ordinary operation. Kenya exposed several. Your intervention reaches much further.”
 
-He just had to kill his uncle first.
+“We’ve spent the night tracing those dependencies.”
 
-Above him, twenty meters of Nevada and then the world, waking up: people making breakfast, going to work, living their mortal lives. Down here, in the cold, one man in front of a screen.
+“Yes.”
 
-He should go home. Go to bed. Wake up and call it a thought experiment. That was the sane response, the one that didn't end with him murdering the man who had taught him to see the board.
+The fans filled the silence.
+
+“And another year?”
+
+“Would give us more evidence. The announcement is next April.”
+
+On the screen, the announcement was set for April 18, 2050.
+
+Kaelen brought up the estate map. Patents. Escrows. Operating companies. Power contracts. Thousands of decisions would pass to people whose names he would never learn. Some would find uses he had missed. Some would lose everything they put into them.
+
+“How much room will they have to recover from our mistakes?”
+
+“It varies. Some will have capital and competing suppliers. Some depend on a single clinic.”
+
+“Those go first.”
+
+“I’ll flag them.”
+
+He scrolled through them anyway.
+
+The balance sheet had defeated each gradual plan they had tried. The concentration kept rising. Fast and total remained on the screen, in the quadrant where he had written Mao.
+
+He left the name there.
+
+Above him, twenty meters of Nevada and then the world, waking up: people making breakfast, going to work, living their mortal lives.
 
 His hand moved toward the power switch.
 
 Stopped.
-
-Not a face. He had watched a face win a room three weeks ago, and he had watched the woman who refused to use one lose the room and keep the point, and he was not going to pull the switch, or leave it, for a photograph. The slope. Eleven points in 2045, nineteen now, and the gap widening while the man who could close it scheduled studies. Eight hundred and forty-seven workers with names in a file, Rosa one of them, the median, not the argument. The balance sheet had ruled out slow. The slope had ruled out never. What remained was fast and total and irreversible, the quadrant he had drawn himself, on Damon's display, and put Mao in. He had not come here to arrive at Mao. He had arrived anyway, by elimination, which was the method, and the method did not care what he had wanted to conclude.
 
 He could walk away. Let the gap seal and the thin blue line vanish.
 
